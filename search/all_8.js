@@ -1,7 +1,7 @@
 var searchData=
 [
   ['id',['id',['../structTestStruct.html#a07fb6ea15bd4394d666badbe19e50a6c',1,'TestStruct']]],
-  ['inattr',['InAttr',['../classdependency__graph_1_1InAttr.html#afe2eed1bf598b75058160f77b2bf66cd',1,'dependency_graph::InAttr::InAttr()'],['../classdependency__graph_1_1InAttr.html#af073121339f5cf8e23e80249c2acd5a5',1,'dependency_graph::InAttr::InAttr(const std::string &amp;name, unsigned offset)']]],
+  ['inattr',['InAttr',['../classdependency__graph_1_1InAttr.html#afe2eed1bf598b75058160f77b2bf66cd',1,'dependency_graph::InAttr::InAttr()'],['../classdependency__graph_1_1InAttr.html#a1e64cdee14fd8132573331d673f214a6',1,'dependency_graph::InAttr::InAttr(const std::string &amp;name, unsigned offset, const T &amp;defaultValue)']]],
   ['inattr',['InAttr',['../classdependency__graph_1_1InAttr.html',1,'dependency_graph']]],
   ['index',['index',['../classdependency__graph_1_1Port.html#ac052e2f827c77e9c49bcee18c9710e78',1,'dependency_graph::Port::index()'],['../classnode__editor_1_1Port.html#a7c77c4a85958449bbba8bb9f193165d5',1,'node_editor::Port::index()']]],
   ['influencedby',['influencedBy',['../classdependency__graph_1_1Metadata.html#a0f1e541570fe10e2ff0d23228cc61e30',1,'dependency_graph::Metadata::influencedBy(const OutAttr&lt; T &gt; &amp;out) const '],['../classdependency__graph_1_1Metadata.html#adb76d4ceed01213773aa80afcd9fe7c9',1,'dependency_graph::Metadata::influencedBy(size_t index) const ']]],

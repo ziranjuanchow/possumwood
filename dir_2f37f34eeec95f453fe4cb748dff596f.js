@@ -3,6 +3,7 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
     [ "attr.cpp", "attr_8cpp.html", null ],
     [ "attr.h", "attr_8h.html", [
       [ "Attr", "classdependency__graph_1_1Attr.html", "classdependency__graph_1_1Attr" ],
+      [ "TypedAttr", "classdependency__graph_1_1TypedAttr.html", "classdependency__graph_1_1TypedAttr" ],
       [ "InAttr", "classdependency__graph_1_1InAttr.html", "classdependency__graph_1_1InAttr" ],
       [ "OutAttr", "classdependency__graph_1_1OutAttr.html", "classdependency__graph_1_1OutAttr" ]
     ] ],

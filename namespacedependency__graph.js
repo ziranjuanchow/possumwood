@@ -1,6 +1,7 @@
 var namespacedependency__graph =
 [
     [ "Attr", "classdependency__graph_1_1Attr.html", "classdependency__graph_1_1Attr" ],
+    [ "TypedAttr", "classdependency__graph_1_1TypedAttr.html", "classdependency__graph_1_1TypedAttr" ],
     [ "InAttr", "classdependency__graph_1_1InAttr.html", "classdependency__graph_1_1InAttr" ],
     [ "OutAttr", "classdependency__graph_1_1OutAttr.html", "classdependency__graph_1_1OutAttr" ],
     [ "Datablock", "classdependency__graph_1_1Datablock.html", "classdependency__graph_1_1Datablock" ],

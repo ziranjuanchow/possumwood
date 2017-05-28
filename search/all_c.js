@@ -15,5 +15,5 @@ var searchData=
   ['operator_5b_5d',['operator[]',['../classdependency__graph_1_1Graph_1_1Nodes.html#a5e44dae24aa6cc162bd7ac7548e89366',1,'dependency_graph::Graph::Nodes::operator[](std::size_t index)'],['../classdependency__graph_1_1Graph_1_1Nodes.html#a321b87da3952f08ded35db7ad08e754d',1,'dependency_graph::Graph::Nodes::operator[](std::size_t index) const ']]],
   ['origin',['origin',['../classnode__editor_1_1Edge.html#a9b026c0e5a117bba10dd627afc5b6864',1,'node_editor::Edge']]],
   ['outattr',['OutAttr',['../classdependency__graph_1_1OutAttr.html',1,'dependency_graph']]],
-  ['outattr',['OutAttr',['../classdependency__graph_1_1OutAttr.html#a9f9f7bf2c2dae4549ce5133abbbe36f9',1,'dependency_graph::OutAttr::OutAttr()'],['../classdependency__graph_1_1OutAttr.html#a1ac2974a7354b955711f525ea0fa682e',1,'dependency_graph::OutAttr::OutAttr(const std::string &amp;name, unsigned offset)']]]
+  ['outattr',['OutAttr',['../classdependency__graph_1_1OutAttr.html#a9f9f7bf2c2dae4549ce5133abbbe36f9',1,'dependency_graph::OutAttr::OutAttr()'],['../classdependency__graph_1_1OutAttr.html#ae99a65a39f28c80e3dc9a9a5ca7c67ad',1,'dependency_graph::OutAttr::OutAttr(const std::string &amp;name, unsigned offset, const T &amp;defaultValue)']]]
 ];

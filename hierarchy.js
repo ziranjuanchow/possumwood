@@ -1,8 +1,10 @@
 var hierarchy =
 [
     [ "dependency_graph::Attr", "classdependency__graph_1_1Attr.html", [
-      [ "dependency_graph::InAttr< T >", "classdependency__graph_1_1InAttr.html", null ],
-      [ "dependency_graph::OutAttr< T >", "classdependency__graph_1_1OutAttr.html", null ]
+      [ "dependency_graph::TypedAttr< T >", "classdependency__graph_1_1TypedAttr.html", [
+        [ "dependency_graph::InAttr< T >", "classdependency__graph_1_1InAttr.html", null ],
+        [ "dependency_graph::OutAttr< T >", "classdependency__graph_1_1OutAttr.html", null ]
+      ] ]
     ] ],
     [ "dependency_graph::Datablock::BaseData", "structdependency__graph_1_1Datablock_1_1BaseData.html", [
       [ "dependency_graph::Datablock::Data< T >", "structdependency__graph_1_1Datablock_1_1Data.html", null ]

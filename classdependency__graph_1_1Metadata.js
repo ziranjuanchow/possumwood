@@ -2,8 +2,8 @@ var classdependency__graph_1_1Metadata =
 [
     [ "Metadata", "classdependency__graph_1_1Metadata.html#a37cb59605552dc6138969e4349714ca2", null ],
     [ "~Metadata", "classdependency__graph_1_1Metadata.html#a29845232ba882e6dba16311f2ae4c374", null ],
-    [ "addAttribute", "classdependency__graph_1_1Metadata.html#a6b38b4920d75901a7051ef3954f02a9f", null ],
-    [ "addAttribute", "classdependency__graph_1_1Metadata.html#a92a31d5ed1a44e4a85c1160076d71a9a", null ],
+    [ "addAttribute", "classdependency__graph_1_1Metadata.html#ad2c89549bddfb65b8704e16b9ead6ab2", null ],
+    [ "addAttribute", "classdependency__graph_1_1Metadata.html#a9e065cee8e4bd467a16f93fbdb52d24d", null ],
     [ "addInfluence", "classdependency__graph_1_1Metadata.html#a35accf73f45cf22cd3cfb4ebd8f27d4d", null ],
     [ "attr", "classdependency__graph_1_1Metadata.html#acce7daf216e88c26e5398b30d344f513", null ],
     [ "attr", "classdependency__graph_1_1Metadata.html#af067f746487450903f4e18392ed485c1", null ],
