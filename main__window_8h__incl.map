@@ -1,0 +1,22 @@
+<map id="src/apps/possumwood/main_window.h" name="src/apps/possumwood/main_window.h">
+<area shape="rect" id="node4" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1223,320,1401,347"/>
+<area shape="rect" id="node22" href="$adaptor_8h.html" title="adaptor.h" alt="" coords="1123,245,1199,272"/>
+<area shape="rect" id="node37" href="$properties_8h.html" title="properties.h" alt="" coords="1581,96,1672,123"/>
+<area shape="rect" id="node48" href="$viewport_8h.html" title="viewport.h" alt="" coords="2267,485,2348,512"/>
+<area shape="rect" id="node14" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1672,403,1733,429"/>
+<area shape="rect" id="node16" href="$attr_8h.html" title="attr.h" alt="" coords="1798,568,1849,595"/>
+<area shape="rect" id="node20" href="$libs_2dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1230,485,1316,512"/>
+<area shape="rect" id="node21" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1887,485,1941,512"/>
+<area shape="rect" id="node19" href="$datablock_8h.html" title="datablock.h" alt="" coords="1582,651,1671,677"/>
+<area shape="rect" id="node24" href="$graph__widget_8h.html" title="graph_widget.h" alt="" coords="378,403,488,429"/>
+<area shape="rect" id="node26" href="$qt__node__editor_2node_8h.html" title="node.h" alt="" coords="155,568,216,595"/>
+<area shape="rect" id="node31" href="$graph__scene_8h.html" title="graph_scene.h" alt="" coords="312,485,419,512"/>
+<area shape="rect" id="node29" href="$qt__node__editor_2port_8h.html" title="port.h" alt="" coords="5,651,59,677"/>
+<area shape="rect" id="node34" href="$edge_8h.html" title="edge.h" alt="" coords="451,568,512,595"/>
+<area shape="rect" id="node39" href="$property_8h.html" title="properties_ui/property.h" alt="" coords="1547,171,1705,197"/>
+<area shape="rect" id="node40" href="$factory_8inl.html" title="factory.inl" alt="" coords="1889,403,1967,429"/>
+<area shape="rect" id="node45" href="$node_8inl.html" title="dependency_graph/node.inl" alt="" coords="1409,245,1588,272"/>
+<area shape="rect" id="node47" href="$port_8inl.html" title="dependency_graph/port.inl" alt="" coords="1715,320,1889,347"/>
+<area shape="rect" id="node41" href="$factory_8h.html" title="factory.h" alt="" coords="1966,485,2039,512"/>
+<area shape="rect" id="node46" href="$datablock_8inl.html" title="datablock.inl" alt="" coords="1494,403,1588,429"/>
+</map>

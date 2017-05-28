@@ -1,0 +1,17 @@
+<map id="src/libs/qt_node_editor/edge.h" name="src/libs/qt_node_editor/edge.h">
+<area shape="rect" id="node2" href="$connected__edge_8h.html" title="src/libs/qt_node_editor\l/connected_edge.h" alt="" coords="537,187,689,229"/>
+<area shape="rect" id="node11" href="$edge_8cpp.html" title="src/libs/qt_node_editor\l/edge.cpp" alt="" coords="79,187,232,229"/>
+<area shape="rect" id="node12" href="$graph__scene_8h.html" title="src/libs/qt_node_editor\l/graph_scene.h" alt="" coords="231,97,384,138"/>
+<area shape="rect" id="node3" href="$apps_2node__editor__sandbox_2main_8cpp.html" title="src/apps/node_editor\l_sandbox/main.cpp" alt="" coords="994,278,1136,319"/>
+<area shape="rect" id="node4" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="875,369,1028,410"/>
+<area shape="rect" id="node5" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="1123,459,1276,501"/>
+<area shape="rect" id="node6" href="$connected__edge_8cpp.html" title="src/libs/qt_node_editor\l/connected_edge.cpp" alt="" coords="359,278,512,319"/>
+<area shape="rect" id="node7" href="$graph__scene_8cpp.html" title="src/libs/qt_node_editor\l/graph_scene.cpp" alt="" coords="5,278,157,319"/>
+<area shape="rect" id="node8" href="$graph__widget_8cpp.html" title="src/libs/qt_node_editor\l/graph_widget.cpp" alt="" coords="817,278,969,319"/>
+<area shape="rect" id="node9" href="$qt__node__editor_2node_8cpp.html" title="src/libs/qt_node_editor\l/node.cpp" alt="" coords="182,278,335,319"/>
+<area shape="rect" id="node10" href="$qt__node__editor_2port_8cpp.html" title="src/libs/qt_node_editor\l/port.cpp" alt="" coords="537,278,689,319"/>
+<area shape="rect" id="node13" href="$graph__widget_8h.html" title="src/libs/qt_node_editor\l/graph_widget.h" alt="" coords="989,187,1141,229"/>
+<area shape="rect" id="node14" href="$adaptor_8h.html" title="src/apps/possumwood\l/adaptor.h" alt="" coords="1213,278,1365,319"/>
+<area shape="rect" id="node15" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="1263,369,1416,410"/>
+<area shape="rect" id="node16" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="1351,459,1504,501"/>
+</map>

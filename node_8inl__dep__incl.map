@@ -1,0 +1,15 @@
+<map id="src/libs/dependency_graph/node.inl" name="src/libs/dependency_graph/node.inl">
+<area shape="rect" id="node2" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="5,97,157,138"/>
+<area shape="rect" id="node3" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="177,382,329,423"/>
+<area shape="rect" id="node4" href="$properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="234,285,387,326"/>
+<area shape="rect" id="node5" href="$property_8h.html" title="src/apps/possumwood\l/properties_ui/property.h" alt="" coords="284,97,447,138"/>
+<area shape="rect" id="node13" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="471,97,617,138"/>
+<area shape="rect" id="node14" href="$graph__connections_8cpp.html" title="src/tests/dependency\l_graph/graph_connections.cpp" alt="" coords="642,97,840,138"/>
+<area shape="rect" id="node6" href="$properties_8h.html" title="src/apps/possumwood\l/properties.h" alt="" coords="285,187,437,229"/>
+<area shape="rect" id="node9" href="$factory_8cpp.html" title="src/apps/possumwood\l/properties_ui/factory.cpp" alt="" coords="462,187,631,229"/>
+<area shape="rect" id="node10" href="$float__ui_8h.html" title="src/apps/possumwood\l/properties_ui/float_ui.h" alt="" coords="656,187,813,229"/>
+<area shape="rect" id="node12" href="$property_8cpp.html" title="src/apps/possumwood\l/properties_ui/property.cpp" alt="" coords="837,187,1013,229"/>
+<area shape="rect" id="node7" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="411,285,564,326"/>
+<area shape="rect" id="node8" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="411,382,564,423"/>
+<area shape="rect" id="node11" href="$float__ui_8cpp.html" title="src/apps/possumwood\l/properties_ui/float\l_ui.cpp" alt="" coords="658,277,811,333"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="properties::float_ui" name="properties::float_ui">
+<area shape="rect" id="node2" href="$classproperties_1_1property.html" title="properties::property\l\&lt; float, float_ui \&gt;" alt="" coords="123,267,257,309"/>
+<area shape="rect" id="node3" href="$classproperties_1_1property__base.html" title="properties::property_base" alt="" coords="5,168,173,195"/>
+<area shape="rect" id="node5" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; float_ui \&gt;" alt="" coords="198,161,324,202"/>
+<area shape="rect" id="node6" href="$classproperties_1_1factory.html" title="properties::factory" alt="" coords="198,83,324,109"/>
+</map>
