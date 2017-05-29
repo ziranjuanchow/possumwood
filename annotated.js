@@ -8,6 +8,7 @@ var annotated =
     [ "MainWindow", "classMainWindow.html", "classMainWindow" ],
     [ "Metadata", "classMetadata.html", "classMetadata" ],
     [ "NodeData", "structNodeData.html", "structNodeData" ],
+    [ "NodeImplementation", "structNodeImplementation.html", "structNodeImplementation" ],
     [ "Properties", "classProperties.html", "classProperties" ],
     [ "TestStruct", "structTestStruct.html", "structTestStruct" ],
     [ "Viewport", "classViewport.html", "classViewport" ]

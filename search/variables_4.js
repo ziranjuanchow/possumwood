@@ -24,7 +24,7 @@ var searchData=
   ['m_5fid',['m_id',['../classdependency__graph_1_1Port.html#a385b7eaa75e38e433c604ef78367d180',1,'dependency_graph::Port::m_id()'],['../classnode__editor_1_1Port.html#ab183f82ce47f5928c9520f2f94a1ae57',1,'node_editor::Port::m_id()']]],
   ['m_5fin',['m_in',['../classnode__editor_1_1Port.html#a639707fae53d8b12355cf3f3e33e2506',1,'node_editor::Port']]],
   ['m_5finfluences',['m_influences',['../classdependency__graph_1_1Metadata.html#abb9acf32a290218c6965eb50f2f2ab2d',1,'dependency_graph::Metadata']]],
-  ['m_5fmeta',['m_meta',['../classdependency__graph_1_1Node.html#a9a245f250fdb2790587957e0c3a74e77',1,'dependency_graph::Node']]],
+  ['m_5fmeta',['m_meta',['../structNodeImplementation.html#a04d68a9d20f2370596aa581ff10901e5',1,'NodeImplementation::m_meta()'],['../classdependency__graph_1_1Node.html#a9a245f250fdb2790587957e0c3a74e77',1,'dependency_graph::Node::m_meta()']]],
   ['m_5fmousex',['m_mouseX',['../classViewport.html#a0bc703782355f5faba5cb6aafd5e27d5',1,'Viewport']]],
   ['m_5fmousey',['m_mouseY',['../classViewport.html#ac8f47c094b3f64743f44033ce83acb5a',1,'Viewport']]],
   ['m_5fname',['m_name',['../classdependency__graph_1_1Attr.html#a1055c5277f685d1381271ebd457a805c',1,'dependency_graph::Attr::m_name()'],['../classdependency__graph_1_1Node.html#abb48ea43b464f228b3b46e7fa0511bbf',1,'dependency_graph::Node::m_name()'],['../classdependency__graph_1_1Port.html#aaf9f0ac4a88cf924c3ebc911aaab7518',1,'dependency_graph::Port::m_name()'],['../classnode__editor_1_1Port.html#a8c0e9a53e234be28e918036e068ed3fe',1,'node_editor::Port::m_name()']]],

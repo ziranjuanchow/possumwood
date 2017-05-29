@@ -1,4 +1,10 @@
 <map id="src/apps/possumwood/metadata.h" name="src/apps/possumwood/metadata.h">
-<area shape="rect" id="node2" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="5,97,157,138"/>
-<area shape="rect" id="node3" href="$apps_2possumwood_2metadata_8cpp.html" title="src/apps/possumwood\l/metadata.cpp" alt="" coords="182,97,335,138"/>
+<area shape="rect" id="node2" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="22,97,175,138"/>
+<area shape="rect" id="node3" href="$apps_2possumwood_2metadata_8cpp.html" title="src/apps/possumwood\l/metadata.cpp" alt="" coords="199,97,352,138"/>
+<area shape="rect" id="node4" href="$node__implementation_8h.html" title="src/apps/possumwood\l/node_implementation.h" alt="" coords="377,97,536,138"/>
+<area shape="rect" id="node5" href="$node__implementation_8cpp.html" title="src/apps/possumwood\l/node_implementation.cpp" alt="" coords="5,187,179,229"/>
+<area shape="rect" id="node6" href="$addition_8cpp.html" title="src/apps/possumwood\l/nodes/addition.cpp" alt="" coords="203,187,356,229"/>
+<area shape="rect" id="node7" href="$cube_8cpp.html" title="src/apps/possumwood\l/nodes/cube.cpp" alt="" coords="381,187,533,229"/>
+<area shape="rect" id="node8" href="$multiplication_8cpp.html" title="src/apps/possumwood\l/nodes/multiplication.cpp" alt="" coords="558,187,724,229"/>
+<area shape="rect" id="node9" href="$nodes_2vec3_8cpp.html" title="src/apps/possumwood\l/nodes/vec3.cpp" alt="" coords="749,187,901,229"/>
 </map>

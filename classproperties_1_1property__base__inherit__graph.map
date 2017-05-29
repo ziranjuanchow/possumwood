@@ -1,7 +1,7 @@
 <map id="properties::property_base" name="properties::property_base">
-<area shape="rect" id="node3" href="$classproperties_1_1property.html" title="properties::property\l\&lt; T, DERIVED \&gt;" alt="" coords="413,5,547,46"/>
-<area shape="rect" id="node4" href="$classproperties_1_1property.html" title="properties::property\l\&lt; float, float_ui \&gt;" alt="" coords="413,70,547,111"/>
-<area shape="rect" id="node6" href="$classproperties_1_1property.html" title="properties::property\l\&lt; Imath::Vec3\&lt; float\l \&gt;, vec3_ui \&gt;" alt="" coords="409,135,551,191"/>
-<area shape="rect" id="node5" href="$classproperties_1_1float__ui.html" title="properties::float_ui" alt="" coords="602,77,731,104"/>
-<area shape="rect" id="node7" href="$classproperties_1_1vec3__ui.html" title="properties::vec3_ui" alt="" coords="601,149,733,176"/>
+<area shape="rect" id="node3" href="$classproperties_1_1property.html" title="properties::property\l\&lt; T, DERIVED \&gt;" alt="" coords="373,5,507,46"/>
+<area shape="rect" id="node4" href="$classproperties_1_1property.html" title="properties::property\l\&lt; float, float_ui \&gt;" alt="" coords="373,70,507,111"/>
+<area shape="rect" id="node6" href="$classproperties_1_1property.html" title="properties::property\l\&lt; Imath::Vec3\&lt; float\l \&gt;, vec3_ui \&gt;" alt="" coords="369,135,511,191"/>
+<area shape="rect" id="node5" href="$classproperties_1_1float__ui.html" title="properties::float_ui" alt="" coords="562,77,691,104"/>
+<area shape="rect" id="node7" href="$classproperties_1_1vec3__ui.html" title="properties::vec3_ui" alt="" coords="561,149,693,176"/>
 </map>

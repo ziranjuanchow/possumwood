@@ -1,4 +1,8 @@
 <map id="src/libs/dependency_graph/values.inl" name="src/libs/dependency_graph/values.inl">
 <area shape="rect" id="node2" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="5,97,157,138"/>
-<area shape="rect" id="node3" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="183,97,329,138"/>
+<area shape="rect" id="node3" href="$addition_8cpp.html" title="src/apps/possumwood\l/nodes/addition.cpp" alt="" coords="182,97,335,138"/>
+<area shape="rect" id="node4" href="$cube_8cpp.html" title="src/apps/possumwood\l/nodes/cube.cpp" alt="" coords="359,97,512,138"/>
+<area shape="rect" id="node5" href="$multiplication_8cpp.html" title="src/apps/possumwood\l/nodes/multiplication.cpp" alt="" coords="537,97,703,138"/>
+<area shape="rect" id="node6" href="$nodes_2vec3_8cpp.html" title="src/apps/possumwood\l/nodes/vec3.cpp" alt="" coords="727,97,880,138"/>
+<area shape="rect" id="node7" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="905,97,1052,138"/>
 </map>

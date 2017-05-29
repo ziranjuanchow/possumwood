@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['s_5finstances',['s_instances',['../classMetadata.html#a2cae0177f1bd78d6fe14962c63dae853',1,'Metadata']]],
   ['s_5fpf',['s_pf',['../classproperties_1_1property.html#a7bfe5426c943d38f3d51c6f643218a60',1,'properties::property']]],
   ['scene',['scene',['../classAdaptor.html#a4ce9258242d31384434f99f521232890',1,'Adaptor::scene()'],['../classAdaptor.html#ae5f8497a71eb660da9f8ba2f2e49a5ce',1,'Adaptor::scene() const '],['../classnode__editor_1_1GraphWidget.html#af7d67721a0178a536d8d634964c32f1f',1,'node_editor::GraphWidget::scene()']]],
   ['selectednodes',['selectedNodes',['../classAdaptor.html#af164017d7a9da0c5b601432814c380c1',1,'Adaptor']]],

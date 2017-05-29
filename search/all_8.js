@@ -9,6 +9,8 @@ var searchData=
   ['influences_2ecpp',['influences.cpp',['../influences_8cpp.html',1,'']]],
   ['initializegl',['initializeGL',['../classViewport.html#a01d97087d216630a45e76183101764d9',1,'Viewport']]],
   ['inputisconnected',['inputIsConnected',['../classdependency__graph_1_1Node.html#ad60a298159483e80e472033e11257cdd',1,'dependency_graph::Node']]],
+  ['instance',['instance',['../classMetadata.html#ab7ace5fd267407fd275e7d418e550a1d',1,'Metadata']]],
+  ['instances',['instances',['../classMetadata.html#ab2641c6ddb961487bd5eaadf024122d5',1,'Metadata']]],
   ['isconnected',['isConnected',['../classnode__editor_1_1GraphScene.html#a13520b00a2694b4c07b24381d014dac2',1,'node_editor::GraphScene']]],
   ['isdirty',['isDirty',['../classdependency__graph_1_1Port.html#a8f3218b6de635251fa4026f5e9257767',1,'dependency_graph::Port']]],
   ['isedgeeditinprogress',['isEdgeEditInProgress',['../classnode__editor_1_1GraphScene.html#a443af42c39b4cd2a33cb2f71f6109ccb',1,'node_editor::GraphScene']]],

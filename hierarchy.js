@@ -10,6 +10,7 @@ var hierarchy =
       [ "dependency_graph::Datablock::Data< T >", "structdependency__graph_1_1Datablock_1_1Data.html", null ]
     ] ],
     [ "node_editor::BindConnection", "classnode__editor_1_1BindConnection.html", null ],
+    [ "Metadata::Comparator", "structMetadata_1_1Comparator.html", null ],
     [ "dependency_graph::Datablock", "classdependency__graph_1_1Datablock.html", null ],
     [ "NodeData", "structNodeData.html", null ],
     [ "node_editor::GraphScene::NodeRefComparator", "structnode__editor_1_1GraphScene_1_1NodeRefComparator.html", null ],
@@ -23,6 +24,7 @@ var hierarchy =
       [ "dependency_graph::Node", "classdependency__graph_1_1Node.html", null ],
       [ "dependency_graph::Port", "classdependency__graph_1_1Port.html", null ],
       [ "dependency_graph::Values", "classdependency__graph_1_1Values.html", null ],
+      [ "NodeImplementation", "structNodeImplementation.html", null ],
       [ "properties::factories", "classproperties_1_1factories.html", null ],
       [ "properties::factory", "classproperties_1_1factory.html", [
         [ "properties::factory_typed< DERIVED >", "classproperties_1_1factory__typed.html", null ],
