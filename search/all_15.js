@@ -12,7 +12,8 @@ var searchData=
   ['_7egraphscene',['~GraphScene',['../classnode__editor_1_1GraphScene.html#aad44ea9c1747e76d1129a05f125e6c9d',1,'node_editor::GraphScene']]],
   ['_7emetadata',['~Metadata',['../classdependency__graph_1_1Metadata.html#a29845232ba882e6dba16311f2ae4c374',1,'dependency_graph::Metadata']]],
   ['_7enode',['~Node',['../classnode__editor_1_1Node.html#a814624c79800141cc263bc75ccd31191',1,'node_editor::Node']]],
-  ['_7eproperty',['~Property',['../structProperties_1_1Property.html#a34248564da28a0b868457f89e97f7bdb',1,'Properties::Property::~Property()'],['../classproperties_1_1property.html#aa7a3cd767c0522b5d5315439c56b45ef',1,'properties::property::~property()']]],
+  ['_7eproperty',['~property',['../classproperties_1_1property.html#aa7a3cd767c0522b5d5315439c56b45ef',1,'properties::property::~property()'],['../structProperties_1_1Property.html#a34248564da28a0b868457f89e97f7bdb',1,'Properties::Property::~Property()']]],
   ['_7eproperty_5fbase',['~property_base',['../classproperties_1_1property__base.html#ac20cea862ee4c0fe6ff6f9810ae0fc26',1,'properties::property_base']]],
+  ['_7evec3_5fui',['~vec3_ui',['../classproperties_1_1vec3__ui.html#a8bfdf0f2a0f0f3a018a2bfae18b73afb',1,'properties::vec3_ui']]],
   ['_7eviewport',['~Viewport',['../classViewport.html#a1e18a1ff4a52be33ef63d25034561850',1,'Viewport']]]
 ];

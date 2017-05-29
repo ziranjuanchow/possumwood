@@ -6,7 +6,7 @@ var searchData=
   ['makepath',['makePath',['../classnode__editor_1_1Edge.html#ac064dd6839d08ad4579254a06d141c02',1,'node_editor::Edge']]],
   ['maptoscene',['mapToScene',['../classAdaptor.html#a2c317d47324987ebb7d6f74e142a3aa6',1,'Adaptor']]],
   ['markasdirty',['markAsDirty',['../classdependency__graph_1_1Node.html#a0ad0805716871a6743c31b1d13d0d201',1,'dependency_graph::Node']]],
-  ['metadata',['Metadata',['../classMetadata.html#a37cb59605552dc6138969e4349714ca2',1,'Metadata::Metadata()'],['../classdependency__graph_1_1Metadata.html#a37cb59605552dc6138969e4349714ca2',1,'dependency_graph::Metadata::Metadata()'],['../classdependency__graph_1_1Node.html#a854c5d36263ebb3bd9f6f8b1a97d1bb4',1,'dependency_graph::Node::metadata()']]],
+  ['metadata',['metadata',['../classdependency__graph_1_1Node.html#a854c5d36263ebb3bd9f6f8b1a97d1bb4',1,'dependency_graph::Node::metadata()'],['../classMetadata.html#a37cb59605552dc6138969e4349714ca2',1,'Metadata::Metadata()'],['../classdependency__graph_1_1Metadata.html#a37cb59605552dc6138969e4349714ca2',1,'dependency_graph::Metadata::Metadata()']]],
   ['minwidth',['minWidth',['../classnode__editor_1_1Port.html#a884e334b938ac759d1809408233ebf7d',1,'node_editor::Port']]],
   ['mousemoveevent',['mouseMoveEvent',['../classViewport.html#ad5dbbebb1345785a463d7f62540d89b9',1,'Viewport::mouseMoveEvent()'],['../classnode__editor_1_1GraphScene.html#a8092c07a0f31237ee1d304aef5bcecb0',1,'node_editor::GraphScene::mouseMoveEvent()'],['../classnode__editor_1_1GraphWidget.html#abb36179950668fa328b0a3f861c25acc',1,'node_editor::GraphWidget::mouseMoveEvent()']]],
   ['mousepressevent',['mousePressEvent',['../classnode__editor_1_1GraphScene.html#a5d33912e45844faf32e70fb89f08efe6',1,'node_editor::GraphScene']]],

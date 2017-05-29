@@ -27,6 +27,7 @@ var hierarchy =
       [ "properties::factory", "classproperties_1_1factory.html", [
         [ "properties::factory_typed< DERIVED >", "classproperties_1_1factory__typed.html", null ],
         [ "properties::factory_typed< float_ui >", "classproperties_1_1factory__typed.html", null ],
+        [ "properties::factory_typed< vec3_ui >", "classproperties_1_1factory__typed.html", null ],
         [ "properties::factory_typed< T >", "classproperties_1_1factory__typed.html", null ]
       ] ],
       [ "Properties::Property", "structProperties_1_1Property.html", null ],
@@ -34,6 +35,9 @@ var hierarchy =
         [ "properties::property< T, DERIVED >", "classproperties_1_1property.html", null ],
         [ "properties::property< float, float_ui >", "classproperties_1_1property.html", [
           [ "properties::float_ui", "classproperties_1_1float__ui.html", null ]
+        ] ],
+        [ "properties::property< Imath::Vec3< float >, vec3_ui >", "classproperties_1_1property.html", [
+          [ "properties::vec3_ui", "classproperties_1_1vec3__ui.html", null ]
         ] ]
       ] ],
       [ "Viewport", "classViewport.html", null ]

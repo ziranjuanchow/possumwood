@@ -1,5 +1,6 @@
 <map id="properties::factory" name="properties::factory">
 <area shape="rect" id="node3" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; DERIVED \&gt;" alt="" coords="325,5,472,46"/>
 <area shape="rect" id="node4" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; float_ui \&gt;" alt="" coords="335,70,462,111"/>
-<area shape="rect" id="node5" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; T \&gt;" alt="" coords="335,135,462,177"/>
+<area shape="rect" id="node5" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; vec3_ui \&gt;" alt="" coords="333,135,464,177"/>
+<area shape="rect" id="node6" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; T \&gt;" alt="" coords="335,201,462,242"/>
 </map>
