@@ -1,9 +1,11 @@
 <map id="src/tests/dependency_graph/graph_instantiation.cpp" name="src/tests/dependency_graph/graph_instantiation.cpp">
-<area shape="rect" id="node3" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="640,96,819,123"/>
-<area shape="rect" id="node21" href="$common_8h.html" title="common.h" alt="" coords="112,179,193,205"/>
-<area shape="rect" id="node13" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="699,179,760,205"/>
-<area shape="rect" id="node15" href="$attr_8h.html" title="attr.h" alt="" coords="874,344,925,371"/>
-<area shape="rect" id="node19" href="$libs_2dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="433,261,519,288"/>
-<area shape="rect" id="node20" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="807,261,861,288"/>
-<area shape="rect" id="node18" href="$datablock_8h.html" title="datablock.h" alt="" coords="871,427,960,453"/>
+<area shape="rect" id="node3" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1839,96,2017,123"/>
+<area shape="rect" id="node47" href="$common_8h.html" title="common.h" alt="" coords="1128,336,1209,363"/>
+<area shape="rect" id="node13" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1661,179,1723,205"/>
+<area shape="rect" id="node15" href="$attr_8h.html" title="attr.h" alt="" coords="1329,336,1380,363"/>
+<area shape="rect" id="node43" href="$libs_2dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1686,411,1772,437"/>
+<area shape="rect" id="node46" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1633,261,1687,288"/>
+<area shape="rect" id="node18" href="$datablock_8h.html" title="datablock.h" alt="" coords="1279,411,1368,437"/>
+<area shape="rect" id="node19" href="$json_8h.html" title="io/json.h" alt="" coords="1210,576,1280,603"/>
+<area shape="rect" id="node42" href="$data_8h.html" title="data.h" alt="" coords="1209,493,1267,520"/>
 </map>

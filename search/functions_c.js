@@ -1,13 +1,17 @@
 var searchData=
 [
-  ['paint',['paint',['../classnode__editor_1_1Edge.html#a232508dee273608737bf4f68f6edb7b1',1,'node_editor::Edge::paint()'],['../classnode__editor_1_1Node.html#ae0a3cebed0354b5bb27a6f742f8decf5',1,'node_editor::Node::paint()']]],
-  ['paintgl',['paintGL',['../classViewport.html#ada8fda1ca8a7c4a04c47aeb9451859c9',1,'Viewport']]],
-  ['parentnode',['parentNode',['../classnode__editor_1_1Port.html#a9713360bd0d32d541ccd2f3a71bc7567',1,'node_editor::Port::parentNode()'],['../classnode__editor_1_1Port.html#a8f1d949b1eb3c904d3b3ddb14366e7a5',1,'node_editor::Port::parentNode() const ']]],
-  ['pen',['pen',['../classnode__editor_1_1Edge.html#ac2bc7fb87dfbef2b417780b874492dfb',1,'node_editor::Edge']]],
-  ['port',['port',['../classdependency__graph_1_1Node.html#ac5efe78e3dc275097fca4a490d861ca8',1,'dependency_graph::Node::port(size_t index)'],['../classdependency__graph_1_1Node.html#aea31742565d3f8b714646be6195986a7',1,'dependency_graph::Node::port(size_t index) const '],['../classnode__editor_1_1Node.html#ab8f1d7cc15cb6e008e63d40758afc39b',1,'node_editor::Node::port()'],['../classdependency__graph_1_1Port.html#a0faadb20af5423b89d0cbfe9d19ea0f1',1,'dependency_graph::Port::Port(Port &amp;&amp;p)'],['../classdependency__graph_1_1Port.html#aecb84fef0a9584fec0e8dd0826d12333',1,'dependency_graph::Port::Port(const std::string &amp;name, unsigned id, Node *parent)'],['../classnode__editor_1_1Port.html#a8a2d8c1f556d0a91e1ab932eef7b9e62',1,'node_editor::Port::Port()']]],
-  ['portcount',['portCount',['../classdependency__graph_1_1Node.html#aacffb7abcf1b050b24094d1f34535415',1,'dependency_graph::Node::portCount()'],['../classnode__editor_1_1Node.html#a422bc7267c5cfb995c89285223b4f9ff',1,'node_editor::Node::portCount()']]],
-  ['porttype',['portType',['../classnode__editor_1_1Port.html#a71f390bdbd1d0ae7b7bfc120c1d67977',1,'node_editor::Port']]],
-  ['properties',['Properties',['../classProperties.html#ad39f1cdc2a8f4ca6db0457d21db2d9c5',1,'Properties']]],
-  ['property',['Property',['../structProperties_1_1Property.html#ab8efe9045c5a55795b6c72dc623a7813',1,'Properties::Property::Property(dependency_graph::Port &amp;port)'],['../structProperties_1_1Property.html#af6cbceab0c036e926add1a3f00dcff62',1,'Properties::Property::Property(Property &amp;&amp;)']]],
-  ['purge',['purge',['../classdependency__graph_1_1Graph_1_1Connections.html#ad25ba1aeb99cb104b510c2a07a4d6d30',1,'dependency_graph::Graph::Connections']]]
+  ['main',['main',['../apps_2node__editor__sandbox_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../apps_2possumwood_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp']]],
+  ['mainwindow',['MainWindow',['../classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb',1,'MainWindow']]],
+  ['makenode',['makeNode',['../classdependency__graph_1_1Graph.html#aa45414d7127fe016d063c4e68f5e9c4c',1,'dependency_graph::Graph']]],
+  ['makepath',['makePath',['../classnode__editor_1_1Edge.html#ac064dd6839d08ad4579254a06d141c02',1,'node_editor::Edge']]],
+  ['maptoscene',['mapToScene',['../classAdaptor.html#a2c317d47324987ebb7d6f74e142a3aa6',1,'Adaptor']]],
+  ['markasdirty',['markAsDirty',['../classdependency__graph_1_1Node.html#a0ad0805716871a6743c31b1d13d0d201',1,'dependency_graph::Node']]],
+  ['max_5fsize',['max_size',['../classdependency__graph_1_1io_1_1basic__json.html#ab0baed27f142686e2e9a1a67cfd9951c',1,'dependency_graph::io::basic_json']]],
+  ['meta',['meta',['../classdependency__graph_1_1io_1_1basic__json.html#ab57384537a7202c2c3e084aeeda933b3',1,'dependency_graph::io::basic_json']]],
+  ['metadata',['Metadata',['../classMetadata.html#a37cb59605552dc6138969e4349714ca2',1,'Metadata::Metadata()'],['../classdependency__graph_1_1Metadata.html#a37cb59605552dc6138969e4349714ca2',1,'dependency_graph::Metadata::Metadata()'],['../classdependency__graph_1_1Node.html#a854c5d36263ebb3bd9f6f8b1a97d1bb4',1,'dependency_graph::Node::metadata()']]],
+  ['minwidth',['minWidth',['../classnode__editor_1_1Port.html#a884e334b938ac759d1809408233ebf7d',1,'node_editor::Port']]],
+  ['mousemoveevent',['mouseMoveEvent',['../classViewport.html#ad5dbbebb1345785a463d7f62540d89b9',1,'Viewport::mouseMoveEvent()'],['../classnode__editor_1_1GraphScene.html#a8092c07a0f31237ee1d304aef5bcecb0',1,'node_editor::GraphScene::mouseMoveEvent()'],['../classnode__editor_1_1GraphWidget.html#abb36179950668fa328b0a3f861c25acc',1,'node_editor::GraphWidget::mouseMoveEvent()']]],
+  ['mousepressevent',['mousePressEvent',['../classnode__editor_1_1GraphScene.html#a5d33912e45844faf32e70fb89f08efe6',1,'node_editor::GraphScene']]],
+  ['mousereleaseevent',['mouseReleaseEvent',['../classnode__editor_1_1GraphScene.html#a49f13fff803b8c269e9c73f341ed8505',1,'node_editor::GraphScene']]],
+  ['multiplicationnode',['multiplicationNode',['../common_8cpp.html#a1c397b0e0c8fcdac639af82fd3815545',1,'multiplicationNode():&#160;common.cpp'],['../common_8h.html#a0e73480b7ceecc656b7a400eb323e7d8',1,'multiplicationNode():&#160;common.cpp']]]
 ];

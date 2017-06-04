@@ -44,6 +44,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
+      <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
@@ -93,7 +94,7 @@ $(document).ready(function(){initNavTree('classMetadata.html','');});
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Friends</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Friends</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -104,12 +105,8 @@ $(document).ready(function(){initNavTree('classMetadata.html','');});
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
-<a href="#pri-static-attribs">Static Private Attributes</a> &#124;
 <a href="classMetadata-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">Metadata Class Reference</div>  </div>
@@ -132,20 +129,6 @@ Collaboration diagram for Metadata:</div>
 <area shape="rect" id="node2" href="classdependency__graph_1_1Metadata.html" title="dependency_graph::Metadata" alt="" coords="5,80,197,107"/></map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structMetadata_1_1Comparator.html">Comparator</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:a9b66dea6136ffcf814770758c2429377"><td class="memItemLeft" align="right" valign="top">typedef <br class="typebreak"/>
-boost::indirect_iterator<br class="typebreak"/>
-&lt; std::set&lt; <a class="el" href="classMetadata.html">Metadata</a> <br class="typebreak"/>
-*, <a class="el" href="structMetadata_1_1Comparator.html">Comparator</a> &gt;<br class="typebreak"/>
-::<a class="el" href="classMetadata.html#a9b66dea6136ffcf814770758c2429377">const_iterator</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMetadata.html#a9b66dea6136ffcf814770758c2429377">const_iterator</a></td></tr>
-<tr class="separator:a9b66dea6136ffcf814770758c2429377"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a37cb59605552dc6138969e4349714ca2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMetadata.html#a37cb59605552dc6138969e4349714ca2">Metadata</a> (const std::string &amp;nodeType)</td></tr>
@@ -200,41 +183,30 @@ Public Member Functions</h2></td></tr>
 &lt; const <a class="el" href="classdependency__graph_1_1Attr.html">Attr</a> &gt; &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a0f1e541570fe10e2ff0d23228cc61e30">influencedBy</a> (const <a class="el" href="classdependency__graph_1_1OutAttr.html">OutAttr</a>&lt; T &gt; &amp;out) const </td></tr>
 <tr class="separator:a0f1e541570fe10e2ff0d23228cc61e30 inherit pub_methods_classdependency__graph_1_1Metadata"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:ab2641c6ddb961487bd5eaadf024122d5"><td class="memItemLeft" align="right" valign="top">static boost::iterator_range<br class="typebreak"/>
-&lt; <a class="el" href="classMetadata.html#a9b66dea6136ffcf814770758c2429377">const_iterator</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMetadata.html#ab2641c6ddb961487bd5eaadf024122d5">instances</a> ()</td></tr>
-<tr class="memdesc:ab2641c6ddb961487bd5eaadf024122d5"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns all existing instances. Used for enumerating all instantiable nodes.  <a href="#ab2641c6ddb961487bd5eaadf024122d5">More...</a><br/></td></tr>
-<tr class="separator:ab2641c6ddb961487bd5eaadf024122d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab7ace5fd267407fd275e7d418e550a1d"><td class="memItemLeft" align="right" valign="top">static const <a class="el" href="classMetadata.html">Metadata</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMetadata.html#ab7ace5fd267407fd275e7d418e550a1d">instance</a> (const std::string &amp;nodeType)</td></tr>
-<tr class="memdesc:ab7ace5fd267407fd275e7d418e550a1d"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns a single metadata instance (throws if not found)  <a href="#ab7ace5fd267407fd275e7d418e550a1d">More...</a><br/></td></tr>
-<tr class="separator:ab7ace5fd267407fd275e7d418e550a1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
 <tr class="memitem:a45e683867c8186cf3400bf17795deaef"><td class="memItemLeft" align="right" valign="top">std::function&lt; void(const <br class="typebreak"/>
 <a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMetadata.html#a45e683867c8186cf3400bf17795deaef">m_drawFunctor</a></td></tr>
 <tr class="separator:a45e683867c8186cf3400bf17795deaef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-attribs"></a>
-Static Private Attributes</h2></td></tr>
-<tr class="memitem:a2cae0177f1bd78d6fe14962c63dae853"><td class="memItemLeft" align="right" valign="top">static std::set&lt; <a class="el" href="classMetadata.html">Metadata</a> <br class="typebreak"/>
-*, <a class="el" href="structMetadata_1_1Comparator.html">Metadata::Comparator</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMetadata.html#a2cae0177f1bd78d6fe14962c63dae853">s_instances</a></td></tr>
-<tr class="separator:a2cae0177f1bd78d6fe14962c63dae853"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="inherited"></a>
+Additional Inherited Members</h2></td></tr>
+<tr class="inherit_header pub_types_classdependency__graph_1_1Metadata"><td colspan="2" onclick="javascript:toggleInherit('pub_types_classdependency__graph_1_1Metadata')"><img src="closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="classdependency__graph_1_1Metadata.html">dependency_graph::Metadata</a></td></tr>
+<tr class="memitem:af4cc90f835c1fc650f795e8aeff217bb inherit pub_types_classdependency__graph_1_1Metadata"><td class="memItemLeft" align="right" valign="top">typedef <br class="typebreak"/>
+boost::indirect_iterator<br class="typebreak"/>
+&lt; std::set&lt; <a class="el" href="classdependency__graph_1_1Metadata.html">Metadata</a> <br class="typebreak"/>
+*, <a class="el" href="structdependency__graph_1_1Metadata_1_1Comparator.html">Comparator</a> &gt;<br class="typebreak"/>
+::<a class="el" href="classdependency__graph_1_1Metadata.html#af4cc90f835c1fc650f795e8aeff217bb">const_iterator</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#af4cc90f835c1fc650f795e8aeff217bb">const_iterator</a></td></tr>
+<tr class="separator:af4cc90f835c1fc650f795e8aeff217bb inherit pub_types_classdependency__graph_1_1Metadata"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_static_methods_classdependency__graph_1_1Metadata"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_classdependency__graph_1_1Metadata')"><img src="closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="classdependency__graph_1_1Metadata.html">dependency_graph::Metadata</a></td></tr>
+<tr class="memitem:ab2641c6ddb961487bd5eaadf024122d5 inherit pub_static_methods_classdependency__graph_1_1Metadata"><td class="memItemLeft" align="right" valign="top">static boost::iterator_range<br class="typebreak"/>
+&lt; <a class="el" href="classdependency__graph_1_1Metadata.html#af4cc90f835c1fc650f795e8aeff217bb">const_iterator</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#ab2641c6ddb961487bd5eaadf024122d5">instances</a> ()</td></tr>
+<tr class="memdesc:ab2641c6ddb961487bd5eaadf024122d5 inherit pub_static_methods_classdependency__graph_1_1Metadata"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns all existing instances. Used for enumerating all instantiable nodes.  <a href="#ab2641c6ddb961487bd5eaadf024122d5">More...</a><br/></td></tr>
+<tr class="separator:ab2641c6ddb961487bd5eaadf024122d5 inherit pub_static_methods_classdependency__graph_1_1Metadata"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7ace5fd267407fd275e7d418e550a1d inherit pub_static_methods_classdependency__graph_1_1Metadata"><td class="memItemLeft" align="right" valign="top">static const <a class="el" href="classdependency__graph_1_1Metadata.html">Metadata</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#ab7ace5fd267407fd275e7d418e550a1d">instance</a> (const std::string &amp;nodeType)</td></tr>
+<tr class="memdesc:ab7ace5fd267407fd275e7d418e550a1d inherit pub_static_methods_classdependency__graph_1_1Metadata"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns a single metadata instance (throws if not found)  <a href="#ab7ace5fd267407fd275e7d418e550a1d">More...</a><br/></td></tr>
+<tr class="separator:ab7ace5fd267407fd275e7d418e550a1d inherit pub_static_methods_classdependency__graph_1_1Metadata"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Typedef Documentation</h2>
-<a class="anchor" id="a9b66dea6136ffcf814770758c2429377"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef boost::indirect_iterator&lt;std::set&lt;<a class="el" href="classMetadata.html">Metadata</a>*, <a class="el" href="structMetadata_1_1Comparator.html">Comparator</a>&gt;::<a class="el" href="classMetadata.html#a9b66dea6136ffcf814770758c2429377">const_iterator</a>&gt; <a class="el" href="classMetadata.html#a9b66dea6136ffcf814770758c2429377">Metadata::const_iterator</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="a37cb59605552dc6138969e4349714ca2"></a>
 <div class="memitem">
@@ -296,58 +268,6 @@ Static Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="ab7ace5fd267407fd275e7d418e550a1d"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="classMetadata.html">Metadata</a> &amp; Metadata::instance </td>
-          <td>(</td>
-          <td class="paramtype">const std::string &amp;&#160;</td>
-          <td class="paramname"><em>nodeType</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>returns a single metadata instance (throws if not found) </p>
-<p>TODO: improve efficiency of search </p>
-
-</div>
-</div>
-<a class="anchor" id="ab2641c6ddb961487bd5eaadf024122d5"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">boost::iterator_range&lt; <a class="el" href="classMetadata.html#a9b66dea6136ffcf814770758c2429377">Metadata::const_iterator</a> &gt; Metadata::instances </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>returns all existing instances. Used for enumerating all instantiable nodes. </p>
-
-</div>
-</div>
 <a class="anchor" id="a4c43eb97853d0bbee3acf02aa6ff8c79"></a>
 <div class="memitem">
 <div class="memproto">
@@ -387,26 +307,6 @@ Static Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a2cae0177f1bd78d6fe14962c63dae853"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::set&lt; <a class="el" href="classMetadata.html">Metadata</a> *, <a class="el" href="structMetadata_1_1Comparator.html">Metadata::Comparator</a> &gt; Metadata::s_instances</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <hr/>The documentation for this class was generated from the following files:<ul>
 <li>src/apps/possumwood/<a class="el" href="apps_2possumwood_2metadata_8h_source.html">metadata.h</a></li>
 <li>src/apps/possumwood/<a class="el" href="apps_2possumwood_2metadata_8cpp.html">metadata.cpp</a></li>
@@ -417,7 +317,7 @@ Static Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classMetadata.html">Metadata</a></li>
-    <li class="footer">Generated on Mon May 29 2017 23:17:12 for possumwood by
+    <li class="footer">Generated on Sun Jun 4 2017 00:56:33 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

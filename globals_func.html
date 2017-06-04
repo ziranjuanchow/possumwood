@@ -44,6 +44,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
+      <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
@@ -99,7 +100,7 @@ $(document).ready(function(){initNavTree('globals_func.html','');});
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Friends</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Friends</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -116,6 +117,7 @@ $(document).ready(function(){initNavTree('globals_func.html','');});
 </li>
 <li>BOOST_AUTO_TEST_CASE()
 : <a class="el" href="arithmetic_8cpp.html#a749b2618aa42957bebe8d212f9da1ec5">arithmetic.cpp</a>
+, <a class="el" href="json_8cpp.html#aec7317afbcd0e01b142f1e256bf59cf6">json.cpp</a>
 , <a class="el" href="influences_8cpp.html#ab37437287a5110493ecd000e11308269">influences.cpp</a>
 , <a class="el" href="graph__instantiation_8cpp.html#a0157e08dc03e3fb6d5f286e68c74e0db">graph_instantiation.cpp</a>
 , <a class="el" href="graph__connections_8cpp.html#a2ff407c6546cb4cc1ba8115135987ce4">graph_connections.cpp</a>
@@ -125,6 +127,11 @@ $(document).ready(function(){initNavTree('globals_func.html','');});
 <li>checkDirtyPorts()
 : <a class="el" href="arithmetic_8cpp.html#a354ac062f91abe4fbf42abb235d7cabc">arithmetic.cpp</a>
 </li>
+<li>from_json()
+: <a class="el" href="node__data_8cpp.html#a3820cc4e083502df6418ed2055ab6559">node_data.cpp</a>
+, <a class="el" href="common_8h.html#af65584d7a51de99630e398cecd50d1f9">common.h</a>
+, <a class="el" href="io_2node__data_8h.html#aa288badb641920e831df8738ecdd5555">node_data.h</a>
+</li>
 <li>main()
 : <a class="el" href="apps_2node__editor__sandbox_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97">main.cpp</a>
 </li>
@@ -132,9 +139,20 @@ $(document).ready(function(){initNavTree('globals_func.html','');});
 : <a class="el" href="common_8cpp.html#a1c397b0e0c8fcdac639af82fd3815545">common.cpp</a>
 , <a class="el" href="common_8h.html#a0e73480b7ceecc656b7a400eb323e7d8">common.h</a>
 </li>
+<li>operator&quot;&quot;_json()
+: <a class="el" href="json_8h.html#ade6004ad9fd27d69b4c19222b3f3a109">json.h</a>
+</li>
+<li>operator&quot;&quot;_json_pointer()
+: <a class="el" href="json_8h.html#a1f1da06b09b45a2b5ef3a472b5e8d5d0">json.h</a>
+</li>
 <li>operator&lt;&lt;()
 : <a class="el" href="common_8cpp.html#a7b270cb1596f1cf6fc1626fb89d08907">common.cpp</a>
 , <a class="el" href="common_8h.html#a7b270cb1596f1cf6fc1626fb89d08907">common.h</a>
+</li>
+<li>to_json()
+: <a class="el" href="node__data_8cpp.html#a1472d9aebab88252536cc15719ef70ec">node_data.cpp</a>
+, <a class="el" href="common_8h.html#a3ec05777f38082176715380ad50f56a9">common.h</a>
+, <a class="el" href="io_2node__data_8h.html#a24d1f104e44d05becc26307bbaa52492">node_data.h</a>
 </li>
 </ul>
 </div><!-- contents -->
@@ -142,7 +160,7 @@ $(document).ready(function(){initNavTree('globals_func.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon May 29 2017 23:17:12 for possumwood by
+    <li class="footer">Generated on Sun Jun 4 2017 00:56:34 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

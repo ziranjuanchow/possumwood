@@ -1,13 +1,15 @@
 <map id="src/apps/possumwood/adaptor.h" name="src/apps/possumwood/adaptor.h">
-<area shape="rect" id="node6" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="511,96,689,123"/>
-<area shape="rect" id="node21" href="$graph__widget_8h.html" title="graph_widget.h" alt="" coords="1339,179,1449,205"/>
-<area shape="rect" id="node13" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="569,179,631,205"/>
-<area shape="rect" id="node15" href="$attr_8h.html" title="attr.h" alt="" coords="735,344,787,371"/>
-<area shape="rect" id="node19" href="$libs_2dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="657,261,743,288"/>
-<area shape="rect" id="node20" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="578,261,632,288"/>
-<area shape="rect" id="node18" href="$datablock_8h.html" title="datablock.h" alt="" coords="814,427,903,453"/>
-<area shape="rect" id="node23" href="$qt__node__editor_2node_8h.html" title="node.h" alt="" coords="1520,344,1581,371"/>
-<area shape="rect" id="node28" href="$graph__scene_8h.html" title="graph_scene.h" alt="" coords="1296,261,1403,288"/>
-<area shape="rect" id="node26" href="$qt__node__editor_2port_8h.html" title="port.h" alt="" coords="1523,427,1577,453"/>
-<area shape="rect" id="node31" href="$edge_8h.html" title="edge.h" alt="" coords="1435,344,1496,371"/>
+<area shape="rect" id="node6" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1147,96,1325,123"/>
+<area shape="rect" id="node39" href="$graph__widget_8h.html" title="graph_widget.h" alt="" coords="2010,179,2120,205"/>
+<area shape="rect" id="node13" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1205,179,1267,205"/>
+<area shape="rect" id="node15" href="$attr_8h.html" title="attr.h" alt="" coords="1218,344,1269,371"/>
+<area shape="rect" id="node35" href="$libs_2dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1111,261,1197,288"/>
+<area shape="rect" id="node38" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1274,261,1328,288"/>
+<area shape="rect" id="node18" href="$datablock_8h.html" title="datablock.h" alt="" coords="1074,427,1163,453"/>
+<area shape="rect" id="node19" href="$json_8h.html" title="io/json.h" alt="" coords="954,576,1024,603"/>
+<area shape="rect" id="node34" href="$data_8h.html" title="data.h" alt="" coords="1068,501,1125,528"/>
+<area shape="rect" id="node41" href="$qt__node__editor_2node_8h.html" title="node.h" alt="" coords="2200,344,2261,371"/>
+<area shape="rect" id="node46" href="$graph__scene_8h.html" title="graph_scene.h" alt="" coords="1945,261,2052,288"/>
+<area shape="rect" id="node44" href="$qt__node__editor_2port_8h.html" title="port.h" alt="" coords="2355,427,2409,453"/>
+<area shape="rect" id="node48" href="$edge_8h.html" title="edge.h" alt="" coords="1968,344,2029,371"/>
 </map>

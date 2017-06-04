@@ -18,7 +18,7 @@ var dir_3aa22a2ea4f6b5bae29888f658106ed5 =
       [ "property", "classproperties_1_1property.html", "classproperties_1_1property" ]
     ] ],
     [ "vec3.cpp", "properties__ui_2vec3_8cpp.html", null ],
-    [ "vec3.h", "vec3_8h.html", [
+    [ "vec3.h", "properties__ui_2vec3_8h.html", [
       [ "vec3_ui", "classproperties_1_1vec3__ui.html", "classproperties_1_1vec3__ui" ]
     ] ]
 ];

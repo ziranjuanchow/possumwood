@@ -13,6 +13,7 @@ var classdependency__graph_1_1Graph =
     [ "onAddNode", "classdependency__graph_1_1Graph.html#a14d6f01b60604083d1c801d38ad30ecd", null ],
     [ "onBlindDataChanged", "classdependency__graph_1_1Graph.html#a53ab199476586beff699623d23eff7b4", null ],
     [ "onConnect", "classdependency__graph_1_1Graph.html#aec7aca70d38c9c5fc23b511637ae1665", null ],
+    [ "onDirty", "classdependency__graph_1_1Graph.html#a0f194c18910365bea304b1b6b5a5c0db", null ],
     [ "onDisconnect", "classdependency__graph_1_1Graph.html#aa3a2bd7caecdb702f32084c56bf1b577", null ],
     [ "onRemoveNode", "classdependency__graph_1_1Graph.html#a8b74b5df184f22eebc22386a5cf097fd", null ],
     [ "Connections", "classdependency__graph_1_1Graph.html#ab78fddf1055a04a15bc5e84f87e664bc", null ],
@@ -23,6 +24,7 @@ var classdependency__graph_1_1Graph =
     [ "m_onAddNode", "classdependency__graph_1_1Graph.html#a17c63ac2aa227db5314d50c4f8dec694", null ],
     [ "m_onBlindDataChanged", "classdependency__graph_1_1Graph.html#a1a7f5d3a52c30ead068592ccef8233ec", null ],
     [ "m_onConnect", "classdependency__graph_1_1Graph.html#afc78714e5c4d5ff0637ff8fdc263ece9", null ],
+    [ "m_onDirty", "classdependency__graph_1_1Graph.html#a1f861399ca9d26bb3bbb170e3ec2370e", null ],
     [ "m_onDisconnect", "classdependency__graph_1_1Graph.html#ac22c803d45a7c032148d9f827a90e641", null ],
     [ "m_onRemoveNode", "classdependency__graph_1_1Graph.html#a8c2822dbc485960070604e62763bf1f0", null ]
 ];

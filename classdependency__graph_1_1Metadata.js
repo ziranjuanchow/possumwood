@@ -1,5 +1,7 @@
 var classdependency__graph_1_1Metadata =
 [
+    [ "Comparator", "structdependency__graph_1_1Metadata_1_1Comparator.html", "structdependency__graph_1_1Metadata_1_1Comparator" ],
+    [ "const_iterator", "classdependency__graph_1_1Metadata.html#af4cc90f835c1fc650f795e8aeff217bb", null ],
     [ "Metadata", "classdependency__graph_1_1Metadata.html#a37cb59605552dc6138969e4349714ca2", null ],
     [ "~Metadata", "classdependency__graph_1_1Metadata.html#a29845232ba882e6dba16311f2ae4c374", null ],
     [ "addAttribute", "classdependency__graph_1_1Metadata.html#ad2c89549bddfb65b8704e16b9ead6ab2", null ],
@@ -12,6 +14,8 @@ var classdependency__graph_1_1Metadata =
     [ "influencedBy", "classdependency__graph_1_1Metadata.html#adb76d4ceed01213773aa80afcd9fe7c9", null ],
     [ "influences", "classdependency__graph_1_1Metadata.html#af2e24f885d4feecb35659bf844754aa9", null ],
     [ "influences", "classdependency__graph_1_1Metadata.html#ae82a2e3a38a32728d70928b5e23d19d1", null ],
+    [ "instance", "classdependency__graph_1_1Metadata.html#ab7ace5fd267407fd275e7d418e550a1d", null ],
+    [ "instances", "classdependency__graph_1_1Metadata.html#ab2641c6ddb961487bd5eaadf024122d5", null ],
     [ "isValid", "classdependency__graph_1_1Metadata.html#a7051abf6692682c5aed1bf95c553f860", null ],
     [ "setCompute", "classdependency__graph_1_1Metadata.html#a2aa450df46a7060c23ef53f1f382b2a0", null ],
     [ "type", "classdependency__graph_1_1Metadata.html#ab4e679f148d9cd498b56610db5f4eeb7", null ],
@@ -20,5 +24,6 @@ var classdependency__graph_1_1Metadata =
     [ "m_attrs", "classdependency__graph_1_1Metadata.html#a07460c7a381d31b4f9d2e74415bced87", null ],
     [ "m_compute", "classdependency__graph_1_1Metadata.html#a47fe77f6c96236f14cd0ecb24fbfba5f", null ],
     [ "m_influences", "classdependency__graph_1_1Metadata.html#abb9acf32a290218c6965eb50f2f2ab2d", null ],
-    [ "m_type", "classdependency__graph_1_1Metadata.html#a73e48ae4cada097728171a4a477b86ae", null ]
+    [ "m_type", "classdependency__graph_1_1Metadata.html#a73e48ae4cada097728171a4a477b86ae", null ],
+    [ "s_instances", "classdependency__graph_1_1Metadata.html#a2cae0177f1bd78d6fe14962c63dae853", null ]
 ];

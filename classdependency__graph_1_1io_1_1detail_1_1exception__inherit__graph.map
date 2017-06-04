@@ -1,0 +1,7 @@
+<map id="dependency_graph::io::detail::exception" name="dependency_graph::io::detail::exception">
+<area shape="rect" id="node3" href="$classdependency__graph_1_1io_1_1detail_1_1invalid__iterator.html" title="exception indicating errors with iterators " alt="" coords="355,5,509,46"/>
+<area shape="rect" id="node4" href="$classdependency__graph_1_1io_1_1detail_1_1other__error.html" title="exception indicating other errors " alt="" coords="357,70,507,111"/>
+<area shape="rect" id="node5" href="$classdependency__graph_1_1io_1_1detail_1_1out__of__range.html" title="exception indicating access out of the defined range " alt="" coords="357,135,507,177"/>
+<area shape="rect" id="node6" href="$classdependency__graph_1_1io_1_1detail_1_1parse__error.html" title="exception indicating a parse error " alt="" coords="357,201,507,242"/>
+<area shape="rect" id="node7" href="$classdependency__graph_1_1io_1_1detail_1_1type__error.html" title="exception indicating executing a member function with a wrong type " alt="" coords="357,266,507,307"/>
+</map>

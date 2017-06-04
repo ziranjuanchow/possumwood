@@ -1,0 +1,3 @@
+<map id="dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::output_stream_adapter&lt; CharType &gt;" name="dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::output_stream_adapter&lt; CharType &gt;">
+<area shape="rect" id="node2" href="$classdependency__graph_1_1io_1_1basic__json_1_1output__adapter.html" title="abstract output adapter interface " alt="" coords="59,5,220,61"/>
+</map>

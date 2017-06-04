@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['connectededge',['ConnectedEdge',['../classnode__editor_1_1Port.html#a400a2433660c7194d3f4f6cc12a45aa2',1,'node_editor::Port']]],
-  ['connections',['Connections',['../classdependency__graph_1_1Graph.html#ab78fddf1055a04a15bc5e84f87e664bc',1,'dependency_graph::Graph']]]
+  ['basic_5fjson',['basic_json',['../classdependency__graph_1_1io_1_1basic__json_1_1iter__impl.html#ada3100cdb8700566051828f1355fa745',1,'dependency_graph::io::basic_json::iter_impl::basic_json()'],['../classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html#ada3100cdb8700566051828f1355fa745',1,'dependency_graph::io::basic_json::json_pointer::basic_json()']]]
 ];

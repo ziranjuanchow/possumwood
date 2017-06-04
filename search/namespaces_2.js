@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['properties',['properties',['../namespaceproperties.html',1,'']]]
+  ['node_5feditor',['node_editor',['../namespacenode__editor.html',1,'']]]
 ];

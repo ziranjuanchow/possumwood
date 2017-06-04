@@ -1,5 +1,6 @@
 var dir_c7d5d0c4de69cf1ad6ffe9148da53313 =
 [
+    [ "io", "dir_44c20c22d84a70fdaee8321e1d1fedf6.html", "dir_44c20c22d84a70fdaee8321e1d1fedf6" ],
     [ "nodes", "dir_cd4e714c26a963a15ae096d219ff0709.html", "dir_cd4e714c26a963a15ae096d219ff0709" ],
     [ "properties_ui", "dir_3aa22a2ea4f6b5bae29888f658106ed5.html", "dir_3aa22a2ea4f6b5bae29888f658106ed5" ],
     [ "adaptor.cpp", "adaptor_8cpp.html", null ],
@@ -13,8 +14,7 @@ var dir_c7d5d0c4de69cf1ad6ffe9148da53313 =
     ] ],
     [ "metadata.cpp", "apps_2possumwood_2metadata_8cpp.html", null ],
     [ "metadata.h", "apps_2possumwood_2metadata_8h.html", [
-      [ "Metadata", "classMetadata.html", "classMetadata" ],
-      [ "Comparator", "structMetadata_1_1Comparator.html", "structMetadata_1_1Comparator" ]
+      [ "Metadata", "classMetadata.html", "classMetadata" ]
     ] ],
     [ "node_data.h", "node__data_8h.html", [
       [ "NodeData", "structNodeData.html", "structNodeData" ]

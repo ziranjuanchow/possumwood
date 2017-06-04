@@ -1,0 +1,4 @@
+var structdependency__graph_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1number__unsigned_01_4 =
+[
+    [ "construct", "structdependency__graph_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1number__unsigned_01_4.html#aa70f63ad2fa0e7f1941a38de26bddb5d", null ]
+];

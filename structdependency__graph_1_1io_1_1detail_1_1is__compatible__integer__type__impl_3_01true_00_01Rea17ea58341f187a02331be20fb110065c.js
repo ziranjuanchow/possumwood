@@ -1,0 +1,6 @@
+var structdependency__graph_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01Rea17ea58341f187a02331be20fb110065c =
+[
+    [ "CompatibleLimits", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01Rea17ea58341f187a02331be20fb110065c.html#add01ee308f65c523cfe8049098015d60", null ],
+    [ "RealLimits", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01Rea17ea58341f187a02331be20fb110065c.html#a8810b4248ebdc8c75f594896bb992f3d", null ],
+    [ "value", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01Rea17ea58341f187a02331be20fb110065c.html#a2216144818bf39ac750fb638cee2e3bd", null ]
+];

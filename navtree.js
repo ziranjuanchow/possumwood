@@ -1,11 +1,15 @@
 var NAVTREE =
 [
   [ "possumwood", "index.html", [
+    [ "Deprecated List", "deprecated.html", null ],
     [ "Namespaces", null, [
       [ "Namespace List", "namespaces.html", "namespaces" ],
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
-        [ "Functions", "namespacemembers_func.html", null ]
+        [ "Functions", "namespacemembers_func.html", null ],
+        [ "Typedefs", "namespacemembers_type.html", null ],
+        [ "Enumerations", "namespacemembers_enum.html", null ],
+        [ "Enumerator", "namespacemembers_eval.html", null ]
       ] ]
     ] ],
     [ "Classes", null, [
@@ -37,8 +41,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "adaptor_8cpp.html",
-"classdependency__graph_1_1Port.html#aebf0911529e7ff44ef3650c84660ec88",
-"functions_e.html"
+"classdependency__graph_1_1Port.html#a385b7eaa75e38e433c604ef78367d180",
+"classdependency__graph_1_1io_1_1basic__json_1_1binary__writer.html",
+"classdependency__graph_1_1io_1_1basic__json_1_1serializer.html#ab5f2e88f10677e100a92c34def0b5908",
+"dir_53adf0b982dc8545998aae3f283a5a58.html",
+"structdependency__graph_1_1Data.html#a750c1226ba51d6f2c64b234c48d6c282"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -44,6 +44,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
+      <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
@@ -95,7 +96,9 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="functions_g.html#index_g"><span>g</span></a></li>
       <li><a href="functions_h.html#index_h"><span>h</span></a></li>
       <li><a href="functions_i.html#index_i"><span>i</span></a></li>
+      <li><a href="functions_j.html#index_j"><span>j</span></a></li>
       <li><a href="functions_k.html#index_k"><span>k</span></a></li>
+      <li><a href="functions_l.html#index_l"><span>l</span></a></li>
       <li><a href="functions_m.html#index_m"><span>m</span></a></li>
       <li><a href="functions_n.html#index_n"><span>n</span></a></li>
       <li><a href="functions_o.html#index_o"><span>o</span></a></li>
@@ -106,6 +109,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="functions_u.html#index_u"><span>u</span></a></li>
       <li><a href="functions_v.html#index_v"><span>v</span></a></li>
       <li><a href="functions_w.html#index_w"><span>w</span></a></li>
+      <li><a href="functions_y.html#index_y"><span>y</span></a></li>
       <li class="current"><a href="functions_~.html#index_~"><span>~</span></a></li>
     </ul>
   </div>
@@ -129,7 +133,7 @@ $(document).ready(function(){initNavTree('functions_~.html','');});
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Friends</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Friends</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -149,13 +153,19 @@ $(document).ready(function(){initNavTree('functions_~.html','');});
 : <a class="el" href="classdependency__graph_1_1Attr.html#a30097c2542d6259ebe8688054eec6c08">dependency_graph::Attr</a>
 </li>
 <li>~BaseData()
-: <a class="el" href="structdependency__graph_1_1Datablock_1_1BaseData.html#abe9db59d5f1d5e5f1c74b0fd59ca7c42">dependency_graph::Datablock::BaseData</a>
+: <a class="el" href="classdependency__graph_1_1BaseData.html#a5f52cfda3b1c84a22e157a9db41e2152">dependency_graph::BaseData</a>
+</li>
+<li>~basic_json()
+: <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a90e0f4f3419a7ad2734c37e926a0134c">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
+</li>
+<li>~cached_input_stream_adapter()
+: <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html#a7da6549a2acafb75d26b44871d047dd4">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::cached_input_stream_adapter</a>
 </li>
 <li>~ConnectedEdge()
 : <a class="el" href="classnode__editor_1_1ConnectedEdge.html#ad0320bcc76dc363fbdbec847898ead55">node_editor::ConnectedEdge</a>
 </li>
 <li>~Data()
-: <a class="el" href="structdependency__graph_1_1Datablock_1_1Data.html#a0a97b62d0f77c9501a23f55e980043e4">dependency_graph::Datablock::Data&lt; T &gt;</a>
+: <a class="el" href="structdependency__graph_1_1Data.html#a87077fc1097168be85a38a31c821829e">dependency_graph::Data&lt; T &gt;</a>
 </li>
 <li>~Edge()
 : <a class="el" href="classnode__editor_1_1Edge.html#aa7998dbd732f5e2c16a78a6d80e563de">node_editor::Edge</a>
@@ -172,12 +182,18 @@ $(document).ready(function(){initNavTree('functions_~.html','');});
 <li>~GraphScene()
 : <a class="el" href="classnode__editor_1_1GraphScene.html#aad44ea9c1747e76d1129a05f125e6c9d">node_editor::GraphScene</a>
 </li>
+<li>~input_adapter()
+: <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1input__adapter.html#ad2ac77038e3fb5c6683f5b097b73a00c">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::input_adapter</a>
+</li>
 <li>~Metadata()
 : <a class="el" href="classdependency__graph_1_1Metadata.html#a29845232ba882e6dba16311f2ae4c374">dependency_graph::Metadata</a>
 , <a class="el" href="classMetadata.html#a29845232ba882e6dba16311f2ae4c374">Metadata</a>
 </li>
 <li>~Node()
 : <a class="el" href="classnode__editor_1_1Node.html#a814624c79800141cc263bc75ccd31191">node_editor::Node</a>
+</li>
+<li>~output_adapter()
+: <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1output__adapter.html#a82af932559adc1e9f190ab94fb4ade7b">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::output_adapter&lt; CharType &gt;</a>
 </li>
 <li>~property()
 : <a class="el" href="classproperties_1_1property.html#aa7a3cd767c0522b5d5315439c56b45ef">properties::property&lt; T, DERIVED &gt;</a>
@@ -200,7 +216,7 @@ $(document).ready(function(){initNavTree('functions_~.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon May 29 2017 23:17:12 for possumwood by
+    <li class="footer">Generated on Sun Jun 4 2017 00:56:34 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

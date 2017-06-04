@@ -44,6 +44,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
+      <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
@@ -91,7 +92,7 @@ $(document).ready(function(){initNavTree('common_8h.html','');});
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Friends</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Friends</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -112,19 +113,20 @@ $(document).ready(function(){initNavTree('common_8h.html','');});
 <div class="textblock"><code>#include &lt;iostream&gt;</code><br/>
 <code>#include &lt;typeinfo&gt;</code><br/>
 <code>#include &lt;<a class="el" href="libs_2dependency__graph_2metadata_8h_source.html">dependency_graph/metadata.h</a>&gt;</code><br/>
+<code>#include &lt;<a class="el" href="json_8h_source.html">dependency_graph/io/json.h</a>&gt;</code><br/>
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for common.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="common_8h__incl.png" border="0" usemap="#src_2tests_2dependency__graph_2common_8h" alt=""/></div>
 <map name="src_2tests_2dependency__graph_2common_8h" id="src_2tests_2dependency__graph_2common_8h">
-<area shape="rect" id="node4" href="libs_2dependency__graph_2metadata_8h.html" title="dependency_graph/metadata.h" alt="" coords="193,96,392,123"/></map>
+<area shape="rect" id="node4" href="libs_2dependency__graph_2metadata_8h.html" title="dependency_graph/metadata.h" alt="" coords="523,104,721,131"/><area shape="rect" id="node13" href="json_8h.html" title="dependency_graph/io\l/json.h" alt="" coords="1737,97,1881,138"/></map>
 </div>
 </div><div class="textblock"><div class="dynheader">
 This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
 <div class="center"><img src="common_8h__dep__incl.png" border="0" usemap="#src_2tests_2dependency__graph_2common_8hdep" alt=""/></div>
 <map name="src_2tests_2dependency__graph_2common_8hdep" id="src_2tests_2dependency__graph_2common_8hdep">
-<area shape="rect" id="node2" href="arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="5,97,152,138"/><area shape="rect" id="node3" href="attrs_8cpp.html" title="src/tests/dependency\l_graph/attrs.cpp" alt="" coords="176,97,323,138"/><area shape="rect" id="node4" href="common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="347,97,493,138"/><area shape="rect" id="node5" href="tests_2dependency__graph_2datablock_8cpp.html" title="src/tests/dependency\l_graph/datablock.cpp" alt="" coords="517,97,664,138"/><area shape="rect" id="node6" href="graph__connections_8cpp.html" title="src/tests/dependency\l_graph/graph_connections.cpp" alt="" coords="689,97,887,138"/><area shape="rect" id="node7" href="graph__instantiation_8cpp.html" title="src/tests/dependency\l_graph/graph_instantiation.cpp" alt="" coords="911,97,1109,138"/><area shape="rect" id="node8" href="influences_8cpp.html" title="src/tests/dependency\l_graph/influences.cpp" alt="" coords="1133,97,1281,138"/></map>
+<area shape="rect" id="node2" href="arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="5,97,152,138"/><area shape="rect" id="node3" href="attrs_8cpp.html" title="src/tests/dependency\l_graph/attrs.cpp" alt="" coords="176,97,323,138"/><area shape="rect" id="node4" href="common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="347,97,493,138"/><area shape="rect" id="node5" href="tests_2dependency__graph_2datablock_8cpp.html" title="src/tests/dependency\l_graph/datablock.cpp" alt="" coords="517,97,664,138"/><area shape="rect" id="node6" href="graph__connections_8cpp.html" title="src/tests/dependency\l_graph/graph_connections.cpp" alt="" coords="689,97,887,138"/><area shape="rect" id="node7" href="graph__instantiation_8cpp.html" title="src/tests/dependency\l_graph/graph_instantiation.cpp" alt="" coords="911,97,1109,138"/><area shape="rect" id="node8" href="influences_8cpp.html" title="src/tests/dependency\l_graph/influences.cpp" alt="" coords="1133,97,1281,138"/><area shape="rect" id="node9" href="json_8cpp.html" title="src/tests/dependency\l_graph/json.cpp" alt="" coords="1307,97,1453,138"/></map>
 </div>
 </div>
 <p><a href="common_8h_source.html">Go to the source code of this file.</a></p>
@@ -144,6 +146,10 @@ Functions</h2></td></tr>
 <tr class="memitem:a965b177697ee049213c520e4cdd0a9f9"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacestd.html#a965b177697ee049213c520e4cdd0a9f9">std::operator&lt;&lt;</a> (std::ostream &amp;out, const std::type_info &amp;t)</td></tr>
 <tr class="memdesc:a965b177697ee049213c520e4cdd0a9f9"><td class="mdescLeft">&#160;</td><td class="mdescRight">printing type_info, to allow its use in BOOST_*_EQUAL macro  <a href="#a965b177697ee049213c520e4cdd0a9f9">More...</a><br/></td></tr>
 <tr class="separator:a965b177697ee049213c520e4cdd0a9f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ec05777f38082176715380ad50f56a9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="common_8h.html#a3ec05777f38082176715380ad50f56a9">to_json</a> (::<a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">dependency_graph::io::json</a> &amp;json, const <a class="el" href="structTestStruct.html">TestStruct</a> &amp;ts)</td></tr>
+<tr class="separator:a3ec05777f38082176715380ad50f56a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af65584d7a51de99630e398cecd50d1f9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="common_8h.html#af65584d7a51de99630e398cecd50d1f9">from_json</a> (const ::<a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">dependency_graph::io::json</a> &amp;json, <a class="el" href="structTestStruct.html">TestStruct</a> &amp;ts)</td></tr>
+<tr class="separator:af65584d7a51de99630e398cecd50d1f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7b270cb1596f1cf6fc1626fb89d08907"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="common_8h.html#a7b270cb1596f1cf6fc1626fb89d08907">operator&lt;&lt;</a> (std::ostream &amp;out, const <a class="el" href="structTestStruct.html">TestStruct</a> &amp;t)</td></tr>
 <tr class="separator:a7b270cb1596f1cf6fc1626fb89d08907"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a64b5709b1c8408ea2ff2614c96250cf7"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="classdependency__graph_1_1Metadata.html">dependency_graph::Metadata</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="common_8h.html#a64b5709b1c8408ea2ff2614c96250cf7">additionNode</a> ()</td></tr>
@@ -168,6 +174,40 @@ Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>returns a reference to metadata of a simple addition node </p>
+
+</div>
+</div>
+<a class="anchor" id="af65584d7a51de99630e398cecd50d1f9"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void from_json </td>
+          <td>(</td>
+          <td class="paramtype">const ::<a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">dependency_graph::io::json</a> &amp;&#160;</td>
+          <td class="paramname"><em>json</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="structTestStruct.html">TestStruct</a> &amp;&#160;</td>
+          <td class="paramname"><em>ts</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -214,13 +254,47 @@ Functions</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a3ec05777f38082176715380ad50f56a9"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void to_json </td>
+          <td>(</td>
+          <td class="paramtype">::<a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">dependency_graph::io::json</a> &amp;&#160;</td>
+          <td class="paramname"><em>json</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="structTestStruct.html">TestStruct</a> &amp;&#160;</td>
+          <td class="paramname"><em>ts</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_d93a1d4020dea85bb71b237545b5e722.html">tests</a></li><li class="navelem"><a class="el" href="dir_9d8beb913d66114a244a4ab3be1c594f.html">dependency_graph</a></li><li class="navelem"><a class="el" href="common_8h.html">common.h</a></li>
-    <li class="footer">Generated on Mon May 29 2017 23:17:12 for possumwood by
+    <li class="footer">Generated on Sun Jun 4 2017 00:56:32 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>
