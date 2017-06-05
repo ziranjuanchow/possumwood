@@ -10,6 +10,7 @@ var classAdaptor =
     [ "onBlindDataChanged", "classAdaptor.html#a843a0385c7d298bc3465542ef7361017", null ],
     [ "onConnect", "classAdaptor.html#a8a9d13243024324e92860332963f7272", null ],
     [ "onDisconnect", "classAdaptor.html#aa75672d3742fdaf9ed5e226a564ab45b", null ],
+    [ "onNameChanged", "classAdaptor.html#a3b81983cb8036a8a72f64fe4cdfe1416", null ],
     [ "onRemoveNode", "classAdaptor.html#a25568398c9dd7c134f46e69b087646c3", null ],
     [ "scene", "classAdaptor.html#a4ce9258242d31384434f99f521232890", null ],
     [ "scene", "classAdaptor.html#ae5f8497a71eb660da9f8ba2f2e49a5ce", null ],

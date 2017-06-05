@@ -168,6 +168,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aa3a2bd7caecdb702f32084c56bf1b577"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a53ab199476586beff699623d23eff7b4"><td class="memItemLeft" align="right" valign="top">boost::signals2::connection&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Graph.html#a53ab199476586beff699623d23eff7b4">onBlindDataChanged</a> (std::function&lt; void(<a class="el" href="classdependency__graph_1_1Node.html">Node</a> &amp;)&gt; callback)</td></tr>
 <tr class="separator:a53ab199476586beff699623d23eff7b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad83d68769b4bba7a9a84a928472a97e6"><td class="memItemLeft" align="right" valign="top">boost::signals2::connection&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Graph.html#ad83d68769b4bba7a9a84a928472a97e6">onNameChanged</a> (std::function&lt; void(<a class="el" href="classdependency__graph_1_1Node.html">Node</a> &amp;)&gt; callback)</td></tr>
+<tr class="separator:ad83d68769b4bba7a9a84a928472a97e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0f194c18910365bea304b1b6b5a5c0db"><td class="memItemLeft" align="right" valign="top">boost::signals2::connection&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Graph.html#a0f194c18910365bea304b1b6b5a5c0db">onDirty</a> (std::function&lt; void()&gt; callback)</td></tr>
 <tr class="separator:a0f194c18910365bea304b1b6b5a5c0db"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -188,6 +190,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a8c2822dbc485960070604e62763bf1f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1a7f5d3a52c30ead068592ccef8233ec"><td class="memItemLeft" align="right" valign="top">boost::signals2::signal&lt; void(<a class="el" href="classdependency__graph_1_1Node.html">Node</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Graph.html#a1a7f5d3a52c30ead068592ccef8233ec">m_onBlindDataChanged</a></td></tr>
 <tr class="separator:a1a7f5d3a52c30ead068592ccef8233ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97cb8fc0c34f190505d67fa2ef37c635"><td class="memItemLeft" align="right" valign="top">boost::signals2::signal&lt; void(<a class="el" href="classdependency__graph_1_1Node.html">Node</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Graph.html#a97cb8fc0c34f190505d67fa2ef37c635">m_onNameChanged</a></td></tr>
+<tr class="separator:a97cb8fc0c34f190505d67fa2ef37c635"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afc78714e5c4d5ff0637ff8fdc263ece9"><td class="memItemLeft" align="right" valign="top">boost::signals2::signal&lt; void(<a class="el" href="classdependency__graph_1_1Port.html">Port</a> <br class="typebreak"/>
 &amp;, <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Graph.html#afc78714e5c4d5ff0637ff8fdc263ece9">m_onConnect</a></td></tr>
 <tr class="separator:afc78714e5c4d5ff0637ff8fdc263ece9"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -429,6 +433,22 @@ Friends</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="ad83d68769b4bba7a9a84a928472a97e6"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">boost::signals2::connection dependency_graph::Graph::onNameChanged </td>
+          <td>(</td>
+          <td class="paramtype">std::function&lt; void(<a class="el" href="classdependency__graph_1_1Node.html">Node</a> &amp;)&gt;&#160;</td>
+          <td class="paramname"><em>callback</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a8b74b5df184f22eebc22386a5cf097fd"></a>
 <div class="memitem">
 <div class="memproto">
@@ -647,6 +667,26 @@ Friends</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a97cb8fc0c34f190505d67fa2ef37c635"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">boost::signals2::signal&lt;void(<a class="el" href="classdependency__graph_1_1Node.html">Node</a>&amp;)&gt; dependency_graph::Graph::m_onNameChanged</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a8c2822dbc485960070604e62763bf1f0"></a>
 <div class="memitem">
 <div class="memproto">
@@ -677,7 +717,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Graph.html">Graph</a></li>
-    <li class="footer">Generated on Mon Jun 5 2017 22:12:29 for possumwood by
+    <li class="footer">Generated on Mon Jun 5 2017 22:24:59 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

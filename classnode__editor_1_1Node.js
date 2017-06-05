@@ -10,6 +10,7 @@ var classnode__editor_1_1Node =
     [ "port", "classnode__editor_1_1Node.html#ab8f1d7cc15cb6e008e63d40758afc39b", null ],
     [ "portCount", "classnode__editor_1_1Node.html#a422bc7267c5cfb995c89285223b4f9ff", null ],
     [ "removePort", "classnode__editor_1_1Node.html#a6951eeb0dda1932132ac0d48f36a7749", null ],
+    [ "setName", "classnode__editor_1_1Node.html#acc357f14e96f1cf4e42e39e18247b201", null ],
     [ "updateRect", "classnode__editor_1_1Node.html#ab15809a52cee2bc2f4e816c99f3202d4", null ],
     [ "m_ports", "classnode__editor_1_1Node.html#afea10ddcda7fed2b64b43b0793da0614", null ],
     [ "m_title", "classnode__editor_1_1Node.html#a299a2192061a1992054b52319f84547d", null ],

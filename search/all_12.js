@@ -22,6 +22,7 @@ var searchData=
   ['setflags',['setFlags',['../classproperties_1_1property__base.html#a5bea60715cf20604e010144cf13b22c5',1,'properties::property_base']]],
   ['setinput',['setInput',['../classdependency__graph_1_1Node.html#a430249f24ea073de8f931419de3b288b',1,'dependency_graph::Node']]],
   ['setmouseconnectioncallback',['setMouseConnectionCallback',['../classnode__editor_1_1GraphScene.html#ae872f97a5f046840d4726992dcfae280',1,'node_editor::GraphScene']]],
+  ['setname',['setName',['../classdependency__graph_1_1Node.html#ad7d3bed9cf971ab2bc5092230f2f60d4',1,'dependency_graph::Node::setName()'],['../classnode__editor_1_1Node.html#acc357f14e96f1cf4e42e39e18247b201',1,'node_editor::Node::setName()']]],
   ['setnodemovecallback',['setNodeMoveCallback',['../classnode__editor_1_1GraphScene.html#a3e3bc6f91efc1c3c4271e6a3ea8a6099',1,'node_editor::GraphScene']]],
   ['setnodeselectioncallback',['setNodeSelectionCallback',['../classnode__editor_1_1GraphScene.html#ab3cb98d126f21c6e3806aacbe57e47ad',1,'node_editor::GraphScene']]],
   ['setpen',['setPen',['../classnode__editor_1_1Edge.html#ab23ed257a202d984dcb87a5c5036617d',1,'node_editor::Edge']]],
