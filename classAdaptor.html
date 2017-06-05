@@ -151,6 +151,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ad9101caff9d30030dcc950f9d456f6fc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Graph.html">dependency_graph::Graph</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#ad9101caff9d30030dcc950f9d456f6fc">graph</a> ()</td></tr>
 <tr class="memdesc:ad9101caff9d30030dcc950f9d456f6fc"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns the dependency graph  <a href="#ad9101caff9d30030dcc950f9d456f6fc">More...</a><br/></td></tr>
 <tr class="separator:ad9101caff9d30030dcc950f9d456f6fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe4df5967289b4474e2363326f90bfad"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classnode__editor_1_1GraphWidget.html">node_editor::GraphWidget</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#abe4df5967289b4474e2363326f90bfad">graphWidget</a> ()</td></tr>
+<tr class="separator:abe4df5967289b4474e2363326f90bfad"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa74b429935d31f93cd557e4ca6daa9eb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#aa74b429935d31f93cd557e4ca6daa9eb">deleteSelected</a> ()</td></tr>
 <tr class="memdesc:aa74b429935d31f93cd557e4ca6daa9eb"><td class="mdescLeft">&#160;</td><td class="mdescRight">deletes all selected items in the associated graph  <a href="#aa74b429935d31f93cd557e4ca6daa9eb">More...</a><br/></td></tr>
 <tr class="separator:aa74b429935d31f93cd557e4ca6daa9eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -159,6 +161,10 @@ Public Member Functions</h2></td></tr>
 &lt; <a class="el" href="classdependency__graph_1_1Node.html">dependency_graph::Node</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#af164017d7a9da0c5b601432814c380c1">selectedNodes</a> ()</td></tr>
 <tr class="memdesc:af164017d7a9da0c5b601432814c380c1"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns a list of all selected nodes  <a href="#af164017d7a9da0c5b601432814c380c1">More...</a><br/></td></tr>
 <tr class="separator:af164017d7a9da0c5b601432814c380c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a499166fcd03deb96b1669940f611c508"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a499166fcd03deb96b1669940f611c508">setSizeHint</a> (const QSize &amp;sh)</td></tr>
+<tr class="separator:a499166fcd03deb96b1669940f611c508"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a228e4e5c06cb9394d2bc24643c6dc024"><td class="memItemLeft" align="right" valign="top">virtual QSize&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a228e4e5c06cb9394d2bc24643c6dc024">sizeHint</a> () const override</td></tr>
+<tr class="separator:a228e4e5c06cb9394d2bc24643c6dc024"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
@@ -186,6 +192,8 @@ Private Attributes</h2></td></tr>
 &lt; <a class="el" href="classdependency__graph_1_1Node.html">dependency_graph::Node</a> <br class="typebreak"/>
 *, <a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a7338b4d271ccd55c1f82c1b46f2d69d6">m_nodes</a></td></tr>
 <tr class="separator:a7338b4d271ccd55c1f82c1b46f2d69d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af8e1da5ab1c249646a4c82c53196e94b"><td class="memItemLeft" align="right" valign="top">QSize&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#af8e1da5ab1c249646a4c82c53196e94b">m_sizeHint</a></td></tr>
+<tr class="separator:af8e1da5ab1c249646a4c82c53196e94b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>A simple adaptor widget, marrying qt_graph_editor and <a class="el" href="namespacedependency__graph.html">dependency_graph</a>. </p>
@@ -263,6 +271,21 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>returns the dependency graph </p>
+
+</div>
+</div>
+<a class="anchor" id="abe4df5967289b4474e2363326f90bfad"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classnode__editor_1_1GraphWidget.html">node_editor::GraphWidget</a> * Adaptor::graphWidget </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -473,6 +496,45 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a499166fcd03deb96b1669940f611c508"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Adaptor::setSizeHint </td>
+          <td>(</td>
+          <td class="paramtype">const QSize &amp;&#160;</td>
+          <td class="paramname"><em>sh</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a228e4e5c06cb9394d2bc24643c6dc024"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">QSize Adaptor::sizeHint </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Member Data Documentation</h2>
 <a class="anchor" id="a7816fec422a4182dfaaaafab0e26d4dc"></a>
 <div class="memitem">
@@ -554,6 +616,26 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="af8e1da5ab1c249646a4c82c53196e94b"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">QSize Adaptor::m_sizeHint</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <hr/>The documentation for this class was generated from the following files:<ul>
 <li>src/apps/possumwood/<a class="el" href="adaptor_8h_source.html">adaptor.h</a></li>
 <li>src/apps/possumwood/<a class="el" href="adaptor_8cpp.html">adaptor.cpp</a></li>
@@ -564,7 +646,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classAdaptor.html">Adaptor</a></li>
-    <li class="footer">Generated on Sun Jun 4 2017 01:02:45 for possumwood by
+    <li class="footer">Generated on Mon Jun 5 2017 21:50:16 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>
