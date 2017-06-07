@@ -1,14 +1,14 @@
-<map id="src/apps/possumwood/properties_ui/factory.inl" name="src/apps/possumwood/properties_ui/factory.inl">
-<area shape="rect" id="node2" href="$property_8h.html" title="src/apps/possumwood\l/properties_ui/property.h" alt="" coords="549,97,712,138"/>
+<map id="src/apps/possumwood/properties/factory.inl" name="src/apps/possumwood/properties/factory.inl">
+<area shape="rect" id="node2" href="$property_8h.html" title="src/apps/possumwood\l/properties/property.h" alt="" coords="538,97,691,138"/>
 <area shape="rect" id="node3" href="$properties_8h.html" title="src/apps/possumwood\l/properties.h" alt="" coords="181,187,333,229"/>
-<area shape="rect" id="node8" href="$factory_8cpp.html" title="src/apps/possumwood\l/properties_ui/factory.cpp" alt="" coords="358,187,527,229"/>
-<area shape="rect" id="node9" href="$float__ui_8h.html" title="src/apps/possumwood\l/properties_ui/float_ui.h" alt="" coords="552,187,709,229"/>
-<area shape="rect" id="node11" href="$property_8cpp.html" title="src/apps/possumwood\l/properties_ui/property.cpp" alt="" coords="733,187,909,229"/>
-<area shape="rect" id="node12" href="$properties__ui_2vec3_8h.html" title="src/apps/possumwood\l/properties_ui/vec3.h" alt="" coords="934,187,1087,229"/>
-<area shape="rect" id="node4" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="93,285,245,326"/>
-<area shape="rect" id="node7" href="$properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="270,285,423,326"/>
-<area shape="rect" id="node5" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="5,382,157,423"/>
-<area shape="rect" id="node6" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="182,382,335,423"/>
-<area shape="rect" id="node10" href="$float__ui_8cpp.html" title="src/apps/possumwood\l/properties_ui/float\l_ui.cpp" alt="" coords="554,277,707,333"/>
-<area shape="rect" id="node13" href="$properties__ui_2vec3_8cpp.html" title="src/apps/possumwood\l/properties_ui/vec3.cpp" alt="" coords="932,285,1089,326"/>
+<area shape="rect" id="node8" href="$factory_8cpp.html" title="src/apps/possumwood\l/properties/factory.cpp" alt="" coords="358,187,511,229"/>
+<area shape="rect" id="node9" href="$property_8cpp.html" title="src/apps/possumwood\l/properties/property.cpp" alt="" coords="535,187,693,229"/>
+<area shape="rect" id="node10" href="$ui_2vec3_8h.html" title="src/plugins/3d/ui/vec3.h" alt="" coords="719,195,877,221"/>
+<area shape="rect" id="node12" href="$plugins_2maths_2ui_2float__ui_8h.html" title="src/plugins/maths/ui\l/float_ui.h" alt="" coords="904,187,1043,229"/>
+<area shape="rect" id="node4" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="93,278,245,319"/>
+<area shape="rect" id="node7" href="$properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="270,278,423,319"/>
+<area shape="rect" id="node5" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="5,369,157,410"/>
+<area shape="rect" id="node6" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="182,369,335,410"/>
+<area shape="rect" id="node11" href="$ui_2vec3_8cpp.html" title="src/plugins/3d/ui/vec3.cpp" alt="" coords="709,285,883,312"/>
+<area shape="rect" id="node13" href="$plugins_2maths_2ui_2float__ui_8cpp.html" title="src/plugins/maths/ui\l/float_ui.cpp" alt="" coords="908,278,1047,319"/>
 </map>

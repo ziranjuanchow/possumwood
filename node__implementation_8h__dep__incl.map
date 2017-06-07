@@ -1,7 +1,7 @@
 <map id="src/apps/possumwood/node_implementation.h" name="src/apps/possumwood/node_implementation.h">
 <area shape="rect" id="node2" href="$node__implementation_8cpp.html" title="src/apps/possumwood\l/node_implementation.cpp" alt="" coords="5,97,179,138"/>
-<area shape="rect" id="node3" href="$addition_8cpp.html" title="src/apps/possumwood\l/nodes/addition.cpp" alt="" coords="203,97,356,138"/>
-<area shape="rect" id="node4" href="$cube_8cpp.html" title="src/apps/possumwood\l/nodes/cube.cpp" alt="" coords="381,97,533,138"/>
-<area shape="rect" id="node5" href="$multiplication_8cpp.html" title="src/apps/possumwood\l/nodes/multiplication.cpp" alt="" coords="558,97,724,138"/>
-<area shape="rect" id="node6" href="$nodes_2vec3_8cpp.html" title="src/apps/possumwood\l/nodes/vec3.cpp" alt="" coords="749,97,901,138"/>
+<area shape="rect" id="node3" href="$cube_8cpp.html" title="src/plugins/3d/nodes\l/cube.cpp" alt="" coords="203,97,345,138"/>
+<area shape="rect" id="node4" href="$nodes_2vec3_8cpp.html" title="src/plugins/3d/nodes\l/vec3.cpp" alt="" coords="370,97,512,138"/>
+<area shape="rect" id="node5" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="537,97,700,138"/>
+<area shape="rect" id="node6" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="725,97,888,138"/>
 </map>

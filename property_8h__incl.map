@@ -1,4 +1,4 @@
-<map id="src/apps/possumwood/properties_ui/property.h" name="src/apps/possumwood/properties_ui/property.h">
+<map id="src/apps/possumwood/properties/property.h" name="src/apps/possumwood/properties/property.h">
 <area shape="rect" id="node5" href="$factory_8inl.html" title="factory.inl" alt="" coords="1201,253,1279,280"/>
 <area shape="rect" id="node12" href="$node_8inl.html" title="dependency_graph/node.inl" alt="" coords="1850,96,2029,123"/>
 <area shape="rect" id="node50" href="$port_8inl.html" title="dependency_graph/port.inl" alt="" coords="1725,171,1899,197"/>

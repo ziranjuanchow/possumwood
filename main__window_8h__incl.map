@@ -15,7 +15,7 @@
 <area shape="rect" id="node37" href="$graph__scene_8h.html" title="graph_scene.h" alt="" coords="145,485,252,512"/>
 <area shape="rect" id="node36" href="$qt__node__editor_2port_8h.html" title="port.h" alt="" coords="339,651,393,677"/>
 <area shape="rect" id="node39" href="$edge_8h.html" title="edge.h" alt="" coords="5,568,67,595"/>
-<area shape="rect" id="node42" href="$property_8h.html" title="properties_ui/property.h" alt="" coords="1757,171,1915,197"/>
+<area shape="rect" id="node42" href="$property_8h.html" title="properties/property.h" alt="" coords="1765,171,1905,197"/>
 <area shape="rect" id="node43" href="$factory_8inl.html" title="factory.inl" alt="" coords="1855,403,1933,429"/>
 <area shape="rect" id="node45" href="$node_8inl.html" title="dependency_graph/node.inl" alt="" coords="1497,245,1676,272"/>
 <area shape="rect" id="node47" href="$port_8inl.html" title="dependency_graph/port.inl" alt="" coords="1623,320,1797,347"/>

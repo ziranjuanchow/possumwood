@@ -1,0 +1,17 @@
+<map id="src/plugins/maths/ui/float_ui.h" name="src/plugins/maths/ui/float_ui.h">
+<area shape="rect" id="node4" href="$property_8h.html" title="possumwood/properties\l/property.h" alt="" coords="1573,97,1732,138"/>
+<area shape="rect" id="node8" href="$factory_8inl.html" title="factory.inl" alt="" coords="1021,344,1099,371"/>
+<area shape="rect" id="node15" href="$node_8inl.html" title="dependency_graph/node.inl" alt="" coords="1627,187,1807,213"/>
+<area shape="rect" id="node50" href="$port_8inl.html" title="dependency_graph/port.inl" alt="" coords="1502,261,1676,288"/>
+<area shape="rect" id="node9" href="$factory_8h.html" title="factory.h" alt="" coords="1023,427,1096,453"/>
+<area shape="rect" id="node16" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1680,344,1741,371"/>
+<area shape="rect" id="node45" href="$graph_8h.html" title="graph.h" alt="" coords="2123,261,2188,288"/>
+<area shape="rect" id="node48" href="$datablock_8inl.html" title="datablock.inl" alt="" coords="1431,501,1525,528"/>
+<area shape="rect" id="node18" href="$attr_8h.html" title="attr.h" alt="" coords="1557,501,1608,528"/>
+<area shape="rect" id="node38" href="$libs_2dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1806,576,1892,603"/>
+<area shape="rect" id="node44" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1562,427,1616,453"/>
+<area shape="rect" id="node20" href="$datablock_8h.html" title="datablock.h" alt="" coords="1434,576,1523,603"/>
+<area shape="rect" id="node22" href="$json_8h.html" title="io/json.h" alt="" coords="951,741,1021,768"/>
+<area shape="rect" id="node37" href="$data_8h.html" title="data.h" alt="" coords="1351,659,1408,685"/>
+<area shape="rect" id="node49" href="$data_8inl.html" title="data.inl" alt="" coords="1249,576,1313,603"/>
+</map>

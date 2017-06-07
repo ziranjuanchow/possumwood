@@ -103,6 +103,7 @@ $(document).ready(function(){initNavTree('apps_2possumwood_2main_8cpp.html','');
 
 <div class="header">
   <div class="summary">
+<a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">main.cpp File Reference</div>  </div>
@@ -111,7 +112,9 @@ $(document).ready(function(){initNavTree('apps_2possumwood_2main_8cpp.html','');
 <div class="textblock"><code>#include &lt;iostream&gt;</code><br/>
 <code>#include &lt;string&gt;</code><br/>
 <code>#include &lt;stdexcept&gt;</code><br/>
+<code>#include &lt;dlfcn.h&gt;</code><br/>
 <code>#include &lt;boost/program_options.hpp&gt;</code><br/>
+<code>#include &lt;boost/filesystem.hpp&gt;</code><br/>
 <code>#include &lt;GL/freeglut.h&gt;</code><br/>
 <code>#include &lt;QApplication&gt;</code><br/>
 <code>#include &lt;QMainWindow&gt;</code><br/>
@@ -119,17 +122,16 @@ $(document).ready(function(){initNavTree('apps_2possumwood_2main_8cpp.html','');
 <code>#include &lt;QAction&gt;</code><br/>
 <code>#include &lt;QKeyEvent&gt;</code><br/>
 <code>#include &lt;QHBoxLayout&gt;</code><br/>
-<code>#include &lt;ImathVec.h&gt;</code><br/>
+<code>#include &lt;<a class="el" href="graph_8h_source.html">dependency_graph/graph.h</a>&gt;</code><br/>
+<code>#include &lt;<a class="el" href="node_8inl.html">dependency_graph/node.inl</a>&gt;</code><br/>
+<code>#include &lt;<a class="el" href="datablock_8inl.html">dependency_graph/datablock.inl</a>&gt;</code><br/>
+<code>#include &lt;<a class="el" href="metadata_8inl.html">dependency_graph/metadata.inl</a>&gt;</code><br/>
+<code>#include &lt;<a class="el" href="attr_8inl.html">dependency_graph/attr.inl</a>&gt;</code><br/>
 <code>#include &quot;<a class="el" href="bind_8h_source.html">bind.h</a>&quot;</code><br/>
 <code>#include &quot;node.h&quot;</code><br/>
 <code>#include &quot;<a class="el" href="connected__edge_8h_source.html">connected_edge.h</a>&quot;</code><br/>
 <code>#include &quot;<a class="el" href="graph__widget_8h_source.html">graph_widget.h</a>&quot;</code><br/>
-<code>#include &lt;<a class="el" href="graph_8h_source.html">dependency_graph/graph.h</a>&gt;</code><br/>
-<code>#include &lt;<a class="el" href="node_8inl.html">dependency_graph/node.inl</a>&gt;</code><br/>
-<code>#include &lt;<a class="el" href="datablock_8inl.html">dependency_graph/datablock.inl</a>&gt;</code><br/>
 <code>#include &quot;<a class="el" href="node__data_8h_source.html">node_data.h</a>&quot;</code><br/>
-<code>#include &lt;<a class="el" href="metadata_8inl.html">dependency_graph/metadata.inl</a>&gt;</code><br/>
-<code>#include &lt;<a class="el" href="attr_8inl.html">dependency_graph/attr.inl</a>&gt;</code><br/>
 <code>#include &quot;<a class="el" href="adaptor_8h_source.html">adaptor.h</a>&quot;</code><br/>
 <code>#include &quot;<a class="el" href="main__window_8h_source.html">main_window.h</a>&quot;</code><br/>
 </div><div class="textblock"><div class="dynheader">
@@ -137,14 +139,32 @@ Include dependency graph for main.cpp:</div>
 <div class="dyncontent">
 <div class="center"><img src="apps_2possumwood_2main_8cpp__incl.png" border="0" usemap="#src_2apps_2possumwood_2main_8cpp" alt=""/></div>
 <map name="src_2apps_2possumwood_2main_8cpp" id="src_2apps_2possumwood_2main_8cpp">
-<area shape="rect" id="node14" href="bind_8h.html" title="bind.h" alt="" coords="1611,96,1668,123"/><area shape="rect" id="node18" href="connected__edge_8h.html" title="connected_edge.h" alt="" coords="1341,245,1469,272"/><area shape="rect" id="node20" href="graph__widget_8h.html" title="graph_widget.h" alt="" coords="1206,245,1316,272"/><area shape="rect" id="node24" href="graph_8h.html" title="dependency_graph/graph.h" alt="" coords="2236,245,2415,272"/><area shape="rect" id="node37" href="node_8inl.html" title="dependency_graph/node.inl" alt="" coords="1802,171,1981,197"/><area shape="rect" id="node38" href="datablock_8inl.html" title="datablock.inl" alt="" coords="1739,245,1833,272"/><area shape="rect" id="node41" href="node__data_8h.html" title="node_data.h" alt="" coords="1953,96,2047,123"/><area shape="rect" id="node43" href="metadata_8inl.html" title="dependency_graph/metadata.inl" alt="" coords="1989,245,2195,272"/><area shape="rect" id="node44" href="attr_8inl.html" title="dependency_graph/attr.inl" alt="" coords="1493,245,1664,272"/><area shape="rect" id="node45" href="adaptor_8h.html" title="adaptor.h" alt="" coords="2363,171,2439,197"/><area shape="rect" id="node47" href="main__window_8h.html" title="main_window.h" alt="" coords="2445,96,2556,123"/><area shape="rect" id="node19" href="edge_8h.html" title="edge.h" alt="" coords="1351,411,1412,437"/><area shape="rect" id="node22" href="qt__node__editor_2node_8h.html" title="node.h" alt="" coords="1215,411,1276,437"/><area shape="rect" id="node23" href="graph__scene_8h.html" title="graph_scene.h" alt="" coords="1192,328,1299,355"/><area shape="rect" id="node33" href="dependency__graph_2node_8h.html" title="node.h" alt="" coords="1944,328,2005,355"/><area shape="rect" id="node34" href="attr_8h.html" title="attr.h" alt="" coords="1486,411,1537,437"/><area shape="rect" id="node36" href="libs_2dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1833,411,1919,437"/><area shape="rect" id="node35" href="datablock_8h.html" title="datablock.h" alt="" coords="1531,493,1620,520"/><area shape="rect" id="node40" href="data_8inl.html" title="data.inl" alt="" coords="1755,328,1819,355"/></map>
+<area shape="rect" id="node15" href="graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1719,245,1897,272"/><area shape="rect" id="node29" href="node_8inl.html" title="dependency_graph/node.inl" alt="" coords="1583,171,1763,197"/><area shape="rect" id="node30" href="datablock_8inl.html" title="datablock.inl" alt="" coords="1011,245,1105,272"/><area shape="rect" id="node33" href="metadata_8inl.html" title="dependency_graph/metadata.inl" alt="" coords="1361,245,1567,272"/><area shape="rect" id="node34" href="attr_8inl.html" title="dependency_graph/attr.inl" alt="" coords="1189,171,1360,197"/><area shape="rect" id="node35" href="bind_8h.html" title="bind.h" alt="" coords="1975,96,2032,123"/><area shape="rect" id="node38" href="connected__edge_8h.html" title="connected_edge.h" alt="" coords="2667,245,2795,272"/><area shape="rect" id="node40" href="graph__widget_8h.html" title="graph_widget.h" alt="" coords="2174,245,2284,272"/><area shape="rect" id="node44" href="node__data_8h.html" title="node_data.h" alt="" coords="2063,96,2156,123"/><area shape="rect" id="node46" href="adaptor_8h.html" title="adaptor.h" alt="" coords="2253,171,2328,197"/><area shape="rect" id="node48" href="main__window_8h.html" title="main_window.h" alt="" coords="2235,96,2345,123"/><area shape="rect" id="node25" href="dependency__graph_2node_8h.html" title="node.h" alt="" coords="1453,328,1515,355"/><area shape="rect" id="node26" href="attr_8h.html" title="attr.h" alt="" coords="1225,411,1276,437"/><area shape="rect" id="node28" href="libs_2dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1403,411,1489,437"/><area shape="rect" id="node27" href="datablock_8h.html" title="datablock.h" alt="" coords="1174,493,1263,520"/><area shape="rect" id="node32" href="data_8inl.html" title="data.inl" alt="" coords="920,328,984,355"/><area shape="rect" id="node39" href="edge_8h.html" title="edge.h" alt="" coords="2311,411,2372,437"/><area shape="rect" id="node42" href="qt__node__editor_2node_8h.html" title="node.h" alt="" coords="2125,411,2187,437"/><area shape="rect" id="node43" href="graph__scene_8h.html" title="graph_scene.h" alt="" coords="2176,328,2283,355"/></map>
 </div>
 </div><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a3769cddb2cd1e688027a4ea9db521033"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="apps_2possumwood_2main_8cpp.html#a3769cddb2cd1e688027a4ea9db521033">PLUGIN_DIR</a>&#160;&#160;&#160;&quot;./plugins&quot;</td></tr>
+<tr class="separator:a3769cddb2cd1e688027a4ea9db521033"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:a0ddf1224851353fc92bfbff6f499fa97"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="apps_2possumwood_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97">main</a> (int argc, char *argv[])</td></tr>
 <tr class="separator:a0ddf1224851353fc92bfbff6f499fa97"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a class="anchor" id="a3769cddb2cd1e688027a4ea9db521033"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define PLUGIN_DIR&#160;&#160;&#160;&quot;./plugins&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Function Documentation</h2>
 <a class="anchor" id="a0ddf1224851353fc92bfbff6f499fa97"></a>
 <div class="memitem">
@@ -177,8 +197,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_53adf0b982dc8545998aae3f283a5a58.html">apps</a></li><li class="navelem"><a class="el" href="dir_c7d5d0c4de69cf1ad6ffe9148da53313.html">possumwood</a></li><li class="navelem"><a class="el" href="apps_2possumwood_2main_8cpp.html">main.cpp</a></li>
-    <li class="footer">Generated on Tue Jun 6 2017 11:18:52 for possumwood by
+    <li class="navelem"><a class="el" href="dir_1551752abcc7cd92f2ad9a1f2edf2b11.html">src</a></li><li class="navelem"><a class="el" href="dir_6d6181cb57d006a48d130e55ddf9163a.html">apps</a></li><li class="navelem"><a class="el" href="dir_78961c524428d8bda205530f91ff840f.html">possumwood</a></li><li class="navelem"><a class="el" href="apps_2possumwood_2main_8cpp.html">main.cpp</a></li>
+    <li class="footer">Generated on Wed Jun 7 2017 22:06:05 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>
