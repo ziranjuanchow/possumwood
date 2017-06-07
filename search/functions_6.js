@@ -29,5 +29,5 @@ var searchData=
   ['getoutput',['getOutput',['../classdependency__graph_1_1Node.html#a0269561f815ee85e9ad199b4368f0a63',1,'dependency_graph::Node']]],
   ['graph',['Graph',['../classdependency__graph_1_1Graph.html#a098a4f75243e716b7329a887f57d3dd4',1,'dependency_graph::Graph::Graph()'],['../classAdaptor.html#ad9101caff9d30030dcc950f9d456f6fc',1,'Adaptor::graph()'],['../classdependency__graph_1_1Node.html#a314cd05b1a828bb63e2d451277a9e8f0',1,'dependency_graph::Node::graph() const '],['../classdependency__graph_1_1Node.html#a1f2f6d3a5e9062717e8ae26526b64ac0',1,'dependency_graph::Node::graph()']]],
   ['graphscene',['GraphScene',['../classnode__editor_1_1GraphScene.html#a9f4618283fb8c5f76003e62b997f3592',1,'node_editor::GraphScene']]],
-  ['graphwidget',['GraphWidget',['../classnode__editor_1_1GraphWidget.html#addc5ea0d08f7443334e989f9119c42e0',1,'node_editor::GraphWidget::GraphWidget()'],['../classAdaptor.html#abe4df5967289b4474e2363326f90bfad',1,'Adaptor::graphWidget()']]]
+  ['graphwidget',['graphWidget',['../classAdaptor.html#abe4df5967289b4474e2363326f90bfad',1,'Adaptor::graphWidget()'],['../classnode__editor_1_1GraphWidget.html#addc5ea0d08f7443334e989f9119c42e0',1,'node_editor::GraphWidget::GraphWidget()']]]
 ];

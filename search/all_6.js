@@ -43,5 +43,5 @@ var searchData=
   ['graphscene',['GraphScene',['../classnode__editor_1_1Edge.html#a0fca9dcf8904426cbe98710a78369ff2',1,'node_editor::Edge::GraphScene()'],['../classnode__editor_1_1GraphScene.html#a9f4618283fb8c5f76003e62b997f3592',1,'node_editor::GraphScene::GraphScene()']]],
   ['graphvalueconnection',['graphValueConnection',['../structProperties_1_1Property.html#ab896a3ba68386fc9e284feba9651c370',1,'Properties::Property']]],
   ['graphwidget',['GraphWidget',['../classnode__editor_1_1GraphWidget.html',1,'node_editor']]],
-  ['graphwidget',['GraphWidget',['../classnode__editor_1_1GraphWidget.html#addc5ea0d08f7443334e989f9119c42e0',1,'node_editor::GraphWidget::GraphWidget()'],['../classAdaptor.html#abe4df5967289b4474e2363326f90bfad',1,'Adaptor::graphWidget()']]]
+  ['graphwidget',['graphWidget',['../classAdaptor.html#abe4df5967289b4474e2363326f90bfad',1,'Adaptor::graphWidget()'],['../classnode__editor_1_1GraphWidget.html#addc5ea0d08f7443334e989f9119c42e0',1,'node_editor::GraphWidget::GraphWidget()']]]
 ];

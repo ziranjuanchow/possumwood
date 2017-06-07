@@ -9,7 +9,7 @@ var searchData=
   ['m_5fcompute',['m_compute',['../classdependency__graph_1_1Metadata.html#a47fe77f6c96236f14cd0ecb24fbfba5f',1,'dependency_graph::Metadata']]],
   ['m_5fconnectedside',['m_connectedSide',['../classnode__editor_1_1GraphScene.html#a8a32c2eeea2a661e99b3c4f983de860b',1,'node_editor::GraphScene']]],
   ['m_5fconnectioncallback',['m_connectionCallback',['../classnode__editor_1_1GraphScene.html#ac3fe4c926819b30b2754e4aa3fa226a3',1,'node_editor::GraphScene']]],
-  ['m_5fconnections',['m_connections',['../classdependency__graph_1_1Graph_1_1Connections.html#a4801a7792aa2f05ce6b2e404ff9219ff',1,'dependency_graph::Graph::Connections::m_connections()'],['../classdependency__graph_1_1Graph.html#a211a8b14ff5f63429175b5d27ed76af7',1,'dependency_graph::Graph::m_connections()']]],
+  ['m_5fconnections',['m_connections',['../classdependency__graph_1_1Graph_1_1Connections.html#a4801a7792aa2f05ce6b2e404ff9219ff',1,'dependency_graph::Graph::Connections::m_connections()'],['../classdependency__graph_1_1Graph.html#a211a8b14ff5f63429175b5d27ed76af7',1,'dependency_graph::Graph::m_connections()'],['../classproperties_1_1vec3__ui.html#a590725d4815e00d94cf99a702f9d5ba9',1,'properties::vec3_ui::m_connections()']]],
   ['m_5fdata',['m_data',['../classdependency__graph_1_1Datablock.html#a4025ef4a94fea3b48092ecf7c35026c9',1,'dependency_graph::Datablock::m_data()'],['../classdependency__graph_1_1Node.html#a42384c246c81ca47c649538d5be555c2',1,'dependency_graph::Node::m_data()']]],
   ['m_5fdefaultvalue',['m_defaultValue',['../classdependency__graph_1_1TypedAttr.html#af9cec68720fbd88a22c0904bb43eb9a1',1,'dependency_graph::TypedAttr']]],
   ['m_5fdirty',['m_dirty',['../classdependency__graph_1_1Port.html#a4ec3ddcb2b213fb855e17a395e8102fc',1,'dependency_graph::Port']]],
@@ -71,12 +71,7 @@ var searchData=
   ['m_5fvaluecallbacks',['m_valueCallbacks',['../classdependency__graph_1_1Port.html#aa732025aac5fa0eae08ff92b2d4e7629',1,'dependency_graph::Port']]],
   ['m_5fvaluechangeconnection',['m_valueChangeConnection',['../classproperties_1_1float__ui.html#a9872376e468416e04699e2f5ff9310d1',1,'properties::float_ui']]],
   ['m_5fvaluechanged',['m_valueChanged',['../classproperties_1_1property__base.html#aa6168d755f8071b4ba9fe9be5129ba22',1,'properties::property_base']]],
+  ['m_5fvalues',['m_values',['../classproperties_1_1vec3__ui.html#a98dc80ce98b727bf13a595c203e4c32e',1,'properties::vec3_ui']]],
   ['m_5fviewport',['m_viewport',['../classMainWindow.html#ad33afa9553e94ddf7a78ba5706c26233',1,'MainWindow']]],
-  ['m_5fwidget',['m_widget',['../classproperties_1_1vec3__ui.html#a7fa1392be1277eedcd081940114d2317',1,'properties::vec3_ui']]],
-  ['m_5fx',['m_x',['../classproperties_1_1vec3__ui.html#ac5f081c4ca9d462f53f7d5134d4cbaed',1,'properties::vec3_ui']]],
-  ['m_5fxchanged',['m_xChanged',['../classproperties_1_1vec3__ui.html#a67fc65e09060de145f45db7b6ce94a37',1,'properties::vec3_ui']]],
-  ['m_5fy',['m_y',['../classproperties_1_1vec3__ui.html#a8141489b31f037abe01cb6dd66e3e099',1,'properties::vec3_ui']]],
-  ['m_5fychanged',['m_yChanged',['../classproperties_1_1vec3__ui.html#ab47a9520727d5fb8cd09b7c1f4f1406b',1,'properties::vec3_ui']]],
-  ['m_5fz',['m_z',['../classproperties_1_1vec3__ui.html#a600a0b6a7d315234e401f8172d120a5c',1,'properties::vec3_ui']]],
-  ['m_5fzchanged',['m_zChanged',['../classproperties_1_1vec3__ui.html#a63f21d428c76c3c10d7ecbf10f292729',1,'properties::vec3_ui']]]
+  ['m_5fwidget',['m_widget',['../classproperties_1_1vec3__ui.html#a7fa1392be1277eedcd081940114d2317',1,'properties::vec3_ui']]]
 ];
