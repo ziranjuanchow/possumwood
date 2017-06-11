@@ -1,21 +1,21 @@
 <map id="src/apps/possumwood/main_window.cpp" name="src/apps/possumwood/main_window.cpp">
 <area shape="rect" id="node2" href="$main__window_8h.html" title="main_window.h" alt="" coords="405,104,516,131"/>
 <area shape="rect" id="node21" href="$adaptor_8h.html" title="adaptor.h" alt="" coords="865,195,940,221"/>
-<area shape="rect" id="node39" href="$bind_8h.html" title="bind.h" alt="" coords="1907,104,1964,131"/>
-<area shape="rect" id="node41" href="$attr_8inl.html" title="dependency_graph/attr.inl" alt="" coords="1469,360,1640,387"/>
-<area shape="rect" id="node42" href="$metadata_8inl.html" title="dependency_graph/metadata.inl" alt="" coords="1766,360,1972,387"/>
+<area shape="rect" id="node39" href="$bind_8h.html" title="qt_node_editor/bind.h" alt="" coords="1883,104,2029,131"/>
+<area shape="rect" id="node41" href="$attr_8inl.html" title="dependency_graph/attr.inl" alt="" coords="1469,376,1640,403"/>
+<area shape="rect" id="node42" href="$metadata_8inl.html" title="dependency_graph/metadata.inl" alt="" coords="1766,376,1972,403"/>
 <area shape="rect" id="node43" href="$values_8inl.html" title="dependency_graph/values.inl" alt="" coords="650,195,840,221"/>
-<area shape="rect" id="node45" href="$io_2graph_8h.html" title="dependency_graph/io\l/graph.h" alt="" coords="1518,187,1663,229"/>
-<area shape="rect" id="node47" href="$node__data_8h.html" title="node_data.h" alt="" coords="1739,195,1832,221"/>
-<area shape="rect" id="node49" href="$apps_2possumwood_2metadata_8h.html" title="metadata.h" alt="" coords="2049,277,2135,304"/>
-<area shape="rect" id="node50" href="$io_2node__data_8h.html" title="io/node_data.h" alt="" coords="1675,104,1781,131"/>
-<area shape="rect" id="node6" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1031,277,1209,304"/>
+<area shape="rect" id="node45" href="$io_2graph_8h.html" title="dependency_graph/io\l/graph.h" alt="" coords="1451,187,1596,229"/>
+<area shape="rect" id="node47" href="$possumwood__sdk_2metadata_8h.html" title="possumwood_sdk/metadata.h" alt="" coords="2049,285,2244,312"/>
+<area shape="rect" id="node48" href="$node__data_8h.html" title="possumwood_sdk/node\l_data.h" alt="" coords="1673,187,1831,229"/>
+<area shape="rect" id="node50" href="$io_2node__data_8h.html" title="possumwood_sdk/io/node\l_data.h" alt="" coords="1584,97,1757,138"/>
+<area shape="rect" id="node6" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1063,285,1241,312"/>
 <area shape="rect" id="node24" href="$properties_8h.html" title="properties.h" alt="" coords="339,195,429,221"/>
-<area shape="rect" id="node25" href="$viewport_8h.html" title="viewport.h" alt="" coords="335,360,416,387"/>
-<area shape="rect" id="node16" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="848,360,909,387"/>
-<area shape="rect" id="node17" href="$attr_8h.html" title="attr.h" alt="" coords="1419,443,1471,469"/>
-<area shape="rect" id="node18" href="$libs_2dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1590,443,1676,469"/>
-<area shape="rect" id="node23" href="$graph__widget_8h.html" title="graph_widget.h" alt="" coords="895,277,1005,304"/>
-<area shape="rect" id="node44" href="$values_8h.html" title="values.h" alt="" coords="499,277,569,304"/>
-<area shape="rect" id="node46" href="$json_8h.html" title="io/json.h" alt="" coords="1495,443,1565,469"/>
+<area shape="rect" id="node25" href="$viewport_8h.html" title="viewport.h" alt="" coords="335,376,416,403"/>
+<area shape="rect" id="node16" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="848,376,909,403"/>
+<area shape="rect" id="node17" href="$attr_8h.html" title="attr.h" alt="" coords="1419,459,1471,485"/>
+<area shape="rect" id="node18" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1590,459,1676,485"/>
+<area shape="rect" id="node23" href="$graph__widget_8h.html" title="qt_node_editor/graph\l_widget.h" alt="" coords="895,278,1037,319"/>
+<area shape="rect" id="node44" href="$values_8h.html" title="values.h" alt="" coords="499,285,569,312"/>
+<area shape="rect" id="node46" href="$json_8h.html" title="io/json.h" alt="" coords="1495,459,1565,485"/>
 </map>

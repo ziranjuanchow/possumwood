@@ -1,5 +1,5 @@
 var node__data_8cpp =
 [
-    [ "from_json", "node__data_8cpp.html#a3820cc4e083502df6418ed2055ab6559", null ],
-    [ "to_json", "node__data_8cpp.html#a1472d9aebab88252536cc15719ef70ec", null ]
+    [ "from_json", "node__data_8cpp.html#a97b3a3418e7323601daccb0ce99950cb", null ],
+    [ "to_json", "node__data_8cpp.html#aa806f3dc9a274d6dce82a1f175b87d52", null ]
 ];

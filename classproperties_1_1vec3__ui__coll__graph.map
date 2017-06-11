@@ -1,6 +1,0 @@
-<map id="properties::vec3_ui" name="properties::vec3_ui">
-<area shape="rect" id="node2" href="$classproperties_1_1property.html" title="properties::property\l\&lt; Imath::Vec3\&lt; float\l \&gt;, vec3_ui \&gt;" alt="" coords="39,291,181,347"/>
-<area shape="rect" id="node3" href="$classproperties_1_1property__base.html" title="properties::property_base" alt="" coords="5,133,173,160"/>
-<area shape="rect" id="node6" href="$classproperties_1_1factory.html" title="properties::factory" alt="" coords="130,83,256,109"/>
-<area shape="rect" id="node5" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; vec3_ui \&gt;" alt="" coords="128,185,257,226"/>
-</map>

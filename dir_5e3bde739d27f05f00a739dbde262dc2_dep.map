@@ -1,15 +1,12 @@
 <map id="src/plugins/openmesh/nodes" name="src/plugins/openmesh/nodes">
-<area shape="rect" id="node1" href="dir_5e3bde739d27f05f00a739dbde262dc2.html" title="nodes" alt="" coords="95,52,167,100"/>
+<area shape="rect" id="node1" href="dir_5e3bde739d27f05f00a739dbde262dc2.html" title="nodes" alt="" coords="59,52,131,100"/>
 <area shape="rect" id="node2" href="dir_d364a33c956d006426f8b2af80964727.html" title="datatypes" alt="" coords="5,244,83,292"/>
-<area shape="rect" id="edge4-headlabel" href="dir_000024_000021.html" title="1" alt="" coords="35,217,43,231"/>
-<area shape="rect" id="node3" href="dir_dc1c45222fede95e5a385fd8775f1a9a.html" title="io" alt="" coords="47,148,119,196"/>
-<area shape="rect" id="edge5-headlabel" href="dir_000024_000023.html" title="3" alt="" coords="106,128,114,143"/>
-<area shape="rect" id="node4" href="dir_6d6181cb57d006a48d130e55ddf9163a.html" title="apps" alt="" coords="143,148,215,196"/>
-<area shape="rect" id="edge6-headlabel" href="dir_000024_000001.html" title="2" alt="" coords="162,121,170,135"/>
-<area shape="rect" id="node5" href="dir_91c9d2e87dd13602397f5b4d38043d61.html" title="libs" alt="" coords="143,244,215,292"/>
-<area shape="rect" id="edge7-headlabel" href="dir_000024_000007.html" title="10" alt="" coords="210,227,225,242"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000023_000021.html" title="1" alt="" coords="64,223,72,238"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000023_000007.html" title="2" alt="" coords="144,218,152,232"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000001_000007.html" title="27" alt="" coords="180,218,194,233"/>
-<area shape="rect" id="clust1" href="dir_e1f5135f278504ffd8b2985df4ef0b68.html" title="openmesh" alt="" coords="84,16,177,111"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000025_000022.html" title="1" alt="" coords="44,218,52,232"/>
+<area shape="rect" id="node3" href="dir_dc1c45222fede95e5a385fd8775f1a9a.html" title="io" alt="" coords="59,148,131,196"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000025_000024.html" title="3" alt="" coords="99,122,107,137"/>
+<area shape="rect" id="node4" href="dir_91c9d2e87dd13602397f5b4d38043d61.html" title="libs" alt="" coords="120,244,192,292"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000025_000006.html" title="12" alt="" coords="157,218,172,233"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000024_000022.html" title="1" alt="" coords="68,225,76,239"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000024_000006.html" title="2" alt="" coords="134,217,142,231"/>
+<area shape="rect" id="clust1" href="dir_e1f5135f278504ffd8b2985df4ef0b68.html" title="openmesh" alt="" coords="48,16,141,111"/>
 </map>

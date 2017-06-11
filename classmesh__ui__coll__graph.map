@@ -1,6 +1,6 @@
 <map id="mesh_ui" name="mesh_ui">
-<area shape="rect" id="node2" href="$classproperties_1_1property.html" title="properties::property\l\&lt; std::shared_ptr\&lt; const\l Mesh \&gt;, mesh_ui \&gt;" alt="" coords="28,291,192,347"/>
-<area shape="rect" id="node3" href="$classproperties_1_1property__base.html" title="properties::property_base" alt="" coords="5,133,173,160"/>
-<area shape="rect" id="node6" href="$classproperties_1_1factory.html" title="properties::factory" alt="" coords="130,83,256,109"/>
-<area shape="rect" id="node5" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; mesh_ui \&gt;" alt="" coords="127,185,261,226"/>
+<area shape="rect" id="node2" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; std::shared\l_ptr\&lt; const Mesh \&gt;, mesh_ui \&gt;" alt="" coords="629,27,835,83"/>
+<area shape="rect" id="node3" href="$classpossumwood_1_1properties_1_1property__base.html" title="possumwood::properties\l::property_base" alt="" coords="378,5,542,46"/>
+<area shape="rect" id="node5" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; mesh_ui \&gt;" alt="" coords="369,70,551,111"/>
+<area shape="rect" id="node6" href="$classpossumwood_1_1properties_1_1factory.html" title="possumwood::properties\l::factory" alt="" coords="153,70,317,111"/>
 </map>

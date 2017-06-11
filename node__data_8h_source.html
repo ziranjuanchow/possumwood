@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.6"/>
-<title>possumwood: src/apps/possumwood/node_data.h Source File</title>
+<title>possumwood: src/libs/possumwood_sdk/node_data.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -110,28 +110,32 @@ $(document).ready(function(){initNavTree('node__data_8h_source.html','');});
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor"></span></div>
 <div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="preprocessor">#include &lt;QPoint&gt;</span></div>
 <div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;</div>
-<div class="line"><a name="l00005"></a><span class="lineno"><a class="line" href="structNodeData.html">    5</a></span>&#160;<span class="keyword">struct </span><a class="code" href="structNodeData.html">NodeData</a> {</div>
-<div class="line"><a name="l00006"></a><span class="lineno"><a class="line" href="structNodeData.html#a562a60dda579a4ecfd0e0fc6613d6650">    6</a></span>&#160;    QPointF <a class="code" href="structNodeData.html#a562a60dda579a4ecfd0e0fc6613d6650">position</a>;</div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;</div>
-<div class="line"><a name="l00008"></a><span class="lineno"><a class="line" href="structNodeData.html#ac893ecd31c342af7c82791ec0eaad8ca">    8</a></span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="structNodeData.html#ac893ecd31c342af7c82791ec0eaad8ca">operator ==</a>(<span class="keyword">const</span> <a class="code" href="structNodeData.html">NodeData</a>&amp; d)<span class="keyword"> const </span>{</div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="structNodeData.html#a562a60dda579a4ecfd0e0fc6613d6650">position</a> == d.<a class="code" href="structNodeData.html#a562a60dda579a4ecfd0e0fc6613d6650">position</a>;</div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;    }</div>
-<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;</div>
-<div class="line"><a name="l00012"></a><span class="lineno"><a class="line" href="structNodeData.html#a96cf0dfe463b43b7eb6d556035739522">   12</a></span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="structNodeData.html#a96cf0dfe463b43b7eb6d556035739522">operator !=</a>(<span class="keyword">const</span> <a class="code" href="structNodeData.html">NodeData</a>&amp; d)<span class="keyword"> const </span>{</div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="structNodeData.html#a562a60dda579a4ecfd0e0fc6613d6650">position</a> != d.<a class="code" href="structNodeData.html#a562a60dda579a4ecfd0e0fc6613d6650">position</a>;</div>
-<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;    }</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;};</div>
-<div class="ttc" id="structNodeData_html_a96cf0dfe463b43b7eb6d556035739522"><div class="ttname"><a href="structNodeData.html#a96cf0dfe463b43b7eb6d556035739522">NodeData::operator!=</a></div><div class="ttdeci">bool operator!=(const NodeData &amp;d) const </div><div class="ttdef"><b>Definition:</b> node_data.h:12</div></div>
-<div class="ttc" id="structNodeData_html_a562a60dda579a4ecfd0e0fc6613d6650"><div class="ttname"><a href="structNodeData.html#a562a60dda579a4ecfd0e0fc6613d6650">NodeData::position</a></div><div class="ttdeci">QPointF position</div><div class="ttdef"><b>Definition:</b> node_data.h:6</div></div>
-<div class="ttc" id="structNodeData_html_ac893ecd31c342af7c82791ec0eaad8ca"><div class="ttname"><a href="structNodeData.html#ac893ecd31c342af7c82791ec0eaad8ca">NodeData::operator==</a></div><div class="ttdeci">bool operator==(const NodeData &amp;d) const </div><div class="ttdef"><b>Definition:</b> node_data.h:8</div></div>
-<div class="ttc" id="structNodeData_html"><div class="ttname"><a href="structNodeData.html">NodeData</a></div><div class="ttdef"><b>Definition:</b> node_data.h:5</div></div>
+<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="keyword">namespace </span>possumwood {</div>
+<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;</div>
+<div class="line"><a name="l00007"></a><span class="lineno"><a class="line" href="structpossumwood_1_1NodeData.html">    7</a></span>&#160;<span class="keyword">struct </span><a class="code" href="structpossumwood_1_1NodeData.html">NodeData</a> {</div>
+<div class="line"><a name="l00008"></a><span class="lineno"><a class="line" href="structpossumwood_1_1NodeData.html#aeeb0879f451245f518adaf468f361ada">    8</a></span>&#160;    QPointF <a class="code" href="structpossumwood_1_1NodeData.html#aeeb0879f451245f518adaf468f361ada">position</a>;</div>
+<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;</div>
+<div class="line"><a name="l00010"></a><span class="lineno"><a class="line" href="structpossumwood_1_1NodeData.html#a1c89282229ade00bcbb7120a9e3cc4e6">   10</a></span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="structpossumwood_1_1NodeData.html#a1c89282229ade00bcbb7120a9e3cc4e6">operator ==</a>(<span class="keyword">const</span> <a class="code" href="structpossumwood_1_1NodeData.html">NodeData</a>&amp; d)<span class="keyword"> const </span>{</div>
+<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="structpossumwood_1_1NodeData.html#aeeb0879f451245f518adaf468f361ada">position</a> == d.<a class="code" href="structpossumwood_1_1NodeData.html#aeeb0879f451245f518adaf468f361ada">position</a>;</div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;    }</div>
+<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;</div>
+<div class="line"><a name="l00014"></a><span class="lineno"><a class="line" href="structpossumwood_1_1NodeData.html#a69bc3ccfab0b365e47435c564f17835e">   14</a></span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="structpossumwood_1_1NodeData.html#a69bc3ccfab0b365e47435c564f17835e">operator !=</a>(<span class="keyword">const</span> <a class="code" href="structpossumwood_1_1NodeData.html">NodeData</a>&amp; d)<span class="keyword"> const </span>{</div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="structpossumwood_1_1NodeData.html#aeeb0879f451245f518adaf468f361ada">position</a> != d.<a class="code" href="structpossumwood_1_1NodeData.html#aeeb0879f451245f518adaf468f361ada">position</a>;</div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;    }</div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;};</div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;</div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;}</div>
+<div class="ttc" id="structpossumwood_1_1NodeData_html"><div class="ttname"><a href="structpossumwood_1_1NodeData.html">possumwood::NodeData</a></div><div class="ttdef"><b>Definition:</b> node_data.h:7</div></div>
+<div class="ttc" id="structpossumwood_1_1NodeData_html_aeeb0879f451245f518adaf468f361ada"><div class="ttname"><a href="structpossumwood_1_1NodeData.html#aeeb0879f451245f518adaf468f361ada">possumwood::NodeData::position</a></div><div class="ttdeci">QPointF position</div><div class="ttdef"><b>Definition:</b> node_data.h:8</div></div>
+<div class="ttc" id="structpossumwood_1_1NodeData_html_a69bc3ccfab0b365e47435c564f17835e"><div class="ttname"><a href="structpossumwood_1_1NodeData.html#a69bc3ccfab0b365e47435c564f17835e">possumwood::NodeData::operator!=</a></div><div class="ttdeci">bool operator!=(const NodeData &amp;d) const </div><div class="ttdef"><b>Definition:</b> node_data.h:14</div></div>
+<div class="ttc" id="structpossumwood_1_1NodeData_html_a1c89282229ade00bcbb7120a9e3cc4e6"><div class="ttname"><a href="structpossumwood_1_1NodeData.html#a1c89282229ade00bcbb7120a9e3cc4e6">possumwood::NodeData::operator==</a></div><div class="ttdeci">bool operator==(const NodeData &amp;d) const </div><div class="ttdef"><b>Definition:</b> node_data.h:10</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="dir_1551752abcc7cd92f2ad9a1f2edf2b11.html">src</a></li><li class="navelem"><a class="el" href="dir_6d6181cb57d006a48d130e55ddf9163a.html">apps</a></li><li class="navelem"><a class="el" href="dir_78961c524428d8bda205530f91ff840f.html">possumwood</a></li><li class="navelem"><a class="el" href="node__data_8h.html">node_data.h</a></li>
-    <li class="footer">Generated on Sun Jun 11 2017 16:36:08 for possumwood by
+    <li class="navelem"><a class="el" href="dir_1551752abcc7cd92f2ad9a1f2edf2b11.html">src</a></li><li class="navelem"><a class="el" href="dir_91c9d2e87dd13602397f5b4d38043d61.html">libs</a></li><li class="navelem"><a class="el" href="dir_7acc46a17532a8cb69846641fb3f2bb6.html">possumwood_sdk</a></li><li class="navelem"><a class="el" href="node__data_8h.html">node_data.h</a></li>
+    <li class="footer">Generated on Sun Jun 11 2017 18:18:41 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

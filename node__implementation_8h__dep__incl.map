@@ -1,9 +1,9 @@
-<map id="src/apps/possumwood/node_implementation.h" name="src/apps/possumwood/node_implementation.h">
-<area shape="rect" id="node2" href="$node__implementation_8cpp.html" title="src/apps/possumwood\l/node_implementation.cpp" alt="" coords="5,97,179,138"/>
-<area shape="rect" id="node3" href="$cube_8cpp.html" title="src/plugins/3d/nodes\l/cube.cpp" alt="" coords="203,97,345,138"/>
-<area shape="rect" id="node4" href="$nodes_2vec3_8cpp.html" title="src/plugins/3d/nodes\l/vec3.cpp" alt="" coords="370,97,512,138"/>
-<area shape="rect" id="node5" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="537,97,700,138"/>
-<area shape="rect" id="node6" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="725,97,888,138"/>
-<area shape="rect" id="node7" href="$display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="913,97,1061,138"/>
-<area shape="rect" id="node8" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="1087,97,1235,138"/>
+<map id="src/libs/possumwood_sdk/node_implementation.h" name="src/libs/possumwood_sdk/node_implementation.h">
+<area shape="rect" id="node2" href="$node__implementation_8cpp.html" title="src/libs/possumwood\l_sdk/node_implementation.cpp" alt="" coords="5,97,208,138"/>
+<area shape="rect" id="node3" href="$cube_8cpp.html" title="src/plugins/3d/nodes\l/cube.cpp" alt="" coords="233,97,375,138"/>
+<area shape="rect" id="node4" href="$nodes_2vec3_8cpp.html" title="src/plugins/3d/nodes\l/vec3.cpp" alt="" coords="399,97,541,138"/>
+<area shape="rect" id="node5" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="566,97,729,138"/>
+<area shape="rect" id="node6" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="754,97,917,138"/>
+<area shape="rect" id="node7" href="$display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="943,97,1091,138"/>
+<area shape="rect" id="node8" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="1116,97,1264,138"/>
 </map>

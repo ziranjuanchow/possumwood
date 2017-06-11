@@ -27,8 +27,8 @@ var dir_755b395bae293fc8eca85293e902b8d3 =
       [ "Nodes", "classdependency__graph_1_1Graph_1_1Nodes.html", "classdependency__graph_1_1Graph_1_1Nodes" ],
       [ "Connections", "classdependency__graph_1_1Graph_1_1Connections.html", "classdependency__graph_1_1Graph_1_1Connections" ]
     ] ],
-    [ "metadata.cpp", "libs_2dependency__graph_2metadata_8cpp.html", null ],
-    [ "metadata.h", "libs_2dependency__graph_2metadata_8h.html", [
+    [ "metadata.cpp", "dependency__graph_2metadata_8cpp.html", null ],
+    [ "metadata.h", "dependency__graph_2metadata_8h.html", [
       [ "InAttr", "classdependency__graph_1_1InAttr.html", "classdependency__graph_1_1InAttr" ],
       [ "OutAttr", "classdependency__graph_1_1OutAttr.html", "classdependency__graph_1_1OutAttr" ],
       [ "Metadata", "classdependency__graph_1_1Metadata.html", "classdependency__graph_1_1Metadata" ],

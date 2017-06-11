@@ -1,9 +1,9 @@
 <map id="src/apps/possumwood/adaptor.h" name="src/apps/possumwood/adaptor.h">
 <area shape="rect" id="node6" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1147,96,1325,123"/>
-<area shape="rect" id="node39" href="$graph__widget_8h.html" title="graph_widget.h" alt="" coords="2010,179,2120,205"/>
+<area shape="rect" id="node39" href="$graph__widget_8h.html" title="qt_node_editor/graph\l_widget.h" alt="" coords="1994,171,2136,213"/>
 <area shape="rect" id="node13" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1205,179,1267,205"/>
 <area shape="rect" id="node15" href="$attr_8h.html" title="attr.h" alt="" coords="1218,344,1269,371"/>
-<area shape="rect" id="node35" href="$libs_2dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1111,261,1197,288"/>
+<area shape="rect" id="node35" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1111,261,1197,288"/>
 <area shape="rect" id="node38" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1274,261,1328,288"/>
 <area shape="rect" id="node18" href="$datablock_8h.html" title="datablock.h" alt="" coords="1074,427,1163,453"/>
 <area shape="rect" id="node19" href="$json_8h.html" title="io/json.h" alt="" coords="954,576,1024,603"/>

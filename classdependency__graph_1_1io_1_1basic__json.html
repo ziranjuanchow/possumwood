@@ -4412,7 +4412,7 @@ template&lt;typename ValueTypeCV , typename ValueType  = detail::uncvref_t&lt;Va
 <p>Explicit type conversion between the JSON value and a compatible value which is <a href="http://en.cppreference.com/w/cpp/concept/CopyConstructible">CopyConstructible</a> and <a href="http://en.cppreference.com/w/cpp/concept/DefaultConstructible">DefaultConstructible</a>. The value is converted by calling the <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> <code><a class="el" href="namespacedependency__graph_1_1io_1_1detail.html#a80a62d24d269ebefcdf2f6b5d3015f5a">from_json()</a></code> method.</p>
 <p>The function is equivalent to executing </p>
 <div class="fragment"><div class="line">ValueType ret;</div>
-<div class="line"><a class="code" href="node__data_8cpp.html#a3820cc4e083502df6418ed2055ab6559">JSONSerializer&lt;ValueType&gt;::from_json</a>(*<span class="keyword">this</span>, ret);</div>
+<div class="line"><a class="code" href="namespacedependency__graph_1_1io_1_1detail.html#aef5fd65e7816bfa01276992c96832b49">JSONSerializer&lt;ValueType&gt;::from_json</a>(*<span class="keyword">this</span>, ret);</div>
 <div class="line"><span class="keywordflow">return</span> ret;</div>
 </div><!-- fragment --><p>This overloads is chosen if:</p>
 <ul>
@@ -4467,7 +4467,7 @@ template&lt;typename ValueTypeCV , typename ValueType  = detail::uncvref_t&lt;Va
 <p>get a value (explicit); special case </p>
 <p>Explicit type conversion between the JSON value and a compatible value which is <b>not</b> <a href="http://en.cppreference.com/w/cpp/concept/CopyConstructible">CopyConstructible</a> and <b>not</b> <a href="http://en.cppreference.com/w/cpp/concept/DefaultConstructible">DefaultConstructible</a>. The value is converted by calling the <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> <code><a class="el" href="namespacedependency__graph_1_1io_1_1detail.html#a80a62d24d269ebefcdf2f6b5d3015f5a">from_json()</a></code> method.</p>
 <p>The function is equivalent to executing </p>
-<div class="fragment"><div class="line"><span class="keywordflow">return</span> <a class="code" href="node__data_8cpp.html#a3820cc4e083502df6418ed2055ab6559">JSONSerializer&lt;ValueTypeCV&gt;::from_json</a>(*<span class="keyword">this</span>);</div>
+<div class="fragment"><div class="line"><span class="keywordflow">return</span> <a class="code" href="namespacedependency__graph_1_1io_1_1detail.html#aef5fd65e7816bfa01276992c96832b49">JSONSerializer&lt;ValueTypeCV&gt;::from_json</a>(*<span class="keyword">this</span>);</div>
 </div><!-- fragment --><p>This overloads is chosen if:</p>
 <ul>
 <li><em>ValueType</em> is not <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html">basic_json</a> and</li>
@@ -9976,7 +9976,7 @@ template&lt;template&lt; typename U, typename V, typename...Args &gt; class Obje
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="namespacedependency__graph_1_1io.html">io</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html">basic_json</a></li>
-    <li class="footer">Generated on Sun Jun 11 2017 16:36:09 for possumwood by
+    <li class="footer">Generated on Sun Jun 11 2017 18:18:42 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

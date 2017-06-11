@@ -72,44 +72,44 @@ var hierarchy =
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_value", "uniondependency__graph_1_1io_1_1basic__json_1_1json__value.html", null ],
     [ "std::less<::dependency_graph::io::detail::value_t >", "structstd_1_1less_3_1_1dependency__graph_1_1io_1_1detail_1_1value__t_01_4.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::lexer", "classdependency__graph_1_1io_1_1basic__json_1_1lexer.html", null ],
-    [ "NodeData", "structNodeData.html", null ],
+    [ "possumwood::NodeData", "structpossumwood_1_1NodeData.html", null ],
     [ "node_editor::GraphScene::NodeRefComparator", "structnode__editor_1_1GraphScene_1_1NodeRefComparator.html", null ],
     [ "noncopyable", null, [
       [ "dependency_graph::Graph", "classdependency__graph_1_1Graph.html", null ],
       [ "dependency_graph::Graph::Connections", "classdependency__graph_1_1Graph_1_1Connections.html", null ],
       [ "dependency_graph::Graph::Nodes", "classdependency__graph_1_1Graph_1_1Nodes.html", null ],
       [ "dependency_graph::Metadata", "classdependency__graph_1_1Metadata.html", [
-        [ "Metadata", "classMetadata.html", null ]
+        [ "possumwood::Metadata", "classpossumwood_1_1Metadata.html", null ]
       ] ],
       [ "dependency_graph::Node", "classdependency__graph_1_1Node.html", null ],
       [ "dependency_graph::Port", "classdependency__graph_1_1Port.html", null ],
       [ "dependency_graph::Values", "classdependency__graph_1_1Values.html", null ],
-      [ "NodeImplementation", "structNodeImplementation.html", null ],
-      [ "properties::factories", "classproperties_1_1factories.html", null ],
-      [ "properties::factory", "classproperties_1_1factory.html", [
-        [ "properties::factory_typed< DERIVED >", "classproperties_1_1factory__typed.html", null ],
-        [ "properties::factory_typed< filename_ui >", "classproperties_1_1factory__typed.html", null ],
-        [ "properties::factory_typed< float_ui >", "classproperties_1_1factory__typed.html", null ],
-        [ "properties::factory_typed< mesh_ui >", "classproperties_1_1factory__typed.html", null ],
-        [ "properties::factory_typed< vec3_ui >", "classproperties_1_1factory__typed.html", null ],
-        [ "properties::factory_typed< T >", "classproperties_1_1factory__typed.html", null ]
+      [ "possumwood::NodeImplementation", "structpossumwood_1_1NodeImplementation.html", null ],
+      [ "possumwood::properties::factories", "classpossumwood_1_1properties_1_1factories.html", null ],
+      [ "possumwood::properties::factory", "classpossumwood_1_1properties_1_1factory.html", [
+        [ "possumwood::properties::factory_typed< DERIVED >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< filename_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< float_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< mesh_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< vec3_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< T >", "classpossumwood_1_1properties_1_1factory__typed.html", null ]
       ] ],
-      [ "Properties::Property", "structProperties_1_1Property.html", null ],
-      [ "properties::property_base", "classproperties_1_1property__base.html", [
-        [ "properties::property< T, DERIVED >", "classproperties_1_1property.html", null ],
-        [ "properties::property< Filename, filename_ui >", "classproperties_1_1property.html", [
+      [ "possumwood::properties::property_base", "classpossumwood_1_1properties_1_1property__base.html", [
+        [ "possumwood::properties::property< T, DERIVED >", "classpossumwood_1_1properties_1_1property.html", null ],
+        [ "possumwood::properties::property< Filename, filename_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "filename_ui", "classfilename__ui.html", null ]
         ] ],
-        [ "properties::property< float, float_ui >", "classproperties_1_1property.html", [
-          [ "properties::float_ui", "classproperties_1_1float__ui.html", null ]
+        [ "possumwood::properties::property< float, float_ui >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "float_ui", "classfloat__ui.html", null ]
         ] ],
-        [ "properties::property< Imath::Vec3< float >, vec3_ui >", "classproperties_1_1property.html", [
-          [ "properties::vec3_ui", "classproperties_1_1vec3__ui.html", null ]
+        [ "possumwood::properties::property< Imath::Vec3< float >, vec3_ui >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "vec3_ui", "classvec3__ui.html", null ]
         ] ],
-        [ "properties::property< std::shared_ptr< const Mesh >, mesh_ui >", "classproperties_1_1property.html", [
+        [ "possumwood::properties::property< std::shared_ptr< const Mesh >, mesh_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "mesh_ui", "classmesh__ui.html", null ]
         ] ]
       ] ],
+      [ "Properties::Property", "structProperties_1_1Property.html", null ],
       [ "Viewport", "classViewport.html", null ]
     ] ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_adapter< CharType >", "classdependency__graph_1_1io_1_1basic__json_1_1output__adapter.html", [

@@ -1,0 +1,11 @@
+<map id="possumwood::properties::property_base" name="possumwood::properties::property_base">
+<area shape="rect" id="node3" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; T, DERIVED \&gt;" alt="" coords="416,5,595,46"/>
+<area shape="rect" id="node4" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; Filename,\l filename_ui \&gt;" alt="" coords="423,69,587,125"/>
+<area shape="rect" id="node6" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; float, float_ui \&gt;" alt="" coords="417,149,593,190"/>
+<area shape="rect" id="node8" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; Imath::Vec3\l\&lt; float \&gt;, vec3_ui \&gt;" alt="" coords="423,213,587,269"/>
+<area shape="rect" id="node10" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; std::shared\l_ptr\&lt; const Mesh \&gt;, mesh_ui \&gt;" alt="" coords="403,293,608,349"/>
+<area shape="rect" id="node5" href="$classfilename__ui.html" title="filename_ui" alt="" coords="656,84,744,111"/>
+<area shape="rect" id="node7" href="$classfloat__ui.html" title="float_ui" alt="" coords="668,156,732,183"/>
+<area shape="rect" id="node9" href="$classvec3__ui.html" title="vec3_ui" alt="" coords="667,228,733,255"/>
+<area shape="rect" id="node11" href="$classmesh__ui.html" title="mesh_ui" alt="" coords="665,308,735,335"/>
+</map>

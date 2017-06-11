@@ -3,7 +3,7 @@
 <area shape="rect" id="node38" href="$attr_8inl.html" title="dependency_graph/attr.inl" alt="" coords="1068,96,1239,123"/>
 <area shape="rect" id="node42" href="$datablock_8inl.html" title="dependency_graph/datablock.inl" alt="" coords="1300,171,1508,197"/>
 <area shape="rect" id="node44" href="$metadata_8inl.html" title="dependency_graph/metadata.inl" alt="" coords="1457,96,1663,123"/>
-<area shape="rect" id="node6" href="$libs_2dependency__graph_2metadata_8h.html" title="dependency_graph/metadata.h" alt="" coords="2191,403,2389,429"/>
+<area shape="rect" id="node6" href="$dependency__graph_2metadata_8h.html" title="dependency_graph/metadata.h" alt="" coords="2191,403,2389,429"/>
 <area shape="rect" id="node15" href="$json_8h.html" title="dependency_graph/io\l/json.h" alt="" coords="1262,395,1407,437"/>
 <area shape="rect" id="node39" href="$attr_8h.html" title="attr.h" alt="" coords="1127,171,1179,197"/>
 <area shape="rect" id="node40" href="$datablock_8h.html" title="datablock.h" alt="" coords="1258,245,1347,272"/>

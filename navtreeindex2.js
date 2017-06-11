@@ -1,17 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"classdependency__graph_1_1io_1_1basic__json.html#af781ea11affa099e8b3dbf9afafc0554":[2,0,0,0,3,91],
-"classdependency__graph_1_1io_1_1basic__json.html#af92be0ab2e540b2779a1dd6099bbcf39":[2,0,0,0,3,22],
-"classdependency__graph_1_1io_1_1basic__json.html#af9687eca2e773a16c179dc07f40aa860":[2,0,0,0,3,33],
-"classdependency__graph_1_1io_1_1basic__json.html#afd990a7502f32ebe88e6d4682d00bb30":[2,0,0,0,3,148],
-"classdependency__graph_1_1io_1_1basic__json.html#afe9ced18da6ebee0cf82aea7302f9db3":[2,0,0,0,3,216],
-"classdependency__graph_1_1io_1_1basic__json.html#afefc38fc08bdb7a9a7474b5ab4a1140f":[2,0,0,0,3,194],
-"classdependency__graph_1_1io_1_1basic__json.html#afff11b374d12c3c9725c9811edf655dd":[2,0,0,0,3,75],
-"classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html":[2,0,0,0,3,0],
-"classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html#a01d909abd4359b671246fd2658a53ee8":[2,0,0,0,3,0,12],
-"classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html#a0b85f94bea9e2b96554687d15e8ca106":[2,0,0,0,3,0,1],
-"classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html#a23c7e076bfcdd8f2bf68b5a0af17c5c2":[2,0,0,0,3,0,4],
-"classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html#a52da7da1afe509c816ffbf0ebc30e455":[2,0,0,0,3,0,6],
 "classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html#a628aaaec5a52ad6f492a892c35e5a623":[2,0,0,0,3,0,11],
 "classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html#a8c1c33ba62a860abeca60f92a606cd3b":[2,0,0,0,3,0,10],
 "classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html#a92f0fb10462e01b5872b3c71b74df7bb":[2,0,0,0,3,0,8],
@@ -249,5 +237,17 @@ var NAVTREEINDEX2 =
 "classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#a502c9b46041ee24f1b64604b9fd12f77":[2,0,0,0,3,17,3],
 "classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#a653e8be3b4fb047e8b4460cd932f2b52":[2,0,0,0,3,17,15],
 "classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#a664e28d1801e2499e3a41728e9f6c55d":[2,0,0,0,3,17,7],
-"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#a680c471188e46854d7b78a7c2a0c1122":[2,0,0,0,3,17,18]
+"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#a680c471188e46854d7b78a7c2a0c1122":[2,0,0,0,3,17,18],
+"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#a7e620963ea069fd987d941c61ec4af0c":[2,0,0,0,3,17,16],
+"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#a8fcf0c9ed90870ba14339db57313fc2f":[2,0,0,0,3,17,6],
+"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#a901a95e6d73c9509d3dcde914f6c8a9d":[2,0,0,0,3,17,14],
+"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#a92d5a8570825d68d03f6d2d24c1a7bff":[2,0,0,0,3,17,2],
+"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#aa367fa15b03a9943ec4eed4d43cee9e7":[2,0,0,0,3,17,21],
+"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#aadc054c066f8d117695113ddceb8c46e":[2,0,0,0,3,17,19],
+"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#aae1e1e2ec0e229d1291d69de57d76bbe":[2,0,0,0,3,17,17],
+"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#ab71c88e5f1f7a7e5a5cb5cb1ebce5696":[2,0,0,0,3,17,22],
+"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#ac6d902d6ec9a02dabed5452d3ae78f7e":[2,0,0,0,3,17,13],
+"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#ad231fff24e75a639b116a3d6b1e23276":[2,0,0,0,3,17,0],
+"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#ae73ed0589ef9954bf5370e7ad5fdb492":[2,0,0,0,3,17,20],
+"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#af63a3ba04683934245d3db2367af2e88":[2,0,0,0,3,17,10]
 };
