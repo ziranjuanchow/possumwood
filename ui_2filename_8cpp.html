@@ -107,13 +107,21 @@ $(document).ready(function(){initNavTree('ui_2filename_8cpp.html','');});
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="ui_2filename_8h_source.html">filename.h</a>&quot;</code><br/>
+<code>#include &lt;boost/algorithm/string/join.hpp&gt;</code><br/>
+<code>#include &lt;boost/algorithm/string/predicate.hpp&gt;</code><br/>
 <code>#include &lt;QHBoxLayout&gt;</code><br/>
+<code>#include &lt;QStyle&gt;</code><br/>
+<code>#include &lt;QFileDialog&gt;</code><br/>
+<code>#include &lt;QAction&gt;</code><br/>
+<code>#include &lt;QApplication&gt;</code><br/>
+<code>#include &lt;QMainWindow&gt;</code><br/>
+<code>#include &lt;<a class="el" href="app_8h_source.html">possumwood_sdk/app.h</a>&gt;</code><br/>
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for filename.cpp:</div>
 <div class="dyncontent">
 <div class="center"><img src="ui_2filename_8cpp__incl.png" border="0" usemap="#src_2plugins_2openmesh_2ui_2filename_8cpp" alt=""/></div>
 <map name="src_2plugins_2openmesh_2ui_2filename_8cpp" id="src_2plugins_2openmesh_2ui_2filename_8cpp">
-<area shape="rect" id="node2" href="ui_2filename_8h.html" title="filename.h" alt="" coords="1329,96,1411,123"/><area shape="rect" id="node3" href="datatypes_2filename_8h.html" title="datatypes/filename.h" alt="" coords="373,651,515,677"/><area shape="rect" id="node7" href="property_8h.html" title="possumwood_sdk/properties\l/property.h" alt="" coords="1277,171,1464,213"/><area shape="rect" id="node11" href="factory_8inl.html" title="factory.inl" alt="" coords="145,419,223,445"/><area shape="rect" id="node17" href="node_8inl.html" title="dependency_graph/node.inl" alt="" coords="1281,261,1460,288"/><area shape="rect" id="node48" href="port_8inl.html" title="dependency_graph/port.inl" alt="" coords="1537,336,1711,363"/><area shape="rect" id="node12" href="factory_8h.html" title="factory.h" alt="" coords="403,501,476,528"/><area shape="rect" id="node18" href="dependency__graph_2node_8h.html" title="node.h" alt="" coords="1568,419,1629,445"/><area shape="rect" id="node43" href="graph_8h.html" title="graph.h" alt="" coords="1198,336,1263,363"/><area shape="rect" id="node46" href="datablock_8inl.html" title="datablock.inl" alt="" coords="1201,576,1295,603"/><area shape="rect" id="node20" href="attr_8h.html" title="attr.h" alt="" coords="1705,576,1756,603"/><area shape="rect" id="node37" href="dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="965,651,1051,677"/><area shape="rect" id="node42" href="dependency__graph_2port_8h.html" title="port.h" alt="" coords="1639,501,1693,528"/><area shape="rect" id="node22" href="datablock_8h.html" title="datablock.h" alt="" coords="1579,651,1668,677"/><area shape="rect" id="node24" href="json_8h.html" title="io/json.h" alt="" coords="1326,816,1396,843"/><area shape="rect" id="node36" href="data_8h.html" title="data.h" alt="" coords="1552,733,1609,760"/><area shape="rect" id="node47" href="data_8inl.html" title="data.inl" alt="" coords="1283,651,1347,677"/></map>
+<area shape="rect" id="node2" href="ui_2filename_8h.html" title="filename.h" alt="" coords="453,104,535,131"/><area shape="rect" id="node50" href="app_8h.html" title="possumwood_sdk/app.h" alt="" coords="973,277,1136,304"/><area shape="rect" id="node3" href="datatypes_2filename_8h.html" title="datatypes/filename.h" alt="" coords="478,517,620,544"/><area shape="rect" id="node8" href="property_8h.html" title="possumwood_sdk/properties\l/property.h" alt="" coords="550,187,737,229"/><area shape="rect" id="node7" href="data__traits_8h.html" title="dependency_graph/data\l_traits.h" alt="" coords="347,593,505,634"/><area shape="rect" id="node12" href="factory_8inl.html" title="factory.inl" alt="" coords="169,435,247,461"/><area shape="rect" id="node18" href="node_8inl.html" title="dependency_graph/node.inl" alt="" coords="769,277,948,304"/><area shape="rect" id="node39" href="port_8inl.html" title="dependency_graph/port.inl" alt="" coords="669,352,843,379"/><area shape="rect" id="node13" href="factory_8h.html" title="factory.h" alt="" coords="171,517,244,544"/><area shape="rect" id="node19" href="dependency__graph_2node_8h.html" title="node.h" alt="" coords="1209,435,1271,461"/><area shape="rect" id="node34" href="graph_8h.html" title="graph.h" alt="" coords="1590,352,1655,379"/><area shape="rect" id="node37" href="datablock_8inl.html" title="datablock.inl" alt="" coords="749,435,843,461"/><area shape="rect" id="node21" href="attr_8h.html" title="attr.h" alt="" coords="1074,600,1125,627"/><area shape="rect" id="node28" href="dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1362,517,1448,544"/><area shape="rect" id="node33" href="dependency__graph_2port_8h.html" title="port.h" alt="" coords="1071,517,1125,544"/><area shape="rect" id="node23" href="datablock_8h.html" title="datablock.h" alt="" coords="1087,683,1176,709"/><area shape="rect" id="node25" href="json_8h.html" title="io/json.h" alt="" coords="839,832,909,859"/><area shape="rect" id="node27" href="data_8h.html" title="data.h" alt="" coords="953,757,1011,784"/><area shape="rect" id="node38" href="data_8inl.html" title="data.inl" alt="" coords="389,517,453,544"/></map>
 </div>
 </div></div><!-- contents -->
 </div><!-- doc-content -->
@@ -121,7 +129,7 @@ Include dependency graph for filename.cpp:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1551752abcc7cd92f2ad9a1f2edf2b11.html">src</a></li><li class="navelem"><a class="el" href="dir_90abbedf322c0217cda19e8a4eb868f7.html">plugins</a></li><li class="navelem"><a class="el" href="dir_e1f5135f278504ffd8b2985df4ef0b68.html">openmesh</a></li><li class="navelem"><a class="el" href="dir_84a1f4a3aa4a2dd6978cb5aeb8e763d2.html">ui</a></li><li class="navelem"><a class="el" href="ui_2filename_8cpp.html">filename.cpp</a></li>
-    <li class="footer">Generated on Sun Jun 11 2017 20:13:17 for possumwood by
+    <li class="footer">Generated on Sun Jun 11 2017 23:20:24 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

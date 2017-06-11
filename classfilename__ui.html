@@ -136,8 +136,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a750dbcde81d14e1003625d9de15246af"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1aa5bad3dfde0b4e731411b832a34530"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfilename__ui.html#a1aa5bad3dfde0b4e731411b832a34530">~filename_ui</a> ()</td></tr>
 <tr class="separator:a1aa5bad3dfde0b4e731411b832a34530"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a861fd2a510e3ac8e00e0f6c11fc863a2"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="classFilename.html">Filename</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfilename__ui.html#a861fd2a510e3ac8e00e0f6c11fc863a2">get</a> () const override</td></tr>
-<tr class="separator:a861fd2a510e3ac8e00e0f6c11fc863a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d68715cdb1246367a48915a5a9d311e"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfilename__ui.html#a6d68715cdb1246367a48915a5a9d311e">get</a> (<a class="el" href="classFilename.html">Filename</a> &amp;value) const override</td></tr>
+<tr class="separator:a6d68715cdb1246367a48915a5a9d311e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4aa3227991e75881c417b7b5d7b4e1d5"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfilename__ui.html#a4aa3227991e75881c417b7b5d7b4e1d5">set</a> (const <a class="el" href="classFilename.html">Filename</a> &amp;value) override</td></tr>
 <tr class="separator:a4aa3227991e75881c417b7b5d7b4e1d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af9eaed459ffa025d97efcdbf6b18136b"><td class="memItemLeft" align="right" valign="top">virtual QWidget *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfilename__ui.html#af9eaed459ffa025d97efcdbf6b18136b">widget</a> () override</td></tr>
@@ -172,10 +172,14 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a3fc76c008d65f510313b7a021323f8dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1d89ba4fb591f7cc2380aed312985afe"><td class="memItemLeft" align="right" valign="top">QLineEdit *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfilename__ui.html#a1d89ba4fb591f7cc2380aed312985afe">m_lineEdit</a></td></tr>
 <tr class="separator:a1d89ba4fb591f7cc2380aed312985afe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b3dc3c98d64f5d2c7a4170ecb28f1c2"><td class="memItemLeft" align="right" valign="top">QToolButton *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfilename__ui.html#a6b3dc3c98d64f5d2c7a4170ecb28f1c2">m_browseButton</a></td></tr>
+<tr class="separator:a6b3dc3c98d64f5d2c7a4170ecb28f1c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3695161e1d8a4975a4367158b96d27e6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classFilename.html">Filename</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfilename__ui.html#a3695161e1d8a4975a4367158b96d27e6">m_value</a></td></tr>
 <tr class="separator:a3695161e1d8a4975a4367158b96d27e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abf8893b8bd772edea99b4a31e8fe0f40"><td class="memItemLeft" align="right" valign="top">QMetaObject::Connection&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfilename__ui.html#abf8893b8bd772edea99b4a31e8fe0f40">m_connection</a></td></tr>
-<tr class="separator:abf8893b8bd772edea99b4a31e8fe0f40"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd8f2a173750de3a320141d8f7215a44"><td class="memItemLeft" align="right" valign="top">QMetaObject::Connection&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfilename__ui.html#afd8f2a173750de3a320141d8f7215a44">m_lineEditConnection</a></td></tr>
+<tr class="separator:afd8f2a173750de3a320141d8f7215a44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8ce9d2acd716ba3b8ba8330aca0bbb5"><td class="memItemLeft" align="right" valign="top">QMetaObject::Connection&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfilename__ui.html#ae8ce9d2acd716ba3b8ba8330aca0bbb5">m_buttonConnection</a></td></tr>
+<tr class="separator:ae8ce9d2acd716ba3b8ba8330aca0bbb5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
@@ -232,7 +236,7 @@ Additional Inherited Members</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a class="anchor" id="a861fd2a510e3ac8e00e0f6c11fc863a2"></a>
+<a class="anchor" id="a6d68715cdb1246367a48915a5a9d311e"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -240,9 +244,10 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classFilename.html">Filename</a> filename_ui::get </td>
+          <td class="memname">void filename_ui::get </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="classFilename.html">Filename</a> &amp;&#160;</td>
+          <td class="paramname"><em>value</em></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
@@ -253,7 +258,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="classpossumwood_1_1properties_1_1property.html#ae7ee5ccf71f38231c6d13724e0a2e9a0">possumwood::properties::property&lt; Filename, filename_ui &gt;</a>.</p>
+<p>Implements <a class="el" href="classpossumwood_1_1properties_1_1property.html#a13ea22cd2ce94259ac97938a483659a9">possumwood::properties::property&lt; Filename, filename_ui &gt;</a>.</p>
 
 </div>
 </div>
@@ -337,7 +342,7 @@ Additional Inherited Members</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a class="anchor" id="abf8893b8bd772edea99b4a31e8fe0f40"></a>
+<a class="anchor" id="a6b3dc3c98d64f5d2c7a4170ecb28f1c2"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -345,7 +350,27 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">QMetaObject::Connection filename_ui::m_connection</td>
+          <td class="memname">QToolButton* filename_ui::m_browseButton</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="ae8ce9d2acd716ba3b8ba8330aca0bbb5"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">QMetaObject::Connection filename_ui::m_buttonConnection</td>
         </tr>
       </table>
   </td>
@@ -366,6 +391,26 @@ Additional Inherited Members</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">QLineEdit* filename_ui::m_lineEdit</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="afd8f2a173750de3a320141d8f7215a44"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">QMetaObject::Connection filename_ui::m_lineEditConnection</td>
         </tr>
       </table>
   </td>
@@ -427,7 +472,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classfilename__ui.html">filename_ui</a></li>
-    <li class="footer">Generated on Sun Jun 11 2017 20:13:17 for possumwood by
+    <li class="footer">Generated on Sun Jun 11 2017 23:20:24 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

@@ -119,16 +119,12 @@ $(document).ready(function(){initNavTree('classFilename.html','');});
 Public Member Functions</h2></td></tr>
 <tr class="memitem:aa83f22a9cc3f6e90d634bdcb384de1ad"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFilename.html#aa83f22a9cc3f6e90d634bdcb384de1ad">Filename</a> (std::initializer_list&lt; std::string &gt; <a class="el" href="classFilename.html#a076efbda486fdf7a30ec0642b80a8d96">extensions</a>=std::initializer_list&lt; std::string &gt;())</td></tr>
 <tr class="separator:aa83f22a9cc3f6e90d634bdcb384de1ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a817bff440c9a1d3aeb0f4cddff6a7260"><td class="memItemLeft" align="right" valign="top">const boost::filesystem::path &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFilename.html#a817bff440c9a1d3aeb0f4cddff6a7260">filename</a> () const </td></tr>
-<tr class="separator:a817bff440c9a1d3aeb0f4cddff6a7260"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab5356dae121d39b8d095ff7d64d17e74"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFilename.html#ab5356dae121d39b8d095ff7d64d17e74">setFilename</a> (const boost::filesystem::path &amp;<a class="el" href="classFilename.html#a817bff440c9a1d3aeb0f4cddff6a7260">filename</a>)</td></tr>
+<tr class="memitem:a5aa0f6da975472e600918f93b78284aa"><td class="memItemLeft" align="right" valign="top">const boost::filesystem::path&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFilename.html#a5aa0f6da975472e600918f93b78284aa">filename</a> (bool makeAbsolute=true) const </td></tr>
+<tr class="separator:a5aa0f6da975472e600918f93b78284aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5356dae121d39b8d095ff7d64d17e74"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFilename.html#ab5356dae121d39b8d095ff7d64d17e74">setFilename</a> (const boost::filesystem::path &amp;<a class="el" href="classFilename.html#a5aa0f6da975472e600918f93b78284aa">filename</a>)</td></tr>
 <tr class="separator:ab5356dae121d39b8d095ff7d64d17e74"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a076efbda486fdf7a30ec0642b80a8d96"><td class="memItemLeft" align="right" valign="top">const std::set&lt; std::string &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFilename.html#a076efbda486fdf7a30ec0642b80a8d96">extensions</a> () const </td></tr>
 <tr class="separator:a076efbda486fdf7a30ec0642b80a8d96"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a335e5538fec336b8e0d1db9ef23c73b9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFilename.html#a335e5538fec336b8e0d1db9ef23c73b9">operator==</a> (const <a class="el" href="classFilename.html">Filename</a> &amp;fn) const </td></tr>
-<tr class="separator:a335e5538fec336b8e0d1db9ef23c73b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a32ef163b2c083e5afb8983d5dd09e5d4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classFilename.html#a32ef163b2c083e5afb8983d5dd09e5d4">operator!=</a> (const <a class="el" href="classFilename.html">Filename</a> &amp;fn) const </td></tr>
-<tr class="separator:a32ef163b2c083e5afb8983d5dd09e5d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -170,46 +166,15 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a817bff440c9a1d3aeb0f4cddff6a7260"></a>
+<a class="anchor" id="a5aa0f6da975472e600918f93b78284aa"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const boost::filesystem::path &amp; Filename::filename </td>
+          <td class="memname">const boost::filesystem::path Filename::filename </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a32ef163b2c083e5afb8983d5dd09e5d4"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool Filename::operator!= </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="classFilename.html">Filename</a> &amp;&#160;</td>
-          <td class="paramname"><em>fn</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a335e5538fec336b8e0d1db9ef23c73b9"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool Filename::operator== </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="classFilename.html">Filename</a> &amp;&#160;</td>
-          <td class="paramname"><em>fn</em></td><td>)</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>makeAbsolute</em> = <code>true</code></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
@@ -284,7 +249,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classFilename.html">Filename</a></li>
-    <li class="footer">Generated on Sun Jun 11 2017 20:13:17 for possumwood by
+    <li class="footer">Generated on Sun Jun 11 2017 23:20:24 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

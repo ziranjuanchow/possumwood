@@ -1,4 +1,5 @@
 <map id="src/libs/dependency_graph/data.inl" name="src/libs/dependency_graph/data.inl">
 <area shape="rect" id="node2" href="$data_8h.html" title="data.h" alt="" coords="109,96,167,123"/>
+<area shape="rect" id="node30" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="193,96,287,123"/>
 <area shape="rect" id="node5" href="$json_8h.html" title="io/json.h" alt="" coords="1129,171,1199,197"/>
 </map>

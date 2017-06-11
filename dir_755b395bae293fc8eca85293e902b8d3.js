@@ -16,6 +16,9 @@ var dir_755b395bae293fc8eca85293e902b8d3 =
       [ "Data", "structdependency__graph_1_1Data.html", "structdependency__graph_1_1Data" ]
     ] ],
     [ "data.inl", "data_8inl.html", null ],
+    [ "data_traits.h", "data__traits_8h.html", [
+      [ "DataTraits", "structdependency__graph_1_1DataTraits.html", "structdependency__graph_1_1DataTraits" ]
+    ] ],
     [ "datablock.cpp", "libs_2dependency__graph_2datablock_8cpp.html", null ],
     [ "datablock.h", "datablock_8h.html", [
       [ "Datablock", "classdependency__graph_1_1Datablock.html", "classdependency__graph_1_1Datablock" ]

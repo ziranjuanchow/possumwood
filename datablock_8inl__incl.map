@@ -1,7 +1,8 @@
 <map id="src/libs/dependency_graph/datablock.inl" name="src/libs/dependency_graph/datablock.inl">
-<area shape="rect" id="node2" href="$datablock_8h.html" title="datablock.h" alt="" coords="1575,96,1664,123"/>
+<area shape="rect" id="node2" href="$datablock_8h.html" title="datablock.h" alt="" coords="1443,96,1532,123"/>
 <area shape="rect" id="node31" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="2359,245,2445,272"/>
-<area shape="rect" id="node37" href="$data_8inl.html" title="data.inl" alt="" coords="1487,96,1551,123"/>
-<area shape="rect" id="node5" href="$json_8h.html" title="io/json.h" alt="" coords="1253,245,1323,272"/>
-<area shape="rect" id="node30" href="$data_8h.html" title="data.h" alt="" coords="1489,171,1547,197"/>
+<area shape="rect" id="node37" href="$data_8inl.html" title="data.inl" alt="" coords="1845,96,1909,123"/>
+<area shape="rect" id="node5" href="$json_8h.html" title="io/json.h" alt="" coords="1237,245,1307,272"/>
+<area shape="rect" id="node30" href="$data_8h.html" title="data.h" alt="" coords="1459,171,1516,197"/>
+<area shape="rect" id="node38" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1830,171,1924,197"/>
 </map>

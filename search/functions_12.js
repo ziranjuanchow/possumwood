@@ -20,6 +20,7 @@ var searchData=
   ['setfilename',['setFilename',['../classFilename.html#ab5356dae121d39b8d095ff7d64d17e74',1,'Filename']]],
   ['setflags',['setFlags',['../classpossumwood_1_1properties_1_1property__base.html#a252e3ae2d5bf69c1cfc925407d506f68',1,'possumwood::properties::property_base']]],
   ['setinput',['setInput',['../classdependency__graph_1_1Node.html#a430249f24ea073de8f931419de3b288b',1,'dependency_graph::Node']]],
+  ['setmainwindow',['setMainWindow',['../classpossumwood_1_1App.html#a5579c16d1920f67e06aeff0f7e2b4ee1',1,'possumwood::App']]],
   ['setmouseconnectioncallback',['setMouseConnectionCallback',['../classnode__editor_1_1GraphScene.html#ae872f97a5f046840d4726992dcfae280',1,'node_editor::GraphScene']]],
   ['setname',['setName',['../classdependency__graph_1_1Node.html#ad7d3bed9cf971ab2bc5092230f2f60d4',1,'dependency_graph::Node::setName()'],['../classnode__editor_1_1Node.html#acc357f14e96f1cf4e42e39e18247b201',1,'node_editor::Node::setName()']]],
   ['setnodemovecallback',['setNodeMoveCallback',['../classnode__editor_1_1GraphScene.html#a3e3bc6f91efc1c3c4271e6a3ea8a6099',1,'node_editor::GraphScene']]],

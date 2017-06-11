@@ -21,6 +21,8 @@ var hierarchy =
     [ "node_editor::BindConnection", "classnode__editor_1_1BindConnection.html", null ],
     [ "dependency_graph::Metadata::Comparator", "structdependency__graph_1_1Metadata_1_1Comparator.html", null ],
     [ "dependency_graph::Datablock", "classdependency__graph_1_1Datablock.html", null ],
+    [ "dependency_graph::DataTraits< T >", "structdependency__graph_1_1DataTraits.html", null ],
+    [ "dependency_graph::DataTraits< Filename >", "structdependency__graph_1_1DataTraits_3_01Filename_01_4.html", null ],
     [ "exception", null, [
       [ "dependency_graph::io::detail::exception", "classdependency__graph_1_1io_1_1detail_1_1exception.html", [
         [ "dependency_graph::io::detail::invalid_iterator", "classdependency__graph_1_1io_1_1detail_1_1invalid__iterator.html", null ],
