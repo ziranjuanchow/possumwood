@@ -4,4 +4,6 @@
 <area shape="rect" id="node4" href="$nodes_2vec3_8cpp.html" title="src/plugins/3d/nodes\l/vec3.cpp" alt="" coords="370,97,512,138"/>
 <area shape="rect" id="node5" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="537,97,700,138"/>
 <area shape="rect" id="node6" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="725,97,888,138"/>
+<area shape="rect" id="node7" href="$display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="913,97,1061,138"/>
+<area shape="rect" id="node8" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="1087,97,1235,138"/>
 </map>

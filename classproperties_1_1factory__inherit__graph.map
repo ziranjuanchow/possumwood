@@ -1,6 +1,8 @@
 <map id="properties::factory" name="properties::factory">
-<area shape="rect" id="node3" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; DERIVED \&gt;" alt="" coords="325,5,472,46"/>
-<area shape="rect" id="node4" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; float_ui \&gt;" alt="" coords="335,70,462,111"/>
-<area shape="rect" id="node5" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; vec3_ui \&gt;" alt="" coords="333,135,464,177"/>
-<area shape="rect" id="node6" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; T \&gt;" alt="" coords="335,201,462,242"/>
+<area shape="rect" id="node3" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; DERIVED \&gt;" alt="" coords="328,5,475,46"/>
+<area shape="rect" id="node4" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; filename_ui \&gt;" alt="" coords="326,70,477,111"/>
+<area shape="rect" id="node5" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; float_ui \&gt;" alt="" coords="338,135,465,177"/>
+<area shape="rect" id="node6" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; mesh_ui \&gt;" alt="" coords="334,201,469,242"/>
+<area shape="rect" id="node7" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; vec3_ui \&gt;" alt="" coords="336,266,467,307"/>
+<area shape="rect" id="node8" href="$classproperties_1_1factory__typed.html" title="properties::factory\l_typed\&lt; T \&gt;" alt="" coords="338,331,465,373"/>
 </map>

@@ -4,5 +4,7 @@
 <area shape="rect" id="node4" href="$nodes_2vec3_8cpp.html" title="src/plugins/3d/nodes\l/vec3.cpp" alt="" coords="349,97,491,138"/>
 <area shape="rect" id="node5" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="515,97,679,138"/>
 <area shape="rect" id="node6" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="703,97,867,138"/>
-<area shape="rect" id="node7" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="892,97,1039,138"/>
+<area shape="rect" id="node7" href="$display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="892,97,1040,138"/>
+<area shape="rect" id="node8" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="1065,97,1213,138"/>
+<area shape="rect" id="node9" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="1239,97,1385,138"/>
 </map>

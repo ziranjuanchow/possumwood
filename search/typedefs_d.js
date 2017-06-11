@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['uncvref_5ft',['uncvref_t',['../namespacedependency__graph_1_1io_1_1detail.html#aa60c7fe3b6f55769a552938fda668fb8',1,'dependency_graph::io::detail']]]
+  ['type_5ferror',['type_error',['../classdependency__graph_1_1io_1_1basic__json.html#a8519dc189a37ead41ef86b79f1316968',1,'dependency_graph::io::basic_json']]]
 ];

@@ -10,5 +10,6 @@ var searchData=
   ['escape',['escape',['../classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html#ab3dff7fbf96b50ca14244ed9932bdc88',1,'dependency_graph::io::basic_json::json_pointer']]],
   ['exception',['exception',['../classdependency__graph_1_1io_1_1detail_1_1exception.html#ad716822dd8024ff785d58b03748f32ab',1,'dependency_graph::io::detail::exception']]],
   ['expect',['expect',['../classdependency__graph_1_1io_1_1basic__json_1_1parser.html#a4cb74740da8fb4de8ee36e36aa4e1986',1,'dependency_graph::io::basic_json::parser']]],
+  ['extensions',['extensions',['../classFilename.html#a076efbda486fdf7a30ec0642b80a8d96',1,'Filename']]],
   ['extra_5fspace',['extra_space',['../classdependency__graph_1_1io_1_1basic__json_1_1serializer.html#a9482cdb41d4b4834580ae90065eb0cf3',1,'dependency_graph::io::basic_json::serializer']]]
 ];

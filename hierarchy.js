@@ -43,6 +43,7 @@ var hierarchy =
       [ "dependency_graph::io::detail::is_compatible_integer_type_impl< bool, typename, typename >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__integer__type__impl.html", null ],
       [ "dependency_graph::io::detail::is_compatible_object_type_impl< B, RealType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type__impl.html", null ]
     ] ],
+    [ "Filename", "classFilename.html", null ],
     [ "dependency_graph::io::detail::from_json_fn", "structdependency__graph_1_1io_1_1detail_1_1from__json__fn.html", null ],
     [ "dependency_graph::io::detail::has_from_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__from__json.html", null ],
     [ "dependency_graph::io::detail::has_non_default_from_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__non__default__from__json.html", null ],
@@ -87,18 +88,26 @@ var hierarchy =
       [ "properties::factories", "classproperties_1_1factories.html", null ],
       [ "properties::factory", "classproperties_1_1factory.html", [
         [ "properties::factory_typed< DERIVED >", "classproperties_1_1factory__typed.html", null ],
+        [ "properties::factory_typed< filename_ui >", "classproperties_1_1factory__typed.html", null ],
         [ "properties::factory_typed< float_ui >", "classproperties_1_1factory__typed.html", null ],
+        [ "properties::factory_typed< mesh_ui >", "classproperties_1_1factory__typed.html", null ],
         [ "properties::factory_typed< vec3_ui >", "classproperties_1_1factory__typed.html", null ],
         [ "properties::factory_typed< T >", "classproperties_1_1factory__typed.html", null ]
       ] ],
       [ "Properties::Property", "structProperties_1_1Property.html", null ],
       [ "properties::property_base", "classproperties_1_1property__base.html", [
         [ "properties::property< T, DERIVED >", "classproperties_1_1property.html", null ],
+        [ "properties::property< Filename, filename_ui >", "classproperties_1_1property.html", [
+          [ "filename_ui", "classfilename__ui.html", null ]
+        ] ],
         [ "properties::property< float, float_ui >", "classproperties_1_1property.html", [
           [ "properties::float_ui", "classproperties_1_1float__ui.html", null ]
         ] ],
         [ "properties::property< Imath::Vec3< float >, vec3_ui >", "classproperties_1_1property.html", [
           [ "properties::vec3_ui", "classproperties_1_1vec3__ui.html", null ]
+        ] ],
+        [ "properties::property< std::shared_ptr< const Mesh >, mesh_ui >", "classproperties_1_1property.html", [
+          [ "mesh_ui", "classmesh__ui.html", null ]
         ] ]
       ] ],
       [ "Viewport", "classViewport.html", null ]
