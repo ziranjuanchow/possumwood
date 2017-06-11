@@ -11,6 +11,7 @@ var searchData=
   ['addport',['addPort',['../classnode__editor_1_1Node.html#a9b1bc8065a17a611f8f9f31cdceb0fb1',1,'node_editor::Node']]],
   ['adjust',['adjust',['../classnode__editor_1_1ConnectedEdge.html#a6b9f13a6e037cb9503a0c8f0c9cffac3',1,'node_editor::ConnectedEdge']]],
   ['adjustedges',['adjustEdges',['../classnode__editor_1_1Port.html#ac0aefa030e15260fa99ec7cd72f4c3d5',1,'node_editor::Port']]],
+  ['app',['App',['../classpossumwood_1_1App.html#a2d4adb833eab3df8ed98e7a724e0dde2',1,'possumwood::App']]],
   ['array',['array',['../classdependency__graph_1_1io_1_1basic__json.html#a0f97c7f7b96dc10007ddecb91ea8ab4e',1,'dependency_graph::io::basic_json']]],
   ['assert_5finvariant',['assert_invariant',['../classdependency__graph_1_1io_1_1basic__json.html#a798f16cab4042a95c9424230a614a62a',1,'dependency_graph::io::basic_json']]],
   ['assign',['assign',['../classdependency__graph_1_1BaseData.html#a0b4e1a138904fb84f592e8581a162789',1,'dependency_graph::BaseData::assign()'],['../structdependency__graph_1_1Data.html#a33982ca47fc2f5437a0ba3788a5156ee',1,'dependency_graph::Data::assign()']]],

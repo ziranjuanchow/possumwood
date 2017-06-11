@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['s_5finstance',['s_instance',['../classpossumwood_1_1App.html#a8935dbab9029ceab80ed9d30e479ef95',1,'possumwood::App']]],
   ['s_5finstances',['s_instances',['../classdependency__graph_1_1Metadata.html#abe515e5b8e50b3dc2255f5fd93282916',1,'dependency_graph::Metadata']]],
   ['s_5fpf',['s_pf',['../classpossumwood_1_1properties_1_1property.html#ac19491df7ca8e0f2c3e0014d957a3bfd',1,'possumwood::properties::property']]],
   ['start',['start',['../classdependency__graph_1_1io_1_1basic__json_1_1input__buffer__adapter.html#a88285a8d58a3a6f070ed7ee5c82d0485',1,'dependency_graph::io::basic_json::input_buffer_adapter']]],

@@ -84,6 +84,7 @@ var hierarchy =
       [ "dependency_graph::Node", "classdependency__graph_1_1Node.html", null ],
       [ "dependency_graph::Port", "classdependency__graph_1_1Port.html", null ],
       [ "dependency_graph::Values", "classdependency__graph_1_1Values.html", null ],
+      [ "possumwood::App", "classpossumwood_1_1App.html", null ],
       [ "possumwood::NodeImplementation", "structpossumwood_1_1NodeImplementation.html", null ],
       [ "possumwood::properties::factories", "classpossumwood_1_1properties_1_1factories.html", null ],
       [ "possumwood::properties::factory", "classpossumwood_1_1properties_1_1factory.html", [
