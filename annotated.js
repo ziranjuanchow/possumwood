@@ -6,6 +6,8 @@ var annotated =
     [ "possumwood", "namespacepossumwood.html", "namespacepossumwood" ],
     [ "std", "namespacestd.html", "namespacestd" ],
     [ "Adaptor", "classAdaptor.html", "classAdaptor" ],
+    [ "bool_ui", "classbool__ui.html", "classbool__ui" ],
+    [ "DecimaterModule", "classDecimaterModule.html", "classDecimaterModule" ],
     [ "Filename", "classFilename.html", "classFilename" ],
     [ "filename_ui", "classfilename__ui.html", "classfilename__ui" ],
     [ "float_ui", "classfloat__ui.html", "classfloat__ui" ],

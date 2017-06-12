@@ -4,6 +4,8 @@
 <area shape="rect" id="node4" href="$nodes_2vec3_8cpp.html" title="src/plugins/3d/nodes\l/vec3.cpp" alt="" coords="399,97,541,138"/>
 <area shape="rect" id="node5" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="566,97,729,138"/>
 <area shape="rect" id="node6" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="754,97,917,138"/>
-<area shape="rect" id="node7" href="$display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="943,97,1091,138"/>
-<area shape="rect" id="node8" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="1116,97,1264,138"/>
+<area shape="rect" id="node7" href="$dec__normal__deviation_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_normal_deviation.cpp" alt="" coords="943,97,1159,138"/>
+<area shape="rect" id="node8" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimater.cpp" alt="" coords="1183,97,1331,138"/>
+<area shape="rect" id="node9" href="$display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="1356,97,1504,138"/>
+<area shape="rect" id="node10" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="1529,97,1677,138"/>
 </map>

@@ -1,7 +1,12 @@
 <map id="src/plugins/openmesh/openmesh.h" name="src/plugins/openmesh/openmesh.h">
-<area shape="rect" id="node2" href="$io_2mesh_8h.html" title="src/plugins/openmesh\l/io/mesh.h" alt="" coords="116,97,264,138"/>
-<area shape="rect" id="node3" href="$display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="4,187,152,229"/>
-<area shape="rect" id="node4" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="177,187,325,229"/>
-<area shape="rect" id="node5" href="$ui_2mesh_8h.html" title="src/plugins/openmesh\l/ui/mesh.h" alt="" coords="345,97,493,138"/>
-<area shape="rect" id="node6" href="$mesh_8cpp.html" title="src/plugins/openmesh\l/ui/mesh.cpp" alt="" coords="351,187,499,229"/>
+<area shape="rect" id="node2" href="$datatypes_2decimater__module_8h.html" title="src/plugins/openmesh\l/datatypes/decimater\l_module.h" alt="" coords="256,96,404,152"/>
+<area shape="rect" id="node5" href="$dec__normal__deviation_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_normal_deviation.cpp" alt="" coords="132,305,348,346"/>
+<area shape="rect" id="node6" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimater.cpp" alt="" coords="397,305,545,346"/>
+<area shape="rect" id="node7" href="$io_2mesh_8h.html" title="src/plugins/openmesh\l/io/mesh.h" alt="" coords="535,103,683,145"/>
+<area shape="rect" id="node8" href="$display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="636,207,784,249"/>
+<area shape="rect" id="node9" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="809,207,957,249"/>
+<area shape="rect" id="node10" href="$ui_2mesh_8h.html" title="src/plugins/openmesh\l/ui/mesh.h" alt="" coords="939,103,1087,145"/>
+<area shape="rect" id="node3" href="$decimater__module_8cpp.html" title="src/plugins/openmesh\l/datatypes/decimater\l_module.cpp" alt="" coords="28,200,176,256"/>
+<area shape="rect" id="node4" href="$io_2decimater__module_8h.html" title="src/plugins/openmesh\l/io/decimater_module.h" alt="" coords="252,207,409,249"/>
+<area shape="rect" id="node11" href="$mesh_8cpp.html" title="src/plugins/openmesh\l/ui/mesh.cpp" alt="" coords="983,207,1131,249"/>
 </map>

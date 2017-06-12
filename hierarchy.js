@@ -18,10 +18,12 @@ var hierarchy =
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >", "classdependency__graph_1_1io_1_1basic__json.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_reader", "classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_writer", "classdependency__graph_1_1io_1_1basic__json_1_1binary__writer.html", null ],
+    [ "node_editor::BindConnection", "classnode__editor_1_1BindConnection.html", null ],
     [ "dependency_graph::Metadata::Comparator", "structdependency__graph_1_1Metadata_1_1Comparator.html", null ],
     [ "dependency_graph::Datablock", "classdependency__graph_1_1Datablock.html", null ],
     [ "dependency_graph::DataTraits< T >", "structdependency__graph_1_1DataTraits.html", null ],
     [ "dependency_graph::DataTraits< Filename >", "structdependency__graph_1_1DataTraits_3_01Filename_01_4.html", null ],
+    [ "DecimaterModule", "classDecimaterModule.html", null ],
     [ "exception", null, [
       [ "dependency_graph::io::detail::exception", "classdependency__graph_1_1io_1_1detail_1_1exception.html", [
         [ "dependency_graph::io::detail::invalid_iterator", "classdependency__graph_1_1io_1_1detail_1_1invalid__iterator.html", null ],
@@ -89,6 +91,7 @@ var hierarchy =
       [ "possumwood::NodeImplementation", "structpossumwood_1_1NodeImplementation.html", null ],
       [ "possumwood::properties::factories", "classpossumwood_1_1properties_1_1factories.html", null ],
       [ "possumwood::properties::factory", "classpossumwood_1_1properties_1_1factory.html", [
+        [ "possumwood::properties::factory_typed< bool_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< DERIVED >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< filename_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< float_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
@@ -98,6 +101,9 @@ var hierarchy =
       ] ],
       [ "possumwood::properties::property_base", "classpossumwood_1_1properties_1_1property__base.html", [
         [ "possumwood::properties::property< T, DERIVED >", "classpossumwood_1_1properties_1_1property.html", null ],
+        [ "possumwood::properties::property< bool, bool_ui >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "bool_ui", "classbool__ui.html", null ]
+        ] ],
         [ "possumwood::properties::property< Filename, filename_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "filename_ui", "classfilename__ui.html", null ]
         ] ],
@@ -144,6 +150,9 @@ var hierarchy =
     ] ],
     [ "QMainWindow", null, [
       [ "MainWindow", "classMainWindow.html", null ]
+    ] ],
+    [ "QObject", null, [
+      [ "node_editor::BindSignal", "classnode__editor_1_1BindSignal.html", null ]
     ] ],
     [ "QTreeWidget", null, [
       [ "Properties", "classProperties.html", null ]
