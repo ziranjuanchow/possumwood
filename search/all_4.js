@@ -1,7 +1,7 @@
 var searchData=
 [
   ['edge',['Edge',['../classnode__editor_1_1Edge.html',1,'node_editor']]],
-  ['edge',['edge',['../classnode__editor_1_1GraphScene.html#af896695e091ae99d3d08084ae951219d',1,'node_editor::GraphScene::edge(unsigned index)'],['../classnode__editor_1_1GraphScene.html#afe07691e9db79cadd72d2c0b9806481b',1,'node_editor::GraphScene::edge(unsigned index) const '],['../classnode__editor_1_1GraphScene.html#ad2c8ba04c9d9989ccbf3c5aba267a3d7',1,'node_editor::GraphScene::Edge()'],['../classnode__editor_1_1Edge.html#a63e6e10757fa35c2ebef45a24420221c',1,'node_editor::Edge::Edge()']]],
+  ['edge',['Edge',['../classnode__editor_1_1GraphScene.html#ad2c8ba04c9d9989ccbf3c5aba267a3d7',1,'node_editor::GraphScene::Edge()'],['../classnode__editor_1_1Edge.html#a63e6e10757fa35c2ebef45a24420221c',1,'node_editor::Edge::Edge()'],['../classnode__editor_1_1GraphScene.html#af896695e091ae99d3d08084ae951219d',1,'node_editor::GraphScene::edge(unsigned index)'],['../classnode__editor_1_1GraphScene.html#afe07691e9db79cadd72d2c0b9806481b',1,'node_editor::GraphScene::edge(unsigned index) const ']]],
   ['edge_2ecpp',['edge.cpp',['../edge_8cpp.html',1,'']]],
   ['edge_2eh',['edge.h',['../edge_8h.html',1,'']]],
   ['edgecount',['edgeCount',['../classnode__editor_1_1GraphScene.html#ae5053a01c065b6ae267081511b100c6d',1,'node_editor::GraphScene']]],

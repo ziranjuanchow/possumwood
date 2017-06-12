@@ -18,7 +18,6 @@ var hierarchy =
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >", "classdependency__graph_1_1io_1_1basic__json.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_reader", "classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_writer", "classdependency__graph_1_1io_1_1basic__json_1_1binary__writer.html", null ],
-    [ "node_editor::BindConnection", "classnode__editor_1_1BindConnection.html", null ],
     [ "dependency_graph::Metadata::Comparator", "structdependency__graph_1_1Metadata_1_1Comparator.html", null ],
     [ "dependency_graph::Datablock", "classdependency__graph_1_1Datablock.html", null ],
     [ "dependency_graph::DataTraits< T >", "structdependency__graph_1_1DataTraits.html", null ],
@@ -145,9 +144,6 @@ var hierarchy =
     ] ],
     [ "QMainWindow", null, [
       [ "MainWindow", "classMainWindow.html", null ]
-    ] ],
-    [ "QObject", null, [
-      [ "node_editor::BindSignal", "classnode__editor_1_1BindSignal.html", null ]
     ] ],
     [ "QTreeWidget", null, [
       [ "Properties", "classProperties.html", null ]

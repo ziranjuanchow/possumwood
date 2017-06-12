@@ -1,7 +1,5 @@
 var dir_ee12f925272d4f70e1bcbc68d85ecc5e =
 [
-    [ "bind.cpp", "bind_8cpp.html", "bind_8cpp" ],
-    [ "bind.h", "bind_8h.html", "bind_8h" ],
     [ "connected_edge.cpp", "connected__edge_8cpp.html", null ],
     [ "connected_edge.h", "connected__edge_8h.html", [
       [ "ConnectedEdge", "classnode__editor_1_1ConnectedEdge.html", "classnode__editor_1_1ConnectedEdge" ]
