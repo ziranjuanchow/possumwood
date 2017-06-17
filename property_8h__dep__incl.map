@@ -5,8 +5,9 @@
 <area shape="rect" id="node9" href="$ui_2vec3_8h.html" title="src/plugins/3d/ui/vec3.h" alt="" coords="773,104,932,131"/>
 <area shape="rect" id="node11" href="$bool__ui_8h.html" title="src/plugins/maths/ui\l/bool_ui.h" alt="" coords="957,97,1096,138"/>
 <area shape="rect" id="node13" href="$float__ui_8h.html" title="src/plugins/maths/ui\l/float_ui.h" alt="" coords="1120,97,1259,138"/>
-<area shape="rect" id="node15" href="$ui_2filename_8h.html" title="src/plugins/openmesh\l/ui/filename.h" alt="" coords="1283,97,1431,138"/>
-<area shape="rect" id="node17" href="$ui_2mesh_8h.html" title="src/plugins/openmesh\l/ui/mesh.h" alt="" coords="1456,97,1604,138"/>
+<area shape="rect" id="node15" href="$unsigned__ui_8h.html" title="src/plugins/maths/ui\l/unsigned_ui.h" alt="" coords="1283,97,1421,138"/>
+<area shape="rect" id="node17" href="$ui_2filename_8h.html" title="src/plugins/openmesh\l/ui/filename.h" alt="" coords="1445,97,1593,138"/>
+<area shape="rect" id="node19" href="$ui_2mesh_8h.html" title="src/plugins/openmesh\l/ui/mesh.h" alt="" coords="1619,97,1767,138"/>
 <area shape="rect" id="node3" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="93,187,245,229"/>
 <area shape="rect" id="node6" href="$properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="270,187,423,229"/>
 <area shape="rect" id="node4" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="5,278,157,319"/>
@@ -14,6 +15,7 @@
 <area shape="rect" id="node10" href="$ui_2vec3_8cpp.html" title="src/plugins/3d/ui/vec3.cpp" alt="" coords="758,195,932,221"/>
 <area shape="rect" id="node12" href="$bool_8cpp.html" title="src/plugins/maths/ui\l/bool.cpp" alt="" coords="957,187,1096,229"/>
 <area shape="rect" id="node14" href="$float__ui_8cpp.html" title="src/plugins/maths/ui\l/float_ui.cpp" alt="" coords="1120,187,1259,229"/>
-<area shape="rect" id="node16" href="$ui_2filename_8cpp.html" title="src/plugins/openmesh\l/ui/filename.cpp" alt="" coords="1283,187,1431,229"/>
-<area shape="rect" id="node18" href="$mesh_8cpp.html" title="src/plugins/openmesh\l/ui/mesh.cpp" alt="" coords="1456,187,1604,229"/>
+<area shape="rect" id="node16" href="$unsigned__ui_8cpp.html" title="src/plugins/maths/ui\l/unsigned_ui.cpp" alt="" coords="1283,187,1421,229"/>
+<area shape="rect" id="node18" href="$ui_2filename_8cpp.html" title="src/plugins/openmesh\l/ui/filename.cpp" alt="" coords="1445,187,1593,229"/>
+<area shape="rect" id="node20" href="$mesh_8cpp.html" title="src/plugins/openmesh\l/ui/mesh.cpp" alt="" coords="1619,187,1767,229"/>
 </map>

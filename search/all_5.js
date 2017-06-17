@@ -15,6 +15,7 @@ var searchData=
   ['factory_5ftyped_3c_20filename_5fui_20_3e',['factory_typed&lt; filename_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20float_5fui_20_3e',['factory_typed&lt; float_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20mesh_5fui_20_3e',['factory_typed&lt; mesh_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
+  ['factory_5ftyped_3c_20unsigned_5fui_20_3e',['factory_typed&lt; unsigned_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20vec3_5fui_20_3e',['factory_typed&lt; vec3_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['filename',['Filename',['../classFilename.html',1,'Filename'],['../classFilename.html#aa83f22a9cc3f6e90d634bdcb384de1ad',1,'Filename::Filename()'],['../classpossumwood_1_1App.html#a654f75ca18687b310692afd7dfb1e5c9',1,'possumwood::App::filename()'],['../classFilename.html#a5aa0f6da975472e600918f93b78284aa',1,'Filename::filename()']]],
   ['filename_2ecpp',['filename.cpp',['../datatypes_2filename_8cpp.html',1,'']]],

@@ -1,4 +1,11 @@
 <map id="src/plugins/openmesh/io/decimater_module.h" name="src/plugins/openmesh/io/decimater_module.h">
-<area shape="rect" id="node2" href="$dec__normal__deviation_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_normal_deviation.cpp" alt="" coords="5,97,221,138"/>
-<area shape="rect" id="node3" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimater.cpp" alt="" coords="245,97,393,138"/>
+<area shape="rect" id="node2" href="$dec__aspect__ratio_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_aspect_ratio.cpp" alt="" coords="5,103,195,145"/>
+<area shape="rect" id="node3" href="$dec__edge__length_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_edge_length.cpp" alt="" coords="219,103,407,145"/>
+<area shape="rect" id="node4" href="$dec__hausdorff_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_hausdorff.cpp" alt="" coords="431,103,603,145"/>
+<area shape="rect" id="node5" href="$dec__independent__sets_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_independent\l_sets.cpp" alt="" coords="628,96,791,152"/>
+<area shape="rect" id="node6" href="$dec__normal__deviation_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_normal_deviation.cpp" alt="" coords="815,103,1031,145"/>
+<area shape="rect" id="node7" href="$dec__normal__flipping_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_normal_flipping.cpp" alt="" coords="1055,103,1260,145"/>
+<area shape="rect" id="node8" href="$dec__quadric_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_quadric.cpp" alt="" coords="1284,103,1443,145"/>
+<area shape="rect" id="node9" href="$dec__roundness_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_roundness.cpp" alt="" coords="1468,103,1647,145"/>
+<area shape="rect" id="node10" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimater.cpp" alt="" coords="1671,103,1819,145"/>
 </map>

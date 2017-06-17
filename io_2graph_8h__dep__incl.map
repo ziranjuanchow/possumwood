@@ -2,5 +2,6 @@
 <area shape="rect" id="node2" href="$io_2graph_8cpp.html" title="src/libs/dependency\l_graph/io/graph.cpp" alt="" coords="5,97,144,138"/>
 <area shape="rect" id="node3" href="$dependency__graph_2io_2node_8cpp.html" title="src/libs/dependency\l_graph/io/node.cpp" alt="" coords="168,97,307,138"/>
 <area shape="rect" id="node4" href="$app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="331,97,476,138"/>
-<area shape="rect" id="node5" href="$json_8cpp.html" title="src/tests/dependency\l_graph/json.cpp" alt="" coords="501,97,648,138"/>
+<area shape="rect" id="node5" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="501,97,648,138"/>
+<area shape="rect" id="node6" href="$json_8cpp.html" title="src/tests/dependency\l_graph/json.cpp" alt="" coords="672,97,819,138"/>
 </map>

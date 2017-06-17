@@ -15,6 +15,7 @@ var annotated =
     [ "mesh_ui", "classmesh__ui.html", "classmesh__ui" ],
     [ "Properties", "classProperties.html", "classProperties" ],
     [ "TestStruct", "structTestStruct.html", "structTestStruct" ],
+    [ "unsigned_ui", "classunsigned__ui.html", "classunsigned__ui" ],
     [ "vec3_ui", "classvec3__ui.html", "classvec3__ui" ],
     [ "Viewport", "classViewport.html", "classViewport" ]
 ];

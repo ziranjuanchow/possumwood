@@ -1,6 +1,13 @@
 <map id="src/plugins/openmesh/datatypes/decimater_module.h" name="src/plugins/openmesh/datatypes/decimater_module.h">
-<area shape="rect" id="node2" href="$decimater__module_8cpp.html" title="src/plugins/openmesh\l/datatypes/decimater\l_module.cpp" alt="" coords="5,109,153,165"/>
-<area shape="rect" id="node3" href="$io_2decimater__module_8h.html" title="src/plugins/openmesh\l/io/decimater_module.h" alt="" coords="229,117,387,158"/>
-<area shape="rect" id="node4" href="$dec__normal__deviation_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_normal_deviation.cpp" alt="" coords="91,214,307,255"/>
-<area shape="rect" id="node5" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimater.cpp" alt="" coords="343,214,491,255"/>
+<area shape="rect" id="node2" href="$decimater__module_8cpp.html" title="src/plugins/openmesh\l/datatypes/decimater\l_module.cpp" alt="" coords="435,109,583,165"/>
+<area shape="rect" id="node3" href="$io_2decimater__module_8h.html" title="src/plugins/openmesh\l/io/decimater_module.h" alt="" coords="861,117,1019,158"/>
+<area shape="rect" id="node4" href="$dec__aspect__ratio_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_aspect_ratio.cpp" alt="" coords="5,221,195,262"/>
+<area shape="rect" id="node5" href="$dec__edge__length_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_edge_length.cpp" alt="" coords="219,221,407,262"/>
+<area shape="rect" id="node6" href="$dec__hausdorff_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_hausdorff.cpp" alt="" coords="431,221,603,262"/>
+<area shape="rect" id="node7" href="$dec__independent__sets_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_independent\l_sets.cpp" alt="" coords="628,213,791,269"/>
+<area shape="rect" id="node8" href="$dec__normal__deviation_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_normal_deviation.cpp" alt="" coords="815,221,1031,262"/>
+<area shape="rect" id="node9" href="$dec__normal__flipping_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_normal_flipping.cpp" alt="" coords="1055,221,1260,262"/>
+<area shape="rect" id="node10" href="$dec__quadric_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_quadric.cpp" alt="" coords="1284,221,1443,262"/>
+<area shape="rect" id="node11" href="$dec__roundness_8cpp.html" title="src/plugins/openmesh\l/nodes/dec_roundness.cpp" alt="" coords="1468,221,1647,262"/>
+<area shape="rect" id="node12" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimater.cpp" alt="" coords="1671,221,1819,262"/>
 </map>

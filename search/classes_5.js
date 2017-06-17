@@ -9,6 +9,7 @@ var searchData=
   ['factory_5ftyped_3c_20filename_5fui_20_3e',['factory_typed&lt; filename_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20float_5fui_20_3e',['factory_typed&lt; float_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20mesh_5fui_20_3e',['factory_typed&lt; mesh_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
+  ['factory_5ftyped_3c_20unsigned_5fui_20_3e',['factory_typed&lt; unsigned_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20vec3_5fui_20_3e',['factory_typed&lt; vec3_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['filename',['Filename',['../classFilename.html',1,'']]],
   ['filename_5fui',['filename_ui',['../classfilename__ui.html',1,'']]],

@@ -96,6 +96,7 @@ var hierarchy =
         [ "possumwood::properties::factory_typed< filename_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< float_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< mesh_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< unsigned_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< vec3_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< T >", "classpossumwood_1_1properties_1_1factory__typed.html", null ]
       ] ],
@@ -115,6 +116,9 @@ var hierarchy =
         ] ],
         [ "possumwood::properties::property< std::shared_ptr< const Mesh >, mesh_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "mesh_ui", "classmesh__ui.html", null ]
+        ] ],
+        [ "possumwood::properties::property< unsigned, unsigned_ui >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "unsigned_ui", "classunsigned__ui.html", null ]
         ] ]
       ] ],
       [ "Properties::Property", "structProperties_1_1Property.html", null ],

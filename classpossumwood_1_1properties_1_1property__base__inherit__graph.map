@@ -5,9 +5,11 @@
 <area shape="rect" id="node8" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; float, float_ui \&gt;" alt="" coords="417,215,593,257"/>
 <area shape="rect" id="node10" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; Imath::Vec3\l\&lt; float \&gt;, vec3_ui \&gt;" alt="" coords="423,280,587,336"/>
 <area shape="rect" id="node12" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; std::shared\l_ptr\&lt; const Mesh \&gt;, mesh_ui \&gt;" alt="" coords="403,360,608,416"/>
-<area shape="rect" id="node5" href="$classbool__ui.html" title="bool_ui" alt="" coords="669,79,731,105"/>
-<area shape="rect" id="node7" href="$classfilename__ui.html" title="filename_ui" alt="" coords="656,151,744,177"/>
-<area shape="rect" id="node9" href="$classfloat__ui.html" title="float_ui" alt="" coords="668,223,732,249"/>
-<area shape="rect" id="node11" href="$classvec3__ui.html" title="vec3_ui" alt="" coords="667,295,733,321"/>
-<area shape="rect" id="node13" href="$classmesh__ui.html" title="mesh_ui" alt="" coords="665,375,735,401"/>
+<area shape="rect" id="node14" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; unsigned,\l unsigned_ui \&gt;" alt="" coords="423,440,587,496"/>
+<area shape="rect" id="node5" href="$classbool__ui.html" title="bool_ui" alt="" coords="670,79,733,105"/>
+<area shape="rect" id="node7" href="$classfilename__ui.html" title="filename_ui" alt="" coords="657,151,745,177"/>
+<area shape="rect" id="node9" href="$classfloat__ui.html" title="float_ui" alt="" coords="669,223,733,249"/>
+<area shape="rect" id="node11" href="$classvec3__ui.html" title="vec3_ui" alt="" coords="668,295,735,321"/>
+<area shape="rect" id="node13" href="$classmesh__ui.html" title="mesh_ui" alt="" coords="666,375,737,401"/>
+<area shape="rect" id="node15" href="$classunsigned__ui.html" title="unsigned_ui" alt="" coords="656,455,747,481"/>
 </map>
