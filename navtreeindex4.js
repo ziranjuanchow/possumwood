@@ -137,8 +137,8 @@ var NAVTREEINDEX4 =
 "float__ui_8cpp.html":[3,0,0,2,1,1,2],
 "float__ui_8h.html":[3,0,0,2,1,1,3],
 "float__ui_8h_source.html":[3,0,0,2,1,1,3],
-"functions.html":[2,3,0,0],
 "functions.html":[2,3,0],
+"functions.html":[2,3,0,0],
 "functions_b.html":[2,3,0,1],
 "functions_c.html":[2,3,0,2],
 "functions_d.html":[2,3,0,3],
@@ -192,9 +192,10 @@ var NAVTREEINDEX4 =
 "functions_y.html":[2,3,0,22],
 "functions_~.html":[2,3,0,23],
 "globals.html":[3,1,0],
-"globals_defs.html":[3,1,3],
+"globals_defs.html":[3,1,4],
 "globals_func.html":[3,1,1],
-"globals_type.html":[3,1,2],
+"globals_type.html":[3,1,3],
+"globals_vars.html":[3,1,2],
 "graph_8cpp.html":[3,0,0,1,0,11],
 "graph_8h.html":[3,0,0,1,0,12],
 "graph_8h_source.html":[3,0,0,1,0,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "json_8h.html#a1f1da06b09b45a2b5ef3a472b5e8d5d0":[3,0,0,1,0,0,2,91],
 "json_8h.html#a221b854edfd9ee91d1f072c9dee5e56d":[3,0,0,1,0,0,2,85],
 "json_8h.html#a322c70e50d66e0d31a2353bd43342a22":[3,0,0,1,0,0,2,89],
-"json_8h.html#a41ecd1c4cf7c3d56477b9b685b5daa72":[3,0,0,1,0,0,2,63],
-"json_8h.html#a43eef1652057047547df33a61cfee08a":[3,0,0,1,0,0,2,86]
+"json_8h.html#a41ecd1c4cf7c3d56477b9b685b5daa72":[3,0,0,1,0,0,2,63]
 };

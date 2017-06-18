@@ -104,7 +104,8 @@ $(document).ready(function(){initNavTree('namespacedependency__graph.html','');}
 <div class="header">
   <div class="summary">
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#nested-classes">Classes</a>  </div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">dependency_graph Namespace Reference</div>  </div>
 </div><!--header-->
@@ -149,14 +150,86 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1DataTraits_3_01Filename_01_4.html">DataTraits&lt; Filename &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ab7167919051a09eabc58d568d6ad3d90"><td class="memItemLeft" align="right" valign="top">const std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacedependency__graph.html#ab7167919051a09eabc58d568d6ad3d90">unmangledName</a> (const char *name)</td></tr>
+<tr class="memdesc:ab7167919051a09eabc58d568d6ad3d90"><td class="mdescLeft">&#160;</td><td class="mdescRight">This method uses internal GCC ways to unmangle name and returns the result in a string.  <a href="#ab7167919051a09eabc58d568d6ad3d90">More...</a><br/></td></tr>
+<tr class="separator:ab7167919051a09eabc58d568d6ad3d90"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9b5d786fcd88ec6e43a6f16d2c926ab4"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a9b5d786fcd88ec6e43a6f16d2c926ab4"><td class="memTemplItemLeft" align="right" valign="top">const std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacedependency__graph.html#a9b5d786fcd88ec6e43a6f16d2c926ab4">unmangledTypeId</a> ()</td></tr>
+<tr class="memdesc:a9b5d786fcd88ec6e43a6f16d2c926ab4"><td class="mdescLeft">&#160;</td><td class="mdescRight">This method uses internal GCC ways to decode the typeid.name values into the original name and re$.  <a href="#a9b5d786fcd88ec6e43a6f16d2c926ab4">More...</a><br/></td></tr>
+<tr class="separator:a9b5d786fcd88ec6e43a6f16d2c926ab4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf25cc560904d8461499b516d370ab89"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:acf25cc560904d8461499b516d370ab89"><td class="memTemplItemLeft" align="right" valign="top">const std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacedependency__graph.html#acf25cc560904d8461499b516d370ab89">unmangledTypeId</a> (const T &amp;)</td></tr>
+<tr class="memdesc:acf25cc560904d8461499b516d370ab89"><td class="mdescLeft">&#160;</td><td class="mdescRight">This method uses internal GCC ways to decode the typeid.name values into the original name and re$.  <a href="#acf25cc560904d8461499b516d370ab89">More...</a><br/></td></tr>
+<tr class="separator:acf25cc560904d8461499b516d370ab89"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Function Documentation</h2>
+<a class="anchor" id="ab7167919051a09eabc58d568d6ad3d90"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const std::string dependency_graph::unmangledName </td>
+          <td>(</td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>name</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>This method uses internal GCC ways to unmangle name and returns the result in a string. </p>
+
+</div>
+</div>
+<a class="anchor" id="a9b5d786fcd88ec6e43a6f16d2c926ab4"></a>
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">const std::string dependency_graph::unmangledTypeId </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>This method uses internal GCC ways to decode the typeid.name values into the original name and re$. </p>
+
+</div>
+</div>
+<a class="anchor" id="acf25cc560904d8461499b516d370ab89"></a>
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">const std::string dependency_graph::unmangledTypeId </td>
+          <td>(</td>
+          <td class="paramtype">const T &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>This method uses internal GCC ways to decode the typeid.name values into the original name and re$. </p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li>
-    <li class="footer">Generated on Sat Jun 17 2017 22:40:45 for possumwood by
+    <li class="footer">Generated on Sun Jun 18 2017 01:20:45 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>
