@@ -136,7 +136,7 @@ Collaboration diagram for node_editor::GraphScene:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structnode__editor_1_1GraphScene_1_1NodeRefComparator.html">NodeRefComparator</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structnode__editor_1_1GraphScene_1_1Selection.html">Selection</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
@@ -175,8 +175,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ae872f97a5f046840d4726992dcfae280"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3e3bc6f91efc1c3c4271e6a3ea8a6099"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#a3e3bc6f91efc1c3c4271e6a3ea8a6099">setNodeMoveCallback</a> (std::function&lt; void(<a class="el" href="classnode__editor_1_1Node.html">Node</a> &amp;)&gt; fn)</td></tr>
 <tr class="separator:a3e3bc6f91efc1c3c4271e6a3ea8a6099"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab3cb98d126f21c6e3806aacbe57e47ad"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#ab3cb98d126f21c6e3806aacbe57e47ad">setNodeSelectionCallback</a> (std::function&lt; void(std::set&lt; std::reference_wrapper&lt; <a class="el" href="classnode__editor_1_1Node.html">Node</a> &gt;, <a class="el" href="structnode__editor_1_1GraphScene_1_1NodeRefComparator.html">NodeRefComparator</a> &gt;)&gt; fn)</td></tr>
-<tr class="separator:ab3cb98d126f21c6e3806aacbe57e47ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd5b6e3654a1b71007e3d5690445e442"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#acd5b6e3654a1b71007e3d5690445e442">setNodeSelectionCallback</a> (std::function&lt; void(const <a class="el" href="structnode__editor_1_1GraphScene_1_1Selection.html">Selection</a> &amp;)&gt; fn)</td></tr>
+<tr class="separator:acd5b6e3654a1b71007e3d5690445e442"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
@@ -218,10 +218,9 @@ Private Attributes</h2></td></tr>
 <tr class="separator:ac3fe4c926819b30b2754e4aa3fa226a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a614b5cc3f9452a81e31df3246fdf00d4"><td class="memItemLeft" align="right" valign="top">std::function&lt; void(<a class="el" href="classnode__editor_1_1Node.html">Node</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#a614b5cc3f9452a81e31df3246fdf00d4">m_nodeMoveCallback</a></td></tr>
 <tr class="separator:a614b5cc3f9452a81e31df3246fdf00d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af9ecfec0992080cc76848a902d662590"><td class="memItemLeft" align="right" valign="top">std::function&lt; void(std::set<br class="typebreak"/>
-&lt; std::reference_wrapper&lt; <a class="el" href="classnode__editor_1_1Node.html">Node</a> &gt;<br class="typebreak"/>
-, <a class="el" href="structnode__editor_1_1GraphScene_1_1NodeRefComparator.html">NodeRefComparator</a> &gt;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#af9ecfec0992080cc76848a902d662590">m_nodeSelectionCallback</a></td></tr>
-<tr class="separator:af9ecfec0992080cc76848a902d662590"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a78cb327fc9729542e6be8e7bb518f0ef"><td class="memItemLeft" align="right" valign="top">std::function&lt; void(const <br class="typebreak"/>
+<a class="el" href="structnode__editor_1_1GraphScene_1_1Selection.html">Selection</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#a78cb327fc9729542e6be8e7bb518f0ef">m_nodeSelectionCallback</a></td></tr>
+<tr class="separator:a78cb327fc9729542e6be8e7bb518f0ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="friends"></a>
 Friends</h2></td></tr>
@@ -756,14 +755,14 @@ Friends</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="ab3cb98d126f21c6e3806aacbe57e47ad"></a>
+<a class="anchor" id="acd5b6e3654a1b71007e3d5690445e442"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
           <td class="memname">void node_editor::GraphScene::setNodeSelectionCallback </td>
           <td>(</td>
-          <td class="paramtype">std::function&lt; void(std::set&lt; std::reference_wrapper&lt; <a class="el" href="classnode__editor_1_1Node.html">Node</a> &gt;, <a class="el" href="structnode__editor_1_1GraphScene_1_1NodeRefComparator.html">NodeRefComparator</a> &gt;)&gt;&#160;</td>
+          <td class="paramtype">std::function&lt; void(const <a class="el" href="structnode__editor_1_1GraphScene_1_1Selection.html">Selection</a> &amp;)&gt;&#160;</td>
           <td class="paramname"><em>fn</em></td><td>)</td>
           <td></td>
         </tr>
@@ -934,7 +933,7 @@ Friends</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="af9ecfec0992080cc76848a902d662590"></a>
+<a class="anchor" id="a78cb327fc9729542e6be8e7bb518f0ef"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -942,7 +941,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::function&lt;void(std::set&lt;std::reference_wrapper&lt;<a class="el" href="classnode__editor_1_1Node.html">Node</a>&gt;, <a class="el" href="structnode__editor_1_1GraphScene_1_1NodeRefComparator.html">NodeRefComparator</a>&gt;)&gt; node_editor::GraphScene::m_nodeSelectionCallback</td>
+          <td class="memname">std::function&lt;void(const <a class="el" href="structnode__editor_1_1GraphScene_1_1Selection.html">Selection</a>&amp;)&gt; node_editor::GraphScene::m_nodeSelectionCallback</td>
         </tr>
       </table>
   </td>
@@ -964,7 +963,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacenode__editor.html">node_editor</a></li><li class="navelem"><a class="el" href="classnode__editor_1_1GraphScene.html">GraphScene</a></li>
-    <li class="footer">Generated on Sun Jun 18 2017 12:17:17 for possumwood by
+    <li class="footer">Generated on Sun Jun 18 2017 17:30:49 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

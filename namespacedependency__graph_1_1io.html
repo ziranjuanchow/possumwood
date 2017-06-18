@@ -105,7 +105,8 @@ $(document).ready(function(){initNavTree('namespacedependency__graph_1_1io.html'
   <div class="summary">
 <a href="#namespaces">Namespaces</a> &#124;
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#typedef-members">Typedefs</a>  </div>
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">dependency_graph::io Namespace Reference</div>  </div>
 </div><!--header-->
@@ -135,6 +136,15 @@ Typedefs</h2></td></tr>
 <tr class="memitem:ae85eab948c8b31f7ea6955800243223c"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">json</a> = <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html">basic_json</a>&lt;&gt;</td></tr>
 <tr class="memdesc:ae85eab948c8b31f7ea6955800243223c"><td class="mdescLeft">&#160;</td><td class="mdescRight">default JSON class  <a href="#ae85eab948c8b31f7ea6955800243223c">More...</a><br/></td></tr>
 <tr class="separator:ae85eab948c8b31f7ea6955800243223c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a936c332470ca0d12da9a6b17b30f7557"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacedependency__graph_1_1io.html#a936c332470ca0d12da9a6b17b30f7557">to_json</a> (<a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">json</a> &amp;j, const ::<a class="el" href="classdependency__graph_1_1Graph.html">dependency_graph::Graph</a> &amp;g, const <a class="el" href="classdependency__graph_1_1Selection.html">Selection</a> &amp;selection)</td></tr>
+<tr class="separator:a936c332470ca0d12da9a6b17b30f7557"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c5fb517d1273e170edce48cae6b5029"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Selection.html">Selection</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacedependency__graph_1_1io.html#a8c5fb517d1273e170edce48cae6b5029">from_json</a> (const <a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">json</a> &amp;j, <a class="el" href="classdependency__graph_1_1Graph.html">Graph</a> &amp;g, bool clearScene)</td></tr>
+<tr class="separator:a8c5fb517d1273e170edce48cae6b5029"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a691ab756b724e5dd463974ea498963ca"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacedependency__graph_1_1io.html#a691ab756b724e5dd463974ea498963ca">to_json</a> (<a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">json</a> &amp;j, const <a class="el" href="classdependency__graph_1_1Graph.html">Graph</a> &amp;g, const <a class="el" href="classdependency__graph_1_1Selection.html">Selection</a> &amp;selection=<a class="el" href="classdependency__graph_1_1Selection.html">Selection</a>())</td></tr>
+<tr class="separator:a691ab756b724e5dd463974ea498963ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
 <a class="anchor" id="ae85eab948c8b31f7ea6955800243223c"></a>
@@ -153,13 +163,110 @@ Typedefs</h2></td></tr>
 
 </div>
 </div>
+<h2 class="groupheader">Function Documentation</h2>
+<a class="anchor" id="a8c5fb517d1273e170edce48cae6b5029"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1Selection.html">Selection</a> dependency_graph::io::from_json </td>
+          <td>(</td>
+          <td class="paramtype">const json &amp;&#160;</td>
+          <td class="paramname"><em>j</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Graph &amp;&#160;</td>
+          <td class="paramname"><em>g</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>clearScene</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a691ab756b724e5dd463974ea498963ca"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void dependency_graph::io::to_json </td>
+          <td>(</td>
+          <td class="paramtype">json &amp;&#160;</td>
+          <td class="paramname"><em>j</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const Graph &amp;&#160;</td>
+          <td class="paramname"><em>g</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const Selection &amp;&#160;</td>
+          <td class="paramname"><em>selection</em> = <code>Selection()</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a936c332470ca0d12da9a6b17b30f7557"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void dependency_graph::io::to_json </td>
+          <td>(</td>
+          <td class="paramtype">json &amp;&#160;</td>
+          <td class="paramname"><em>j</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const ::<a class="el" href="classdependency__graph_1_1Graph.html">dependency_graph::Graph</a> &amp;&#160;</td>
+          <td class="paramname"><em>g</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const Selection &amp;&#160;</td>
+          <td class="paramname"><em>selection</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="namespacedependency__graph_1_1io.html">io</a></li>
-    <li class="footer">Generated on Sun Jun 18 2017 12:17:16 for possumwood by
+    <li class="footer">Generated on Sun Jun 18 2017 17:30:49 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

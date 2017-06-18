@@ -19,7 +19,7 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", null ],
+        [ "Variables", "functions_vars.html", "functions_vars" ],
         [ "Typedefs", "functions_type.html", null ],
         [ "Enumerations", "functions_enum.html", null ],
         [ "Enumerator", "functions_eval.html", null ],
@@ -42,12 +42,12 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "adaptor_8cpp.html",
-"classdependency__graph_1_1Node.html#a430249f24ea073de8f931419de3b288b",
-"classdependency__graph_1_1io_1_1basic__json.html#aec13c1d1010efe704afc786096fe3a48",
-"classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#a1a3e7b6bfb51617004ed74c576de7e8e",
-"classpossumwood_1_1properties_1_1factory__typed.html#ad4448528a1461876f075941549f577cb",
-"json_8h.html#a43eef1652057047547df33a61cfee08a",
-"ui_2filename_8h_source.html"
+"classdependency__graph_1_1Node.html#a0ad0805716871a6743c31b1d13d0d201",
+"classdependency__graph_1_1io_1_1basic__json.html#ad904ac86bf1203a3a73d6774a9b561f1",
+"classdependency__graph_1_1io_1_1basic__json_1_1parser.html#a4cb74740da8fb4de8ee36e36aa4e1986",
+"classpossumwood_1_1properties_1_1factories.html#a7d99b730dee2f51a20477c1f6fb50118",
+"io_2decimater__module_8h.html#ae554f8ddc32e59b1d452d521bbbbc96e",
+"structdependency__graph_1_1io_1_1detail_1_1is__compatible__integer__type.html#af90611ec3dd0db2a885d4e497d63c58c"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

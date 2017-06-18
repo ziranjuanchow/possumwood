@@ -9,6 +9,7 @@ var searchData=
   ['parse_5finternal',['parse_internal',['../classdependency__graph_1_1io_1_1basic__json_1_1parser.html#a4c4fe6275d56ef7207be793a0afef44d',1,'dependency_graph::io::basic_json::parser']]],
   ['parse_5fmsgpack',['parse_msgpack',['../classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html#ac8bff7f9aa53d81803db28eefa57e685',1,'dependency_graph::io::basic_json::binary_reader']]],
   ['parser',['parser',['../classdependency__graph_1_1io_1_1basic__json_1_1parser.html#a5d9cddb99c3776d46bfefa97cea4b929',1,'dependency_graph::io::basic_json::parser']]],
+  ['pasteaction',['pasteAction',['../classAdaptor.html#a1a3b6326ab50f11f47c960d0397cdf24',1,'Adaptor']]],
   ['patch',['patch',['../classdependency__graph_1_1io_1_1basic__json.html#a9e08ee9d5e7a7b14d7209ae4b7f264d7',1,'dependency_graph::io::basic_json']]],
   ['pen',['pen',['../classnode__editor_1_1Edge.html#ac2bc7fb87dfbef2b417780b874492dfb',1,'node_editor::Edge']]],
   ['pop_5fback',['pop_back',['../classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html#a3fa6b34207994f0362d1dfe1802b7b91',1,'dependency_graph::io::basic_json::json_pointer']]],

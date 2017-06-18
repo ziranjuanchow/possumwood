@@ -13,6 +13,7 @@ var namespacedependency__graph =
     [ "Metadata", "classdependency__graph_1_1Metadata.html", "classdependency__graph_1_1Metadata" ],
     [ "Node", "classdependency__graph_1_1Node.html", "classdependency__graph_1_1Node" ],
     [ "Port", "classdependency__graph_1_1Port.html", "classdependency__graph_1_1Port" ],
+    [ "Selection", "classdependency__graph_1_1Selection.html", "classdependency__graph_1_1Selection" ],
     [ "Values", "classdependency__graph_1_1Values.html", "classdependency__graph_1_1Values" ],
     [ "DataTraits< Filename >", "structdependency__graph_1_1DataTraits_3_01Filename_01_4.html", "structdependency__graph_1_1DataTraits_3_01Filename_01_4" ]
 ];

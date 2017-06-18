@@ -2,6 +2,7 @@ var classAdaptor =
 [
     [ "Adaptor", "classAdaptor.html#a599d5b23fde59b81f7c72472d23c2150", null ],
     [ "~Adaptor", "classAdaptor.html#a0eeebc9aa62aa16d69a6be532fc8bc0d", null ],
+    [ "copyAction", "classAdaptor.html#a9bf0a4c79dc3e0df085fd33c8f14f88b", null ],
     [ "deleteSelected", "classAdaptor.html#aa74b429935d31f93cd557e4ca6daa9eb", null ],
     [ "graph", "classAdaptor.html#ad9101caff9d30030dcc950f9d456f6fc", null ],
     [ "graphWidget", "classAdaptor.html#abe4df5967289b4474e2363326f90bfad", null ],
@@ -12,14 +13,18 @@ var classAdaptor =
     [ "onDisconnect", "classAdaptor.html#aa75672d3742fdaf9ed5e226a564ab45b", null ],
     [ "onNameChanged", "classAdaptor.html#a3b81983cb8036a8a72f64fe4cdfe1416", null ],
     [ "onRemoveNode", "classAdaptor.html#a25568398c9dd7c134f46e69b087646c3", null ],
+    [ "pasteAction", "classAdaptor.html#a1a3b6326ab50f11f47c960d0397cdf24", null ],
     [ "scene", "classAdaptor.html#a4ce9258242d31384434f99f521232890", null ],
     [ "scene", "classAdaptor.html#ae5f8497a71eb660da9f8ba2f2e49a5ce", null ],
-    [ "selectedNodes", "classAdaptor.html#af164017d7a9da0c5b601432814c380c1", null ],
+    [ "selection", "classAdaptor.html#a32984af0bf6de1d1cd88ed3e48539ada", null ],
+    [ "setSelection", "classAdaptor.html#aeff6ee7ead8643ce81f39b5d325da38b", null ],
     [ "setSizeHint", "classAdaptor.html#a499166fcd03deb96b1669940f611c508", null ],
     [ "sizeHint", "classAdaptor.html#a228e4e5c06cb9394d2bc24643c6dc024", null ],
+    [ "m_copy", "classAdaptor.html#aca23153024e9284c9fc997868a84c368", null ],
     [ "m_graph", "classAdaptor.html#a7816fec422a4182dfaaaafab0e26d4dc", null ],
     [ "m_graphWidget", "classAdaptor.html#a3d49eb0c09cf397910f1107555c9b0d5", null ],
     [ "m_nodes", "classAdaptor.html#a7338b4d271ccd55c1f82c1b46f2d69d6", null ],
+    [ "m_paste", "classAdaptor.html#a6a9f85bb66ef335d77a14177e726c55f", null ],
     [ "m_signals", "classAdaptor.html#a270bf919ae7e1802e728a1e848f753c6", null ],
     [ "m_sizeHint", "classAdaptor.html#af8e1da5ab1c249646a4c82c53196e94b", null ]
 ];

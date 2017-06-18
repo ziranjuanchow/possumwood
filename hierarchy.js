@@ -20,6 +20,7 @@ var hierarchy =
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_writer", "classdependency__graph_1_1io_1_1basic__json_1_1binary__writer.html", null ],
     [ "node_editor::BindConnection", "classnode__editor_1_1BindConnection.html", null ],
     [ "dependency_graph::Metadata::Comparator", "structdependency__graph_1_1Metadata_1_1Comparator.html", null ],
+    [ "dependency_graph::Selection::Connection", "structdependency__graph_1_1Selection_1_1Connection.html", null ],
     [ "dependency_graph::Datablock", "classdependency__graph_1_1Datablock.html", null ],
     [ "dependency_graph::DataTraits< T >", "structdependency__graph_1_1DataTraits.html", null ],
     [ "dependency_graph::DataTraits< Filename >", "structdependency__graph_1_1DataTraits_3_01Filename_01_4.html", null ],
@@ -75,8 +76,8 @@ var hierarchy =
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_value", "uniondependency__graph_1_1io_1_1basic__json_1_1json__value.html", null ],
     [ "std::less<::dependency_graph::io::detail::value_t >", "structstd_1_1less_3_1_1dependency__graph_1_1io_1_1detail_1_1value__t_01_4.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::lexer", "classdependency__graph_1_1io_1_1basic__json_1_1lexer.html", null ],
+    [ "dependency_graph::Selection::NodeComparator", "structdependency__graph_1_1Selection_1_1NodeComparator.html", null ],
     [ "possumwood::NodeData", "structpossumwood_1_1NodeData.html", null ],
-    [ "node_editor::GraphScene::NodeRefComparator", "structnode__editor_1_1GraphScene_1_1NodeRefComparator.html", null ],
     [ "noncopyable", null, [
       [ "dependency_graph::Graph", "classdependency__graph_1_1Graph.html", null ],
       [ "dependency_graph::Graph::Connections", "classdependency__graph_1_1Graph_1_1Connections.html", null ],
@@ -167,6 +168,8 @@ var hierarchy =
     [ "reverse_iterator", null, [
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_reverse_iterator< Base >", "classdependency__graph_1_1io_1_1basic__json_1_1json__reverse__iterator.html", null ]
     ] ],
+    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
+    [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classdependency__graph_1_1io_1_1basic__json_1_1serializer.html", null ],
     [ "dependency_graph::io::detail::static_const< T >", "structdependency__graph_1_1io_1_1detail_1_1static__const.html", null ],
     [ "TestStruct", "structTestStruct.html", null ],

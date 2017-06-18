@@ -50,6 +50,12 @@ var dir_755b395bae293fc8eca85293e902b8d3 =
     [ "port.inl", "port_8inl.html", null ],
     [ "rtti.cpp", "rtti_8cpp.html", "rtti_8cpp" ],
     [ "rtti.h", "rtti_8h.html", "rtti_8h" ],
+    [ "selection.cpp", "selection_8cpp.html", null ],
+    [ "selection.h", "selection_8h.html", [
+      [ "Selection", "classdependency__graph_1_1Selection.html", "classdependency__graph_1_1Selection" ],
+      [ "NodeComparator", "structdependency__graph_1_1Selection_1_1NodeComparator.html", "structdependency__graph_1_1Selection_1_1NodeComparator" ],
+      [ "Connection", "structdependency__graph_1_1Selection_1_1Connection.html", "structdependency__graph_1_1Selection_1_1Connection" ]
+    ] ],
     [ "values.cpp", "values_8cpp.html", null ],
     [ "values.h", "values_8h.html", [
       [ "Values", "classdependency__graph_1_1Values.html", "classdependency__graph_1_1Values" ]

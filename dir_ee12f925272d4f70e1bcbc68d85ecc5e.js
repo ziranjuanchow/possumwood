@@ -13,7 +13,7 @@ var dir_ee12f925272d4f70e1bcbc68d85ecc5e =
     [ "graph_scene.cpp", "graph__scene_8cpp.html", null ],
     [ "graph_scene.h", "graph__scene_8h.html", [
       [ "GraphScene", "classnode__editor_1_1GraphScene.html", "classnode__editor_1_1GraphScene" ],
-      [ "NodeRefComparator", "structnode__editor_1_1GraphScene_1_1NodeRefComparator.html", "structnode__editor_1_1GraphScene_1_1NodeRefComparator" ]
+      [ "Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", "structnode__editor_1_1GraphScene_1_1Selection" ]
     ] ],
     [ "graph_widget.cpp", "graph__widget_8cpp.html", null ],
     [ "graph_widget.h", "graph__widget_8h.html", [

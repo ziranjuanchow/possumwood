@@ -1,6 +1,6 @@
 var classnode__editor_1_1GraphScene =
 [
-    [ "NodeRefComparator", "structnode__editor_1_1GraphScene_1_1NodeRefComparator.html", "structnode__editor_1_1GraphScene_1_1NodeRefComparator" ],
+    [ "Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", "structnode__editor_1_1GraphScene_1_1Selection" ],
     [ "GraphScene", "classnode__editor_1_1GraphScene.html#a9f4618283fb8c5f76003e62b997f3592", null ],
     [ "~GraphScene", "classnode__editor_1_1GraphScene.html#aad44ea9c1747e76d1129a05f125e6c9d", null ],
     [ "addNode", "classnode__editor_1_1GraphScene.html#a9d8c10193af4c009997dcaf61163c91b", null ],
@@ -26,7 +26,7 @@ var classnode__editor_1_1GraphScene =
     [ "removeNode", "classnode__editor_1_1GraphScene.html#adc7cff9373a8e2023933d39d5e614040", null ],
     [ "setMouseConnectionCallback", "classnode__editor_1_1GraphScene.html#ae872f97a5f046840d4726992dcfae280", null ],
     [ "setNodeMoveCallback", "classnode__editor_1_1GraphScene.html#a3e3bc6f91efc1c3c4271e6a3ea8a6099", null ],
-    [ "setNodeSelectionCallback", "classnode__editor_1_1GraphScene.html#ab3cb98d126f21c6e3806aacbe57e47ad", null ],
+    [ "setNodeSelectionCallback", "classnode__editor_1_1GraphScene.html#acd5b6e3654a1b71007e3d5690445e442", null ],
     [ "Edge", "classnode__editor_1_1GraphScene.html#ad2c8ba04c9d9989ccbf3c5aba267a3d7", null ],
     [ "Node", "classnode__editor_1_1GraphScene.html#a6db9d28bd448a131448276ee03de1e6d", null ],
     [ "m_connectedSide", "classnode__editor_1_1GraphScene.html#a8a32c2eeea2a661e99b3c4f983de860b", null ],
@@ -35,5 +35,5 @@ var classnode__editor_1_1GraphScene =
     [ "m_editedEdge", "classnode__editor_1_1GraphScene.html#a920643bd2c1071394dcdd529ff87a621", null ],
     [ "m_nodeMoveCallback", "classnode__editor_1_1GraphScene.html#a614b5cc3f9452a81e31df3246fdf00d4", null ],
     [ "m_nodes", "classnode__editor_1_1GraphScene.html#a3f0566b29b5c34b3b7af7620da4659f2", null ],
-    [ "m_nodeSelectionCallback", "classnode__editor_1_1GraphScene.html#af9ecfec0992080cc76848a902d662590", null ]
+    [ "m_nodeSelectionCallback", "classnode__editor_1_1GraphScene.html#a78cb327fc9729542e6be8e7bb518f0ef", null ]
 ];
