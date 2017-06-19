@@ -15,8 +15,7 @@
 <area shape="rect" id="node15" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimater.cpp" alt="" coords="2557,103,2705,145"/>
 <area shape="rect" id="node16" href="$display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="2731,103,2879,145"/>
 <area shape="rect" id="node17" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="2904,103,3052,145"/>
-<area shape="rect" id="node18" href="$normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="3077,103,3275,145"/>
-<area shape="rect" id="node19" href="$transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="3299,103,3447,145"/>
-<area shape="rect" id="node20" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="3472,103,3619,145"/>
-<area shape="rect" id="node21" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="3643,103,3789,145"/>
+<area shape="rect" id="node18" href="$transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="3077,103,3225,145"/>
+<area shape="rect" id="node19" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="3251,103,3397,145"/>
+<area shape="rect" id="node20" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="3421,103,3568,145"/>
 </map>
