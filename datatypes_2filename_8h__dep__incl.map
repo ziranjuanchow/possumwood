@@ -1,7 +1,6 @@
 <map id="src/plugins/openmesh/datatypes/filename.h" name="src/plugins/openmesh/datatypes/filename.h">
 <area shape="rect" id="node2" href="$datatypes_2filename_8cpp.html" title="src/plugins/openmesh\l/datatypes/filename.cpp" alt="" coords="5,97,165,138"/>
-<area shape="rect" id="node3" href="$io_2filename_8h.html" title="src/plugins/openmesh\l/io/filename.h" alt="" coords="191,97,339,138"/>
-<area shape="rect" id="node4" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="216,187,364,229"/>
-<area shape="rect" id="node5" href="$ui_2filename_8h.html" title="src/plugins/openmesh\l/ui/filename.h" alt="" coords="415,97,563,138"/>
-<area shape="rect" id="node6" href="$ui_2filename_8cpp.html" title="src/plugins/openmesh\l/ui/filename.cpp" alt="" coords="415,187,563,229"/>
+<area shape="rect" id="node3" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="191,97,339,138"/>
+<area shape="rect" id="node4" href="$ui_2filename_8h.html" title="src/plugins/openmesh\l/ui/filename.h" alt="" coords="364,97,512,138"/>
+<area shape="rect" id="node5" href="$ui_2filename_8cpp.html" title="src/plugins/openmesh\l/ui/filename.cpp" alt="" coords="364,187,512,229"/>
 </map>

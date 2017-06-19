@@ -8,7 +8,7 @@ var annotated =
     [ "Adaptor", "classAdaptor.html", "classAdaptor" ],
     [ "bool_ui", "classbool__ui.html", "classbool__ui" ],
     [ "DecimaterModule", "classDecimaterModule.html", "classDecimaterModule" ],
-    [ "Filename", "classFilename.html", "classFilename" ],
+    [ "enum_ui", "classenum__ui.html", "classenum__ui" ],
     [ "filename_ui", "classfilename__ui.html", "classfilename__ui" ],
     [ "float_ui", "classfloat__ui.html", "classfloat__ui" ],
     [ "MainWindow", "classMainWindow.html", "classMainWindow" ],

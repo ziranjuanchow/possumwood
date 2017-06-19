@@ -1,7 +1,7 @@
 <map id="src/libs/possumwood_sdk/metadata.h" name="src/libs/possumwood_sdk/metadata.h">
-<area shape="rect" id="node2" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="1206,97,1359,138"/>
-<area shape="rect" id="node3" href="$possumwood__sdk_2metadata_8cpp.html" title="src/libs/possumwood\l_sdk/metadata.cpp" alt="" coords="1383,97,1528,138"/>
-<area shape="rect" id="node4" href="$node__implementation_8h.html" title="src/libs/possumwood\l_sdk/node_implementation.h" alt="" coords="1553,97,1740,138"/>
+<area shape="rect" id="node2" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="1313,97,1465,138"/>
+<area shape="rect" id="node3" href="$possumwood__sdk_2metadata_8cpp.html" title="src/libs/possumwood\l_sdk/metadata.cpp" alt="" coords="1490,97,1635,138"/>
+<area shape="rect" id="node4" href="$node__implementation_8h.html" title="src/libs/possumwood\l_sdk/node_implementation.h" alt="" coords="1659,97,1847,138"/>
 <area shape="rect" id="node5" href="$node__implementation_8cpp.html" title="src/libs/possumwood\l_sdk/node_implementation.cpp" alt="" coords="5,194,208,235"/>
 <area shape="rect" id="node6" href="$cube_8cpp.html" title="src/plugins/3d/nodes\l/cube.cpp" alt="" coords="233,194,375,235"/>
 <area shape="rect" id="node7" href="$nodes_2vec3_8cpp.html" title="src/plugins/3d/nodes\l/vec3.cpp" alt="" coords="399,194,541,235"/>
@@ -18,5 +18,6 @@
 <area shape="rect" id="node18" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimater.cpp" alt="" coords="2608,194,2756,235"/>
 <area shape="rect" id="node19" href="$display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="2781,194,2929,235"/>
 <area shape="rect" id="node20" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="2955,194,3103,235"/>
-<area shape="rect" id="node21" href="$transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="3128,194,3276,235"/>
+<area shape="rect" id="node21" href="$normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="3128,194,3325,235"/>
+<area shape="rect" id="node22" href="$transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="3349,194,3497,235"/>
 </map>
