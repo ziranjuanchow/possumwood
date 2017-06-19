@@ -120,32 +120,32 @@ $(document).ready(function(){initNavTree('io_2vec3_8h_source.html','');});
 <div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="preprocessor"></span></div>
 <div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;<span class="keyword">template</span>&lt;<span class="keyword">typename</span> T&gt;</div>
-<div class="line"><a name="l00015"></a><span class="lineno"><a class="line" href="namespaceImath.html#aad19001a1406f7925af15502c79d1cae">   15</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="namespaceImath.html#aad19001a1406f7925af15502c79d1cae">to_json</a>(::<a class="code" href="classdependency__graph_1_1io_1_1basic__json.html">dependency_graph::io::json</a>&amp; j, <span class="keyword">const</span> Vec3&lt;T&gt;&amp; g) {</div>
+<div class="line"><a name="l00015"></a><span class="lineno"><a class="line" href="namespaceImath.html#aad19001a1406f7925af15502c79d1cae">   15</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="common_8h.html#a3ec05777f38082176715380ad50f56a9">to_json</a>(::<a class="code" href="classdependency__graph_1_1io_1_1basic__json.html">dependency_graph::io::json</a>&amp; j, <span class="keyword">const</span> Vec3&lt;T&gt;&amp; g) {</div>
 <div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;    j[<span class="stringliteral">&quot;x&quot;</span>] = g.x;</div>
 <div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;    j[<span class="stringliteral">&quot;y&quot;</span>] = g.y;</div>
 <div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;    j[<span class="stringliteral">&quot;z&quot;</span>] = g.z;</div>
 <div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;}</div>
 <div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;</div>
 <div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="keyword">template</span>&lt;<span class="keyword">typename</span> T&gt;</div>
-<div class="line"><a name="l00022"></a><span class="lineno"><a class="line" href="namespaceImath.html#ad1d25e04850031cee42b42eeb8c5d2f7">   22</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="namespaceImath.html#ad1d25e04850031cee42b42eeb8c5d2f7">from_json</a>(<a class="code" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">const ::dependency_graph::io::json</a>&amp; j, Vec3&lt;T&gt;&amp; g) {</div>
+<div class="line"><a name="l00022"></a><span class="lineno"><a class="line" href="namespaceImath.html#ad1d25e04850031cee42b42eeb8c5d2f7">   22</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="common_8h.html#af65584d7a51de99630e398cecd50d1f9">from_json</a>(<a class="code" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">const ::dependency_graph::io::json</a>&amp; j, Vec3&lt;T&gt;&amp; g) {</div>
 <div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;    g.x = j[<span class="stringliteral">&quot;x&quot;</span>].get&lt;<span class="keywordtype">float</span>&gt;();</div>
 <div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;    g.y = j[<span class="stringliteral">&quot;y&quot;</span>].get&lt;<span class="keywordtype">float</span>&gt;();</div>
 <div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;    g.z = j[<span class="stringliteral">&quot;z&quot;</span>].get&lt;<span class="keywordtype">float</span>&gt;();</div>
 <div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;}</div>
 <div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;</div>
 <div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;}</div>
+<div class="ttc" id="common_8h_html_af65584d7a51de99630e398cecd50d1f9"><div class="ttname"><a href="common_8h.html#af65584d7a51de99630e398cecd50d1f9">from_json</a></div><div class="ttdeci">void from_json(const ::dependency_graph::io::json &amp;json, TestStruct &amp;ts)</div><div class="ttdef"><b>Definition:</b> common.h:30</div></div>
 <div class="ttc" id="json_8h_html"><div class="ttname"><a href="json_8h.html">json.h</a></div></div>
-<div class="ttc" id="namespaceImath_html_ad1d25e04850031cee42b42eeb8c5d2f7"><div class="ttname"><a href="namespaceImath.html#ad1d25e04850031cee42b42eeb8c5d2f7">Imath::from_json</a></div><div class="ttdeci">void from_json(const ::dependency_graph::io::json &amp;j, Vec3&lt; T &gt; &amp;g)</div><div class="ttdef"><b>Definition:</b> vec3.h:22</div></div>
 <div class="ttc" id="namespacedependency__graph_1_1io_html_ae85eab948c8b31f7ea6955800243223c"><div class="ttname"><a href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">dependency_graph::io::json</a></div><div class="ttdeci">basic_json&lt;&gt; json</div><div class="ttdoc">default JSON class </div><div class="ttdef"><b>Definition:</b> json.h:14358</div></div>
+<div class="ttc" id="common_8h_html_a3ec05777f38082176715380ad50f56a9"><div class="ttname"><a href="common_8h.html#a3ec05777f38082176715380ad50f56a9">to_json</a></div><div class="ttdeci">void to_json(::dependency_graph::io::json &amp;json, const TestStruct &amp;ts)</div><div class="ttdef"><b>Definition:</b> common.h:29</div></div>
 <div class="ttc" id="classdependency__graph_1_1io_1_1basic__json_html"><div class="ttname"><a href="classdependency__graph_1_1io_1_1basic__json.html">dependency_graph::io::basic_json</a></div><div class="ttdoc">a class to store JSON values </div><div class="ttdef"><b>Definition:</b> json.h:1296</div></div>
-<div class="ttc" id="namespaceImath_html_aad19001a1406f7925af15502c79d1cae"><div class="ttname"><a href="namespaceImath.html#aad19001a1406f7925af15502c79d1cae">Imath::to_json</a></div><div class="ttdeci">void to_json(::dependency_graph::io::json &amp;j, const Vec3&lt; T &gt; &amp;g)</div><div class="ttdef"><b>Definition:</b> vec3.h:15</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1551752abcc7cd92f2ad9a1f2edf2b11.html">src</a></li><li class="navelem"><a class="el" href="dir_90abbedf322c0217cda19e8a4eb868f7.html">plugins</a></li><li class="navelem"><a class="el" href="dir_649f992526cb5de6a515cee56da60644.html">3d</a></li><li class="navelem"><a class="el" href="dir_f414e3be21067310d83bb60c51539af4.html">io</a></li><li class="navelem"><a class="el" href="io_2vec3_8h.html">vec3.h</a></li>
-    <li class="footer">Generated on Mon Jun 19 2017 22:30:35 for possumwood by
+    <li class="footer">Generated on Mon Jun 19 2017 22:32:28 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

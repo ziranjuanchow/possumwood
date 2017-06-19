@@ -23,8 +23,8 @@ var hierarchy =
     [ "dependency_graph::Selection::Connection", "structdependency__graph_1_1Selection_1_1Connection.html", null ],
     [ "dependency_graph::Datablock", "classdependency__graph_1_1Datablock.html", null ],
     [ "dependency_graph::DataTraits< T >", "structdependency__graph_1_1DataTraits.html", null ],
-    [ "dependency_graph::DataTraits< Filename >", "structdependency__graph_1_1DataTraits_3_01Filename_01_4.html", null ],
     [ "DecimaterModule", "classDecimaterModule.html", null ],
+    [ "possumwood::Enum", "classpossumwood_1_1Enum.html", null ],
     [ "exception", null, [
       [ "dependency_graph::io::detail::exception", "classdependency__graph_1_1io_1_1detail_1_1exception.html", [
         [ "dependency_graph::io::detail::invalid_iterator", "classdependency__graph_1_1io_1_1detail_1_1invalid__iterator.html", null ],
@@ -47,7 +47,7 @@ var hierarchy =
       [ "dependency_graph::io::detail::is_compatible_integer_type_impl< bool, typename, typename >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__integer__type__impl.html", null ],
       [ "dependency_graph::io::detail::is_compatible_object_type_impl< B, RealType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type__impl.html", null ]
     ] ],
-    [ "Filename", "classFilename.html", null ],
+    [ "possumwood::Filename", "classpossumwood_1_1Filename.html", null ],
     [ "dependency_graph::io::detail::from_json_fn", "structdependency__graph_1_1io_1_1detail_1_1from__json__fn.html", null ],
     [ "dependency_graph::io::detail::has_from_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__from__json.html", null ],
     [ "dependency_graph::io::detail::has_non_default_from_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__non__default__from__json.html", null ],
@@ -94,6 +94,7 @@ var hierarchy =
       [ "possumwood::properties::factory", "classpossumwood_1_1properties_1_1factory.html", [
         [ "possumwood::properties::factory_typed< bool_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< DERIVED >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< enum_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< filename_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< float_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< mesh_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
@@ -106,14 +107,17 @@ var hierarchy =
         [ "possumwood::properties::property< bool, bool_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "bool_ui", "classbool__ui.html", null ]
         ] ],
-        [ "possumwood::properties::property< Filename, filename_ui >", "classpossumwood_1_1properties_1_1property.html", [
-          [ "filename_ui", "classfilename__ui.html", null ]
-        ] ],
         [ "possumwood::properties::property< float, float_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "float_ui", "classfloat__ui.html", null ]
         ] ],
         [ "possumwood::properties::property< Imath::Vec3< float >, vec3_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "vec3_ui", "classvec3__ui.html", null ]
+        ] ],
+        [ "possumwood::properties::property< possumwood::Enum, enum_ui >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "enum_ui", "classenum__ui.html", null ]
+        ] ],
+        [ "possumwood::properties::property< possumwood::Filename, filename_ui >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "filename_ui", "classfilename__ui.html", null ]
         ] ],
         [ "possumwood::properties::property< std::shared_ptr< const Mesh >, mesh_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "mesh_ui", "classmesh__ui.html", null ]
@@ -168,8 +172,8 @@ var hierarchy =
     [ "reverse_iterator", null, [
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_reverse_iterator< Base >", "classdependency__graph_1_1io_1_1basic__json_1_1json__reverse__iterator.html", null ]
     ] ],
-    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
+    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classdependency__graph_1_1io_1_1basic__json_1_1serializer.html", null ],
     [ "dependency_graph::io::detail::static_const< T >", "structdependency__graph_1_1io_1_1detail_1_1static__const.html", null ],
     [ "TestStruct", "structTestStruct.html", null ],

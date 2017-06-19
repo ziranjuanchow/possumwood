@@ -11,5 +11,6 @@ var dir_5e3bde739d27f05f00a739dbde262dc2 =
     [ "decimater.cpp", "decimater_8cpp.html", null ],
     [ "display.cpp", "display_8cpp.html", null ],
     [ "loader.cpp", "loader_8cpp.html", null ],
+    [ "normals_generator.cpp", "normals__generator_8cpp.html", null ],
     [ "transform.cpp", "transform_8cpp.html", null ]
 ];

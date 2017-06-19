@@ -1,7 +1,7 @@
 <map id="src/libs/dependency_graph/values.h" name="src/libs/dependency_graph/values.h">
-<area shape="rect" id="node2" href="$dependency__graph_2node_8cpp.html" title="src/libs/dependency\l_graph/node.cpp" alt="" coords="1415,97,1553,138"/>
-<area shape="rect" id="node3" href="$values_8cpp.html" title="src/libs/dependency\l_graph/values.cpp" alt="" coords="1577,97,1716,138"/>
-<area shape="rect" id="node4" href="$values_8inl.html" title="src/libs/dependency\l_graph/values.inl" alt="" coords="1740,97,1879,138"/>
+<area shape="rect" id="node2" href="$dependency__graph_2node_8cpp.html" title="src/libs/dependency\l_graph/node.cpp" alt="" coords="1532,97,1671,138"/>
+<area shape="rect" id="node3" href="$values_8cpp.html" title="src/libs/dependency\l_graph/values.cpp" alt="" coords="1695,97,1833,138"/>
+<area shape="rect" id="node4" href="$values_8inl.html" title="src/libs/dependency\l_graph/values.inl" alt="" coords="1857,97,1996,138"/>
 <area shape="rect" id="node5" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="5,194,157,235"/>
 <area shape="rect" id="node6" href="$cube_8cpp.html" title="src/plugins/3d/nodes\l/cube.cpp" alt="" coords="182,194,324,235"/>
 <area shape="rect" id="node7" href="$nodes_2vec3_8cpp.html" title="src/plugins/3d/nodes\l/vec3.cpp" alt="" coords="349,194,491,235"/>
@@ -18,7 +18,8 @@
 <area shape="rect" id="node18" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimater.cpp" alt="" coords="2557,194,2705,235"/>
 <area shape="rect" id="node19" href="$display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="2731,194,2879,235"/>
 <area shape="rect" id="node20" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="2904,194,3052,235"/>
-<area shape="rect" id="node21" href="$transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="3077,194,3225,235"/>
-<area shape="rect" id="node22" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="3251,194,3397,235"/>
-<area shape="rect" id="node23" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="3421,194,3568,235"/>
+<area shape="rect" id="node21" href="$normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="3077,194,3275,235"/>
+<area shape="rect" id="node22" href="$transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="3299,194,3447,235"/>
+<area shape="rect" id="node23" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="3472,194,3619,235"/>
+<area shape="rect" id="node24" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="3643,194,3789,235"/>
 </map>

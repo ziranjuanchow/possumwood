@@ -1,10 +1,11 @@
 <map id="possumwood::properties::factory" name="possumwood::properties::factory">
 <area shape="rect" id="node3" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; bool_ui \&gt;" alt="" coords="377,5,551,46"/>
 <area shape="rect" id="node4" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; DERIVED \&gt;" alt="" coords="367,70,561,111"/>
-<area shape="rect" id="node5" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; filename_ui \&gt;" alt="" coords="365,135,563,177"/>
-<area shape="rect" id="node6" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; float_ui \&gt;" alt="" coords="377,201,551,242"/>
-<area shape="rect" id="node7" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; mesh_ui \&gt;" alt="" coords="373,266,555,307"/>
-<area shape="rect" id="node8" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; unsigned_ui \&gt;" alt="" coords="363,331,565,373"/>
-<area shape="rect" id="node9" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; vec3_ui \&gt;" alt="" coords="375,397,553,438"/>
-<area shape="rect" id="node10" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; T \&gt;" alt="" coords="382,462,546,503"/>
+<area shape="rect" id="node5" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; enum_ui \&gt;" alt="" coords="373,135,555,177"/>
+<area shape="rect" id="node6" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; filename_ui \&gt;" alt="" coords="365,201,563,242"/>
+<area shape="rect" id="node7" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; float_ui \&gt;" alt="" coords="377,266,551,307"/>
+<area shape="rect" id="node8" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; mesh_ui \&gt;" alt="" coords="373,331,555,373"/>
+<area shape="rect" id="node9" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; unsigned_ui \&gt;" alt="" coords="363,397,565,438"/>
+<area shape="rect" id="node10" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; vec3_ui \&gt;" alt="" coords="375,462,553,503"/>
+<area shape="rect" id="node11" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; T \&gt;" alt="" coords="382,527,546,569"/>
 </map>

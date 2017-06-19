@@ -1,3 +1,5 @@
 <map id="src/plugins/openmesh/datatypes/filename.h" name="src/plugins/openmesh/datatypes/filename.h">
-<area shape="rect" id="node5" href="$data__traits_8h.html" title="dependency_graph/data\l_traits.h" alt="" coords="345,97,504,138"/>
+<area shape="rect" id="node5" href="$data__traits_8h.html" title="dependency_graph/data\l_traits.h" alt="" coords="655,97,813,138"/>
+<area shape="rect" id="node6" href="$io_8h.html" title="possumwood_sdk/io.h" alt="" coords="968,104,1120,131"/>
+<area shape="rect" id="node7" href="$json_8h.html" title="dependency_graph/io\l/json.h" alt="" coords="1037,187,1181,229"/>
 </map>

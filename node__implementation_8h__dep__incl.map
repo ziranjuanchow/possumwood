@@ -15,5 +15,6 @@
 <area shape="rect" id="node15" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimater.cpp" alt="" coords="2608,103,2756,145"/>
 <area shape="rect" id="node16" href="$display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="2781,103,2929,145"/>
 <area shape="rect" id="node17" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="2955,103,3103,145"/>
-<area shape="rect" id="node18" href="$transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="3128,103,3276,145"/>
+<area shape="rect" id="node18" href="$normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="3128,103,3325,145"/>
+<area shape="rect" id="node19" href="$transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="3349,103,3497,145"/>
 </map>
