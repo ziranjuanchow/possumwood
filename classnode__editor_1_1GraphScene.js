@@ -25,6 +25,7 @@ var classnode__editor_1_1GraphScene =
     [ "remove", "classnode__editor_1_1GraphScene.html#ae71e1e8fe5aa5ad786d0946a0d5c40e1", null ],
     [ "removeNode", "classnode__editor_1_1GraphScene.html#adc7cff9373a8e2023933d39d5e614040", null ],
     [ "setMouseConnectionCallback", "classnode__editor_1_1GraphScene.html#ae872f97a5f046840d4726992dcfae280", null ],
+    [ "setNodeInfoCallback", "classnode__editor_1_1GraphScene.html#a5a967af50e32d22de143feb39f792338", null ],
     [ "setNodeMoveCallback", "classnode__editor_1_1GraphScene.html#a3e3bc6f91efc1c3c4271e6a3ea8a6099", null ],
     [ "setNodeSelectionCallback", "classnode__editor_1_1GraphScene.html#acd5b6e3654a1b71007e3d5690445e442", null ],
     [ "Edge", "classnode__editor_1_1GraphScene.html#ad2c8ba04c9d9989ccbf3c5aba267a3d7", null ],
@@ -33,6 +34,9 @@ var classnode__editor_1_1GraphScene =
     [ "m_connectionCallback", "classnode__editor_1_1GraphScene.html#ac3fe4c926819b30b2754e4aa3fa226a3", null ],
     [ "m_edges", "classnode__editor_1_1GraphScene.html#af8e1ee04ca396b1b8739e174dea08911", null ],
     [ "m_editedEdge", "classnode__editor_1_1GraphScene.html#a920643bd2c1071394dcdd529ff87a621", null ],
+    [ "m_infoRect", "classnode__editor_1_1GraphScene.html#ab186667e91b941eae69057cc1f453819", null ],
+    [ "m_infoText", "classnode__editor_1_1GraphScene.html#a6f1020e930dcad15bc2a263c6c1725bd", null ],
+    [ "m_nodeInfoCallback", "classnode__editor_1_1GraphScene.html#a6b1579ec3ce48f388d753eac2101b7d1", null ],
     [ "m_nodeMoveCallback", "classnode__editor_1_1GraphScene.html#a614b5cc3f9452a81e31df3246fdf00d4", null ],
     [ "m_nodes", "classnode__editor_1_1GraphScene.html#a3f0566b29b5c34b3b7af7620da4659f2", null ],
     [ "m_nodeSelectionCallback", "classnode__editor_1_1GraphScene.html#a78cb327fc9729542e6be8e7bb518f0ef", null ]

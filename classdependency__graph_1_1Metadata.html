@@ -167,9 +167,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ad86fe8e49a345099ecc824c8d36fd4a5"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:ad86fe8e49a345099ecc824c8d36fd4a5"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#ad86fe8e49a345099ecc824c8d36fd4a5">addAttribute</a> (<a class="el" href="classdependency__graph_1_1OutAttr.html">OutAttr</a>&lt; T &gt; &amp;out, const std::string &amp;name, const T &amp;defaultValue=T())</td></tr>
 <tr class="separator:ad86fe8e49a345099ecc824c8d36fd4a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a316effe7c7a419ff38c1c557abf99da9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a316effe7c7a419ff38c1c557abf99da9">setCompute</a> (std::function&lt; void(<a class="el" href="classdependency__graph_1_1Values.html">Values</a> &amp;)&gt; compute)</td></tr>
-<tr class="memdesc:a316effe7c7a419ff38c1c557abf99da9"><td class="mdescLeft">&#160;</td><td class="mdescRight">compute method of this node  <a href="#a316effe7c7a419ff38c1c557abf99da9">More...</a><br/></td></tr>
-<tr class="separator:a316effe7c7a419ff38c1c557abf99da9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5af3adc9489b67593c00a611219699d7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a5af3adc9489b67593c00a611219699d7">setCompute</a> (std::function&lt; <a class="el" href="classdependency__graph_1_1State.html">State</a>(<a class="el" href="classdependency__graph_1_1Values.html">Values</a> &amp;)&gt; compute)</td></tr>
+<tr class="memdesc:a5af3adc9489b67593c00a611219699d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">compute method of this node  <a href="#a5af3adc9489b67593c00a611219699d7">More...</a><br/></td></tr>
+<tr class="separator:a5af3adc9489b67593c00a611219699d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a86541413ff413627f9d651ef2688a730"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a86541413ff413627f9d651ef2688a730">attributeCount</a> () const </td></tr>
 <tr class="memdesc:a86541413ff413627f9d651ef2688a730"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns the number of attributes currently present  <a href="#a86541413ff413627f9d651ef2688a730">More...</a><br/></td></tr>
 <tr class="separator:a86541413ff413627f9d651ef2688a730"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -221,8 +221,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a73e48ae4cada097728171a4a477b86ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a07460c7a381d31b4f9d2e74415bced87"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="classdependency__graph_1_1Attr.html">Attr</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a07460c7a381d31b4f9d2e74415bced87">m_attrs</a></td></tr>
 <tr class="separator:a07460c7a381d31b4f9d2e74415bced87"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a47fe77f6c96236f14cd0ecb24fbfba5f"><td class="memItemLeft" align="right" valign="top">std::function&lt; void(<a class="el" href="classdependency__graph_1_1Values.html">Values</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a47fe77f6c96236f14cd0ecb24fbfba5f">m_compute</a></td></tr>
-<tr class="separator:a47fe77f6c96236f14cd0ecb24fbfba5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a627a44e29ae5de7708bbd6643a1e7e0d"><td class="memItemLeft" align="right" valign="top">std::function&lt; <a class="el" href="classdependency__graph_1_1State.html">State</a>(<a class="el" href="classdependency__graph_1_1Values.html">Values</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a627a44e29ae5de7708bbd6643a1e7e0d">m_compute</a></td></tr>
+<tr class="separator:a627a44e29ae5de7708bbd6643a1e7e0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abb9acf32a290218c6965eb50f2f2ab2d"><td class="memItemLeft" align="right" valign="top">boost::bimap<br class="typebreak"/>
 &lt; boost::bimaps::multiset_of<br class="typebreak"/>
 &lt; unsigned &gt;<br class="typebreak"/>
@@ -613,14 +613,14 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
-<a class="anchor" id="a316effe7c7a419ff38c1c557abf99da9"></a>
+<a class="anchor" id="a5af3adc9489b67593c00a611219699d7"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
           <td class="memname">void dependency_graph::Metadata::setCompute </td>
           <td>(</td>
-          <td class="paramtype">std::function&lt; void(<a class="el" href="classdependency__graph_1_1Values.html">Values</a> &amp;)&gt;&#160;</td>
+          <td class="paramtype">std::function&lt; <a class="el" href="classdependency__graph_1_1State.html">State</a>(<a class="el" href="classdependency__graph_1_1Values.html">Values</a> &amp;)&gt;&#160;</td>
           <td class="paramname"><em>compute</em></td><td>)</td>
           <td></td>
         </tr>
@@ -710,7 +710,7 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
-<a class="anchor" id="a47fe77f6c96236f14cd0ecb24fbfba5f"></a>
+<a class="anchor" id="a627a44e29ae5de7708bbd6643a1e7e0d"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -718,7 +718,7 @@ template&lt;typename T &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::function&lt;void(<a class="el" href="classdependency__graph_1_1Values.html">Values</a>&amp;)&gt; dependency_graph::Metadata::m_compute</td>
+          <td class="memname">std::function&lt;<a class="el" href="classdependency__graph_1_1State.html">State</a>(<a class="el" href="classdependency__graph_1_1Values.html">Values</a>&amp;)&gt; dependency_graph::Metadata::m_compute</td>
         </tr>
       </table>
   </td>
@@ -801,7 +801,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Metadata.html">Metadata</a></li>
-    <li class="footer">Generated on Mon Jun 19 2017 23:08:39 for possumwood by
+    <li class="footer">Generated on Fri Jul 14 2017 21:11:55 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

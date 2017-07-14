@@ -823,7 +823,7 @@ template&lt;template&lt; typename U, typename V, typename...Args &gt; class Obje
 
 <p>scan a number literal </p>
 <p>This function scans a string according to Sect. 6 of RFC 7159.</p>
-<p>The function is realized with a deterministic finite state machine derived from the grammar described in RFC 7159. Starting in state "init", the input is read and used to determined the next state. Only state "done" accepts the number. State "error" is a trap state to model errors. In the table below, "anything" means any character but the ones listed before.</p>
+<p>The function is realized with a deterministic finite state machine derived from the grammar described in RFC 7159. Starting in state "init", the input is read and used to determined the next state. Only state "done" accepts the number. <a class="el" href="classdependency__graph_1_1State.html">State</a> "error" is a trap state to model errors. In the table below, "anything" means any character but the ones listed before.</p>
 <table class="doxtable">
 <tr>
 <th>state </th><th>0 </th><th>1-9 </th><th>e E </th><th>+ </th><th>- </th><th>. </th><th>anything  </th></tr>
@@ -1354,7 +1354,7 @@ template&lt;template&lt; typename U, typename V, typename...Args &gt; class Obje
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="namespacedependency__graph_1_1io.html">io</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html">basic_json</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1lexer.html">lexer</a></li>
-    <li class="footer">Generated on Mon Jun 19 2017 23:08:39 for possumwood by
+    <li class="footer">Generated on Fri Jul 14 2017 21:11:56 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

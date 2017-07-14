@@ -88,6 +88,7 @@ var hierarchy =
       [ "dependency_graph::Node", "classdependency__graph_1_1Node.html", null ],
       [ "dependency_graph::Port", "classdependency__graph_1_1Port.html", null ],
       [ "dependency_graph::Values", "classdependency__graph_1_1Values.html", null ],
+      [ "OMLog", "classOMLog.html", null ],
       [ "possumwood::App", "classpossumwood_1_1App.html", null ],
       [ "possumwood::NodeImplementation", "structpossumwood_1_1NodeImplementation.html", null ],
       [ "possumwood::properties::factories", "classpossumwood_1_1properties_1_1factories.html", null ],
@@ -164,6 +165,7 @@ var hierarchy =
       [ "node_editor::BindSignal", "classnode__editor_1_1BindSignal.html", null ]
     ] ],
     [ "QTreeWidget", null, [
+      [ "Log", "classLog.html", null ],
       [ "Properties", "classProperties.html", null ]
     ] ],
     [ "QWidget", null, [
@@ -175,7 +177,9 @@ var hierarchy =
     [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
     [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classdependency__graph_1_1io_1_1basic__json_1_1serializer.html", null ],
+    [ "dependency_graph::State", "classdependency__graph_1_1State.html", null ],
     [ "dependency_graph::io::detail::static_const< T >", "structdependency__graph_1_1io_1_1detail_1_1static__const.html", null ],
+    [ "OMLog::Target", "structOMLog_1_1Target.html", null ],
     [ "TestStruct", "structTestStruct.html", null ],
     [ "dependency_graph::io::detail::to_json_fn", "structdependency__graph_1_1io_1_1detail_1_1to__json__fn.html", null ],
     [ "true_type", null, [

@@ -1,19 +1,20 @@
 <map id="src/plugins/maths/ui/bool_ui.h" name="src/plugins/maths/ui/bool_ui.h">
-<area shape="rect" id="node4" href="$property_8h.html" title="possumwood_sdk/properties\l/property.h" alt="" coords="1059,97,1247,138"/>
-<area shape="rect" id="node8" href="$factory_8inl.html" title="factory.inl" alt="" coords="302,344,380,371"/>
-<area shape="rect" id="node15" href="$node_8inl.html" title="dependency_graph/node.inl" alt="" coords="1127,187,1307,213"/>
-<area shape="rect" id="node50" href="$port_8inl.html" title="dependency_graph/port.inl" alt="" coords="1002,261,1176,288"/>
-<area shape="rect" id="node9" href="$factory_8h.html" title="factory.h" alt="" coords="305,427,377,453"/>
-<area shape="rect" id="node16" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1180,344,1241,371"/>
-<area shape="rect" id="node43" href="$graph_8h.html" title="graph.h" alt="" coords="1526,261,1591,288"/>
-<area shape="rect" id="node46" href="$datablock_8inl.html" title="datablock.inl" alt="" coords="946,501,1040,528"/>
-<area shape="rect" id="node18" href="$attr_8h.html" title="attr.h" alt="" coords="1065,501,1116,528"/>
-<area shape="rect" id="node36" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1398,576,1484,603"/>
-<area shape="rect" id="node42" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1062,427,1116,453"/>
-<area shape="rect" id="node20" href="$datablock_8h.html" title="datablock.h" alt="" coords="949,576,1037,603"/>
-<area shape="rect" id="node22" href="$json_8h.html" title="io/json.h" alt="" coords="783,741,853,768"/>
-<area shape="rect" id="node35" href="$data_8h.html" title="data.h" alt="" coords="897,659,955,685"/>
-<area shape="rect" id="node47" href="$data_8inl.html" title="data.inl" alt="" coords="607,576,671,603"/>
-<area shape="rect" id="node48" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="503,659,597,685"/>
-<area shape="rect" id="node49" href="$rtti_8h.html" title="rtti.h" alt="" coords="623,659,671,685"/>
+<area shape="rect" id="node4" href="$property_8h.html" title="possumwood_sdk/properties\l/property.h" alt="" coords="1070,97,1257,138"/>
+<area shape="rect" id="node8" href="$factory_8inl.html" title="factory.inl" alt="" coords="750,344,828,371"/>
+<area shape="rect" id="node15" href="$node_8inl.html" title="dependency_graph/node.inl" alt="" coords="1138,187,1317,213"/>
+<area shape="rect" id="node50" href="$port_8inl.html" title="dependency_graph/port.inl" alt="" coords="1013,261,1187,288"/>
+<area shape="rect" id="node9" href="$factory_8h.html" title="factory.h" alt="" coords="753,427,825,453"/>
+<area shape="rect" id="node16" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1183,344,1244,371"/>
+<area shape="rect" id="node43" href="$graph_8h.html" title="graph.h" alt="" coords="1734,261,1799,288"/>
+<area shape="rect" id="node46" href="$datablock_8inl.html" title="datablock.inl" alt="" coords="657,501,751,528"/>
+<area shape="rect" id="node18" href="$attr_8h.html" title="attr.h" alt="" coords="1058,501,1109,528"/>
+<area shape="rect" id="node35" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1374,576,1460,603"/>
+<area shape="rect" id="node41" href="$state_8h.html" title="state.h" alt="" coords="1281,741,1343,768"/>
+<area shape="rect" id="node42" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1121,427,1175,453"/>
+<area shape="rect" id="node20" href="$datablock_8h.html" title="datablock.h" alt="" coords="662,576,751,603"/>
+<area shape="rect" id="node22" href="$json_8h.html" title="io/json.h" alt="" coords="681,741,751,768"/>
+<area shape="rect" id="node34" href="$data_8h.html" title="data.h" alt="" coords="632,659,689,685"/>
+<area shape="rect" id="node47" href="$data_8inl.html" title="data.inl" alt="" coords="573,576,637,603"/>
+<area shape="rect" id="node48" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="462,659,556,685"/>
+<area shape="rect" id="node49" href="$rtti_8h.html" title="rtti.h" alt="" coords="877,659,925,685"/>
 </map>

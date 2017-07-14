@@ -177,6 +177,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a3e3bc6f91efc1c3c4271e6a3ea8a6099"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acd5b6e3654a1b71007e3d5690445e442"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#acd5b6e3654a1b71007e3d5690445e442">setNodeSelectionCallback</a> (std::function&lt; void(const <a class="el" href="structnode__editor_1_1GraphScene_1_1Selection.html">Selection</a> &amp;)&gt; fn)</td></tr>
 <tr class="separator:acd5b6e3654a1b71007e3d5690445e442"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a967af50e32d22de143feb39f792338"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#a5a967af50e32d22de143feb39f792338">setNodeInfoCallback</a> (std::function&lt; std::string(const <a class="el" href="classnode__editor_1_1Node.html">Node</a> &amp;)&gt; fn)</td></tr>
+<tr class="separator:a5a967af50e32d22de143feb39f792338"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
@@ -213,6 +215,10 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a920643bd2c1071394dcdd529ff87a621"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8a32c2eeea2a661e99b3c4f983de860b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classnode__editor_1_1Port.html#a9aa99f68a5f17d4e3d130dd546cc89ba">Port::Type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#a8a32c2eeea2a661e99b3c4f983de860b">m_connectedSide</a></td></tr>
 <tr class="separator:a8a32c2eeea2a661e99b3c4f983de860b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f1020e930dcad15bc2a263c6c1725bd"><td class="memItemLeft" align="right" valign="top">QGraphicsTextItem *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#a6f1020e930dcad15bc2a263c6c1725bd">m_infoText</a></td></tr>
+<tr class="separator:a6f1020e930dcad15bc2a263c6c1725bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab186667e91b941eae69057cc1f453819"><td class="memItemLeft" align="right" valign="top">QGraphicsRectItem *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#ab186667e91b941eae69057cc1f453819">m_infoRect</a></td></tr>
+<tr class="separator:ab186667e91b941eae69057cc1f453819"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac3fe4c926819b30b2754e4aa3fa226a3"><td class="memItemLeft" align="right" valign="top">std::function&lt; void(<a class="el" href="classnode__editor_1_1Port.html">Port</a> <br class="typebreak"/>
 &amp;, <a class="el" href="classnode__editor_1_1Port.html">Port</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#ac3fe4c926819b30b2754e4aa3fa226a3">m_connectionCallback</a></td></tr>
 <tr class="separator:ac3fe4c926819b30b2754e4aa3fa226a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -221,6 +227,9 @@ Private Attributes</h2></td></tr>
 <tr class="memitem:a78cb327fc9729542e6be8e7bb518f0ef"><td class="memItemLeft" align="right" valign="top">std::function&lt; void(const <br class="typebreak"/>
 <a class="el" href="structnode__editor_1_1GraphScene_1_1Selection.html">Selection</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#a78cb327fc9729542e6be8e7bb518f0ef">m_nodeSelectionCallback</a></td></tr>
 <tr class="separator:a78cb327fc9729542e6be8e7bb518f0ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b1579ec3ce48f388d753eac2101b7d1"><td class="memItemLeft" align="right" valign="top">std::function&lt; std::string(const <br class="typebreak"/>
+<a class="el" href="classnode__editor_1_1Node.html">Node</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#a6b1579ec3ce48f388d753eac2101b7d1">m_nodeInfoCallback</a></td></tr>
+<tr class="separator:a6b1579ec3ce48f388d753eac2101b7d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="friends"></a>
 Friends</h2></td></tr>
@@ -739,6 +748,22 @@ Friends</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a5a967af50e32d22de143feb39f792338"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void node_editor::GraphScene::setNodeInfoCallback </td>
+          <td>(</td>
+          <td class="paramtype">std::function&lt; std::string(const <a class="el" href="classnode__editor_1_1Node.html">Node</a> &amp;)&gt;&#160;</td>
+          <td class="paramname"><em>fn</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a3e3bc6f91efc1c3c4271e6a3ea8a6099"></a>
 <div class="memitem">
 <div class="memproto">
@@ -893,6 +918,66 @@ Friends</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="ab186667e91b941eae69057cc1f453819"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">QGraphicsRectItem* node_editor::GraphScene::m_infoRect</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a6f1020e930dcad15bc2a263c6c1725bd"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">QGraphicsTextItem* node_editor::GraphScene::m_infoText</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a6b1579ec3ce48f388d753eac2101b7d1"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::function&lt;std::string(const <a class="el" href="classnode__editor_1_1Node.html">Node</a>&amp;)&gt; node_editor::GraphScene::m_nodeInfoCallback</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a614b5cc3f9452a81e31df3246fdf00d4"></a>
 <div class="memitem">
 <div class="memproto">
@@ -963,7 +1048,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacenode__editor.html">node_editor</a></li><li class="navelem"><a class="el" href="classnode__editor_1_1GraphScene.html">GraphScene</a></li>
-    <li class="footer">Generated on Mon Jun 19 2017 23:08:39 for possumwood by
+    <li class="footer">Generated on Fri Jul 14 2017 21:11:56 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

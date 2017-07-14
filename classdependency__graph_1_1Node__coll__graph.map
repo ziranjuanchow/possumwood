@@ -1,7 +1,8 @@
 <map id="dependency_graph::Node" name="dependency_graph::Node">
-<area shape="rect" id="node4" href="$classdependency__graph_1_1Metadata.html" title="dependency_graph::Metadata" alt="" coords="155,97,349,123"/>
-<area shape="rect" id="node5" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="165,250,339,277"/>
-<area shape="rect" id="node6" href="$classdependency__graph_1_1Graph_1_1Connections.html" title="dependency_graph::Graph\l::Connections" alt="" coords="494,220,669,261"/>
-<area shape="rect" id="node7" href="$classdependency__graph_1_1Graph_1_1Nodes.html" title="dependency_graph::Graph\l::Nodes" alt="" coords="494,356,669,397"/>
-<area shape="rect" id="node3" href="$classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="153,46,351,73"/>
+<area shape="rect" id="node4" href="$classdependency__graph_1_1Metadata.html" title="dependency_graph::Metadata" alt="" coords="153,84,346,111"/>
+<area shape="rect" id="node5" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="162,238,337,264"/>
+<area shape="rect" id="node6" href="$classdependency__graph_1_1Graph_1_1Connections.html" title="dependency_graph::Graph\l::Connections" alt="" coords="501,164,675,205"/>
+<area shape="rect" id="node7" href="$classdependency__graph_1_1Graph_1_1Nodes.html" title="dependency_graph::Graph\l::Nodes" alt="" coords="501,282,675,324"/>
+<area shape="rect" id="node3" href="$classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="489,50,687,76"/>
+<area shape="rect" id="node8" href="$classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="503,230,673,256"/>
 </map>

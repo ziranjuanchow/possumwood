@@ -56,6 +56,8 @@ var dir_755b395bae293fc8eca85293e902b8d3 =
       [ "NodeComparator", "structdependency__graph_1_1Selection_1_1NodeComparator.html", "structdependency__graph_1_1Selection_1_1NodeComparator" ],
       [ "Connection", "structdependency__graph_1_1Selection_1_1Connection.html", "structdependency__graph_1_1Selection_1_1Connection" ]
     ] ],
+    [ "state.cpp", "state_8cpp.html", "state_8cpp" ],
+    [ "state.h", "state_8h.html", "state_8h" ],
     [ "values.cpp", "values_8cpp.html", null ],
     [ "values.h", "values_8h.html", [
       [ "Values", "classdependency__graph_1_1Values.html", "classdependency__graph_1_1Values" ]

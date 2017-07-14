@@ -1,4 +1,5 @@
 <map id="src/libs/possumwood_sdk/metadata.h" name="src/libs/possumwood_sdk/metadata.h">
-<area shape="rect" id="node5" href="$metadata_8inl.html" title="dependency_graph/metadata.inl" alt="" coords="345,96,551,123"/>
-<area shape="rect" id="node6" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="426,171,512,197"/>
+<area shape="rect" id="node5" href="$metadata_8inl.html" title="dependency_graph/metadata.inl" alt="" coords="319,96,525,123"/>
+<area shape="rect" id="node6" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="455,171,541,197"/>
+<area shape="rect" id="node12" href="$state_8h.html" title="state.h" alt="" coords="862,253,924,280"/>
 </map>

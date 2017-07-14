@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classnode__editor_1_1BindConnection.html" title="a class representing an existing connection, allowing to disconnect it " alt="" coords="5,5,195,32"/>
+<area shape="rect" id="node2" href="$classLog.html" title="Log" alt="" coords="172,5,215,32"/>
+<area shape="rect" id="node3" href="$classProperties.html" title="A widget displaying properties of selected nodes. " alt="" coords="153,56,234,83"/>
 </map>

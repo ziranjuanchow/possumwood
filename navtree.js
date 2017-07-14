@@ -42,12 +42,12 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "adaptor_8cpp.html",
-"classdependency__graph_1_1Node.html#a46afdeef3dd08cdeb1e1297ec021fa6e",
-"classdependency__graph_1_1io_1_1basic__json.html#ae4a8b9c61d70f03d5b15f63ece0658d2",
-"classdependency__graph_1_1io_1_1basic__json_1_1parser.html#ac475da4ad6a5e19274993b4ed3d82462",
-"classpossumwood_1_1Enum.html#a84b085689cdd2111a2374418a2160d4d",
-"functions_vars_t.html",
-"structdependency__graph_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1object_01_4.html#a9ec11d451e300f6123d6041722d4d4f2"
+"classdependency__graph_1_1Metadata.html#ac7bc49b64f879791f9b3d14593f7062b",
+"classdependency__graph_1_1io_1_1basic__json.html#aa913147a51bf3a12fb4e4fe6215d8111",
+"classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#aeb934db8d194d0be39cb0df3989699aaab7ae4c0e46d86f884677768160b26e9e",
+"classnode__editor_1_1Node.html#ae0a3cebed0354b5bb27a6f742f8decf5",
+"functions_func_e.html",
+"structProperties_1_1Property.html#a34248564da28a0b868457f89e97f7bdb"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

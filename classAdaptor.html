@@ -105,6 +105,7 @@ $(document).ready(function(){initNavTree('classAdaptor.html','');});
 
 <div class="header">
   <div class="summary">
+<a href="#signals">Signals</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
@@ -133,6 +134,11 @@ Collaboration diagram for Adaptor:</div>
 <area shape="rect" id="node3" href="classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="710,281,885,308"/><area shape="rect" id="node5" href="classdependency__graph_1_1Graph_1_1Connections.html" title="dependency_graph::Graph\l::Connections" alt="" coords="1030,365,1205,406"/><area shape="rect" id="node6" href="classdependency__graph_1_1Graph_1_1Nodes.html" title="dependency_graph::Graph\l::Nodes" alt="" coords="1030,229,1205,270"/><area shape="rect" id="node7" href="classnode__editor_1_1GraphWidget.html" title="a simple graph widget " alt="" coords="711,55,884,81"/><area shape="rect" id="node9" href="classnode__editor_1_1GraphScene.html" title="node_editor::GraphScene" alt="" coords="433,27,602,53"/><area shape="rect" id="node11" href="classnode__editor_1_1Edge.html" title="node_editor::Edge" alt="" coords="169,56,295,83"/></map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="signals"></a>
+Signals</h2></td></tr>
+<tr class="memitem:add986ef1cc8a881d809f021415d5f8c0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#add986ef1cc8a881d809f021415d5f8c0">logged</a> (QIcon, const QString &amp;)</td></tr>
+<tr class="separator:add986ef1cc8a881d809f021415d5f8c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a599d5b23fde59b81f7c72472d23c2150"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a599d5b23fde59b81f7c72472d23c2150">Adaptor</a> (<a class="el" href="classdependency__graph_1_1Graph.html">dependency_graph::Graph</a> *<a class="el" href="classAdaptor.html#ad9101caff9d30030dcc950f9d456f6fc">graph</a>)</td></tr>
@@ -184,6 +190,10 @@ Private Member Functions</h2></td></tr>
 <tr class="separator:a843a0385c7d298bc3465542ef7361017"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3b81983cb8036a8a72f64fe4cdfe1416"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a3b81983cb8036a8a72f64fe4cdfe1416">onNameChanged</a> (<a class="el" href="classdependency__graph_1_1Node.html">dependency_graph::Node</a> &amp;node)</td></tr>
 <tr class="separator:a3b81983cb8036a8a72f64fe4cdfe1416"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82e6a5cf093589c6111cd40d19094b28"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a82e6a5cf093589c6111cd40d19094b28">onStateChanged</a> (const <a class="el" href="classdependency__graph_1_1Node.html">dependency_graph::Node</a> &amp;node)</td></tr>
+<tr class="separator:a82e6a5cf093589c6111cd40d19094b28"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9dfe383790ba92846232aa5ecb436114"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a9dfe383790ba92846232aa5ecb436114">onLog</a> (<a class="el" href="classdependency__graph_1_1State.html#ab49f78931558ad396783a67179637c74">dependency_graph::State::MessageType</a> t, const std::string &amp;msg)</td></tr>
+<tr class="separator:a9dfe383790ba92846232aa5ecb436114"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -310,6 +320,40 @@ Private Attributes</h2></td></tr>
           <td></td>
         </tr>
       </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="add986ef1cc8a881d809f021415d5f8c0"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Adaptor::logged </td>
+          <td>(</td>
+          <td class="paramtype">QIcon&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const QString &amp;&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">signal</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -448,6 +492,40 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a9dfe383790ba92846232aa5ecb436114"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Adaptor::onLog </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classdependency__graph_1_1State.html#ab49f78931558ad396783a67179637c74">dependency_graph::State::MessageType</a>&#160;</td>
+          <td class="paramname"><em>t</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>msg</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a3b81983cb8036a8a72f64fe4cdfe1416"></a>
 <div class="memitem">
 <div class="memproto">
@@ -483,6 +561,30 @@ Private Attributes</h2></td></tr>
           <td class="memname">void Adaptor::onRemoveNode </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="classdependency__graph_1_1Node.html">dependency_graph::Node</a> &amp;&#160;</td>
+          <td class="paramname"><em>node</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a82e6a5cf093589c6111cd40d19094b28"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Adaptor::onStateChanged </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1Node.html">dependency_graph::Node</a> &amp;&#160;</td>
           <td class="paramname"><em>node</em></td><td>)</td>
           <td></td>
         </tr>
@@ -766,7 +868,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classAdaptor.html">Adaptor</a></li>
-    <li class="footer">Generated on Mon Jun 19 2017 23:08:38 for possumwood by
+    <li class="footer">Generated on Fri Jul 14 2017 21:11:55 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

@@ -1,17 +1,18 @@
 <map id="src/libs/possumwood_sdk/ui/enum_ui.h" name="src/libs/possumwood_sdk/ui/enum_ui.h">
-<area shape="rect" id="node2" href="$enum_8h.html" title="datatypes/enum.h" alt="" coords="1635,261,1761,288"/>
-<area shape="rect" id="node34" href="$property_8h.html" title="possumwood_sdk/properties\l/property.h" alt="" coords="2788,97,2976,138"/>
-<area shape="rect" id="node6" href="$data__traits_8h.html" title="dependency_graph/data\l_traits.h" alt="" coords="1870,337,2029,378"/>
-<area shape="rect" id="node7" href="$io_8h.html" title="../io.h" alt="" coords="1383,344,1437,371"/>
-<area shape="rect" id="node8" href="$json_8h.html" title="dependency_graph/io\l/json.h" alt="" coords="1170,427,1314,469"/>
-<area shape="rect" id="node38" href="$factory_8inl.html" title="factory.inl" alt="" coords="2055,344,2133,371"/>
-<area shape="rect" id="node40" href="$node_8inl.html" title="dependency_graph/node.inl" alt="" coords="2631,187,2810,213"/>
-<area shape="rect" id="node49" href="$port_8inl.html" title="dependency_graph/port.inl" alt="" coords="2795,261,2969,288"/>
-<area shape="rect" id="node39" href="$factory_8h.html" title="factory.h" alt="" coords="2079,435,2152,461"/>
-<area shape="rect" id="node41" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="2854,344,2916,371"/>
-<area shape="rect" id="node47" href="$graph_8h.html" title="graph.h" alt="" coords="2654,261,2718,288"/>
-<area shape="rect" id="node48" href="$datablock_8inl.html" title="datablock.inl" alt="" coords="2158,344,2252,371"/>
-<area shape="rect" id="node42" href="$attr_8h.html" title="attr.h" alt="" coords="3070,525,3121,552"/>
-<area shape="rect" id="node43" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="2480,435,2566,461"/>
-<area shape="rect" id="node46" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="3003,435,3057,461"/>
+<area shape="rect" id="node2" href="$enum_8h.html" title="datatypes/enum.h" alt="" coords="1955,261,2081,288"/>
+<area shape="rect" id="node34" href="$property_8h.html" title="possumwood_sdk/properties\l/property.h" alt="" coords="2671,97,2859,138"/>
+<area shape="rect" id="node6" href="$data__traits_8h.html" title="dependency_graph/data\l_traits.h" alt="" coords="1647,337,1805,378"/>
+<area shape="rect" id="node7" href="$io_8h.html" title="../io.h" alt="" coords="1246,344,1300,371"/>
+<area shape="rect" id="node8" href="$json_8h.html" title="dependency_graph/io\l/json.h" alt="" coords="1075,427,1220,469"/>
+<area shape="rect" id="node38" href="$factory_8inl.html" title="factory.inl" alt="" coords="2169,344,2247,371"/>
+<area shape="rect" id="node40" href="$node_8inl.html" title="dependency_graph/node.inl" alt="" coords="2675,187,2855,213"/>
+<area shape="rect" id="node49" href="$port_8inl.html" title="dependency_graph/port.inl" alt="" coords="2857,261,3031,288"/>
+<area shape="rect" id="node39" href="$factory_8h.html" title="factory.h" alt="" coords="2171,435,2244,461"/>
+<area shape="rect" id="node41" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="2817,344,2879,371"/>
+<area shape="rect" id="node47" href="$graph_8h.html" title="graph.h" alt="" coords="2715,261,2780,288"/>
+<area shape="rect" id="node48" href="$datablock_8inl.html" title="datablock.inl" alt="" coords="2515,344,2609,371"/>
+<area shape="rect" id="node42" href="$attr_8h.html" title="attr.h" alt="" coords="2898,517,2949,544"/>
+<area shape="rect" id="node43" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="2519,435,2605,461"/>
+<area shape="rect" id="node45" href="$state_8h.html" title="state.h" alt="" coords="2411,517,2473,544"/>
+<area shape="rect" id="node46" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="3038,435,3092,461"/>
 </map>

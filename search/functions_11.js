@@ -8,6 +8,6 @@ var searchData=
   ['rend',['rend',['../classdependency__graph_1_1io_1_1basic__json.html#ad904ac86bf1203a3a73d6774a9b561f1',1,'dependency_graph::io::basic_json::rend() noexcept'],['../classdependency__graph_1_1io_1_1basic__json.html#a9a8e86ffe94d91764afecb44a41fcae8',1,'dependency_graph::io::basic_json::rend() const noexcept']]],
   ['render',['render',['../classViewport.html#a5373efc02c946d06053779d18b1c3159',1,'Viewport']]],
   ['replace_5fsubstring',['replace_substring',['../classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html#ab7fc437c6826e56b2713cbc350c85fa7',1,'dependency_graph::io::basic_json::json_pointer']]],
-  ['reset',['reset',['../classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#acf45f8d61f1d33e5151aa09b9959d5b1',1,'dependency_graph::io::basic_json::lexer']]],
+  ['reset',['reset',['../classdependency__graph_1_1Datablock.html#afdc762ca3a8bf992a42f370504306d4e',1,'dependency_graph::Datablock::reset()'],['../classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#acf45f8d61f1d33e5151aa09b9959d5b1',1,'dependency_graph::io::basic_json::lexer::reset()']]],
   ['resizegl',['resizeGL',['../classViewport.html#ad4d24c01a69f6a4c277c40c5fa599b8f',1,'Viewport']]]
 ];
