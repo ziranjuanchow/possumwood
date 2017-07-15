@@ -18,7 +18,6 @@ var hierarchy =
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >", "classdependency__graph_1_1io_1_1basic__json.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_reader", "classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_writer", "classdependency__graph_1_1io_1_1basic__json_1_1binary__writer.html", null ],
-    [ "node_editor::BindConnection", "classnode__editor_1_1BindConnection.html", null ],
     [ "dependency_graph::Metadata::Comparator", "structdependency__graph_1_1Metadata_1_1Comparator.html", null ],
     [ "dependency_graph::Selection::Connection", "structdependency__graph_1_1Selection_1_1Connection.html", null ],
     [ "dependency_graph::Datablock", "classdependency__graph_1_1Datablock.html", null ],
@@ -164,9 +163,6 @@ var hierarchy =
     [ "QMainWindow", null, [
       [ "MainWindow", "classMainWindow.html", null ]
     ] ],
-    [ "QObject", null, [
-      [ "node_editor::BindSignal", "classnode__editor_1_1BindSignal.html", null ]
-    ] ],
     [ "QTreeWidget", null, [
       [ "Log", "classLog.html", null ],
       [ "Properties", "classProperties.html", null ]
@@ -179,8 +175,8 @@ var hierarchy =
     [ "reverse_iterator", null, [
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_reverse_iterator< Base >", "classdependency__graph_1_1io_1_1basic__json_1_1json__reverse__iterator.html", null ]
     ] ],
-    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
+    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classdependency__graph_1_1io_1_1basic__json_1_1serializer.html", null ],
     [ "dependency_graph::State", "classdependency__graph_1_1State.html", null ],
     [ "dependency_graph::io::detail::static_const< T >", "structdependency__graph_1_1io_1_1detail_1_1static__const.html", null ],
