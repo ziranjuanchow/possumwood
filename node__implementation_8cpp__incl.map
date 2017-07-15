@@ -1,7 +1,15 @@
 <map id="src/libs/possumwood_sdk/node_implementation.cpp" name="src/libs/possumwood_sdk/node_implementation.cpp">
-<area shape="rect" id="node2" href="$node__implementation_8h.html" title="node_implementation.h" alt="" coords="64,96,219,123"/>
-<area shape="rect" id="node6" href="$possumwood__sdk_2metadata_8h.html" title="metadata.h" alt="" coords="539,171,625,197"/>
-<area shape="rect" id="node10" href="$metadata_8inl.html" title="dependency_graph/metadata.inl" alt="" coords="479,245,685,272"/>
-<area shape="rect" id="node11" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="539,320,625,347"/>
-<area shape="rect" id="node15" href="$state_8h.html" title="state.h" alt="" coords="677,403,739,429"/>
+<area shape="rect" id="node2" href="$node__implementation_8h.html" title="node_implementation.h" alt="" coords="845,96,1000,123"/>
+<area shape="rect" id="node6" href="$possumwood__sdk_2metadata_8h.html" title="metadata.h" alt="" coords="686,171,772,197"/>
+<area shape="rect" id="node10" href="$metadata_8inl.html" title="dependency_graph/metadata.inl" alt="" coords="562,320,768,347"/>
+<area shape="rect" id="node17" href="$drawable_8h.html" title="drawable.h" alt="" coords="735,245,820,272"/>
+<area shape="rect" id="node11" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="622,469,708,496"/>
+<area shape="rect" id="node15" href="$state_8h.html" title="state.h" alt="" coords="869,784,931,811"/>
+<area shape="rect" id="node18" href="$values_8h.html" title="dependency_graph/values.h" alt="" coords="895,320,1079,347"/>
+<area shape="rect" id="node19" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1267,395,1328,421"/>
+<area shape="rect" id="node22" href="$attr_8h.html" title="attr.h" alt="" coords="1441,552,1492,579"/>
+<area shape="rect" id="node48" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1205,469,1259,496"/>
+<area shape="rect" id="node24" href="$datablock_8h.html" title="datablock.h" alt="" coords="1634,635,1723,661"/>
+<area shape="rect" id="node25" href="$json_8h.html" title="io/json.h" alt="" coords="1697,784,1767,811"/>
+<area shape="rect" id="node47" href="$data_8h.html" title="data.h" alt="" coords="1641,709,1699,736"/>
 </map>

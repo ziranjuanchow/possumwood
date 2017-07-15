@@ -27,7 +27,7 @@ var searchData=
   ['is_5froot',['is_root',['../classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html#acaaa12d29fdb9767db5224294d59a81c',1,'dependency_graph::io::basic_json::json_pointer']]],
   ['is_5fstring',['is_string',['../classdependency__graph_1_1io_1_1basic__json.html#adbbad6dcdea0bbdf04ea10f225b3f8df',1,'dependency_graph::io::basic_json']]],
   ['is_5fstructured',['is_structured',['../classdependency__graph_1_1io_1_1basic__json.html#a2e8aeb98bef2544efcd2111a42fe9312',1,'dependency_graph::io::basic_json']]],
-  ['isconnected',['isConnected',['../classnode__editor_1_1GraphScene.html#a13520b00a2694b4c07b24381d014dac2',1,'node_editor::GraphScene']]],
+  ['isconnected',['isConnected',['../classdependency__graph_1_1Values.html#a396b28cbd4e75ed74fbfe5ddf81cef48',1,'dependency_graph::Values::isConnected()'],['../classnode__editor_1_1GraphScene.html#a13520b00a2694b4c07b24381d014dac2',1,'node_editor::GraphScene::isConnected()']]],
   ['isdirty',['isDirty',['../classdependency__graph_1_1Port.html#a8f3218b6de635251fa4026f5e9257767',1,'dependency_graph::Port']]],
   ['isedgeeditinprogress',['isEdgeEditInProgress',['../classnode__editor_1_1GraphScene.html#a443af42c39b4cd2a33cb2f71f6109ccb',1,'node_editor::GraphScene']]],
   ['isequal',['isEqual',['../classdependency__graph_1_1BaseData.html#aa7e5d66ae922534a090eb70aacd55bb1',1,'dependency_graph::BaseData::isEqual()'],['../structdependency__graph_1_1Data.html#a8759a1cf3752ceb59876acc48c9c8c2c',1,'dependency_graph::Data::isEqual()'],['../structdependency__graph_1_1DataTraits.html#a3d026d27ea766ad4e2b22b773e405f60',1,'dependency_graph::DataTraits::isEqual()']]],

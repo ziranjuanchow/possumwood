@@ -115,30 +115,33 @@ $(document).ready(function(){initNavTree('possumwood__sdk_2metadata_8h_source.ht
 <div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;</div>
 <div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#include &lt;<a class="code" href="metadata_8inl.html">dependency_graph/metadata.inl</a>&gt;</span></div>
 <div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;</div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="keyword">namespace </span>possumwood {</div>
+<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="drawable_8h.html">drawable.h</a>&quot;</span></div>
 <div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;</div>
-<div class="line"><a name="l00012"></a><span class="lineno"><a class="line" href="classpossumwood_1_1Metadata.html">   12</a></span>&#160;<span class="keyword">class </span><a class="code" href="classpossumwood_1_1Metadata.html">Metadata</a> : <span class="keyword">public</span> <a class="code" href="classdependency__graph_1_1Metadata.html">dependency_graph::Metadata</a> {</div>
-<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;    <span class="keyword">public</span>:</div>
-<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;        <a class="code" href="classpossumwood_1_1Metadata.html#aee9d6c21a82f005045d6a68da6985f62">Metadata</a>(<span class="keyword">const</span> std::string&amp; nodeType);</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;        <span class="keyword">virtual</span> <a class="code" href="classpossumwood_1_1Metadata.html#abc18753cc5a24f64122bce24bf6d7eb4">~Metadata</a>();</div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;</div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classpossumwood_1_1Metadata.html#aa5d7729901b69ff515afca4b4a979c31">setDraw</a>(std::function&lt;<span class="keywordtype">void</span>(<span class="keyword">const</span> <a class="code" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a>&amp;)&gt; drawFunctor);</div>
-<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;</div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classpossumwood_1_1Metadata.html#a908edfb19c326ee1730d3eae4807caa8">draw</a>(<span class="keyword">const</span> <a class="code" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a>&amp; vals) <span class="keyword">const</span>;</div>
-<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;</div>
-<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;    <span class="keyword">private</span>:</div>
-<div class="line"><a name="l00024"></a><span class="lineno"><a class="line" href="classpossumwood_1_1Metadata.html#a06aabc38e92754cfe7df36b8631ffed6">   24</a></span>&#160;        std::function&lt;void(const dependency_graph::Values&amp;)&gt; <a class="code" href="classpossumwood_1_1Metadata.html#a06aabc38e92754cfe7df36b8631ffed6">m_drawFunctor</a>;</div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;};</div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;</div>
-<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;}</div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="keyword">namespace </span>possumwood {</div>
+<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;</div>
+<div class="line"><a name="l00014"></a><span class="lineno"><a class="line" href="classpossumwood_1_1Metadata.html">   14</a></span>&#160;<span class="keyword">class </span><a class="code" href="classpossumwood_1_1Metadata.html">Metadata</a> : <span class="keyword">public</span> <a class="code" href="classdependency__graph_1_1Metadata.html">dependency_graph::Metadata</a> {</div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;    <span class="keyword">public</span>:</div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;        <a class="code" href="classpossumwood_1_1Metadata.html#aee9d6c21a82f005045d6a68da6985f62">Metadata</a>(<span class="keyword">const</span> std::string&amp; nodeType);</div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;        <span class="keyword">virtual</span> <a class="code" href="classpossumwood_1_1Metadata.html#abc18753cc5a24f64122bce24bf6d7eb4">~Metadata</a>();</div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;</div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classpossumwood_1_1Metadata.html#a167bbf644e870b42065bcc25953ec78a">setDrawableFactory</a>(std::function&lt;std::unique_ptr&lt;Drawable&gt;(<a class="code" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a>&amp;&amp;)&gt; drawableFactory);</div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;</div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;        std::unique_ptr&lt;Drawable&gt; <a class="code" href="classpossumwood_1_1Metadata.html#afd19e99d309f2b3ebfa37757344f91a4">createDrawable</a>(<a class="code" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a>&amp;&amp; values) <span class="keyword">const</span>;</div>
+<div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;</div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;    <span class="keyword">private</span>:</div>
+<div class="line"><a name="l00026"></a><span class="lineno"><a class="line" href="classpossumwood_1_1Metadata.html#af2b04cb5462144e406a02ec3f7746ba3">   26</a></span>&#160;        std::function&lt;std::unique_ptr&lt;Drawable&gt;(<a class="code" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a>&amp;&amp;)&gt; <a class="code" href="classpossumwood_1_1Metadata.html#af2b04cb5462144e406a02ec3f7746ba3">m_drawableFactory</a>;</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;};</div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;</div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;}</div>
+<div class="ttc" id="classpossumwood_1_1Metadata_html_a167bbf644e870b42065bcc25953ec78a"><div class="ttname"><a href="classpossumwood_1_1Metadata.html#a167bbf644e870b42065bcc25953ec78a">possumwood::Metadata::setDrawableFactory</a></div><div class="ttdeci">void setDrawableFactory(std::function&lt; std::unique_ptr&lt; Drawable &gt;(dependency_graph::Values &amp;&amp;)&gt; drawableFactory)</div><div class="ttdoc">compute method of this node </div><div class="ttdef"><b>Definition:</b> metadata.cpp:11</div></div>
 <div class="ttc" id="classdependency__graph_1_1Metadata_html"><div class="ttname"><a href="classdependency__graph_1_1Metadata.html">dependency_graph::Metadata</a></div><div class="ttdef"><b>Definition:</b> metadata.h:29</div></div>
 <div class="ttc" id="metadata_8inl_html"><div class="ttname"><a href="metadata_8inl.html">metadata.inl</a></div></div>
-<div class="ttc" id="classpossumwood_1_1Metadata_html_a06aabc38e92754cfe7df36b8631ffed6"><div class="ttname"><a href="classpossumwood_1_1Metadata.html#a06aabc38e92754cfe7df36b8631ffed6">possumwood::Metadata::m_drawFunctor</a></div><div class="ttdeci">std::function&lt; void(const dependency_graph::Values &amp;)&gt; m_drawFunctor</div><div class="ttdef"><b>Definition:</b> metadata.h:24</div></div>
+<div class="ttc" id="classpossumwood_1_1Metadata_html_afd19e99d309f2b3ebfa37757344f91a4"><div class="ttname"><a href="classpossumwood_1_1Metadata.html#afd19e99d309f2b3ebfa37757344f91a4">possumwood::Metadata::createDrawable</a></div><div class="ttdeci">std::unique_ptr&lt; Drawable &gt; createDrawable(dependency_graph::Values &amp;&amp;values) const </div><div class="ttdoc">creates a new drawable instance for given value set </div><div class="ttdef"><b>Definition:</b> metadata.cpp:15</div></div>
+<div class="ttc" id="drawable_8h_html"><div class="ttname"><a href="drawable_8h.html">drawable.h</a></div></div>
 <div class="ttc" id="classdependency__graph_1_1Values_html"><div class="ttname"><a href="classdependency__graph_1_1Values.html">dependency_graph::Values</a></div><div class="ttdef"><b>Definition:</b> values.h:9</div></div>
 <div class="ttc" id="classpossumwood_1_1Metadata_html_abc18753cc5a24f64122bce24bf6d7eb4"><div class="ttname"><a href="classpossumwood_1_1Metadata.html#abc18753cc5a24f64122bce24bf6d7eb4">possumwood::Metadata::~Metadata</a></div><div class="ttdeci">virtual ~Metadata()</div><div class="ttdef"><b>Definition:</b> metadata.cpp:8</div></div>
-<div class="ttc" id="classpossumwood_1_1Metadata_html_aa5d7729901b69ff515afca4b4a979c31"><div class="ttname"><a href="classpossumwood_1_1Metadata.html#aa5d7729901b69ff515afca4b4a979c31">possumwood::Metadata::setDraw</a></div><div class="ttdeci">void setDraw(std::function&lt; void(const dependency_graph::Values &amp;)&gt; drawFunctor)</div><div class="ttdoc">compute method of this node </div><div class="ttdef"><b>Definition:</b> metadata.cpp:11</div></div>
-<div class="ttc" id="classpossumwood_1_1Metadata_html_a908edfb19c326ee1730d3eae4807caa8"><div class="ttname"><a href="classpossumwood_1_1Metadata.html#a908edfb19c326ee1730d3eae4807caa8">possumwood::Metadata::draw</a></div><div class="ttdeci">void draw(const dependency_graph::Values &amp;vals) const </div><div class="ttdoc">executes the draw method </div><div class="ttdef"><b>Definition:</b> metadata.cpp:15</div></div>
-<div class="ttc" id="classpossumwood_1_1Metadata_html"><div class="ttname"><a href="classpossumwood_1_1Metadata.html">possumwood::Metadata</a></div><div class="ttdef"><b>Definition:</b> metadata.h:12</div></div>
+<div class="ttc" id="classpossumwood_1_1Metadata_html"><div class="ttname"><a href="classpossumwood_1_1Metadata.html">possumwood::Metadata</a></div><div class="ttdef"><b>Definition:</b> metadata.h:14</div></div>
+<div class="ttc" id="classpossumwood_1_1Metadata_html_af2b04cb5462144e406a02ec3f7746ba3"><div class="ttname"><a href="classpossumwood_1_1Metadata.html#af2b04cb5462144e406a02ec3f7746ba3">possumwood::Metadata::m_drawableFactory</a></div><div class="ttdeci">std::function&lt; std::unique_ptr&lt; Drawable &gt;dependency_graph::Values &amp;&amp;)&gt; m_drawableFactory</div><div class="ttdef"><b>Definition:</b> metadata.h:26</div></div>
 <div class="ttc" id="classpossumwood_1_1Metadata_html_aee9d6c21a82f005045d6a68da6985f62"><div class="ttname"><a href="classpossumwood_1_1Metadata.html#aee9d6c21a82f005045d6a68da6985f62">possumwood::Metadata::Metadata</a></div><div class="ttdeci">Metadata(const std::string &amp;nodeType)</div><div class="ttdef"><b>Definition:</b> metadata.cpp:5</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
@@ -146,7 +149,7 @@ $(document).ready(function(){initNavTree('possumwood__sdk_2metadata_8h_source.ht
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1551752abcc7cd92f2ad9a1f2edf2b11.html">src</a></li><li class="navelem"><a class="el" href="dir_91c9d2e87dd13602397f5b4d38043d61.html">libs</a></li><li class="navelem"><a class="el" href="dir_7acc46a17532a8cb69846641fb3f2bb6.html">possumwood_sdk</a></li><li class="navelem"><a class="el" href="possumwood__sdk_2metadata_8h.html">metadata.h</a></li>
-    <li class="footer">Generated on Fri Jul 14 2017 21:25:16 for possumwood by
+    <li class="footer">Generated on Sat Jul 15 2017 20:28:43 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

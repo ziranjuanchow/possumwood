@@ -17,6 +17,8 @@ var annotated =
     [ "OMLog", "classOMLog.html", "classOMLog" ],
     [ "Properties", "classProperties.html", "classProperties" ],
     [ "TestStruct", "structTestStruct.html", "structTestStruct" ],
+    [ "Timeline", "classTimeline.html", "classTimeline" ],
+    [ "TimelineWidget", "classTimelineWidget.html", "classTimelineWidget" ],
     [ "unsigned_ui", "classunsigned__ui.html", "classunsigned__ui" ],
     [ "vec3_ui", "classvec3__ui.html", "classvec3__ui" ],
     [ "Viewport", "classViewport.html", "classViewport" ]

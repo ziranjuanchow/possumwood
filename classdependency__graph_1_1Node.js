@@ -22,7 +22,7 @@ var classdependency__graph_1_1Node =
     [ "setName", "classdependency__graph_1_1Node.html#ad7d3bed9cf971ab2bc5092230f2f60d4", null ],
     [ "state", "classdependency__graph_1_1Node.html#ab87440288d12d207a83644428b83c212", null ],
     [ "Graph", "classdependency__graph_1_1Node.html#afab89afd724f1b07b1aaad6bdc61c47a", null ],
-    [ "io::adl_serializer< Node >", "classdependency__graph_1_1Node.html#a46afdeef3dd08cdeb1e1297ec021fa6e", null ],
+    [ "io::adl_serializer< Node >", "classdependency__graph_1_1Node.html#a72aa0f4cfd3b52942b652401b5dc8180", null ],
     [ "Port", "classdependency__graph_1_1Node.html#aa502b594a737a49ef3dfcd93538c9a49", null ],
     [ "m_blindData", "classdependency__graph_1_1Node.html#af543559ee21bdd010791cdb6bf882ada", null ],
     [ "m_data", "classdependency__graph_1_1Node.html#a42384c246c81ca47c649538d5be555c2", null ],

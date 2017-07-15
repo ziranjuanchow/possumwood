@@ -111,20 +111,21 @@ $(document).ready(function(){initNavTree('app_8h.html','');});
 <div class="contents">
 <div class="textblock"><code>#include &lt;boost/noncopyable.hpp&gt;</code><br/>
 <code>#include &lt;boost/filesystem/path.hpp&gt;</code><br/>
+<code>#include &lt;boost/signals2.hpp&gt;</code><br/>
 <code>#include &lt;<a class="el" href="graph_8h_source.html">dependency_graph/graph.h</a>&gt;</code><br/>
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for app.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="app_8h__incl.png" border="0" usemap="#src_2libs_2possumwood__sdk_2app_8h" alt=""/></div>
 <map name="src_2libs_2possumwood__sdk_2app_8h" id="src_2libs_2possumwood__sdk_2app_8h">
-<area shape="rect" id="node4" href="graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1627,96,1805,123"/><area shape="rect" id="node13" href="dependency__graph_2node_8h.html" title="node.h" alt="" coords="1271,179,1332,205"/><area shape="rect" id="node15" href="attr_8h.html" title="attr.h" alt="" coords="1210,336,1261,363"/><area shape="rect" id="node43" href="dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1366,485,1452,512"/><area shape="rect" id="node46" href="state_8h.html" title="state.h" alt="" coords="1613,568,1675,595"/><area shape="rect" id="node47" href="dependency__graph_2port_8h.html" title="port.h" alt="" coords="1274,261,1328,288"/><area shape="rect" id="node18" href="datablock_8h.html" title="datablock.h" alt="" coords="1123,411,1212,437"/><area shape="rect" id="node19" href="json_8h.html" title="io/json.h" alt="" coords="1133,568,1203,595"/><area shape="rect" id="node42" href="data_8h.html" title="data.h" alt="" coords="1051,485,1108,512"/></map>
+<area shape="rect" id="node5" href="graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1907,96,2085,123"/><area shape="rect" id="node13" href="dependency__graph_2node_8h.html" title="node.h" alt="" coords="1589,179,1651,205"/><area shape="rect" id="node15" href="attr_8h.html" title="attr.h" alt="" coords="1497,336,1548,363"/><area shape="rect" id="node43" href="dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="2057,485,2143,512"/><area shape="rect" id="node46" href="state_8h.html" title="state.h" alt="" coords="1727,568,1789,595"/><area shape="rect" id="node47" href="dependency__graph_2port_8h.html" title="port.h" alt="" coords="1589,261,1643,288"/><area shape="rect" id="node18" href="datablock_8h.html" title="datablock.h" alt="" coords="1345,411,1433,437"/><area shape="rect" id="node19" href="json_8h.html" title="io/json.h" alt="" coords="1363,568,1433,595"/><area shape="rect" id="node42" href="data_8h.html" title="data.h" alt="" coords="1319,485,1376,512"/></map>
 </div>
 </div><div class="textblock"><div class="dynheader">
 This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
 <div class="center"><img src="app_8h__dep__incl.png" border="0" usemap="#src_2libs_2possumwood__sdk_2app_8hdep" alt=""/></div>
 <map name="src_2libs_2possumwood__sdk_2app_8hdep" id="src_2libs_2possumwood__sdk_2app_8hdep">
-<area shape="rect" id="node2" href="apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="5,187,157,229"/><area shape="rect" id="node3" href="main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="106,97,259,138"/><area shape="rect" id="node4" href="main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="207,187,360,229"/><area shape="rect" id="node5" href="app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="335,97,480,138"/><area shape="rect" id="node6" href="datatypes_2filename_8cpp.html" title="src/plugins/openmesh\l/datatypes/filename.cpp" alt="" coords="505,97,665,138"/><area shape="rect" id="node7" href="ui_2filename_8cpp.html" title="src/plugins/openmesh\l/ui/filename.cpp" alt="" coords="691,97,839,138"/></map>
+<area shape="rect" id="node2" href="apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="5,187,157,229"/><area shape="rect" id="node3" href="main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="106,97,259,138"/><area shape="rect" id="node4" href="main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="207,187,360,229"/><area shape="rect" id="node5" href="timeline__widget_8cpp.html" title="src/apps/possumwood\l/timeline_widget.cpp" alt="" coords="335,97,488,138"/><area shape="rect" id="node6" href="app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="513,97,657,138"/><area shape="rect" id="node7" href="cube_8cpp.html" title="src/plugins/3d/nodes\l/cube.cpp" alt="" coords="682,97,824,138"/><area shape="rect" id="node8" href="datatypes_2filename_8cpp.html" title="src/plugins/openmesh\l/datatypes/filename.cpp" alt="" coords="849,97,1009,138"/><area shape="rect" id="node9" href="ui_2filename_8cpp.html" title="src/plugins/openmesh\l/ui/filename.cpp" alt="" coords="1035,97,1183,138"/></map>
 </div>
 </div>
 <p><a href="app_8h_source.html">Go to the source code of this file.</a></p>
@@ -145,7 +146,7 @@ Namespaces</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1551752abcc7cd92f2ad9a1f2edf2b11.html">src</a></li><li class="navelem"><a class="el" href="dir_91c9d2e87dd13602397f5b4d38043d61.html">libs</a></li><li class="navelem"><a class="el" href="dir_7acc46a17532a8cb69846641fb3f2bb6.html">possumwood_sdk</a></li><li class="navelem"><a class="el" href="app_8h.html">app.h</a></li>
-    <li class="footer">Generated on Fri Jul 14 2017 21:25:16 for possumwood by
+    <li class="footer">Generated on Sat Jul 15 2017 20:28:43 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

@@ -6,5 +6,6 @@ var classMainWindow =
     [ "m_adaptor", "classMainWindow.html#a23c49ceae064122d44b98592aa1ac4ff", null ],
     [ "m_log", "classMainWindow.html#a80b9f000661d7bb6a61bdde4d1a327a8", null ],
     [ "m_properties", "classMainWindow.html#a22f004bec556234a5eb739cfa1819647", null ],
+    [ "m_timeline", "classMainWindow.html#a050021dcc60a80d9b15cb7b9b1e8aba9", null ],
     [ "m_viewport", "classMainWindow.html#ad33afa9553e94ddf7a78ba5706c26233", null ]
 ];

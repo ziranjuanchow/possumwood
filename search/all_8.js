@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['adl_5fserializer_3c_20node_20_3e',['adl_serializer&lt; Node &gt;',['../classdependency__graph_1_1Node.html#a46afdeef3dd08cdeb1e1297ec021fa6e',1,'dependency_graph::Node']]],
+  ['adl_5fserializer_3c_20node_20_3e',['adl_serializer&lt; Node &gt;',['../classdependency__graph_1_1Node.html#a72aa0f4cfd3b52942b652401b5dc8180',1,'dependency_graph::Node']]],
   ['ia',['ia',['../classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html#a01d909abd4359b671246fd2658a53ee8',1,'dependency_graph::io::basic_json::binary_reader::ia()'],['../classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#a9621d6632e2bcf14a2f6a277e3cf60e8',1,'dependency_graph::io::basic_json::lexer::ia()']]],
   ['id',['id',['../classdependency__graph_1_1io_1_1detail_1_1exception.html#a194d5c32f6bef1d333eee6cb0f1b66a3',1,'dependency_graph::io::detail::exception::id()'],['../structTestStruct.html#a07fb6ea15bd4394d666badbe19e50a6c',1,'TestStruct::id()']]],
   ['imath',['Imath',['../namespaceImath.html',1,'']]],
@@ -51,7 +51,7 @@ var searchData=
   ['is_5froot',['is_root',['../classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html#acaaa12d29fdb9767db5224294d59a81c',1,'dependency_graph::io::basic_json::json_pointer']]],
   ['is_5fstring',['is_string',['../classdependency__graph_1_1io_1_1basic__json.html#adbbad6dcdea0bbdf04ea10f225b3f8df',1,'dependency_graph::io::basic_json']]],
   ['is_5fstructured',['is_structured',['../classdependency__graph_1_1io_1_1basic__json.html#a2e8aeb98bef2544efcd2111a42fe9312',1,'dependency_graph::io::basic_json']]],
-  ['isconnected',['isConnected',['../classnode__editor_1_1GraphScene.html#a13520b00a2694b4c07b24381d014dac2',1,'node_editor::GraphScene']]],
+  ['isconnected',['isConnected',['../classdependency__graph_1_1Values.html#a396b28cbd4e75ed74fbfe5ddf81cef48',1,'dependency_graph::Values::isConnected()'],['../classnode__editor_1_1GraphScene.html#a13520b00a2694b4c07b24381d014dac2',1,'node_editor::GraphScene::isConnected()']]],
   ['isdirty',['isDirty',['../classdependency__graph_1_1Port.html#a8f3218b6de635251fa4026f5e9257767',1,'dependency_graph::Port']]],
   ['isedgeeditinprogress',['isEdgeEditInProgress',['../classnode__editor_1_1GraphScene.html#a443af42c39b4cd2a33cb2f71f6109ccb',1,'node_editor::GraphScene']]],
   ['isequal',['isEqual',['../classdependency__graph_1_1BaseData.html#aa7e5d66ae922534a090eb70aacd55bb1',1,'dependency_graph::BaseData::isEqual()'],['../structdependency__graph_1_1Data.html#a8759a1cf3752ceb59876acc48c9c8c2c',1,'dependency_graph::Data::isEqual()'],['../structdependency__graph_1_1DataTraits.html#a3d026d27ea766ad4e2b22b773e405f60',1,'dependency_graph::DataTraits::isEqual()']]],

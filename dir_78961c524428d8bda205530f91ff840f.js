@@ -18,6 +18,14 @@ var dir_78961c524428d8bda205530f91ff840f =
       [ "Properties", "classProperties.html", "classProperties" ],
       [ "Property", "structProperties_1_1Property.html", "structProperties_1_1Property" ]
     ] ],
+    [ "timeline.cpp", "timeline_8cpp.html", null ],
+    [ "timeline.h", "timeline_8h.html", [
+      [ "Timeline", "classTimeline.html", "classTimeline" ]
+    ] ],
+    [ "timeline_widget.cpp", "timeline__widget_8cpp.html", null ],
+    [ "timeline_widget.h", "timeline__widget_8h.html", [
+      [ "TimelineWidget", "classTimelineWidget.html", "classTimelineWidget" ]
+    ] ],
     [ "viewport.cpp", "viewport_8cpp.html", null ],
     [ "viewport.h", "viewport_8h.html", [
       [ "Viewport", "classViewport.html", "classViewport" ]

@@ -135,12 +135,12 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aee9d6c21a82f005045d6a68da6985f62"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abc18753cc5a24f64122bce24bf6d7eb4"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#abc18753cc5a24f64122bce24bf6d7eb4">~Metadata</a> ()</td></tr>
 <tr class="separator:abc18753cc5a24f64122bce24bf6d7eb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa5d7729901b69ff515afca4b4a979c31"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#aa5d7729901b69ff515afca4b4a979c31">setDraw</a> (std::function&lt; void(const <a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;)&gt; drawFunctor)</td></tr>
-<tr class="memdesc:aa5d7729901b69ff515afca4b4a979c31"><td class="mdescLeft">&#160;</td><td class="mdescRight">compute method of this node  <a href="#aa5d7729901b69ff515afca4b4a979c31">More...</a><br/></td></tr>
-<tr class="separator:aa5d7729901b69ff515afca4b4a979c31"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a908edfb19c326ee1730d3eae4807caa8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#a908edfb19c326ee1730d3eae4807caa8">draw</a> (const <a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;vals) const </td></tr>
-<tr class="memdesc:a908edfb19c326ee1730d3eae4807caa8"><td class="mdescLeft">&#160;</td><td class="mdescRight">executes the draw method  <a href="#a908edfb19c326ee1730d3eae4807caa8">More...</a><br/></td></tr>
-<tr class="separator:a908edfb19c326ee1730d3eae4807caa8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a167bbf644e870b42065bcc25953ec78a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#a167bbf644e870b42065bcc25953ec78a">setDrawableFactory</a> (std::function&lt; std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1Drawable.html">Drawable</a> &gt;(<a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;&amp;)&gt; drawableFactory)</td></tr>
+<tr class="memdesc:a167bbf644e870b42065bcc25953ec78a"><td class="mdescLeft">&#160;</td><td class="mdescRight">compute method of this node  <a href="#a167bbf644e870b42065bcc25953ec78a">More...</a><br/></td></tr>
+<tr class="separator:a167bbf644e870b42065bcc25953ec78a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd19e99d309f2b3ebfa37757344f91a4"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1Drawable.html">Drawable</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#afd19e99d309f2b3ebfa37757344f91a4">createDrawable</a> (<a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;&amp;values) const </td></tr>
+<tr class="memdesc:afd19e99d309f2b3ebfa37757344f91a4"><td class="mdescLeft">&#160;</td><td class="mdescRight">creates a new drawable instance for given value set  <a href="#afd19e99d309f2b3ebfa37757344f91a4">More...</a><br/></td></tr>
+<tr class="separator:afd19e99d309f2b3ebfa37757344f91a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classdependency__graph_1_1Metadata"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classdependency__graph_1_1Metadata')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classdependency__graph_1_1Metadata.html">dependency_graph::Metadata</a></td></tr>
 <tr class="memitem:ad9e2450a5e8b64021f5d6e33cdad1604 inherit pub_methods_classdependency__graph_1_1Metadata"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#ad9e2450a5e8b64021f5d6e33cdad1604">Metadata</a> (const std::string &amp;nodeType)</td></tr>
 <tr class="separator:ad9e2450a5e8b64021f5d6e33cdad1604 inherit pub_methods_classdependency__graph_1_1Metadata"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -185,9 +185,10 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a06aabc38e92754cfe7df36b8631ffed6"><td class="memItemLeft" align="right" valign="top">std::function&lt; void(const <br class="typebreak"/>
-<a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#a06aabc38e92754cfe7df36b8631ffed6">m_drawFunctor</a></td></tr>
-<tr class="separator:a06aabc38e92754cfe7df36b8631ffed6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af2b04cb5462144e406a02ec3f7746ba3"><td class="memItemLeft" align="right" valign="top">std::function&lt; std::unique_ptr<br class="typebreak"/>
+&lt; <a class="el" href="classpossumwood_1_1Drawable.html">Drawable</a> &gt;<br class="typebreak"/>
+<a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;&amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#af2b04cb5462144e406a02ec3f7746ba3">m_drawableFactory</a></td></tr>
+<tr class="separator:af2b04cb5462144e406a02ec3f7746ba3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
@@ -250,33 +251,33 @@ boost::indirect_iterator<br class="typebreak"/>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a class="anchor" id="a908edfb19c326ee1730d3eae4807caa8"></a>
+<a class="anchor" id="afd19e99d309f2b3ebfa37757344f91a4"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void possumwood::Metadata::draw </td>
+          <td class="memname">std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1Drawable.html">Drawable</a> &gt; possumwood::Metadata::createDrawable </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;&#160;</td>
-          <td class="paramname"><em>vals</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;&amp;&#160;</td>
+          <td class="paramname"><em>values</em></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p>executes the draw method </p>
+<p>creates a new drawable instance for given value set </p>
 
 </div>
 </div>
-<a class="anchor" id="aa5d7729901b69ff515afca4b4a979c31"></a>
+<a class="anchor" id="a167bbf644e870b42065bcc25953ec78a"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void possumwood::Metadata::setDraw </td>
+          <td class="memname">void possumwood::Metadata::setDrawableFactory </td>
           <td>(</td>
-          <td class="paramtype">std::function&lt; void(const <a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;)&gt;&#160;</td>
-          <td class="paramname"><em>drawFunctor</em></td><td>)</td>
+          <td class="paramtype">std::function&lt; std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1Drawable.html">Drawable</a> &gt;(<a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;&amp;)&gt;&#160;</td>
+          <td class="paramname"><em>drawableFactory</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -287,7 +288,7 @@ boost::indirect_iterator<br class="typebreak"/>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a class="anchor" id="a06aabc38e92754cfe7df36b8631ffed6"></a>
+<a class="anchor" id="af2b04cb5462144e406a02ec3f7746ba3"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -295,7 +296,7 @@ boost::indirect_iterator<br class="typebreak"/>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::function&lt;void(const <a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a>&amp;)&gt; possumwood::Metadata::m_drawFunctor</td>
+          <td class="memname">std::function&lt;std::unique_ptr&lt;<a class="el" href="classpossumwood_1_1Drawable.html">Drawable</a>&gt;<a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a>&amp;&amp;)&gt; possumwood::Metadata::m_drawableFactory</td>
         </tr>
       </table>
   </td>
@@ -317,7 +318,7 @@ boost::indirect_iterator<br class="typebreak"/>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1Metadata.html">Metadata</a></li>
-    <li class="footer">Generated on Fri Jul 14 2017 21:25:18 for possumwood by
+    <li class="footer">Generated on Sat Jul 15 2017 20:28:44 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>
