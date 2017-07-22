@@ -94,6 +94,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li class="current"><a href="functions_e.html#index_e"><span>e</span></a></li>
       <li><a href="functions_f.html#index_f"><span>f</span></a></li>
       <li><a href="functions_g.html#index_g"><span>g</span></a></li>
+      <li><a href="functions_h.html#index_h"><span>h</span></a></li>
       <li><a href="functions_i.html#index_i"><span>i</span></a></li>
       <li><a href="functions_j.html#index_j"><span>j</span></a></li>
       <li><a href="functions_k.html#index_k"><span>k</span></a></li>
@@ -157,6 +158,9 @@ $(document).ready(function(){initNavTree('functions_e.html','');});
 <li>edgeCount()
 : <a class="el" href="classnode__editor_1_1GraphScene.html#ae5053a01c065b6ae267081511b100c6d">node_editor::GraphScene</a>
 </li>
+<li>emit()
+: <a class="el" href="classanim_1_1Tokenizer.html#a0435f1b767394a298fbc383646a34bcb">anim::Tokenizer</a>
+</li>
 <li>emplace()
 : <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#ad6f684771f96403328bb90dfacfebe07">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
 </li>
@@ -164,14 +168,22 @@ $(document).ready(function(){initNavTree('functions_e.html','');});
 : <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a5fecfe7bae75b7c7b091355d58b9ea03">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
 </li>
 <li>empty()
-: <a class="el" href="classdependency__graph_1_1Graph_1_1Connections.html#a30922fb11283d83c5e23671810459bfc">dependency_graph::Graph::Connections</a>
+: <a class="el" href="classanim_1_1Attribute.html#a8531bad96e723530202c156af4bae741">anim::Attribute</a>
+, <a class="el" href="classanim_1_1Children.html#aba221730e248620e451530fe9786ae1c">anim::Children&lt; JOINT, CONTAINER &gt;</a>
+, <a class="el" href="classanim_1_1Hierarchy.html#ad77225170fd73f9d33a2d58c3b09c673">anim::Hierarchy</a>
+, <a class="el" href="classanim_1_1Skeleton.html#aa6c5767a3ac9db205f7130722f6ccb28">anim::Skeleton</a>
+, <a class="el" href="classdependency__graph_1_1Graph_1_1Connections.html#a30922fb11283d83c5e23671810459bfc">dependency_graph::Graph::Connections</a>
 , <a class="el" href="classdependency__graph_1_1Graph.html#a42e728701c2fc66995457fd03d1f2e9d">dependency_graph::Graph</a>
 , <a class="el" href="classdependency__graph_1_1Graph_1_1Nodes.html#a08a7fe33c4090b1b2b2d77aeebf1ee30">dependency_graph::Graph::Nodes</a>
 , <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#ab96dc0aa7277ae5b9ea62d53c1ddef45">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
 , <a class="el" href="classdependency__graph_1_1Selection.html#aba90fbc84c6f4e5c3c5807ed4220d251">dependency_graph::Selection</a>
 </li>
 <li>end()
-: <a class="el" href="classdependency__graph_1_1Graph_1_1Connections.html#a0a176564850b21aa6bc876f868a232dc">dependency_graph::Graph::Connections</a>
+: <a class="el" href="classanim_1_1Attributes.html#a1ec78afaf35ea1198ec66d57f48304cb">anim::Attributes</a>
+, <a class="el" href="classanim_1_1Children.html#ae895f79b06fa432b5108d66ee3863bb5">anim::Children&lt; JOINT, CONTAINER &gt;</a>
+, <a class="el" href="classanim_1_1Hierarchy.html#acbc5c985d4d2587c4b4cc7a2622466b5">anim::Hierarchy</a>
+, <a class="el" href="classanim_1_1Skeleton.html#aff3087c803ab849e0c5dafcca5bb5f38">anim::Skeleton</a>
+, <a class="el" href="classdependency__graph_1_1Graph_1_1Connections.html#a4b873b5098c0be0ba6116eb0793d9c5b">dependency_graph::Graph::Connections</a>
 , <a class="el" href="classdependency__graph_1_1Graph_1_1Nodes.html#a03f716402738bf4761201442b81837bf">dependency_graph::Graph::Nodes</a>
 , <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a9600f51a124bfe296c33fc5ae07bd465">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
 , <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy.html#a23fbdd0e43ac0f04aa193556e15962a1">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iteration_proxy&lt; IteratorType &gt;</a>
@@ -195,12 +207,13 @@ $(document).ready(function(){initNavTree('functions_e.html','');});
 <li>enum_ui()
 : <a class="el" href="classenum__ui.html#a20e7a3af97d9cc0a7a5c117573d54953">enum_ui</a>
 </li>
-<li>eof
-: <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html#a0a1f3c6fdb2efa9450f4fada5cc40e72">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::cached_input_stream_adapter</a>
+<li>eof()
+: <a class="el" href="classanim_1_1Tokenizer.html#a237d1b9d87c317ea29c5937461fd0201">anim::Tokenizer</a>
+, <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html#a0a1f3c6fdb2efa9450f4fada5cc40e72">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::cached_input_stream_adapter</a>
 </li>
 <li>erase()
 : <a class="el" href="classdependency__graph_1_1Graph_1_1Nodes.html#a941dc87e1e9f4d1782d504753fa253d6">dependency_graph::Graph::Nodes</a>
-, <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#af3a077735e3eec7bc24338d9e74764c9">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
+, <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a5f8cd68d8c9ca602bdfa9b780467de2c">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
 </li>
 <li>error_message
 : <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#a22a909e0a7f5430e703225e608d1ed8c">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::lexer</a>
@@ -218,6 +231,9 @@ $(document).ready(function(){initNavTree('functions_e.html','');});
 <li>expect()
 : <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1parser.html#a4cb74740da8fb4de8ee36e36aa4e1986">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::parser</a>
 </li>
+<li>exponent
+: <a class="el" href="structTimeline_1_1TickSkip.html#ab18e33161330e8deb58d15d0fdce77d0">Timeline::TickSkip</a>
+</li>
 <li>extensions()
 : <a class="el" href="classpossumwood_1_1Filename.html#aa3f841a26f491ed55e4678f633c6248b">possumwood::Filename</a>
 </li>
@@ -230,7 +246,7 @@ $(document).ready(function(){initNavTree('functions_e.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sat Jul 15 2017 21:41:46 for possumwood by
+    <li class="footer">Generated on Sat Jul 22 2017 10:55:58 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

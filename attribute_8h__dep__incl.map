@@ -1,0 +1,16 @@
+<map id="src/plugins/anim/datatypes/attribute.h" name="src/plugins/anim/datatypes/attribute.h">
+<area shape="rect" id="node2" href="$attributes_8h.html" title="src/plugins/anim/datatypes\l/attributes.h" alt="" coords="588,97,767,138"/>
+<area shape="rect" id="node15" href="$attribute_8cpp.html" title="src/plugins/anim/datatypes\l/attribute.cpp" alt="" coords="791,97,969,138"/>
+<area shape="rect" id="node3" href="$hierarchy_8h.html" title="src/plugins/anim/datatypes\l/hierarchy.h" alt="" coords="487,187,665,229"/>
+<area shape="rect" id="node14" href="$attributes_8cpp.html" title="src/plugins/anim/datatypes\l/attributes.cpp" alt="" coords="689,187,868,229"/>
+<area shape="rect" id="node4" href="$skeleton_8h.html" title="src/plugins/anim/datatypes\l/skeleton.h" alt="" coords="385,278,564,319"/>
+<area shape="rect" id="node13" href="$hierarchy_8cpp.html" title="src/plugins/anim/datatypes\l/hierarchy.cpp" alt="" coords="588,278,767,319"/>
+<area shape="rect" id="node5" href="$datatypes_2animation_8h.html" title="src/plugins/anim/datatypes\l/animation.h" alt="" coords="183,369,361,410"/>
+<area shape="rect" id="node11" href="$plugins_2anim_2datatypes_2skeleton_8cpp.html" title="src/plugins/anim/datatypes\l/skeleton.cpp" alt="" coords="385,369,564,410"/>
+<area shape="rect" id="node12" href="$tests_2anim_2skeleton_8cpp.html" title="src/tests/anim/skeleton.cpp" alt="" coords="589,376,771,403"/>
+<area shape="rect" id="node6" href="$animation_8cpp.html" title="src/plugins/anim/datatypes\l/animation.cpp" alt="" coords="5,459,184,501"/>
+<area shape="rect" id="node7" href="$io_2animation_8h.html" title="src/plugins/anim/io\l/animation.h" alt="" coords="259,459,388,501"/>
+<area shape="rect" id="node8" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="66,550,221,591"/>
+<area shape="rect" id="node10" href="$plugins_2anim_2nodes_2transform_8cpp.html" title="src/plugins/anim/nodes\l/transform.cpp" alt="" coords="426,550,581,591"/>
+<area shape="rect" id="node9" href="$skeleton__display_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_display.cpp" alt="" coords="246,550,401,591"/>
+</map>

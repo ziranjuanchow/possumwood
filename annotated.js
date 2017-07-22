@@ -1,5 +1,6 @@
 var annotated =
 [
+    [ "anim", "namespaceanim.html", "namespaceanim" ],
     [ "dependency_graph", "namespacedependency__graph.html", "namespacedependency__graph" ],
     [ "Imath", "namespaceImath.html", null ],
     [ "node_editor", "namespacenode__editor.html", "namespacenode__editor" ],
@@ -16,6 +17,7 @@ var annotated =
     [ "mesh_ui", "classmesh__ui.html", "classmesh__ui" ],
     [ "OMLog", "classOMLog.html", "classOMLog" ],
     [ "Properties", "classProperties.html", "classProperties" ],
+    [ "SkeletonTest", "structSkeletonTest.html", "structSkeletonTest" ],
     [ "TestStruct", "structTestStruct.html", "structTestStruct" ],
     [ "Timeline", "classTimeline.html", "classTimeline" ],
     [ "TimelineWidget", "classTimelineWidget.html", "classTimelineWidget" ],

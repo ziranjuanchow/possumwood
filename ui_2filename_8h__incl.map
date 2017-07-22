@@ -1,8 +1,8 @@
-<map id="src/plugins/openmesh/ui/filename.h" name="src/plugins/openmesh/ui/filename.h">
+<map id="src/libs/possumwood_sdk/ui/filename.h" name="src/libs/possumwood_sdk/ui/filename.h">
 <area shape="rect" id="node2" href="$datatypes_2filename_8h.html" title="datatypes/filename.h" alt="" coords="1783,261,1925,288"/>
 <area shape="rect" id="node34" href="$property_8h.html" title="possumwood_sdk/properties\l/property.h" alt="" coords="2483,97,2670,138"/>
 <area shape="rect" id="node6" href="$data__traits_8h.html" title="dependency_graph/data\l_traits.h" alt="" coords="1715,337,1874,378"/>
-<area shape="rect" id="node7" href="$io_8h.html" title="possumwood_sdk/io.h" alt="" coords="1174,344,1326,371"/>
+<area shape="rect" id="node7" href="$io_8h.html" title="../io.h" alt="" coords="1247,344,1301,371"/>
 <area shape="rect" id="node8" href="$json_8h.html" title="dependency_graph/io\l/json.h" alt="" coords="1008,427,1153,469"/>
 <area shape="rect" id="node38" href="$factory_8inl.html" title="factory.inl" alt="" coords="2148,344,2226,371"/>
 <area shape="rect" id="node40" href="$node_8inl.html" title="dependency_graph/node.inl" alt="" coords="2615,187,2794,213"/>

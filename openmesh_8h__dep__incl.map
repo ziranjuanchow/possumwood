@@ -13,7 +13,7 @@
 <area shape="rect" id="node15" href="$display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="1844,311,1992,353"/>
 <area shape="rect" id="node16" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="2017,311,2165,353"/>
 <area shape="rect" id="node17" href="$normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="2191,311,2388,353"/>
-<area shape="rect" id="node18" href="$transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="2412,311,2560,353"/>
+<area shape="rect" id="node18" href="$plugins_2openmesh_2nodes_2transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="2412,311,2560,353"/>
 <area shape="rect" id="node19" href="$ui_2mesh_8h.html" title="src/plugins/openmesh\l/ui/mesh.h" alt="" coords="1948,103,2096,145"/>
 <area shape="rect" id="node3" href="$decimater__module_8cpp.html" title="src/plugins/openmesh\l/datatypes/decimater\l_module.cpp" alt="" coords="993,200,1141,256"/>
 <area shape="rect" id="node4" href="$io_2decimater__module_8h.html" title="src/plugins/openmesh\l/io/decimater_module.h" alt="" coords="812,207,969,249"/>

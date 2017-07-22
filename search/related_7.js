@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['metadata',['Metadata',['../classdependency__graph_1_1InAttr.html#aba8d19a917c0bff3a0ab2c135b11b0a4',1,'dependency_graph::InAttr::Metadata()'],['../classdependency__graph_1_1OutAttr.html#aba8d19a917c0bff3a0ab2c135b11b0a4',1,'dependency_graph::OutAttr::Metadata()']]]
+  ['adl_5fserializer_3c_20node_20_3e',['adl_serializer&lt; Node &gt;',['../classdependency__graph_1_1Node.html#a72aa0f4cfd3b52942b652401b5dc8180',1,'dependency_graph::Node']]]
 ];

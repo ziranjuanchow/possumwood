@@ -3,12 +3,15 @@ var hierarchy =
     [ "dependency_graph::io::adl_serializer< typename, typename >", "structdependency__graph_1_1io_1_1adl__serializer.html", null ],
     [ "dependency_graph::io::adl_serializer< Graph >", "structdependency__graph_1_1io_1_1adl__serializer_3_01Graph_01_4.html", null ],
     [ "dependency_graph::io::adl_serializer< Node >", "structdependency__graph_1_1io_1_1adl__serializer_3_01Node_01_4.html", null ],
+    [ "anim::Animation", "structanim_1_1Animation.html", null ],
     [ "dependency_graph::Attr", "classdependency__graph_1_1Attr.html", [
       [ "dependency_graph::TypedAttr< T >", "classdependency__graph_1_1TypedAttr.html", [
         [ "dependency_graph::InAttr< T >", "classdependency__graph_1_1InAttr.html", null ],
         [ "dependency_graph::OutAttr< T >", "classdependency__graph_1_1OutAttr.html", null ]
       ] ]
     ] ],
+    [ "anim::Attribute", "classanim_1_1Attribute.html", null ],
+    [ "anim::Attributes", "classanim_1_1Attributes.html", null ],
     [ "B1", null, [
       [ "dependency_graph::io::detail::conjunction< B1 >", "structdependency__graph_1_1io_1_1detail_1_1conjunction_3_01B1_01_4.html", null ]
     ] ],
@@ -18,6 +21,7 @@ var hierarchy =
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >", "classdependency__graph_1_1io_1_1basic__json.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_reader", "classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_writer", "classdependency__graph_1_1io_1_1basic__json_1_1binary__writer.html", null ],
+    [ "anim::Children< JOINT, CONTAINER >", "classanim_1_1Children.html", null ],
     [ "dependency_graph::Metadata::Comparator", "structdependency__graph_1_1Metadata_1_1Comparator.html", null ],
     [ "dependency_graph::Selection::Connection", "structdependency__graph_1_1Selection_1_1Connection.html", null ],
     [ "dependency_graph::Datablock", "classdependency__graph_1_1Datablock.html", null ],
@@ -52,6 +56,7 @@ var hierarchy =
     [ "dependency_graph::io::detail::has_non_default_from_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__non__default__from__json.html", null ],
     [ "dependency_graph::io::detail::has_to_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__to__json.html", null ],
     [ "std::hash<::dependency_graph::io::json >", "structstd_1_1hash_3_1_1dependency__graph_1_1io_1_1json_01_4.html", null ],
+    [ "anim::Hierarchy", "classanim_1_1Hierarchy.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::input_adapter", "classdependency__graph_1_1io_1_1basic__json_1_1input__adapter.html", [
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::cached_input_stream_adapter", "classdependency__graph_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html", null ],
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::input_buffer_adapter", "classdependency__graph_1_1io_1_1basic__json_1_1input__buffer__adapter.html", null ]
@@ -66,18 +71,29 @@ var hierarchy =
     [ "dependency_graph::io::detail::is_compatible_integer_type_impl< true, RealIntegerType, CompatibleNumberIntegerType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01Rea17ea58341f187a02331be20fb110065c.html", null ],
     [ "dependency_graph::io::detail::is_compatible_object_type< BasicJsonType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type.html", null ],
     [ "dependency_graph::io::detail::is_compatible_object_type_impl< true, RealType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01Real0baf3277237e5138eaf03391588ae6a5.html", null ],
+    [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
+    [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >", "classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >::iteration_proxy_internal", "classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html", null ],
     [ "iterator", null, [
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iter_impl< U >", "classdependency__graph_1_1io_1_1basic__json_1_1iter__impl.html", null ]
     ] ],
+    [ "anim::Skeleton::Joint", "classanim_1_1Skeleton_1_1Joint.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_pointer", "classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_value", "uniondependency__graph_1_1io_1_1basic__json_1_1json__value.html", null ],
     [ "std::less<::dependency_graph::io::detail::value_t >", "structstd_1_1less_3_1_1dependency__graph_1_1io_1_1detail_1_1value__t_01_4.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::lexer", "classdependency__graph_1_1io_1_1basic__json_1_1lexer.html", null ],
+    [ "anim::LexicalCastHelper< TARGET, SOURCE >", "structanim_1_1LexicalCastHelper.html", null ],
+    [ "anim::LexicalCastHelper< boost::filesystem::path, std::string >", "structanim_1_1LexicalCastHelper_3_01boost_1_1filesystem_1_1path_00_01std_1_1string_01_4.html", null ],
+    [ "anim::LexicalCastHelper< std::string, std::vector< T > >", "structanim_1_1LexicalCastHelper_3_01std_1_1string_00_01std_1_1vector_3_01T_01_4_01_4.html", null ],
     [ "dependency_graph::Selection::NodeComparator", "structdependency__graph_1_1Selection_1_1NodeComparator.html", null ],
     [ "possumwood::NodeData", "structpossumwood_1_1NodeData.html", null ],
     [ "noncopyable", null, [
+      [ "anim::Attribute::Data", "classanim_1_1Attribute_1_1Data.html", [
+        [ "anim::Attribute::DataTyped< T >", "classanim_1_1Attribute_1_1DataTyped.html", null ]
+      ] ],
+      [ "anim::Tokenizer", "classanim_1_1Tokenizer.html", null ],
+      [ "anim::Tokenizer::State", "classanim_1_1Tokenizer_1_1State.html", null ],
       [ "dependency_graph::Graph", "classdependency__graph_1_1Graph.html", null ],
       [ "dependency_graph::Graph::Connections", "classdependency__graph_1_1Graph_1_1Connections.html", null ],
       [ "dependency_graph::Graph::Nodes", "classdependency__graph_1_1Graph_1_1Nodes.html", null ],
@@ -178,11 +194,16 @@ var hierarchy =
     [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
     [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classdependency__graph_1_1io_1_1basic__json_1_1serializer.html", null ],
+    [ "anim::Skeleton", "classanim_1_1Skeleton.html", null ],
+    [ "SkeletonTest", "structSkeletonTest.html", null ],
     [ "dependency_graph::State", "classdependency__graph_1_1State.html", null ],
     [ "dependency_graph::io::detail::static_const< T >", "structdependency__graph_1_1io_1_1detail_1_1static__const.html", null ],
     [ "OMLog::Target", "structOMLog_1_1Target.html", null ],
     [ "TestStruct", "structTestStruct.html", null ],
+    [ "Timeline::TickSkip", "structTimeline_1_1TickSkip.html", null ],
     [ "dependency_graph::io::detail::to_json_fn", "structdependency__graph_1_1io_1_1detail_1_1to__json__fn.html", null ],
+    [ "anim::Tokenizer::Token", "structanim_1_1Tokenizer_1_1Token.html", null ],
+    [ "anim::Transform", "structanim_1_1Transform.html", null ],
     [ "true_type", null, [
       [ "dependency_graph::io::detail::conjunction<>", "structdependency__graph_1_1io_1_1detail_1_1conjunction.html", null ]
     ] ],

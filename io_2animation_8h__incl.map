@@ -1,0 +1,12 @@
+<map id="src/plugins/anim/io/animation.h" name="src/plugins/anim/io/animation.h">
+<area shape="rect" id="node2" href="$json_8h.html" title="dependency_graph/io\l/json.h" alt="" coords="1027,321,1171,362"/>
+<area shape="rect" id="node29" href="$datatypes_2animation_8h.html" title="datatypes/animation.h" alt="" coords="1700,96,1850,123"/>
+<area shape="rect" id="node30" href="$skeleton_8h.html" title="skeleton.h" alt="" coords="2143,171,2225,197"/>
+<area shape="rect" id="node32" href="$hierarchy_8h.html" title="hierarchy.h" alt="" coords="2141,245,2227,272"/>
+<area shape="rect" id="node41" href="$transform_8h.html" title="transform.h" alt="" coords="2481,328,2569,355"/>
+<area shape="rect" id="node33" href="$children_8h.html" title="children.h" alt="" coords="2003,328,2081,355"/>
+<area shape="rect" id="node34" href="$attributes_8h.html" title="attributes.h" alt="" coords="2141,328,2227,355"/>
+<area shape="rect" id="node35" href="$attribute_8h.html" title="attribute.h" alt="" coords="2222,411,2301,437"/>
+<area shape="rect" id="node36" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2041,485,2202,512"/>
+<area shape="rect" id="node38" href="$lexical__cast_8h.html" title="../lexical_cast.h" alt="" coords="845,485,959,512"/>
+</map>
