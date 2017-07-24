@@ -4,6 +4,10 @@ var dir_c7d5d0c4de69cf1ad6ffe9148da53313 =
     [ "adaptor.h", "adaptor_8h.html", [
       [ "Adaptor", "classAdaptor.html", "classAdaptor" ]
     ] ],
+    [ "config_dialog.cpp", "config__dialog_8cpp.html", null ],
+    [ "config_dialog.h", "config__dialog_8h.html", [
+      [ "ConfigDialog", "classConfigDialog.html", "classConfigDialog" ]
+    ] ],
     [ "log.cpp", "log_8cpp.html", null ],
     [ "log.h", "log_8h.html", [
       [ "Log", "classLog.html", "classLog" ]

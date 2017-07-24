@@ -8,6 +8,7 @@ var searchData=
   ['_7ebasic_5fjson',['~basic_json',['../classdependency__graph_1_1io_1_1basic__json.html#a90e0f4f3419a7ad2734c37e926a0134c',1,'dependency_graph::io::basic_json']]],
   ['_7ebool_5fui',['~bool_ui',['../classbool__ui.html#aeedc1e58f7536fadbe39ffea719b0841',1,'bool_ui']]],
   ['_7ecached_5finput_5fstream_5fadapter',['~cached_input_stream_adapter',['../classdependency__graph_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html#a7da6549a2acafb75d26b44871d047dd4',1,'dependency_graph::io::basic_json::cached_input_stream_adapter']]],
+  ['_7econfig',['~Config',['../classpossumwood_1_1Config.html#ad16ba01c96675e745b63009416431f0e',1,'possumwood::Config']]],
   ['_7econnectededge',['~ConnectedEdge',['../classnode__editor_1_1ConnectedEdge.html#ad0320bcc76dc363fbdbec847898ead55',1,'node_editor::ConnectedEdge']]],
   ['_7edata',['~Data',['../structdependency__graph_1_1Data.html#a87077fc1097168be85a38a31c821829e',1,'dependency_graph::Data::~Data()'],['../classanim_1_1Attribute_1_1Data.html#a5ab5940db1ac8e666fceba60115f63e7',1,'anim::Attribute::Data::~Data()']]],
   ['_7edatatyped',['~DataTyped',['../classanim_1_1Attribute_1_1DataTyped.html#a5c5b52bc731a550ef8ca9afb2fcc614c',1,'anim::Attribute::DataTyped']]],

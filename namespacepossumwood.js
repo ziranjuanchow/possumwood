@@ -2,6 +2,7 @@ var namespacepossumwood =
 [
     [ "properties", "namespacepossumwood_1_1properties.html", "namespacepossumwood_1_1properties" ],
     [ "App", "classpossumwood_1_1App.html", "classpossumwood_1_1App" ],
+    [ "Config", "classpossumwood_1_1Config.html", "classpossumwood_1_1Config" ],
     [ "Enum", "classpossumwood_1_1Enum.html", "classpossumwood_1_1Enum" ],
     [ "Filename", "classpossumwood_1_1Filename.html", "classpossumwood_1_1Filename" ],
     [ "Drawable", "classpossumwood_1_1Drawable.html", "classpossumwood_1_1Drawable" ],

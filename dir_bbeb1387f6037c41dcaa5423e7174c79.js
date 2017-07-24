@@ -7,6 +7,12 @@ var dir_bbeb1387f6037c41dcaa5423e7174c79 =
     [ "app.h", "app_8h.html", [
       [ "App", "classpossumwood_1_1App.html", "classpossumwood_1_1App" ]
     ] ],
+    [ "config.cpp", "config_8cpp.html", "config_8cpp" ],
+    [ "config.h", "config_8h.html", [
+      [ "Config", "classpossumwood_1_1Config.html", "classpossumwood_1_1Config" ],
+      [ "Item", "classpossumwood_1_1Config_1_1Item.html", "classpossumwood_1_1Config_1_1Item" ]
+    ] ],
+    [ "config.inl", "config_8inl.html", null ],
     [ "drawable.cpp", "drawable_8cpp.html", null ],
     [ "drawable.h", "drawable_8h.html", [
       [ "Drawable", "classpossumwood_1_1Drawable.html", "classpossumwood_1_1Drawable" ],

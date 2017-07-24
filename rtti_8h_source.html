@@ -113,28 +113,29 @@ $(document).ready(function(){initNavTree('rtti_8h_source.html','');});
 <div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;</div>
 <div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="keyword">namespace </span>dependency_graph {</div>
 <div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;</div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="keyword">const</span> std::string <a class="code" href="namespacedependency__graph.html#ab7167919051a09eabc58d568d6ad3d90">unmangledName</a>(<span class="keyword">const</span> <span class="keywordtype">char</span>* name);</div>
+<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="keyword">const</span> std::string <a class="code" href="namespacedependency__graph.html#ab7167919051a09eabc58d568d6ad3d90">unmangledName</a>(<span class="keyword">const</span> <span class="keywordtype">char</span>* <a class="code" href="config_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>);</div>
 <div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;</div>
 <div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="keyword">template</span>&lt;<span class="keyword">class</span> T&gt;</div>
 <div class="line"><a name="l00013"></a><span class="lineno"><a class="line" href="namespacedependency__graph.html#a9b5d786fcd88ec6e43a6f16d2c926ab4">   13</a></span>&#160;<span class="keyword">const</span> std::string <a class="code" href="namespacedependency__graph.html#a9b5d786fcd88ec6e43a6f16d2c926ab4">unmangledTypeId</a>() {</div>
-<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="namespacedependency__graph.html#ab7167919051a09eabc58d568d6ad3d90">unmangledName</a>(<span class="keyword">typeid</span>(T).name());</div>
+<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="namespacedependency__graph.html#ab7167919051a09eabc58d568d6ad3d90">unmangledName</a>(<span class="keyword">typeid</span>(T).<a class="code" href="config_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>());</div>
 <div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;}</div>
 <div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;</div>
 <div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;<span class="keyword">template</span>&lt;<span class="keyword">class</span> T&gt;</div>
 <div class="line"><a name="l00019"></a><span class="lineno"><a class="line" href="namespacedependency__graph.html#acf25cc560904d8461499b516d370ab89">   19</a></span>&#160;<span class="keyword">const</span> std::string <a class="code" href="namespacedependency__graph.html#a9b5d786fcd88ec6e43a6f16d2c926ab4">unmangledTypeId</a>(<span class="keyword">const</span> T&amp;) {</div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="namespacedependency__graph.html#ab7167919051a09eabc58d568d6ad3d90">unmangledName</a>(<span class="keyword">typeid</span>(T).name());</div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="namespacedependency__graph.html#ab7167919051a09eabc58d568d6ad3d90">unmangledName</a>(<span class="keyword">typeid</span>(T).<a class="code" href="config_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>());</div>
 <div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;}</div>
 <div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;</div>
 <div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;}</div>
 <div class="ttc" id="namespacedependency__graph_html_a9b5d786fcd88ec6e43a6f16d2c926ab4"><div class="ttname"><a href="namespacedependency__graph.html#a9b5d786fcd88ec6e43a6f16d2c926ab4">dependency_graph::unmangledTypeId</a></div><div class="ttdeci">const std::string unmangledTypeId()</div><div class="ttdoc">This method uses internal GCC ways to decode the typeid.name values into the original name and re$...</div><div class="ttdef"><b>Definition:</b> rtti.h:13</div></div>
 <div class="ttc" id="namespacedependency__graph_html_ab7167919051a09eabc58d568d6ad3d90"><div class="ttname"><a href="namespacedependency__graph.html#ab7167919051a09eabc58d568d6ad3d90">dependency_graph::unmangledName</a></div><div class="ttdeci">const std::string unmangledName(const char *name)</div><div class="ttdoc">This method uses internal GCC ways to unmangle name and returns the result in a string. </div><div class="ttdef"><b>Definition:</b> rtti.cpp:35</div></div>
+<div class="ttc" id="config_8cpp_html_a9b45b3e13bd9167aab02e17e08916231"><div class="ttname"><a href="config_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a></div><div class="ttdeci">std::string name</div><div class="ttdef"><b>Definition:</b> config.cpp:64</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_87a455bccb09a92130c26a11a880c98a.html">libs</a></li><li class="navelem"><a class="el" href="dir_2f37f34eeec95f453fe4cb748dff596f.html">dependency_graph</a></li><li class="navelem"><a class="el" href="rtti_8h.html">rtti.h</a></li>
-    <li class="footer">Generated on Sat Jul 22 2017 11:30:01 for possumwood by
+    <li class="footer">Generated on Mon Jul 24 2017 20:41:16 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

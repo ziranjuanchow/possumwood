@@ -18,6 +18,7 @@ var searchData=
   ['comparetransforms',['compareTransforms',['../tests_2anim_2transform_8cpp.html#a10b81794f1e2d8400b3e5e4e6b024fab',1,'transform.cpp']]],
   ['computeinput',['computeInput',['../classdependency__graph_1_1Node.html#a613f6d32649a4975fbcc17ee211726ce',1,'dependency_graph::Node']]],
   ['computeoutput',['computeOutput',['../classdependency__graph_1_1Node.html#abedc12a6659413954ef260ea7f430fc4',1,'dependency_graph::Node']]],
+  ['configdialog',['ConfigDialog',['../classConfigDialog.html#acaf585c3dc6f1be8058c19c31724df69',1,'ConfigDialog']]],
   ['connect',['connect',['../classdependency__graph_1_1Port.html#aa71d6f754bddceb7f7a9bc85557f093b',1,'dependency_graph::Port::connect()'],['../classnode__editor_1_1GraphScene.html#a46f7e994006431264374d9777708e9db',1,'node_editor::GraphScene::connect()']]],
   ['connectededge',['ConnectedEdge',['../classnode__editor_1_1ConnectedEdge.html#a46e8dd359b84b6893c7acd6f3c1ab88e',1,'node_editor::ConnectedEdge']]],
   ['connectedfrom',['connectedFrom',['../classdependency__graph_1_1Graph_1_1Connections.html#a868601dbd1c79abe61412dd89aa7ff80',1,'dependency_graph::Graph::Connections::connectedFrom(const Port &amp;p) const '],['../classdependency__graph_1_1Graph_1_1Connections.html#aa17a0d2dba5942f6ad9c7f1952d612f6',1,'dependency_graph::Graph::Connections::connectedFrom(Port &amp;p)']]],

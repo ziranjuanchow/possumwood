@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$classnode__editor_1_1GraphScene.html" title="node_editor::GraphScene" alt="" coords="177,5,346,32"/>
+<area shape="rect" id="node2" href="$classnode__editor_1_1Edge.html" title="node_editor::Edge" alt="" coords="166,5,293,32"/>
+<area shape="rect" id="node3" href="$classnode__editor_1_1ConnectedEdge.html" title="node_editor::ConnectedEdge" alt="" coords="342,5,533,32"/>
 </map>

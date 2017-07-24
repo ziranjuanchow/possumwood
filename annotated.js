@@ -8,6 +8,7 @@ var annotated =
     [ "std", "namespacestd.html", "namespacestd" ],
     [ "Adaptor", "classAdaptor.html", "classAdaptor" ],
     [ "bool_ui", "classbool__ui.html", "classbool__ui" ],
+    [ "ConfigDialog", "classConfigDialog.html", "classConfigDialog" ],
     [ "DecimaterModule", "classDecimaterModule.html", "classDecimaterModule" ],
     [ "enum_ui", "classenum__ui.html", "classenum__ui" ],
     [ "filename_ui", "classfilename__ui.html", "classfilename__ui" ],

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['factory_5ftyped',['factory_typed',['../classpossumwood_1_1properties_1_1factories.html#a75abafee718d1477a36d67c37e991dc4',1,'possumwood::properties::factories']]]
+  ['edge',['Edge',['../classnode__editor_1_1GraphScene.html#ad2c8ba04c9d9989ccbf3c5aba267a3d7',1,'node_editor::GraphScene']]]
 ];
