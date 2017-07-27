@@ -33,5 +33,6 @@ var searchData=
   ['createdrawable',['createDrawable',['../classpossumwood_1_1Metadata.html#afd19e99d309f2b3ebfa37757344f91a4',1,'possumwood::Metadata']]],
   ['crend',['crend',['../classdependency__graph_1_1io_1_1basic__json.html#aaad51732e6378178c19b19952270d37f',1,'dependency_graph::io::basic_json']]],
   ['current',['current',['../classanim_1_1Tokenizer.html#ad1bf6b97ccc33e9806f8cc3d76574e1b',1,'anim::Tokenizer']]],
-  ['currenttoken',['currentToken',['../classanim_1_1Tokenizer.html#abcb42a285170d5c5362b6c8a547cf914',1,'anim::Tokenizer']]]
+  ['currenttoken',['currentToken',['../classanim_1_1Tokenizer.html#abcb42a285170d5c5362b6c8a547cf914',1,'anim::Tokenizer']]],
+  ['cutaction',['cutAction',['../classAdaptor.html#a4bf7a9924627ec4a1bef89225cc1c65c',1,'Adaptor']]]
 ];

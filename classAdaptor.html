@@ -171,10 +171,14 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a499166fcd03deb96b1669940f611c508"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a228e4e5c06cb9394d2bc24643c6dc024"><td class="memItemLeft" align="right" valign="top">virtual QSize&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a228e4e5c06cb9394d2bc24643c6dc024">sizeHint</a> () const override</td></tr>
 <tr class="separator:a228e4e5c06cb9394d2bc24643c6dc024"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4bf7a9924627ec4a1bef89225cc1c65c"><td class="memItemLeft" align="right" valign="top">QAction *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a4bf7a9924627ec4a1bef89225cc1c65c">cutAction</a> () const </td></tr>
+<tr class="separator:a4bf7a9924627ec4a1bef89225cc1c65c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9bf0a4c79dc3e0df085fd33c8f14f88b"><td class="memItemLeft" align="right" valign="top">QAction *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a9bf0a4c79dc3e0df085fd33c8f14f88b">copyAction</a> () const </td></tr>
 <tr class="separator:a9bf0a4c79dc3e0df085fd33c8f14f88b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1a3b6326ab50f11f47c960d0397cdf24"><td class="memItemLeft" align="right" valign="top">QAction *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a1a3b6326ab50f11f47c960d0397cdf24">pasteAction</a> () const </td></tr>
 <tr class="separator:a1a3b6326ab50f11f47c960d0397cdf24"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3be49c5f800955d29f8af4936c851052"><td class="memItemLeft" align="right" valign="top">QAction *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a3be49c5f800955d29f8af4936c851052">deleteAction</a> () const </td></tr>
+<tr class="separator:a3be49c5f800955d29f8af4936c851052"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a24849c55a87e47d39228c2ff1dff9c30"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a24849c55a87e47d39228c2ff1dff9c30">draw</a> ()</td></tr>
 <tr class="memdesc:a24849c55a87e47d39228c2ff1dff9c30"><td class="mdescLeft">&#160;</td><td class="mdescRight">calls all existing Drawables  <a href="#a24849c55a87e47d39228c2ff1dff9c30">More...</a><br/></td></tr>
 <tr class="separator:a24849c55a87e47d39228c2ff1dff9c30"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -222,6 +226,10 @@ Private Attributes</h2></td></tr>
 <tr class="separator:aca23153024e9284c9fc997868a84c368"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6a9f85bb66ef335d77a14177e726c55f"><td class="memItemLeft" align="right" valign="top">QAction *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a6a9f85bb66ef335d77a14177e726c55f">m_paste</a></td></tr>
 <tr class="separator:a6a9f85bb66ef335d77a14177e726c55f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a558d5c745bf0249971395bad451ac658"><td class="memItemLeft" align="right" valign="top">QAction *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a558d5c745bf0249971395bad451ac658">m_cut</a></td></tr>
+<tr class="separator:a558d5c745bf0249971395bad451ac658"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0984fe16eb1144786aa967669e847421"><td class="memItemLeft" align="right" valign="top">QAction *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a0984fe16eb1144786aa967669e847421">m_delete</a></td></tr>
+<tr class="separator:a0984fe16eb1144786aa967669e847421"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>A simple adaptor widget, marrying qt_graph_editor and <a class="el" href="namespacedependency__graph.html">dependency_graph</a>. </p>
@@ -274,6 +282,36 @@ Private Attributes</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">QAction * Adaptor::copyAction </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a4bf7a9924627ec4a1bef89225cc1c65c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">QAction * Adaptor::cutAction </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a3be49c5f800955d29f8af4936c851052"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">QAction * Adaptor::deleteAction </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -763,6 +801,46 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a558d5c745bf0249971395bad451ac658"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">QAction * Adaptor::m_cut</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a0984fe16eb1144786aa967669e847421"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">QAction * Adaptor::m_delete</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="adf69af4d8bbb7c8065125f9cb35ee1c5"></a>
 <div class="memitem">
 <div class="memproto">
@@ -913,7 +991,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classAdaptor.html">Adaptor</a></li>
-    <li class="footer">Generated on Thu Jul 27 2017 21:35:14 for possumwood by
+    <li class="footer">Generated on Thu Jul 27 2017 22:01:22 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

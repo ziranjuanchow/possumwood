@@ -67,5 +67,6 @@ var searchData=
   ['cube_2ecpp',['cube.cpp',['../cube_8cpp.html',1,'']]],
   ['current',['current',['../classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html#a628aaaec5a52ad6f492a892c35e5a623',1,'dependency_graph::io::basic_json::binary_reader::current()'],['../classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#ab46ce0080df215f2a73a5427b210088e',1,'dependency_graph::io::basic_json::lexer::current()'],['../classanim_1_1Tokenizer.html#ad1bf6b97ccc33e9806f8cc3d76574e1b',1,'anim::Tokenizer::current()']]],
   ['currenttoken',['currentToken',['../classanim_1_1Tokenizer.html#abcb42a285170d5c5362b6c8a547cf914',1,'anim::Tokenizer']]],
-  ['cursor',['cursor',['../classdependency__graph_1_1io_1_1basic__json_1_1input__buffer__adapter.html#a92d164c2235a5500162c5b0cb1cdd809',1,'dependency_graph::io::basic_json::input_buffer_adapter']]]
+  ['cursor',['cursor',['../classdependency__graph_1_1io_1_1basic__json_1_1input__buffer__adapter.html#a92d164c2235a5500162c5b0cb1cdd809',1,'dependency_graph::io::basic_json::input_buffer_adapter']]],
+  ['cutaction',['cutAction',['../classAdaptor.html#a4bf7a9924627ec4a1bef89225cc1c65c',1,'Adaptor']]]
 ];
