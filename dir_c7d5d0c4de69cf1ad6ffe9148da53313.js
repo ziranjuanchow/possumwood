@@ -8,6 +8,11 @@ var dir_c7d5d0c4de69cf1ad6ffe9148da53313 =
     [ "config_dialog.h", "config__dialog_8h.html", [
       [ "ConfigDialog", "classConfigDialog.html", "classConfigDialog" ]
     ] ],
+    [ "index.cpp", "index_8cpp.html", null ],
+    [ "index.h", "index_8h.html", [
+      [ "Index", "classIndex.html", "classIndex" ],
+      [ "Item", "structIndex_1_1Item.html", "structIndex_1_1Item" ]
+    ] ],
     [ "log.cpp", "log_8cpp.html", null ],
     [ "log.h", "log_8h.html", [
       [ "Log", "classLog.html", "classLog" ]

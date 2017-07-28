@@ -8,6 +8,7 @@ var namespacepossumwood =
     [ "Drawable", "classpossumwood_1_1Drawable.html", "classpossumwood_1_1Drawable" ],
     [ "DrawableFunctor", "classpossumwood_1_1DrawableFunctor.html", "classpossumwood_1_1DrawableFunctor" ],
     [ "Metadata", "classpossumwood_1_1Metadata.html", "classpossumwood_1_1Metadata" ],
-    [ "NodeData", "structpossumwood_1_1NodeData.html", "structpossumwood_1_1NodeData" ],
-    [ "NodeImplementation", "structpossumwood_1_1NodeImplementation.html", "structpossumwood_1_1NodeImplementation" ]
+    [ "NodeData", "classpossumwood_1_1NodeData.html", "classpossumwood_1_1NodeData" ],
+    [ "NodeImplementation", "structpossumwood_1_1NodeImplementation.html", "structpossumwood_1_1NodeImplementation" ],
+    [ "UniqueId", "classpossumwood_1_1UniqueId.html", "classpossumwood_1_1UniqueId" ]
 ];

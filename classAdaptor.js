@@ -29,10 +29,9 @@ var classAdaptor =
     [ "m_copy", "classAdaptor.html#aca23153024e9284c9fc997868a84c368", null ],
     [ "m_cut", "classAdaptor.html#a558d5c745bf0249971395bad451ac658", null ],
     [ "m_delete", "classAdaptor.html#a0984fe16eb1144786aa967669e847421", null ],
-    [ "m_drawables", "classAdaptor.html#adf69af4d8bbb7c8065125f9cb35ee1c5", null ],
     [ "m_graph", "classAdaptor.html#a7816fec422a4182dfaaaafab0e26d4dc", null ],
     [ "m_graphWidget", "classAdaptor.html#a3d49eb0c09cf397910f1107555c9b0d5", null ],
-    [ "m_nodes", "classAdaptor.html#a7338b4d271ccd55c1f82c1b46f2d69d6", null ],
+    [ "m_index", "classAdaptor.html#ab316adf2ef36b27c21ccdcaa53bba576", null ],
     [ "m_paste", "classAdaptor.html#a6a9f85bb66ef335d77a14177e726c55f", null ],
     [ "m_signals", "classAdaptor.html#a270bf919ae7e1802e728a1e848f753c6", null ],
     [ "m_sizeHint", "classAdaptor.html#af8e1da5ab1c249646a4c82c53196e94b", null ]

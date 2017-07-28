@@ -24,10 +24,14 @@ var dir_bbeb1387f6037c41dcaa5423e7174c79 =
       [ "Metadata", "classpossumwood_1_1Metadata.html", "classpossumwood_1_1Metadata" ]
     ] ],
     [ "node_data.h", "node__data_8h.html", [
-      [ "NodeData", "structpossumwood_1_1NodeData.html", "structpossumwood_1_1NodeData" ]
+      [ "NodeData", "classpossumwood_1_1NodeData.html", "classpossumwood_1_1NodeData" ]
     ] ],
     [ "node_implementation.cpp", "node__implementation_8cpp.html", null ],
     [ "node_implementation.h", "node__implementation_8h.html", [
       [ "NodeImplementation", "structpossumwood_1_1NodeImplementation.html", "structpossumwood_1_1NodeImplementation" ]
+    ] ],
+    [ "unique_id.cpp", "unique__id_8cpp.html", null ],
+    [ "unique_id.h", "unique__id_8h.html", [
+      [ "UniqueId", "classpossumwood_1_1UniqueId.html", "classpossumwood_1_1UniqueId" ]
     ] ]
 ];
