@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['edge',['edge',['../classnode__editor_1_1GraphScene.html#af896695e091ae99d3d08084ae951219d',1,'node_editor::GraphScene::edge(unsigned index)'],['../classnode__editor_1_1GraphScene.html#afe07691e9db79cadd72d2c0b9806481b',1,'node_editor::GraphScene::edge(unsigned index) const '],['../classnode__editor_1_1Edge.html#a63e6e10757fa35c2ebef45a24420221c',1,'node_editor::Edge::Edge()']]],
+  ['edge',['Edge',['../classnode__editor_1_1Edge.html#a63e6e10757fa35c2ebef45a24420221c',1,'node_editor::Edge::Edge()'],['../classnode__editor_1_1GraphScene.html#af896695e091ae99d3d08084ae951219d',1,'node_editor::GraphScene::edge(unsigned index)'],['../classnode__editor_1_1GraphScene.html#afe07691e9db79cadd72d2c0b9806481b',1,'node_editor::GraphScene::edge(unsigned index) const ']]],
   ['edgecount',['edgeCount',['../classnode__editor_1_1GraphScene.html#ae5053a01c065b6ae267081511b100c6d',1,'node_editor::GraphScene']]],
   ['emit',['emit',['../classanim_1_1Tokenizer.html#a0435f1b767394a298fbc383646a34bcb',1,'anim::Tokenizer']]],
   ['emplace',['emplace',['../classdependency__graph_1_1io_1_1basic__json.html#ad6f684771f96403328bb90dfacfebe07',1,'dependency_graph::io::basic_json']]],
@@ -14,6 +14,7 @@ var searchData=
   ['errored',['errored',['../classdependency__graph_1_1State.html#aeb80e81b8f6e7e9820ab80a1c3df6e0c',1,'dependency_graph::State']]],
   ['escape',['escape',['../classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html#ab3dff7fbf96b50ca14244ed9932bdc88',1,'dependency_graph::io::basic_json::json_pointer']]],
   ['exception',['exception',['../classdependency__graph_1_1io_1_1detail_1_1exception.html#ad716822dd8024ff785d58b03748f32ab',1,'dependency_graph::io::detail::exception']]],
+  ['execute',['execute',['../classUndoStack.html#afefbadec3f91fe829971f94e666d4913',1,'UndoStack']]],
   ['expect',['expect',['../classdependency__graph_1_1io_1_1basic__json_1_1parser.html#a4cb74740da8fb4de8ee36e36aa4e1986',1,'dependency_graph::io::basic_json::parser']]],
   ['extensions',['extensions',['../classpossumwood_1_1Filename.html#aa3f841a26f491ed55e4678f633c6248b',1,'possumwood::Filename']]],
   ['extra_5fspace',['extra_space',['../classdependency__graph_1_1io_1_1basic__json_1_1serializer.html#a9482cdb41d4b4834580ae90065eb0cf3',1,'dependency_graph::io::basic_json::serializer']]]

@@ -1,5 +1,6 @@
 var hierarchy =
 [
+    [ "UndoStack::Action", "classUndoStack_1_1Action.html", null ],
     [ "dependency_graph::io::adl_serializer< typename, typename >", "structdependency__graph_1_1io_1_1adl__serializer.html", null ],
     [ "dependency_graph::io::adl_serializer< Graph >", "structdependency__graph_1_1io_1_1adl__serializer_3_01Graph_01_4.html", null ],
     [ "dependency_graph::io::adl_serializer< Node >", "structdependency__graph_1_1io_1_1adl__serializer_3_01Node_01_4.html", null ],
@@ -73,8 +74,8 @@ var hierarchy =
     [ "dependency_graph::io::detail::is_compatible_object_type< BasicJsonType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type.html", null ],
     [ "dependency_graph::io::detail::is_compatible_object_type_impl< true, RealType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01Real0baf3277237e5138eaf03391588ae6a5.html", null ],
     [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
-    [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
     [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
+    [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >", "classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >::iteration_proxy_internal", "classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html", null ],
     [ "iterator", null, [
@@ -150,6 +151,7 @@ var hierarchy =
         ] ]
       ] ],
       [ "Properties::Property", "structProperties_1_1Property.html", null ],
+      [ "UndoStack", "classUndoStack.html", null ],
       [ "Viewport", "classViewport.html", null ]
     ] ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_adapter< CharType >", "classdependency__graph_1_1io_1_1basic__json_1_1output__adapter.html", [

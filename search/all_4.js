@@ -1,7 +1,7 @@
 var searchData=
 [
   ['edge',['Edge',['../classnode__editor_1_1Edge.html',1,'node_editor']]],
-  ['edge',['edge',['../classnode__editor_1_1GraphScene.html#af896695e091ae99d3d08084ae951219d',1,'node_editor::GraphScene::edge(unsigned index)'],['../classnode__editor_1_1GraphScene.html#afe07691e9db79cadd72d2c0b9806481b',1,'node_editor::GraphScene::edge(unsigned index) const '],['../classnode__editor_1_1GraphScene.html#ad2c8ba04c9d9989ccbf3c5aba267a3d7',1,'node_editor::GraphScene::Edge()'],['../classnode__editor_1_1Edge.html#a63e6e10757fa35c2ebef45a24420221c',1,'node_editor::Edge::Edge()']]],
+  ['edge',['Edge',['../classnode__editor_1_1GraphScene.html#ad2c8ba04c9d9989ccbf3c5aba267a3d7',1,'node_editor::GraphScene::Edge()'],['../classnode__editor_1_1Edge.html#a63e6e10757fa35c2ebef45a24420221c',1,'node_editor::Edge::Edge()'],['../classnode__editor_1_1GraphScene.html#af896695e091ae99d3d08084ae951219d',1,'node_editor::GraphScene::edge(unsigned index)'],['../classnode__editor_1_1GraphScene.html#afe07691e9db79cadd72d2c0b9806481b',1,'node_editor::GraphScene::edge(unsigned index) const ']]],
   ['edge_2ecpp',['edge.cpp',['../edge_8cpp.html',1,'']]],
   ['edge_2eh',['edge.h',['../edge_8h.html',1,'']]],
   ['edgecount',['edgeCount',['../classnode__editor_1_1GraphScene.html#ae5053a01c065b6ae267081511b100c6d',1,'node_editor::GraphScene']]],
@@ -28,8 +28,9 @@ var searchData=
   ['error_5fmessage',['error_message',['../classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#a22a909e0a7f5430e703225e608d1ed8c',1,'dependency_graph::io::basic_json::lexer']]],
   ['errored',['errored',['../classdependency__graph_1_1State.html#aeb80e81b8f6e7e9820ab80a1c3df6e0c',1,'dependency_graph::State']]],
   ['escape',['escape',['../classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html#ab3dff7fbf96b50ca14244ed9932bdc88',1,'dependency_graph::io::basic_json::json_pointer']]],
-  ['exception',['exception',['../classdependency__graph_1_1io_1_1detail_1_1exception.html',1,'dependency_graph::io::detail']]],
   ['exception',['exception',['../classdependency__graph_1_1io_1_1basic__json.html#a8a6fffc7b4ba2a1d5b43e535cfacc733',1,'dependency_graph::io::basic_json::exception()'],['../classdependency__graph_1_1io_1_1detail_1_1exception.html#ad716822dd8024ff785d58b03748f32ab',1,'dependency_graph::io::detail::exception::exception()']]],
+  ['exception',['exception',['../classdependency__graph_1_1io_1_1detail_1_1exception.html',1,'dependency_graph::io::detail']]],
+  ['execute',['execute',['../classUndoStack.html#afefbadec3f91fe829971f94e666d4913',1,'UndoStack']]],
   ['expect',['expect',['../classdependency__graph_1_1io_1_1basic__json_1_1parser.html#a4cb74740da8fb4de8ee36e36aa4e1986',1,'dependency_graph::io::basic_json::parser']]],
   ['exponent',['exponent',['../structTimeline_1_1TickSkip.html#ab18e33161330e8deb58d15d0fdce77d0',1,'Timeline::TickSkip']]],
   ['extensions',['extensions',['../classpossumwood_1_1Filename.html#aa3f841a26f491ed55e4678f633c6248b',1,'possumwood::Filename']]],

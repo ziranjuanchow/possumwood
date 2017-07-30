@@ -36,6 +36,11 @@ var dir_c7d5d0c4de69cf1ad6ffe9148da53313 =
     [ "timeline_widget.h", "timeline__widget_8h.html", [
       [ "TimelineWidget", "classTimelineWidget.html", "classTimelineWidget" ]
     ] ],
+    [ "undo_stack.cpp", "apps_2possumwood_2undo__stack_8cpp.html", null ],
+    [ "undo_stack.h", "undo__stack_8h.html", [
+      [ "UndoStack", "classUndoStack.html", "classUndoStack" ],
+      [ "Action", "classUndoStack_1_1Action.html", "classUndoStack_1_1Action" ]
+    ] ],
     [ "viewport.cpp", "viewport_8cpp.html", null ],
     [ "viewport.h", "viewport_8h.html", [
       [ "Viewport", "classViewport.html", "classViewport" ]

@@ -23,6 +23,7 @@ var annotated =
     [ "TestStruct", "structTestStruct.html", "structTestStruct" ],
     [ "Timeline", "classTimeline.html", "classTimeline" ],
     [ "TimelineWidget", "classTimelineWidget.html", "classTimelineWidget" ],
+    [ "UndoStack", "classUndoStack.html", "classUndoStack" ],
     [ "unsigned_ui", "classunsigned__ui.html", "classunsigned__ui" ],
     [ "vec3_ui", "classvec3__ui.html", "classvec3__ui" ],
     [ "Viewport", "classViewport.html", "classViewport" ]
