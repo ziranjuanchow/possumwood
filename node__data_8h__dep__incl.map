@@ -1,10 +1,12 @@
 <map id="src/libs/possumwood_sdk/node_data.h" name="src/libs/possumwood_sdk/node_data.h">
-<area shape="rect" id="node2" href="$index_8h.html" title="src/apps/possumwood\l/index.h" alt="" coords="273,97,425,138"/>
-<area shape="rect" id="node4" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="323,278,476,319"/>
-<area shape="rect" id="node7" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="209,369,361,410"/>
-<area shape="rect" id="node9" href="$app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="553,97,697,138"/>
-<area shape="rect" id="node3" href="$adaptor_8h.html" title="src/apps/possumwood\l/adaptor.h" alt="" coords="95,187,248,229"/>
-<area shape="rect" id="node8" href="$index_8cpp.html" title="src/apps/possumwood\l/index.cpp" alt="" coords="273,187,425,229"/>
-<area shape="rect" id="node5" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="5,369,157,410"/>
-<area shape="rect" id="node6" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="94,278,247,319"/>
+<area shape="rect" id="node2" href="$actions_8h.html" title="src/apps/possumwood\l/actions.h" alt="" coords="5,187,157,229"/>
+<area shape="rect" id="node4" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="119,278,272,319"/>
+<area shape="rect" id="node5" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="469,369,621,410"/>
+<area shape="rect" id="node6" href="$index_8h.html" title="src/apps/possumwood\l/index.h" alt="" coords="322,97,475,138"/>
+<area shape="rect" id="node11" href="$app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="641,97,785,138"/>
+<area shape="rect" id="node3" href="$actions_8cpp.html" title="src/apps/possumwood\l/actions.cpp" alt="" coords="34,369,187,410"/>
+<area shape="rect" id="node7" href="$adaptor_8h.html" title="src/apps/possumwood\l/adaptor.h" alt="" coords="411,187,564,229"/>
+<area shape="rect" id="node10" href="$index_8cpp.html" title="src/apps/possumwood\l/index.cpp" alt="" coords="234,187,387,229"/>
+<area shape="rect" id="node8" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="297,278,449,319"/>
+<area shape="rect" id="node9" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="291,369,444,410"/>
 </map>

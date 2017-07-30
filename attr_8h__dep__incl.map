@@ -47,5 +47,5 @@
 <area shape="rect" id="node42" href="$dependency__graph_2port_8cpp.html" title="src/libs/dependency\l_graph/port.cpp" alt="" coords="5264,466,5403,507"/>
 <area shape="rect" id="node43" href="$app_8h.html" title="src/libs/possumwood\l_sdk/app.h" alt="" coords="2246,369,2391,410"/>
 <area shape="rect" id="node44" href="$graph__instantiation_8cpp.html" title="src/tests/dependency\l_graph/graph_instantiation.cpp" alt="" coords="3087,369,3285,410"/>
-<area shape="rect" id="node46" href="$properties_8h.html" title="src/apps/possumwood\l/properties.h" alt="" coords="3625,369,3777,410"/>
+<area shape="rect" id="node46" href="$actions_8h.html" title="src/apps/possumwood\l/actions.h" alt="" coords="3625,369,3777,410"/>
 </map>

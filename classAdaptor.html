@@ -159,9 +159,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ad9101caff9d30030dcc950f9d456f6fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abe4df5967289b4474e2363326f90bfad"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classnode__editor_1_1GraphWidget.html">node_editor::GraphWidget</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#abe4df5967289b4474e2363326f90bfad">graphWidget</a> ()</td></tr>
 <tr class="separator:abe4df5967289b4474e2363326f90bfad"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa74b429935d31f93cd557e4ca6daa9eb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#aa74b429935d31f93cd557e4ca6daa9eb">deleteSelected</a> ()</td></tr>
-<tr class="memdesc:aa74b429935d31f93cd557e4ca6daa9eb"><td class="mdescLeft">&#160;</td><td class="mdescRight">deletes all selected items in the associated graph  <a href="#aa74b429935d31f93cd557e4ca6daa9eb">More...</a><br/></td></tr>
-<tr class="separator:aa74b429935d31f93cd557e4ca6daa9eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a32984af0bf6de1d1cd88ed3e48539ada"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Selection.html">dependency_graph::Selection</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a32984af0bf6de1d1cd88ed3e48539ada">selection</a> () const </td></tr>
 <tr class="memdesc:a32984af0bf6de1d1cd88ed3e48539ada"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns current selection  <a href="#a32984af0bf6de1d1cd88ed3e48539ada">More...</a><br/></td></tr>
 <tr class="separator:a32984af0bf6de1d1cd88ed3e48539ada"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -182,6 +179,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a24849c55a87e47d39228c2ff1dff9c30"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a24849c55a87e47d39228c2ff1dff9c30">draw</a> ()</td></tr>
 <tr class="memdesc:a24849c55a87e47d39228c2ff1dff9c30"><td class="mdescLeft">&#160;</td><td class="mdescRight">calls all existing Drawables  <a href="#a24849c55a87e47d39228c2ff1dff9c30">More...</a><br/></td></tr>
 <tr class="separator:a24849c55a87e47d39228c2ff1dff9c30"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0926a1d6d040083ae7ec97f2497d9bf7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classIndex.html">Index</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a0926a1d6d040083ae7ec97f2497d9bf7">index</a> ()</td></tr>
+<tr class="separator:a0926a1d6d040083ae7ec97f2497d9bf7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
@@ -314,23 +313,6 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="aa74b429935d31f93cd557e4ca6daa9eb"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void Adaptor::deleteSelected </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>deletes all selected items in the associated graph </p>
-
-</div>
-</div>
 <a class="anchor" id="a24849c55a87e47d39228c2ff1dff9c30"></a>
 <div class="memitem">
 <div class="memproto">
@@ -377,6 +359,22 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a0926a1d6d040083ae7ec97f2497d9bf7"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classIndex.html">Index</a> &amp; Adaptor::index </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>direct use of <a class="el" href="classIndex.html">Index</a> instance needed in actions, to find nodes by their IDs </p>
 
 </div>
 </div>
@@ -965,7 +963,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classAdaptor.html">Adaptor</a></li>
-    <li class="footer">Generated on Sun Jul 30 2017 09:38:18 for possumwood by
+    <li class="footer">Generated on Sun Jul 30 2017 15:57:32 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

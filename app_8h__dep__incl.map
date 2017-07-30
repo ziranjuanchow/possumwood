@@ -1,11 +1,12 @@
 <map id="src/libs/possumwood_sdk/app.h" name="src/libs/possumwood_sdk/app.h">
-<area shape="rect" id="node2" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="5,187,157,229"/>
-<area shape="rect" id="node3" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="106,97,259,138"/>
-<area shape="rect" id="node4" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="207,187,360,229"/>
-<area shape="rect" id="node5" href="$timeline__widget_8cpp.html" title="src/apps/possumwood\l/timeline_widget.cpp" alt="" coords="335,97,488,138"/>
-<area shape="rect" id="node6" href="$app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="513,97,657,138"/>
-<area shape="rect" id="node7" href="$datatypes_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/filename.cpp" alt="" coords="683,97,872,138"/>
-<area shape="rect" id="node8" href="$ui_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filename.cpp" alt="" coords="897,97,1041,138"/>
-<area shape="rect" id="node9" href="$cube_8cpp.html" title="src/plugins/3d/nodes\l/cube.cpp" alt="" coords="1066,97,1208,138"/>
-<area shape="rect" id="node10" href="$skeleton__display_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_display.cpp" alt="" coords="1233,97,1388,138"/>
+<area shape="rect" id="node2" href="$actions_8cpp.html" title="src/apps/possumwood\l/actions.cpp" alt="" coords="5,187,157,229"/>
+<area shape="rect" id="node3" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="166,97,319,138"/>
+<area shape="rect" id="node4" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="182,187,335,229"/>
+<area shape="rect" id="node5" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="359,187,512,229"/>
+<area shape="rect" id="node6" href="$timeline__widget_8cpp.html" title="src/apps/possumwood\l/timeline_widget.cpp" alt="" coords="446,97,599,138"/>
+<area shape="rect" id="node7" href="$app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="623,97,768,138"/>
+<area shape="rect" id="node8" href="$datatypes_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/filename.cpp" alt="" coords="793,97,983,138"/>
+<area shape="rect" id="node9" href="$ui_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filename.cpp" alt="" coords="1007,97,1152,138"/>
+<area shape="rect" id="node10" href="$cube_8cpp.html" title="src/plugins/3d/nodes\l/cube.cpp" alt="" coords="1177,97,1319,138"/>
+<area shape="rect" id="node11" href="$skeleton__display_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_display.cpp" alt="" coords="1343,97,1499,138"/>
 </map>

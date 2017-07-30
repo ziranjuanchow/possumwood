@@ -1,5 +1,9 @@
 var dir_c7d5d0c4de69cf1ad6ffe9148da53313 =
 [
+    [ "actions.cpp", "actions_8cpp.html", null ],
+    [ "actions.h", "actions_8h.html", [
+      [ "Actions", "structActions.html", "structActions" ]
+    ] ],
     [ "adaptor.cpp", "adaptor_8cpp.html", null ],
     [ "adaptor.h", "adaptor_8h.html", [
       [ "Adaptor", "classAdaptor.html", "classAdaptor" ]

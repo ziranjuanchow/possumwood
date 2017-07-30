@@ -512,11 +512,11 @@ value access</h2></td></tr>
 <tr class="memdesc:a190b71fbce4891898a4a7bf760c319cc"><td class="mdescLeft">&#160;</td><td class="mdescRight">get special-case overload  <a href="#a190b71fbce4891898a4a7bf760c319cc">More...</a><br/></td></tr>
 <tr class="separator:a190b71fbce4891898a4a7bf760c319cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a408c5a9469688f3e04370bc5a42b0035"><td class="memTemplParams" colspan="2">template&lt;typename ValueTypeCV , typename ValueType  = detail::uncvref_t&lt;ValueTypeCV&gt;, detail::enable_if_t&lt; not std::is_same&lt; basic_json_t, ValueType &gt;::value anddetail::has_from_json&lt; basic_json_t, ValueType &gt;::value andnot detail::has_non_default_from_json&lt; basic_json_t, ValueType &gt;::value, int &gt;  = 0&gt; </td></tr>
-<tr class="memitem:a408c5a9469688f3e04370bc5a42b0035"><td class="memTemplItemLeft" align="right" valign="top">ValueType&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a408c5a9469688f3e04370bc5a42b0035">get</a> () const noexcept(noexcept(JSONSerializer&lt; ValueType &gt;::<a class="el" href="namespacedependency__graph_1_1io.html#a8c5fb517d1273e170edce48cae6b5029">from_json</a>(std::declval&lt; const <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a2681eceb507503dbcd62ee946de8f279">basic_json_t</a> &amp; &gt;(), std::declval&lt; ValueType &amp; &gt;())))</td></tr>
+<tr class="memitem:a408c5a9469688f3e04370bc5a42b0035"><td class="memTemplItemLeft" align="right" valign="top">ValueType&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a408c5a9469688f3e04370bc5a42b0035">get</a> () const noexcept(noexcept(JSONSerializer&lt; ValueType &gt;::<a class="el" href="namespacedependency__graph_1_1io.html#ad2dcb2ad8e34f116f3f86dd104dac506">from_json</a>(std::declval&lt; const <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a2681eceb507503dbcd62ee946de8f279">basic_json_t</a> &amp; &gt;(), std::declval&lt; ValueType &amp; &gt;())))</td></tr>
 <tr class="memdesc:a408c5a9469688f3e04370bc5a42b0035"><td class="mdescLeft">&#160;</td><td class="mdescRight">get a value (explicit)  <a href="#a408c5a9469688f3e04370bc5a42b0035">More...</a><br/></td></tr>
 <tr class="separator:a408c5a9469688f3e04370bc5a42b0035"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a93d7d8bceafbbda5a04f1c8c3931f631"><td class="memTemplParams" colspan="2">template&lt;typename ValueTypeCV , typename ValueType  = detail::uncvref_t&lt;ValueTypeCV&gt;, detail::enable_if_t&lt; not std::is_same&lt; basic_json_t, ValueType &gt;::value anddetail::has_non_default_from_json&lt; basic_json_t, ValueType &gt;::value, int &gt;  = 0&gt; </td></tr>
-<tr class="memitem:a93d7d8bceafbbda5a04f1c8c3931f631"><td class="memTemplItemLeft" align="right" valign="top">ValueType&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a93d7d8bceafbbda5a04f1c8c3931f631">get</a> () const noexcept(noexcept(JSONSerializer&lt; ValueTypeCV &gt;::<a class="el" href="namespacedependency__graph_1_1io.html#a8c5fb517d1273e170edce48cae6b5029">from_json</a>(std::declval&lt; const <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a2681eceb507503dbcd62ee946de8f279">basic_json_t</a> &amp; &gt;())))</td></tr>
+<tr class="memitem:a93d7d8bceafbbda5a04f1c8c3931f631"><td class="memTemplItemLeft" align="right" valign="top">ValueType&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a93d7d8bceafbbda5a04f1c8c3931f631">get</a> () const noexcept(noexcept(JSONSerializer&lt; ValueTypeCV &gt;::<a class="el" href="namespacedependency__graph_1_1io.html#ad2dcb2ad8e34f116f3f86dd104dac506">from_json</a>(std::declval&lt; const <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a2681eceb507503dbcd62ee946de8f279">basic_json_t</a> &amp; &gt;())))</td></tr>
 <tr class="memdesc:a93d7d8bceafbbda5a04f1c8c3931f631"><td class="mdescLeft">&#160;</td><td class="mdescRight">get a value (explicit); special case  <a href="#a93d7d8bceafbbda5a04f1c8c3931f631">More...</a><br/></td></tr>
 <tr class="separator:a93d7d8bceafbbda5a04f1c8c3931f631"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a807def39511be96cd9d3c848e1f102ba"><td class="memTemplParams" colspan="2">template&lt;typename PointerType , typename std::enable_if&lt; std::is_pointer&lt; PointerType &gt;::value, int &gt;::type  = 0&gt; </td></tr>
@@ -942,7 +942,7 @@ class dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, Bo
     <tr><td class="paramname">NumberUnsignedType</td><td>type for JSON unsigned integer numbers (<code><code>uint64_t</code></code> by default; will be used in <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#ab37011532a26267bc098dd735aeccbde">number_unsigned_t</a>) </td></tr>
     <tr><td class="paramname">NumberFloatType</td><td>type for JSON floating-point numbers (<code>double</code> by default; will be used in <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#af9687eca2e773a16c179dc07f40aa860">number_float_t</a>) </td></tr>
     <tr><td class="paramname">AllocatorType</td><td>type of the allocator to use (<code>std::allocator</code> by default) </td></tr>
-    <tr><td class="paramname">JSONSerializer</td><td>the serializer to resolve internal calls to <code><a class="el" href="namespacedependency__graph_1_1io.html#a936c332470ca0d12da9a6b17b30f7557">to_json()</a></code> and <code><a class="el" href="namespacedependency__graph_1_1io.html#a8c5fb517d1273e170edce48cae6b5029">from_json()</a></code> (<a class="el" href="structdependency__graph_1_1io_1_1adl__serializer.html">adl_serializer</a> by default)</td></tr>
+    <tr><td class="paramname">JSONSerializer</td><td>the serializer to resolve internal calls to <code><a class="el" href="namespacedependency__graph_1_1io.html#a936c332470ca0d12da9a6b17b30f7557">to_json()</a></code> and <code><a class="el" href="namespacedependency__graph_1_1io.html#ad2dcb2ad8e34f116f3f86dd104dac506">from_json()</a></code> (<a class="el" href="structdependency__graph_1_1io_1_1adl__serializer.html">adl_serializer</a> by default)</td></tr>
   </table>
   </dd>
 </dl>
@@ -4409,7 +4409,7 @@ template&lt;typename ValueTypeCV , typename ValueType  = detail::uncvref_t&lt;Va
 </div><div class="memdoc">
 
 <p>get a value (explicit) </p>
-<p>Explicit type conversion between the JSON value and a compatible value which is <a href="http://en.cppreference.com/w/cpp/concept/CopyConstructible">CopyConstructible</a> and <a href="http://en.cppreference.com/w/cpp/concept/DefaultConstructible">DefaultConstructible</a>. The value is converted by calling the <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> <code><a class="el" href="namespacedependency__graph_1_1io.html#a8c5fb517d1273e170edce48cae6b5029">from_json()</a></code> method.</p>
+<p>Explicit type conversion between the JSON value and a compatible value which is <a href="http://en.cppreference.com/w/cpp/concept/CopyConstructible">CopyConstructible</a> and <a href="http://en.cppreference.com/w/cpp/concept/DefaultConstructible">DefaultConstructible</a>. The value is converted by calling the <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> <code><a class="el" href="namespacedependency__graph_1_1io.html#ad2dcb2ad8e34f116f3f86dd104dac506">from_json()</a></code> method.</p>
 <p>The function is equivalent to executing </p>
 <div class="fragment"><div class="line">ValueType ret;</div>
 <div class="line"><a class="code" href="common_8h.html#af65584d7a51de99630e398cecd50d1f9">JSONSerializer&lt;ValueType&gt;::from_json</a>(*<span class="keyword">this</span>, ret);</div>
@@ -4417,8 +4417,8 @@ template&lt;typename ValueTypeCV , typename ValueType  = detail::uncvref_t&lt;Va
 </div><!-- fragment --><p>This overloads is chosen if:</p>
 <ul>
 <li><em>ValueType</em> is not <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html">basic_json</a>,</li>
-<li><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> has a <code><a class="el" href="namespacedependency__graph_1_1io.html#a8c5fb517d1273e170edce48cae6b5029">from_json()</a></code> method of the form <code>void from_json(const basic_json&amp;, ValueType&amp;)</code>, and</li>
-<li><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> does not have a <code><a class="el" href="namespacedependency__graph_1_1io.html#a8c5fb517d1273e170edce48cae6b5029">from_json()</a></code> method of the form <code>ValueType from_json(const basic_json&amp;)</code></li>
+<li><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> has a <code><a class="el" href="namespacedependency__graph_1_1io.html#ad2dcb2ad8e34f116f3f86dd104dac506">from_json()</a></code> method of the form <code>void from_json(const basic_json&amp;, ValueType&amp;)</code>, and</li>
+<li><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> does not have a <code><a class="el" href="namespacedependency__graph_1_1io.html#ad2dcb2ad8e34f116f3f86dd104dac506">from_json()</a></code> method of the form <code>ValueType from_json(const basic_json&amp;)</code></li>
 </ul>
 <dl class="tparams"><dt>Template Parameters</dt><dd>
   <table class="tparams">
@@ -4430,7 +4430,7 @@ template&lt;typename ValueTypeCV , typename ValueType  = detail::uncvref_t&lt;Va
 <dl class="section return"><dt>Returns</dt><dd>copy of the JSON value, converted to <em>ValueType</em> </dd></dl>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
-    <tr><td class="paramname">what</td><td><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> <code><a class="el" href="namespacedependency__graph_1_1io.html#a8c5fb517d1273e170edce48cae6b5029">from_json()</a></code> method throws</td></tr>
+    <tr><td class="paramname">what</td><td><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> <code><a class="el" href="namespacedependency__graph_1_1io.html#ad2dcb2ad8e34f116f3f86dd104dac506">from_json()</a></code> method throws</td></tr>
   </table>
   </dd>
 </dl>
@@ -4465,15 +4465,15 @@ template&lt;typename ValueTypeCV , typename ValueType  = detail::uncvref_t&lt;Va
 </div><div class="memdoc">
 
 <p>get a value (explicit); special case </p>
-<p>Explicit type conversion between the JSON value and a compatible value which is <b>not</b> <a href="http://en.cppreference.com/w/cpp/concept/CopyConstructible">CopyConstructible</a> and <b>not</b> <a href="http://en.cppreference.com/w/cpp/concept/DefaultConstructible">DefaultConstructible</a>. The value is converted by calling the <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> <code><a class="el" href="namespacedependency__graph_1_1io.html#a8c5fb517d1273e170edce48cae6b5029">from_json()</a></code> method.</p>
+<p>Explicit type conversion between the JSON value and a compatible value which is <b>not</b> <a href="http://en.cppreference.com/w/cpp/concept/CopyConstructible">CopyConstructible</a> and <b>not</b> <a href="http://en.cppreference.com/w/cpp/concept/DefaultConstructible">DefaultConstructible</a>. The value is converted by calling the <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> <code><a class="el" href="namespacedependency__graph_1_1io.html#ad2dcb2ad8e34f116f3f86dd104dac506">from_json()</a></code> method.</p>
 <p>The function is equivalent to executing </p>
 <div class="fragment"><div class="line"><span class="keywordflow">return</span> <a class="code" href="common_8h.html#af65584d7a51de99630e398cecd50d1f9">JSONSerializer&lt;ValueTypeCV&gt;::from_json</a>(*<span class="keyword">this</span>);</div>
 </div><!-- fragment --><p>This overloads is chosen if:</p>
 <ul>
 <li><em>ValueType</em> is not <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html">basic_json</a> and</li>
-<li><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> has a <code><a class="el" href="namespacedependency__graph_1_1io.html#a8c5fb517d1273e170edce48cae6b5029">from_json()</a></code> method of the form <code>ValueType from_json(const basic_json&amp;)</code></li>
+<li><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> has a <code><a class="el" href="namespacedependency__graph_1_1io.html#ad2dcb2ad8e34f116f3f86dd104dac506">from_json()</a></code> method of the form <code>ValueType from_json(const basic_json&amp;)</code></li>
 </ul>
-<dl class="section note"><dt>Note</dt><dd>If <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> has both overloads of <code><a class="el" href="namespacedependency__graph_1_1io.html#a8c5fb517d1273e170edce48cae6b5029">from_json()</a></code>, this one is chosen.</dd></dl>
+<dl class="section note"><dt>Note</dt><dd>If <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> has both overloads of <code><a class="el" href="namespacedependency__graph_1_1io.html#ad2dcb2ad8e34f116f3f86dd104dac506">from_json()</a></code>, this one is chosen.</dd></dl>
 <dl class="tparams"><dt>Template Parameters</dt><dd>
   <table class="tparams">
     <tr><td class="paramname">ValueTypeCV</td><td>the provided value type </td></tr>
@@ -4484,7 +4484,7 @@ template&lt;typename ValueTypeCV , typename ValueType  = detail::uncvref_t&lt;Va
 <dl class="section return"><dt>Returns</dt><dd>copy of the JSON value, converted to <em>ValueType</em> </dd></dl>
 <dl class="exception"><dt>Exceptions</dt><dd>
   <table class="exception">
-    <tr><td class="paramname">what</td><td><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> <code><a class="el" href="namespacedependency__graph_1_1io.html#a8c5fb517d1273e170edce48cae6b5029">from_json()</a></code> method throws</td></tr>
+    <tr><td class="paramname">what</td><td><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a0b493956f1db73b193980450075810c9">json_serializer&lt;ValueType&gt;</a> <code><a class="el" href="namespacedependency__graph_1_1io.html#ad2dcb2ad8e34f116f3f86dd104dac506">from_json()</a></code> method throws</td></tr>
   </table>
   </dd>
 </dl>
@@ -9976,7 +9976,7 @@ template&lt;template&lt; typename U, typename V, typename...Args &gt; class Obje
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="namespacedependency__graph_1_1io.html">io</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1io_1_1basic__json.html">basic_json</a></li>
-    <li class="footer">Generated on Sun Jul 30 2017 09:38:19 for possumwood by
+    <li class="footer">Generated on Sun Jul 30 2017 15:57:32 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

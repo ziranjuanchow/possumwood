@@ -6,6 +6,7 @@ var annotated =
     [ "node_editor", "namespacenode__editor.html", "namespacenode__editor" ],
     [ "possumwood", "namespacepossumwood.html", "namespacepossumwood" ],
     [ "std", "namespacestd.html", "namespacestd" ],
+    [ "Actions", "structActions.html", "structActions" ],
     [ "Adaptor", "classAdaptor.html", "classAdaptor" ],
     [ "bool_ui", "classbool__ui.html", "classbool__ui" ],
     [ "ConfigDialog", "classConfigDialog.html", "classConfigDialog" ],

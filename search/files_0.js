@@ -1,5 +1,7 @@
 var searchData=
 [
+  ['actions_2ecpp',['actions.cpp',['../actions_8cpp.html',1,'']]],
+  ['actions_2eh',['actions.h',['../actions_8h.html',1,'']]],
   ['adaptor_2ecpp',['adaptor.cpp',['../adaptor_8cpp.html',1,'']]],
   ['adaptor_2eh',['adaptor.h',['../adaptor_8h.html',1,'']]],
   ['add_2ecpp',['add.cpp',['../add_8cpp.html',1,'']]],
