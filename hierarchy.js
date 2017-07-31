@@ -1,6 +1,6 @@
 var hierarchy =
 [
-    [ "UndoStack::Action", "classUndoStack_1_1Action.html", null ],
+    [ "possumwood::UndoStack::Action", "classpossumwood_1_1UndoStack_1_1Action.html", null ],
     [ "Actions", "structActions.html", null ],
     [ "dependency_graph::io::adl_serializer< typename, typename >", "structdependency__graph_1_1io_1_1adl__serializer.html", null ],
     [ "dependency_graph::io::adl_serializer< Graph >", "structdependency__graph_1_1io_1_1adl__serializer_3_01Graph_01_4.html", null ],
@@ -151,8 +151,8 @@ var hierarchy =
           [ "unsigned_ui", "classunsigned__ui.html", null ]
         ] ]
       ] ],
+      [ "possumwood::UndoStack", "classpossumwood_1_1UndoStack.html", null ],
       [ "Properties::Property", "structProperties_1_1Property.html", null ],
-      [ "UndoStack", "classUndoStack.html", null ],
       [ "Viewport", "classViewport.html", null ]
     ] ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_adapter< CharType >", "classdependency__graph_1_1io_1_1basic__json_1_1output__adapter.html", [
@@ -201,8 +201,8 @@ var hierarchy =
     [ "reverse_iterator", null, [
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_reverse_iterator< Base >", "classdependency__graph_1_1io_1_1basic__json_1_1json__reverse__iterator.html", null ]
     ] ],
-    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
+    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classdependency__graph_1_1io_1_1basic__json_1_1serializer.html", null ],
     [ "anim::Skeleton", "classanim_1_1Skeleton.html", null ],
     [ "SkeletonTest", "structSkeletonTest.html", null ],

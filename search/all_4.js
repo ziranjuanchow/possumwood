@@ -30,7 +30,7 @@ var searchData=
   ['escape',['escape',['../classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html#ab3dff7fbf96b50ca14244ed9932bdc88',1,'dependency_graph::io::basic_json::json_pointer']]],
   ['exception',['exception',['../classdependency__graph_1_1io_1_1basic__json.html#a8a6fffc7b4ba2a1d5b43e535cfacc733',1,'dependency_graph::io::basic_json::exception()'],['../classdependency__graph_1_1io_1_1detail_1_1exception.html#ad716822dd8024ff785d58b03748f32ab',1,'dependency_graph::io::detail::exception::exception()']]],
   ['exception',['exception',['../classdependency__graph_1_1io_1_1detail_1_1exception.html',1,'dependency_graph::io::detail']]],
-  ['execute',['execute',['../classUndoStack.html#afefbadec3f91fe829971f94e666d4913',1,'UndoStack']]],
+  ['execute',['execute',['../classpossumwood_1_1UndoStack.html#aeffb318f4fa38e00b1169925b2253192',1,'possumwood::UndoStack']]],
   ['expect',['expect',['../classdependency__graph_1_1io_1_1basic__json_1_1parser.html#a4cb74740da8fb4de8ee36e36aa4e1986',1,'dependency_graph::io::basic_json::parser']]],
   ['exponent',['exponent',['../structTimeline_1_1TickSkip.html#ab18e33161330e8deb58d15d0fdce77d0',1,'Timeline::TickSkip']]],
   ['extensions',['extensions',['../classpossumwood_1_1Filename.html#aa3f841a26f491ed55e4678f633c6248b',1,'possumwood::Filename']]],

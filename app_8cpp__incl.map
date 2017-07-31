@@ -1,13 +1,14 @@
 <map id="src/libs/possumwood_sdk/app.cpp" name="src/libs/possumwood_sdk/app.cpp">
-<area shape="rect" id="node2" href="$app_8h.html" title="app.h" alt="" coords="594,104,648,131"/>
-<area shape="rect" id="node22" href="$io_2graph_8h.html" title="dependency_graph/io\l/graph.h" alt="" coords="1752,97,1896,138"/>
-<area shape="rect" id="node46" href="$node__data_8h.html" title="node_data.h" alt="" coords="2555,104,2648,131"/>
-<area shape="rect" id="node50" href="$config_8inl.html" title="config.inl" alt="" coords="3095,187,3168,213"/>
-<area shape="rect" id="node6" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="744,187,923,213"/>
-<area shape="rect" id="node16" href="$config_8h.html" title="config.h" alt="" coords="1212,269,1279,296"/>
-<area shape="rect" id="node14" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1075,269,1136,296"/>
-<area shape="rect" id="node23" href="$selection_8h.html" title="../selection.h" alt="" coords="1276,187,1372,213"/>
-<area shape="rect" id="node24" href="$json_8h.html" title="io/json.h" alt="" coords="2273,269,2343,296"/>
-<area shape="rect" id="node48" href="$io_8h.html" title="io.h" alt="" coords="2431,187,2474,213"/>
-<area shape="rect" id="node49" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="2875,187,2963,213"/>
+<area shape="rect" id="node2" href="$app_8h.html" title="app.h" alt="" coords="709,104,763,131"/>
+<area shape="rect" id="node23" href="$io_2graph_8h.html" title="dependency_graph/io\l/graph.h" alt="" coords="1311,97,1456,138"/>
+<area shape="rect" id="node46" href="$node__data_8h.html" title="node_data.h" alt="" coords="2391,104,2484,131"/>
+<area shape="rect" id="node50" href="$config_8inl.html" title="config.inl" alt="" coords="1568,187,1641,213"/>
+<area shape="rect" id="node6" href="$graph_8h.html" title="dependency_graph/graph.h" alt="" coords="647,187,825,213"/>
+<area shape="rect" id="node16" href="$config_8h.html" title="config.h" alt="" coords="1281,269,1348,296"/>
+<area shape="rect" id="node19" href="$undo__stack_8h.html" title="undo_stack.h" alt="" coords="55,269,155,296"/>
+<area shape="rect" id="node14" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1144,269,1205,296"/>
+<area shape="rect" id="node24" href="$selection_8h.html" title="../selection.h" alt="" coords="1335,187,1432,213"/>
+<area shape="rect" id="node25" href="$json_8h.html" title="io/json.h" alt="" coords="2194,269,2264,296"/>
+<area shape="rect" id="node48" href="$io_8h.html" title="io.h" alt="" coords="2271,187,2313,213"/>
+<area shape="rect" id="node49" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="2859,187,2947,213"/>
 </map>

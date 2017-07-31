@@ -18,8 +18,8 @@
 <area shape="rect" id="node21" href="$classpossumwood_1_1properties_1_1factories.html" title="possumwood::properties\l::factories" alt="" coords="181,847,345,889"/>
 <area shape="rect" id="node22" href="$classpossumwood_1_1properties_1_1factory.html" title="possumwood::properties\l::factory" alt="" coords="181,913,345,954"/>
 <area shape="rect" id="node32" href="$classpossumwood_1_1properties_1_1property__base.html" title="possumwood::properties\l::property_base" alt="" coords="181,1239,345,1281"/>
-<area shape="rect" id="node48" href="$structProperties_1_1Property.html" title="Properties::Property" alt="" coords="193,1305,332,1332"/>
-<area shape="rect" id="node49" href="$classUndoStack.html" title="UndoStack" alt="" coords="219,1356,306,1383"/>
+<area shape="rect" id="node48" href="$classpossumwood_1_1UndoStack.html" title="possumwood::UndoStack" alt="" coords="177,1305,349,1332"/>
+<area shape="rect" id="node49" href="$structProperties_1_1Property.html" title="Properties::Property" alt="" coords="193,1356,332,1383"/>
 <area shape="rect" id="node50" href="$classViewport.html" title="Viewport" alt="" coords="226,1407,299,1433"/>
 <area shape="rect" id="node3" href="$classanim_1_1Attribute_1_1DataTyped.html" title="anim::Attribute::DataTyped\&lt; T \&gt;" alt="" coords="424,5,635,32"/>
 <area shape="rect" id="node10" href="$classpossumwood_1_1Metadata.html" title="possumwood::Metadata" alt="" coords="449,340,610,367"/>

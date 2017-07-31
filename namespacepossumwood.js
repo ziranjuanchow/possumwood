@@ -10,5 +10,6 @@ var namespacepossumwood =
     [ "Metadata", "classpossumwood_1_1Metadata.html", "classpossumwood_1_1Metadata" ],
     [ "NodeData", "classpossumwood_1_1NodeData.html", "classpossumwood_1_1NodeData" ],
     [ "NodeImplementation", "structpossumwood_1_1NodeImplementation.html", "structpossumwood_1_1NodeImplementation" ],
+    [ "UndoStack", "classpossumwood_1_1UndoStack.html", "classpossumwood_1_1UndoStack" ],
     [ "UniqueId", "classpossumwood_1_1UniqueId.html", "classpossumwood_1_1UniqueId" ]
 ];

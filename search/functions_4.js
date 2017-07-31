@@ -14,7 +14,7 @@ var searchData=
   ['errored',['errored',['../classdependency__graph_1_1State.html#aeb80e81b8f6e7e9820ab80a1c3df6e0c',1,'dependency_graph::State']]],
   ['escape',['escape',['../classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html#ab3dff7fbf96b50ca14244ed9932bdc88',1,'dependency_graph::io::basic_json::json_pointer']]],
   ['exception',['exception',['../classdependency__graph_1_1io_1_1detail_1_1exception.html#ad716822dd8024ff785d58b03748f32ab',1,'dependency_graph::io::detail::exception']]],
-  ['execute',['execute',['../classUndoStack.html#afefbadec3f91fe829971f94e666d4913',1,'UndoStack']]],
+  ['execute',['execute',['../classpossumwood_1_1UndoStack.html#aeffb318f4fa38e00b1169925b2253192',1,'possumwood::UndoStack']]],
   ['expect',['expect',['../classdependency__graph_1_1io_1_1basic__json_1_1parser.html#a4cb74740da8fb4de8ee36e36aa4e1986',1,'dependency_graph::io::basic_json::parser']]],
   ['extensions',['extensions',['../classpossumwood_1_1Filename.html#aa3f841a26f491ed55e4678f633c6248b',1,'possumwood::Filename']]],
   ['extra_5fspace',['extra_space',['../classdependency__graph_1_1io_1_1basic__json_1_1serializer.html#a9482cdb41d4b4834580ae90065eb0cf3',1,'dependency_graph::io::basic_json::serializer']]]

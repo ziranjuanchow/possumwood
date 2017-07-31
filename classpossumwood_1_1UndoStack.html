@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.6"/>
-<title>possumwood: UndoStack::Action Class Reference</title>
+<title>possumwood: possumwood::UndoStack Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -86,7 +86,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   </div>
 </div>
 <script type="text/javascript">
-$(document).ready(function(){initNavTree('classUndoStack_1_1Action.html','');});
+$(document).ready(function(){initNavTree('classpossumwood_1_1UndoStack.html','');});
 </script>
 <div id="doc-content">
 <!-- window showing the filter options -->
@@ -105,91 +105,106 @@ $(document).ready(function(){initNavTree('classUndoStack_1_1Action.html','');});
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
-<a href="#friends">Friends</a> &#124;
-<a href="classUndoStack_1_1Action-members.html">List of all members</a>  </div>
+<a href="classpossumwood_1_1UndoStack-members.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">UndoStack::Action Class Reference</div>  </div>
+<div class="title">possumwood::UndoStack Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &lt;<a class="el" href="undo__stack_8h_source.html">undo_stack.h</a>&gt;</code></p>
+<div class="dynheader">
+Inheritance diagram for possumwood::UndoStack:</div>
+<div class="dyncontent">
+<div class="center"><img src="classpossumwood_1_1UndoStack__inherit__graph.png" border="0" usemap="#possumwood_1_1UndoStack_inherit__map" alt="Inheritance graph"/></div>
+<map name="possumwood_1_1UndoStack_inherit__map" id="possumwood_1_1UndoStack_inherit__map">
+</map>
+<center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
+<div class="dynheader">
+Collaboration diagram for possumwood::UndoStack:</div>
+<div class="dyncontent">
+<div class="center"><img src="classpossumwood_1_1UndoStack__coll__graph.png" border="0" usemap="#possumwood_1_1UndoStack_coll__map" alt="Collaboration graph"/></div>
+<map name="possumwood_1_1UndoStack_coll__map" id="possumwood_1_1UndoStack_coll__map">
+</map>
+<center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">Action</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a5a22d0cf76d9decf7d2c590632a95b1c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUndoStack_1_1Action.html#a5a22d0cf76d9decf7d2c590632a95b1c">addCommand</a> (const std::function&lt; void()&gt; &amp;<a class="el" href="classUndoStack.html#a3958e108a2522ea52420571791625d31">redo</a>, const std::function&lt; void()&gt; &amp;<a class="el" href="classUndoStack.html#a0e900b22a0ccde7b9abd585b1a50b1b6">undo</a>)</td></tr>
-<tr class="separator:a5a22d0cf76d9decf7d2c590632a95b1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeffb318f4fa38e00b1169925b2253192"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#aeffb318f4fa38e00b1169925b2253192">execute</a> (const <a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">Action</a> &amp;action)</td></tr>
+<tr class="separator:aeffb318f4fa38e00b1169925b2253192"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4f12d93b8a6280136d62b1538a3cc12"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#ae4f12d93b8a6280136d62b1538a3cc12">undo</a> ()</td></tr>
+<tr class="separator:ae4f12d93b8a6280136d62b1538a3cc12"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a443c8d84ecfc87b81cc4b4e7a952fffd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#a443c8d84ecfc87b81cc4b4e7a952fffd">redo</a> ()</td></tr>
+<tr class="separator:a443c8d84ecfc87b81cc4b4e7a952fffd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:ab02143cbe1c2702cbbb07f68d29c6b79"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::function<br class="typebreak"/>
-&lt; void()&gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUndoStack_1_1Action.html#ab02143cbe1c2702cbbb07f68d29c6b79">m_redo</a></td></tr>
-<tr class="separator:ab02143cbe1c2702cbbb07f68d29c6b79"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8b0b780c54ac46ac5346e93a1b06c507"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::function<br class="typebreak"/>
-&lt; void()&gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUndoStack_1_1Action.html#a8b0b780c54ac46ac5346e93a1b06c507">m_undo</a></td></tr>
-<tr class="separator:a8b0b780c54ac46ac5346e93a1b06c507"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="friends"></a>
-Friends</h2></td></tr>
-<tr class="memitem:aa511a43d61693c080c90e829de561834"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUndoStack_1_1Action.html#aa511a43d61693c080c90e829de561834">UndoStack</a></td></tr>
-<tr class="memdesc:aa511a43d61693c080c90e829de561834"><td class="mdescLeft">&#160;</td><td class="mdescRight">the actual implementation is handled in <a class="el" href="classUndoStack.html">UndoStack</a> code.  <a href="#aa511a43d61693c080c90e829de561834">More...</a><br/></td></tr>
-<tr class="separator:aa511a43d61693c080c90e829de561834"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad239436d7efff7a0398fe7126377c4a3"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">Action</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#ad239436d7efff7a0398fe7126377c4a3">m_undoStack</a></td></tr>
+<tr class="separator:ad239436d7efff7a0398fe7126377c4a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6e29a106e89dde75bfd308ff9431d65"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">Action</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#ae6e29a106e89dde75bfd308ff9431d65">m_redoStack</a></td></tr>
+<tr class="separator:ae6e29a106e89dde75bfd308ff9431d65"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p><a class="el" href="classUndoStack_1_1Action.html">Action</a> implementation - stores a stack of "things to be done". These are not executed on construction, but only after pushing onto a stack. Each action is atomic - if an exception is thrown while executing an action, all commands of a failed action are rolled back. </p>
+<div class="textblock"><p>A simple implementation of undo stack based on Command design pattern. Each command uses a vector of std::functors to store the actual code to be executed on each undo and redo. </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
-<a class="anchor" id="a5a22d0cf76d9decf7d2c590632a95b1c"></a>
+<a class="anchor" id="aeffb318f4fa38e00b1169925b2253192"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void UndoStack::Action::addCommand </td>
+          <td class="memname">void possumwood::UndoStack::execute </td>
           <td>(</td>
-          <td class="paramtype">const std::function&lt; void()&gt; &amp;&#160;</td>
-          <td class="paramname"><em>redo</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype">const <a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">Action</a> &amp;&#160;</td>
+          <td class="paramname"><em>action</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">const std::function&lt; void()&gt; &amp;&#160;</td>
-          <td class="paramname"><em>undo</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Executes an action and puts it to the undo stack to make it undoable. Any potential exceptions thrown from an action are handled (assuming they are based on std::exception) - an error during a command will assume that command has not been finished (and any remaining state is rolled back), and all previously finished commands of an action needs rolling back. Exception is then forwared to the caller. </p>
 
 </div>
 </div>
-<h2 class="groupheader">Friends And Related Function Documentation</h2>
-<a class="anchor" id="aa511a43d61693c080c90e829de561834"></a>
+<a class="anchor" id="a443c8d84ecfc87b81cc4b4e7a952fffd"></a>
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">friend class <a class="el" href="classUndoStack.html">UndoStack</a></td>
+          <td class="memname">void possumwood::UndoStack::redo </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
+<p>Redoes last undone action. The redo queue gets cleared when a new action is inserted onto the stack. </p>
 
-<p>the actual implementation is handled in <a class="el" href="classUndoStack.html">UndoStack</a> code. </p>
+</div>
+</div>
+<a class="anchor" id="ae4f12d93b8a6280136d62b1538a3cc12"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void possumwood::UndoStack::undo </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Undoes last succesfully executed action. Cannot throw - action worked last time, so it should work this time as well. </p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a class="anchor" id="ab02143cbe1c2702cbbb07f68d29c6b79"></a>
+<a class="anchor" id="ae6e29a106e89dde75bfd308ff9431d65"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -197,7 +212,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;std::function&lt;void()&gt; &gt; UndoStack::Action::m_redo</td>
+          <td class="memname">std::vector&lt;<a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">Action</a>&gt; possumwood::UndoStack::m_redoStack</td>
         </tr>
       </table>
   </td>
@@ -209,7 +224,7 @@ Friends</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a8b0b780c54ac46ac5346e93a1b06c507"></a>
+<a class="anchor" id="ad239436d7efff7a0398fe7126377c4a3"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -217,7 +232,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;std::function&lt;void()&gt; &gt; UndoStack::Action::m_undo</td>
+          <td class="memname">std::vector&lt;<a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">Action</a>&gt; possumwood::UndoStack::m_undoStack</td>
         </tr>
       </table>
   </td>
@@ -230,16 +245,16 @@ Friends</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li>src/apps/possumwood/<a class="el" href="undo__stack_8h_source.html">undo_stack.h</a></li>
-<li>src/apps/possumwood/<a class="el" href="apps_2possumwood_2undo__stack_8cpp.html">undo_stack.cpp</a></li>
+<li>src/libs/possumwood_sdk/<a class="el" href="undo__stack_8h_source.html">undo_stack.h</a></li>
+<li>src/libs/possumwood_sdk/<a class="el" href="libs_2possumwood__sdk_2undo__stack_8cpp.html">undo_stack.cpp</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="classUndoStack.html">UndoStack</a></li><li class="navelem"><a class="el" href="classUndoStack_1_1Action.html">Action</a></li>
-    <li class="footer">Generated on Sun Jul 30 2017 15:57:32 for possumwood by
+    <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1UndoStack.html">UndoStack</a></li>
+    <li class="footer">Generated on Mon Jul 31 2017 23:15:29 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

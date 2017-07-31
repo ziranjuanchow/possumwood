@@ -15,11 +15,13 @@ var classpossumwood_1_1App =
     [ "setMainWindow", "classpossumwood_1_1App.html#a5579c16d1920f67e06aeff0f7e2b4ee1", null ],
     [ "setTime", "classpossumwood_1_1App.html#a5cc801ff7d0e1965c38f39c151837757", null ],
     [ "time", "classpossumwood_1_1App.html#a7ff751aaea895362cdf71e4bd3053d08", null ],
+    [ "undoStack", "classpossumwood_1_1App.html#a2638f08e664b03843488c4ffbba9d37f", null ],
     [ "m_filename", "classpossumwood_1_1App.html#adb667fe02f48e04101d68b4e099e4004", null ],
     [ "m_graph", "classpossumwood_1_1App.html#a04d55c0860ad7b9e1fe28aadf8bffd29", null ],
     [ "m_mainWindow", "classpossumwood_1_1App.html#adeab1ca1c4fda820747fa57de2bf817c", null ],
     [ "m_sceneConfig", "classpossumwood_1_1App.html#a21fd395d55f95245b56fd7fbb5eba724", null ],
     [ "m_time", "classpossumwood_1_1App.html#a9f126bd4d26e7a7de1ea5851ce6783f5", null ],
     [ "m_timeChanged", "classpossumwood_1_1App.html#a16f2495425151b593efaa4cba1c61776", null ],
+    [ "m_undoStack", "classpossumwood_1_1App.html#a8384a5e6009faa29cdcebc047f7cc777", null ],
     [ "s_instance", "classpossumwood_1_1App.html#a8935dbab9029ceab80ed9d30e479ef95", null ]
 ];

@@ -20,12 +20,14 @@ var classAdaptor =
     [ "onRemoveNode", "classAdaptor.html#a25568398c9dd7c134f46e69b087646c3", null ],
     [ "onStateChanged", "classAdaptor.html#a82e6a5cf093589c6111cd40d19094b28", null ],
     [ "pasteAction", "classAdaptor.html#a1a3b6326ab50f11f47c960d0397cdf24", null ],
+    [ "redoAction", "classAdaptor.html#aaff9fd7fca0dada468fa4d3d294ce07c", null ],
     [ "scene", "classAdaptor.html#a4ce9258242d31384434f99f521232890", null ],
     [ "scene", "classAdaptor.html#ae5f8497a71eb660da9f8ba2f2e49a5ce", null ],
     [ "selection", "classAdaptor.html#a32984af0bf6de1d1cd88ed3e48539ada", null ],
     [ "setSelection", "classAdaptor.html#aeff6ee7ead8643ce81f39b5d325da38b", null ],
     [ "setSizeHint", "classAdaptor.html#a499166fcd03deb96b1669940f611c508", null ],
     [ "sizeHint", "classAdaptor.html#a228e4e5c06cb9394d2bc24643c6dc024", null ],
+    [ "undoAction", "classAdaptor.html#a8f80c5b669e6bded760d55329c97c642", null ],
     [ "m_copy", "classAdaptor.html#aca23153024e9284c9fc997868a84c368", null ],
     [ "m_cut", "classAdaptor.html#a558d5c745bf0249971395bad451ac658", null ],
     [ "m_delete", "classAdaptor.html#a0984fe16eb1144786aa967669e847421", null ],
@@ -33,6 +35,8 @@ var classAdaptor =
     [ "m_graphWidget", "classAdaptor.html#a3d49eb0c09cf397910f1107555c9b0d5", null ],
     [ "m_index", "classAdaptor.html#ab316adf2ef36b27c21ccdcaa53bba576", null ],
     [ "m_paste", "classAdaptor.html#a6a9f85bb66ef335d77a14177e726c55f", null ],
+    [ "m_redo", "classAdaptor.html#a07bfb7b023739a5dcabbdee40b8d139e", null ],
     [ "m_signals", "classAdaptor.html#a270bf919ae7e1802e728a1e848f753c6", null ],
-    [ "m_sizeHint", "classAdaptor.html#af8e1da5ab1c249646a4c82c53196e94b", null ]
+    [ "m_sizeHint", "classAdaptor.html#af8e1da5ab1c249646a4c82c53196e94b", null ],
+    [ "m_undo", "classAdaptor.html#a29b4100aa9136d9ab6fbe797649ae1c4", null ]
 ];
