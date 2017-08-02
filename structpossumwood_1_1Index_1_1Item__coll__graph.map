@@ -1,4 +1,4 @@
-<map id="Index::Item" name="Index::Item">
+<map id="possumwood::Index::Item" name="possumwood::Index::Item">
 <area shape="rect" id="node3" href="$classdependency__graph_1_1Node.html" title="dependency_graph::Node" alt="" coords="789,145,960,172"/>
 <area shape="rect" id="node5" href="$classdependency__graph_1_1Metadata.html" title="dependency_graph::Metadata" alt="" coords="153,145,346,172"/>
 <area shape="rect" id="node6" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="162,348,337,375"/>

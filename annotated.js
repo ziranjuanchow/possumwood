@@ -14,7 +14,6 @@ var annotated =
     [ "enum_ui", "classenum__ui.html", "classenum__ui" ],
     [ "filename_ui", "classfilename__ui.html", "classfilename__ui" ],
     [ "float_ui", "classfloat__ui.html", "classfloat__ui" ],
-    [ "Index", "classIndex.html", "classIndex" ],
     [ "Log", "classLog.html", "classLog" ],
     [ "MainWindow", "classMainWindow.html", "classMainWindow" ],
     [ "mesh_ui", "classmesh__ui.html", "classmesh__ui" ],

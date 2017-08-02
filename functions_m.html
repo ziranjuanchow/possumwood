@@ -224,7 +224,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 : <a class="el" href="classanim_1_1Attribute.html#ae2fedd4efa168e9d62614ba0e379dd41">anim::Attribute</a>
 , <a class="el" href="classdependency__graph_1_1Datablock.html#a4025ef4a94fea3b48092ecf7c35026c9">dependency_graph::Datablock</a>
 , <a class="el" href="classdependency__graph_1_1Node.html#a42384c246c81ca47c649538d5be555c2">dependency_graph::Node</a>
-, <a class="el" href="classIndex.html#a21626d5ad622df6327d2b08bd2267643">Index</a>
+, <a class="el" href="classpossumwood_1_1Index.html#ab0273e83ca38d9b471a858364a5b1bc3">possumwood::Index</a>
 </li>
 <li>m_defaultValue
 : <a class="el" href="classdependency__graph_1_1TypedAttr.html#af9cec68720fbd88a22c0904bb43eb9a1">dependency_graph::TypedAttr&lt; T &gt;</a>
@@ -260,6 +260,9 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 </li>
 <li>m_errored
 : <a class="el" href="classdependency__graph_1_1State.html#accaaebb89eb04b45c0cd28b5c57a12df">dependency_graph::State</a>
+</li>
+<li>m_executionInProgress
+: <a class="el" href="classpossumwood_1_1UndoStack.html#a2fa500bf81926888f106d0211b924fde">possumwood::UndoStack</a>
 </li>
 <li>m_extensions
 : <a class="el" href="classpossumwood_1_1Filename.html#a024570e8b3b85a8e6388b427f44f1a7b">possumwood::Filename</a>
@@ -312,7 +315,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 : <a class="el" href="classnode__editor_1_1Port.html#a639707fae53d8b12355cf3f3e33e2506">node_editor::Port</a>
 </li>
 <li>m_index
-: <a class="el" href="classAdaptor.html#ab316adf2ef36b27c21ccdcaa53bba576">Adaptor</a>
+: <a class="el" href="classpossumwood_1_1App.html#ac98f0b8e22c0d58a8a70a4e1c55303a3">possumwood::App</a>
 </li>
 <li>m_influences
 : <a class="el" href="classdependency__graph_1_1Metadata.html#abb9acf32a290218c6965eb50f2f2ab2d">dependency_graph::Metadata</a>
@@ -343,6 +346,9 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 </li>
 <li>m_labelDistance
 : <a class="el" href="classTimeline.html#a9cd227dbac063101a2257224efad050b">Timeline</a>
+</li>
+<li>m_leftMouseDown
+: <a class="el" href="classnode__editor_1_1GraphScene.html#af0d4d4f4a5aac1fceee20f76f07b46c3">node_editor::GraphScene</a>
 </li>
 <li>m_lexer
 : <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1parser.html#a7e90a027587ee7cf62e8916ad58fbdfc">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::parser</a>
@@ -378,6 +384,9 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 : <a class="el" href="classnode__editor_1_1GraphWidget.html#a3e6de970490300dbb7fc314da714d76d">node_editor::GraphWidget</a>
 , <a class="el" href="classViewport.html#ac8f47c094b3f64743f44033ce83acb5a">Viewport</a>
 </li>
+<li>m_movingNodes
+: <a class="el" href="classnode__editor_1_1GraphScene.html#a853833818eb1fabfbd80e34690abb18f">node_editor::GraphScene</a>
+</li>
 <li>m_name
 : <a class="el" href="classdependency__graph_1_1Attr.html#a1055c5277f685d1381271ebd457a805c">dependency_graph::Attr</a>
 , <a class="el" href="classdependency__graph_1_1Node.html#abb48ea43b464f228b3b46e7fa0511bbf">dependency_graph::Node</a>
@@ -391,9 +400,6 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <li>m_nodeInfoCallback
 : <a class="el" href="classnode__editor_1_1GraphScene.html#a6b1579ec3ce48f388d753eac2101b7d1">node_editor::GraphScene</a>
 </li>
-<li>m_nodeMoveCallback
-: <a class="el" href="classnode__editor_1_1GraphScene.html#a614b5cc3f9452a81e31df3246fdf00d4">node_editor::GraphScene</a>
-</li>
 <li>m_nodes
 : <a class="el" href="classdependency__graph_1_1Graph.html#a8151c07eea2008273565fe8f9c4a5196">dependency_graph::Graph</a>
 , <a class="el" href="classdependency__graph_1_1Graph_1_1Nodes.html#aa073836013cc68abf8e17dfa444e091c">dependency_graph::Graph::Nodes</a>
@@ -401,8 +407,8 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 , <a class="el" href="classnode__editor_1_1GraphScene.html#a3f0566b29b5c34b3b7af7620da4659f2">node_editor::GraphScene</a>
 , <a class="el" href="classProperties.html#af123916fe37ad93978a0c65091f18945">Properties</a>
 </li>
-<li>m_nodeSelectionCallback
-: <a class="el" href="classnode__editor_1_1GraphScene.html#a78cb327fc9729542e6be8e7bb518f0ef">node_editor::GraphScene</a>
+<li>m_nodesMoveCallback
+: <a class="el" href="classnode__editor_1_1GraphScene.html#a3322ade18843b571920e8532a46bf05e">node_editor::GraphScene</a>
 </li>
 <li>m_object
 : <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1iter__impl.html#aaefc47c3dd4cf154f004824f569505c1">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;</a>
@@ -517,6 +523,9 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <li>m_sceneRotationY
 : <a class="el" href="classViewport.html#a766355c776ea66918d54c9467ceddca8">Viewport</a>
 </li>
+<li>m_selectionCallback
+: <a class="el" href="classnode__editor_1_1GraphScene.html#afbf1b4546d80a3212faf67fcb33b997d">node_editor::GraphScene</a>
+</li>
 <li>m_signals
 : <a class="el" href="classAdaptor.html#a270bf919ae7e1802e728a1e848f753c6">Adaptor</a>
 </li>
@@ -568,7 +577,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 , <a class="el" href="classdependency__graph_1_1Metadata.html#a73e48ae4cada097728171a4a477b86ae">dependency_graph::Metadata</a>
 </li>
 <li>m_uiIndex
-: <a class="el" href="classIndex.html#a01a42f47be38c366373b10e5bbda5280">Index</a>
+: <a class="el" href="classpossumwood_1_1Index.html#ada5d7191a98d1f76bc34963873125f3c">possumwood::Index</a>
 </li>
 <li>m_undo
 : <a class="el" href="classAdaptor.html#a29b4100aa9136d9ab6fbe797649ae1c4">Adaptor</a>
@@ -642,9 +651,6 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <li>max_size()
 : <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#ab0baed27f142686e2e9a1a67cfd9951c">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
 </li>
-<li>merge()
-: <a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html#a790223dc6ad80104815dba17f55b6e60">possumwood::UndoStack::Action</a>
-</li>
 <li>mesh_ui()
 : <a class="el" href="classmesh__ui.html#ada72212466c5e474d3ffb09a9caf2008">mesh_ui</a>
 </li>
@@ -683,7 +689,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 : <a class="el" href="classnode__editor_1_1GraphScene.html#a49f13fff803b8c269e9c73f341ed8505">node_editor::GraphScene</a>
 </li>
 <li>move()
-: <a class="el" href="structActions.html#af489703a8e8b79be59dc80e349ebd3e6">Actions</a>
+: <a class="el" href="structActions.html#a90fa04847225c5a725f0d9ea4dba77f1">Actions</a>
 </li>
 </ul>
 </div><!-- contents -->
@@ -691,7 +697,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Jul 31 2017 23:15:30 for possumwood by
+    <li class="footer">Generated on Wed Aug 2 2017 23:44:28 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

@@ -1,4 +1,4 @@
-<map id="src/apps/possumwood/index.h" name="src/apps/possumwood/index.h">
+<map id="src/libs/possumwood_sdk/index.h" name="src/libs/possumwood_sdk/index.h">
 <area shape="rect" id="node3" href="$unique__id_8h.html" title="possumwood_sdk/unique_id.h" alt="" coords="1543,187,1740,213"/>
 <area shape="rect" id="node5" href="$drawable_8h.html" title="possumwood_sdk/drawable.h" alt="" coords="1135,104,1329,131"/>
 <area shape="rect" id="node7" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1020,261,1081,288"/>

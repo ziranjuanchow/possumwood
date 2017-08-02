@@ -137,6 +137,8 @@ Classes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
+<tr class="memitem:a93498adfabd1a7cd9fc1af4a4bdf6848"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#a93498adfabd1a7cd9fc1af4a4bdf6848">UndoStack</a> ()</td></tr>
+<tr class="separator:a93498adfabd1a7cd9fc1af4a4bdf6848"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeffb318f4fa38e00b1169925b2253192"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#aeffb318f4fa38e00b1169925b2253192">execute</a> (const <a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">Action</a> &amp;action)</td></tr>
 <tr class="separator:aeffb318f4fa38e00b1169925b2253192"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae4f12d93b8a6280136d62b1538a3cc12"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#ae4f12d93b8a6280136d62b1538a3cc12">undo</a> ()</td></tr>
@@ -150,10 +152,28 @@ Private Attributes</h2></td></tr>
 <tr class="separator:ad239436d7efff7a0398fe7126377c4a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae6e29a106e89dde75bfd308ff9431d65"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">Action</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#ae6e29a106e89dde75bfd308ff9431d65">m_redoStack</a></td></tr>
 <tr class="separator:ae6e29a106e89dde75bfd308ff9431d65"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2fa500bf81926888f106d0211b924fde"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#a2fa500bf81926888f106d0211b924fde">m_executionInProgress</a></td></tr>
+<tr class="separator:a2fa500bf81926888f106d0211b924fde"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>A simple implementation of undo stack based on Command design pattern. Each command uses a vector of std::functors to store the actual code to be executed on each undo and redo. </p>
-</div><h2 class="groupheader">Member Function Documentation</h2>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a class="anchor" id="a93498adfabd1a7cd9fc1af4a4bdf6848"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">possumwood::UndoStack::UndoStack </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
 <a class="anchor" id="aeffb318f4fa38e00b1169925b2253192"></a>
 <div class="memitem">
 <div class="memproto">
@@ -204,6 +224,26 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
+<a class="anchor" id="a2fa500bf81926888f106d0211b924fde"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool possumwood::UndoStack::m_executionInProgress</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="ae6e29a106e89dde75bfd308ff9431d65"></a>
 <div class="memitem">
 <div class="memproto">
@@ -254,7 +294,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1UndoStack.html">UndoStack</a></li>
-    <li class="footer">Generated on Mon Jul 31 2017 23:15:29 for possumwood by
+    <li class="footer">Generated on Wed Aug 2 2017 23:44:28 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

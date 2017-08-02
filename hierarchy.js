@@ -59,7 +59,7 @@ var hierarchy =
     [ "dependency_graph::io::detail::has_to_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__to__json.html", null ],
     [ "std::hash<::dependency_graph::io::json >", "structstd_1_1hash_3_1_1dependency__graph_1_1io_1_1json_01_4.html", null ],
     [ "anim::Hierarchy", "classanim_1_1Hierarchy.html", null ],
-    [ "Index", "classIndex.html", null ],
+    [ "possumwood::Index", "classpossumwood_1_1Index.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::input_adapter", "classdependency__graph_1_1io_1_1basic__json_1_1input__adapter.html", [
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::cached_input_stream_adapter", "classdependency__graph_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html", null ],
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::input_buffer_adapter", "classdependency__graph_1_1io_1_1basic__json_1_1input__buffer__adapter.html", null ]
@@ -107,13 +107,13 @@ var hierarchy =
       [ "dependency_graph::Node", "classdependency__graph_1_1Node.html", null ],
       [ "dependency_graph::Port", "classdependency__graph_1_1Port.html", null ],
       [ "dependency_graph::Values", "classdependency__graph_1_1Values.html", null ],
-      [ "Index::Item", "structIndex_1_1Item.html", null ],
       [ "OMLog", "classOMLog.html", null ],
       [ "possumwood::App", "classpossumwood_1_1App.html", null ],
       [ "possumwood::Config", "classpossumwood_1_1Config.html", null ],
       [ "possumwood::Drawable", "classpossumwood_1_1Drawable.html", [
         [ "possumwood::DrawableFunctor", "classpossumwood_1_1DrawableFunctor.html", null ]
       ] ],
+      [ "possumwood::Index::Item", "structpossumwood_1_1Index_1_1Item.html", null ],
       [ "possumwood::NodeImplementation", "structpossumwood_1_1NodeImplementation.html", null ],
       [ "possumwood::properties::factories", "classpossumwood_1_1properties_1_1factories.html", null ],
       [ "possumwood::properties::factory", "classpossumwood_1_1properties_1_1factory.html", [
@@ -201,8 +201,8 @@ var hierarchy =
     [ "reverse_iterator", null, [
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_reverse_iterator< Base >", "classdependency__graph_1_1io_1_1basic__json_1_1json__reverse__iterator.html", null ]
     ] ],
-    [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
     [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
+    [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classdependency__graph_1_1io_1_1basic__json_1_1serializer.html", null ],
     [ "anim::Skeleton", "classanim_1_1Skeleton.html", null ],
     [ "SkeletonTest", "structSkeletonTest.html", null ],

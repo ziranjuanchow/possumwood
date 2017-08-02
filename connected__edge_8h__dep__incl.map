@@ -2,9 +2,10 @@
 <area shape="rect" id="node2" href="$apps_2node__editor__sandbox_2main_8cpp.html" title="src/apps/node_editor\l_sandbox/main.cpp" alt="" coords="5,97,147,138"/>
 <area shape="rect" id="node3" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="171,97,324,138"/>
 <area shape="rect" id="node4" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="349,97,501,138"/>
-<area shape="rect" id="node5" href="$connected__edge_8cpp.html" title="src/libs/qt_node_editor\l/connected_edge.cpp" alt="" coords="526,97,679,138"/>
-<area shape="rect" id="node6" href="$graph__scene_8cpp.html" title="src/libs/qt_node_editor\l/graph_scene.cpp" alt="" coords="703,97,856,138"/>
-<area shape="rect" id="node7" href="$graph__widget_8cpp.html" title="src/libs/qt_node_editor\l/graph_widget.cpp" alt="" coords="881,97,1033,138"/>
-<area shape="rect" id="node8" href="$qt__node__editor_2node_8cpp.html" title="src/libs/qt_node_editor\l/node.cpp" alt="" coords="1058,97,1211,138"/>
-<area shape="rect" id="node9" href="$qt__node__editor_2port_8cpp.html" title="src/libs/qt_node_editor\l/port.cpp" alt="" coords="1235,97,1388,138"/>
+<area shape="rect" id="node5" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="526,97,679,138"/>
+<area shape="rect" id="node6" href="$connected__edge_8cpp.html" title="src/libs/qt_node_editor\l/connected_edge.cpp" alt="" coords="703,97,856,138"/>
+<area shape="rect" id="node7" href="$graph__scene_8cpp.html" title="src/libs/qt_node_editor\l/graph_scene.cpp" alt="" coords="881,97,1033,138"/>
+<area shape="rect" id="node8" href="$graph__widget_8cpp.html" title="src/libs/qt_node_editor\l/graph_widget.cpp" alt="" coords="1058,97,1211,138"/>
+<area shape="rect" id="node9" href="$qt__node__editor_2node_8cpp.html" title="src/libs/qt_node_editor\l/node.cpp" alt="" coords="1235,97,1388,138"/>
+<area shape="rect" id="node10" href="$qt__node__editor_2port_8cpp.html" title="src/libs/qt_node_editor\l/port.cpp" alt="" coords="1413,97,1565,138"/>
 </map>
