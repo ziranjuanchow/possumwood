@@ -7,6 +7,7 @@ var NAVTREE =
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
         [ "Functions", "namespacemembers_func.html", null ],
+        [ "Variables", "namespacemembers_vars.html", null ],
         [ "Typedefs", "namespacemembers_type.html", null ],
         [ "Enumerations", "namespacemembers_enum.html", null ],
         [ "Enumerator", "namespacemembers_eval.html", null ]
@@ -42,14 +43,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "actions_8cpp.html",
-"classanim_1_1Hierarchy_1_1Item.html#ad81c882d96f8583321b2e6e25514db8c",
-"classdependency__graph_1_1Node.html#ad60a298159483e80e472033e11257cdd",
-"classdependency__graph_1_1io_1_1basic__json.html#ad904ac86bf1203a3a73d6774a9b561f1",
-"classdependency__graph_1_1io_1_1basic__json_1_1parser.html#a4cb74740da8fb4de8ee36e36aa4e1986",
-"classpossumwood_1_1App.html#a79de45776da6485465bf4d1b22507199",
-"dec__hausdorff_8cpp.html",
-"json_8h.html#acba6255278862e5d5eb35bc24f283d79adce7cc8ec29055c4158828921f2f265e",
-"structdependency__graph_1_1io_1_1detail_1_1has__to__json.html#acfc852b4f9d6a8b3314408c6194e8f27"
+"classanim_1_1Hierarchy_1_1Item.html#abe9518ba4cc8c0290cc492904c013a66",
+"classdependency__graph_1_1Node.html#abedc12a6659413954ef260ea7f430fc4",
+"classdependency__graph_1_1io_1_1basic__json.html#ad6f684771f96403328bb90dfacfebe07",
+"classdependency__graph_1_1io_1_1basic__json_1_1parser.html#a1eef515edd58108bac8756369fe3cab7",
+"classpossumwood_1_1App.html#a654f75ca18687b310692afd7dfb1e5c9",
+"cube_8cpp.html",
+"json_8h.html#acba6255278862e5d5eb35bc24f283d79aa8cfde6331bd59eb2ac96f8911c4b666",
+"structdependency__graph_1_1io_1_1detail_1_1from__json__fn.html#a3362557b3b2b62d8810534511f73dee9"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

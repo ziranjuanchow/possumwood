@@ -30,6 +30,7 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
       [ "Nodes", "classdependency__graph_1_1Graph_1_1Nodes.html", "classdependency__graph_1_1Graph_1_1Nodes" ],
       [ "Connections", "classdependency__graph_1_1Graph_1_1Connections.html", "classdependency__graph_1_1Graph_1_1Connections" ]
     ] ],
+    [ "io.h", "libs_2dependency__graph_2io_8h.html", "libs_2dependency__graph_2io_8h" ],
     [ "metadata.cpp", "dependency__graph_2metadata_8cpp.html", null ],
     [ "metadata.h", "dependency__graph_2metadata_8h.html", [
       [ "InAttr", "classdependency__graph_1_1InAttr.html", "classdependency__graph_1_1InAttr" ],
@@ -37,7 +38,7 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
       [ "Metadata", "classdependency__graph_1_1Metadata.html", "classdependency__graph_1_1Metadata" ],
       [ "Comparator", "structdependency__graph_1_1Metadata_1_1Comparator.html", "structdependency__graph_1_1Metadata_1_1Comparator" ]
     ] ],
-    [ "metadata.inl", "metadata_8inl.html", null ],
+    [ "metadata.inl", "dependency__graph_2metadata_8inl.html", null ],
     [ "node.cpp", "dependency__graph_2node_8cpp.html", null ],
     [ "node.h", "dependency__graph_2node_8h.html", [
       [ "Node", "classdependency__graph_1_1Node.html", "classdependency__graph_1_1Node" ]

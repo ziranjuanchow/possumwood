@@ -1,19 +1,17 @@
 <map id="src/plugins/anim/lexical_cast.h" name="src/plugins/anim/lexical_cast.h">
-<area shape="rect" id="node2" href="$attribute_8h.html" title="src/plugins/anim/datatypes\l/attribute.h" alt="" coords="383,97,561,138"/>
-<area shape="rect" id="node17" href="$tokenizer_8h.html" title="src/plugins/anim/tokenizer.h" alt="" coords="586,104,771,131"/>
-<area shape="rect" id="node3" href="$attributes_8h.html" title="src/plugins/anim/datatypes\l/attributes.h" alt="" coords="189,187,368,229"/>
-<area shape="rect" id="node16" href="$attribute_8cpp.html" title="src/plugins/anim/datatypes\l/attribute.cpp" alt="" coords="392,187,571,229"/>
-<area shape="rect" id="node4" href="$hierarchy_8h.html" title="src/plugins/anim/datatypes\l/hierarchy.h" alt="" coords="208,278,387,319"/>
-<area shape="rect" id="node15" href="$attributes_8cpp.html" title="src/plugins/anim/datatypes\l/attributes.cpp" alt="" coords="5,278,184,319"/>
-<area shape="rect" id="node5" href="$skeleton_8h.html" title="src/plugins/anim/datatypes\l/skeleton.h" alt="" coords="245,369,424,410"/>
-<area shape="rect" id="node14" href="$hierarchy_8cpp.html" title="src/plugins/anim/datatypes\l/hierarchy.cpp" alt="" coords="43,369,221,410"/>
-<area shape="rect" id="node6" href="$datatypes_2animation_8h.html" title="src/plugins/anim/datatypes\l/animation.h" alt="" coords="245,459,424,501"/>
-<area shape="rect" id="node12" href="$plugins_2anim_2datatypes_2skeleton_8cpp.html" title="src/plugins/anim/datatypes\l/skeleton.cpp" alt="" coords="43,459,221,501"/>
-<area shape="rect" id="node13" href="$tests_2anim_2skeleton_8cpp.html" title="src/tests/anim/skeleton.cpp" alt="" coords="449,467,631,493"/>
-<area shape="rect" id="node7" href="$animation_8cpp.html" title="src/plugins/anim/datatypes\l/animation.cpp" alt="" coords="119,550,297,591"/>
-<area shape="rect" id="node8" href="$io_2animation_8h.html" title="src/plugins/anim/io\l/animation.h" alt="" coords="397,550,527,591"/>
-<area shape="rect" id="node9" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="578,641,733,682"/>
-<area shape="rect" id="node11" href="$plugins_2anim_2nodes_2transform_8cpp.html" title="src/plugins/anim/nodes\l/transform.cpp" alt="" coords="218,641,373,682"/>
-<area shape="rect" id="node10" href="$skeleton__display_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_display.cpp" alt="" coords="398,641,553,682"/>
-<area shape="rect" id="node18" href="$tokenizer_8cpp.html" title="src/plugins/anim/tokenizer.cpp" alt="" coords="706,195,904,221"/>
+<area shape="rect" id="node2" href="$attribute_8h.html" title="src/plugins/anim/datatypes\l/attribute.h" alt="" coords="471,97,649,138"/>
+<area shape="rect" id="node15" href="$tokenizer_8h.html" title="src/plugins/anim/tokenizer.h" alt="" coords="674,104,859,131"/>
+<area shape="rect" id="node3" href="$attributes_8h.html" title="src/plugins/anim/datatypes\l/attributes.h" alt="" coords="288,187,467,229"/>
+<area shape="rect" id="node14" href="$attribute_8cpp.html" title="src/plugins/anim/datatypes\l/attribute.cpp" alt="" coords="491,187,669,229"/>
+<area shape="rect" id="node4" href="$hierarchy_8h.html" title="src/plugins/anim/datatypes\l/hierarchy.h" alt="" coords="184,278,363,319"/>
+<area shape="rect" id="node13" href="$attributes_8cpp.html" title="src/plugins/anim/datatypes\l/attributes.cpp" alt="" coords="387,278,565,319"/>
+<area shape="rect" id="node5" href="$skeleton_8h.html" title="src/plugins/anim/datatypes\l/skeleton.h" alt="" coords="152,369,331,410"/>
+<area shape="rect" id="node12" href="$hierarchy_8cpp.html" title="src/plugins/anim/datatypes\l/hierarchy.cpp" alt="" coords="355,369,533,410"/>
+<area shape="rect" id="node6" href="$animation_8h.html" title="src/plugins/anim/datatypes\l/animation.h" alt="" coords="120,459,299,501"/>
+<area shape="rect" id="node8" href="$skeleton__display_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_display.cpp" alt="" coords="5,550,160,591"/>
+<area shape="rect" id="node10" href="$plugins_2anim_2datatypes_2skeleton_8cpp.html" title="src/plugins/anim/datatypes\l/skeleton.cpp" alt="" coords="323,459,501,501"/>
+<area shape="rect" id="node11" href="$tests_2anim_2skeleton_8cpp.html" title="src/tests/anim/skeleton.cpp" alt="" coords="526,467,708,493"/>
+<area shape="rect" id="node7" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="517,550,672,591"/>
+<area shape="rect" id="node9" href="$plugins_2anim_2nodes_2transform_8cpp.html" title="src/plugins/anim/nodes\l/transform.cpp" alt="" coords="185,550,340,591"/>
+<area shape="rect" id="node16" href="$tokenizer_8cpp.html" title="src/plugins/anim/tokenizer.cpp" alt="" coords="783,195,981,221"/>
 </map>

@@ -1,10 +1,8 @@
 <map id="src/plugins/anim/datatypes/skeleton.h" name="src/plugins/anim/datatypes/skeleton.h">
-<area shape="rect" id="node2" href="$datatypes_2animation_8h.html" title="src/plugins/anim/datatypes\l/animation.h" alt="" coords="183,97,361,138"/>
-<area shape="rect" id="node8" href="$plugins_2anim_2datatypes_2skeleton_8cpp.html" title="src/plugins/anim/datatypes\l/skeleton.cpp" alt="" coords="385,97,564,138"/>
-<area shape="rect" id="node9" href="$tests_2anim_2skeleton_8cpp.html" title="src/tests/anim/skeleton.cpp" alt="" coords="589,104,771,131"/>
-<area shape="rect" id="node3" href="$animation_8cpp.html" title="src/plugins/anim/datatypes\l/animation.cpp" alt="" coords="5,187,184,229"/>
-<area shape="rect" id="node4" href="$io_2animation_8h.html" title="src/plugins/anim/io\l/animation.h" alt="" coords="259,187,388,229"/>
-<area shape="rect" id="node5" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="66,278,221,319"/>
-<area shape="rect" id="node7" href="$plugins_2anim_2nodes_2transform_8cpp.html" title="src/plugins/anim/nodes\l/transform.cpp" alt="" coords="426,278,581,319"/>
-<area shape="rect" id="node6" href="$skeleton__display_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_display.cpp" alt="" coords="246,278,401,319"/>
+<area shape="rect" id="node2" href="$animation_8h.html" title="src/plugins/anim/datatypes\l/animation.h" alt="" coords="187,97,365,138"/>
+<area shape="rect" id="node4" href="$skeleton__display_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_display.cpp" alt="" coords="365,187,520,229"/>
+<area shape="rect" id="node6" href="$plugins_2anim_2datatypes_2skeleton_8cpp.html" title="src/plugins/anim/datatypes\l/skeleton.cpp" alt="" coords="467,97,645,138"/>
+<area shape="rect" id="node7" href="$tests_2anim_2skeleton_8cpp.html" title="src/tests/anim/skeleton.cpp" alt="" coords="670,104,852,131"/>
+<area shape="rect" id="node3" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="5,187,160,229"/>
+<area shape="rect" id="node5" href="$plugins_2anim_2nodes_2transform_8cpp.html" title="src/plugins/anim/nodes\l/transform.cpp" alt="" coords="185,187,340,229"/>
 </map>

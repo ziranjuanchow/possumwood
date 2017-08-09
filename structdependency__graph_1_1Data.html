@@ -140,10 +140,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a33982ca47fc2f5437a0ba3788a5156ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8759a1cf3752ceb59876acc48c9c8c2c"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1Data.html#a8759a1cf3752ceb59876acc48c9c8c2c">isEqual</a> (const <a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &amp;src) const </td></tr>
 <tr class="separator:a8759a1cf3752ceb59876acc48c9c8c2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ade0fb64840c484c093da5830b7ac6d4c"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1Data.html#ade0fb64840c484c093da5830b7ac6d4c">toJson</a> (<a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">io::json</a> &amp;j) const override</td></tr>
-<tr class="separator:ade0fb64840c484c093da5830b7ac6d4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae15727df6f027a962ac546ea687be562"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1Data.html#ae15727df6f027a962ac546ea687be562">fromJson</a> (const <a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">io::json</a> &amp;j) override</td></tr>
-<tr class="separator:ae15727df6f027a962ac546ea687be562"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4d946b5e2d9ccbee130c3b381f961b34"><td class="memItemLeft" align="right" valign="top">virtual std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1Data.html#a4d946b5e2d9ccbee130c3b381f961b34">type</a> () const override</td></tr>
 <tr class="separator:a4d946b5e2d9ccbee130c3b381f961b34"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a09138467119aa8660b9d7eb05e74b221"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1Data.html#a09138467119aa8660b9d7eb05e74b221">clone</a> () const override</td></tr>
@@ -272,34 +268,6 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
-<a class="anchor" id="ae15727df6f027a962ac546ea687be562"></a>
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="structdependency__graph_1_1Data.html">dependency_graph::Data</a>&lt; T &gt;::fromJson </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">io::json</a> &amp;&#160;</td>
-          <td class="paramname"><em>j</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Implements <a class="el" href="classdependency__graph_1_1BaseData.html#a1d784e873609c4c88458e5a743acc76a">dependency_graph::BaseData</a>.</p>
-
-</div>
-</div>
 <a class="anchor" id="a8759a1cf3752ceb59876acc48c9c8c2c"></a>
 <div class="memitem">
 <div class="memproto">
@@ -325,34 +293,6 @@ template&lt;typename T &gt; </div>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="classdependency__graph_1_1BaseData.html#aa7e5d66ae922534a090eb70aacd55bb1">dependency_graph::BaseData</a>.</p>
-
-</div>
-</div>
-<a class="anchor" id="ade0fb64840c484c093da5830b7ac6d4c"></a>
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="structdependency__graph_1_1Data.html">dependency_graph::Data</a>&lt; T &gt;::toJson </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">io::json</a> &amp;&#160;</td>
-          <td class="paramname"><em>j</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Implements <a class="el" href="classdependency__graph_1_1BaseData.html#a9ae7b8da15bd903f0240c2c166701acd">dependency_graph::BaseData</a>.</p>
 
 </div>
 </div>
@@ -388,7 +328,7 @@ template&lt;typename T &gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename T &gt; </div>
+template&lt;typename T&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
@@ -410,7 +350,7 @@ template&lt;typename T &gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename T &gt; </div>
+template&lt;typename T&gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">T <a class="el" href="structdependency__graph_1_1Data.html">dependency_graph::Data</a>&lt; T &gt;::value</td>
@@ -430,7 +370,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="structdependency__graph_1_1Data.html">Data</a></li>
-    <li class="footer">Generated on Thu Aug 3 2017 00:00:47 for possumwood by
+    <li class="footer">Generated on Wed Aug 9 2017 00:44:55 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

@@ -23,17 +23,29 @@ var dir_bbeb1387f6037c41dcaa5423e7174c79 =
       [ "Index", "classpossumwood_1_1Index.html", "classpossumwood_1_1Index" ],
       [ "Item", "structpossumwood_1_1Index_1_1Item.html", "structpossumwood_1_1Index_1_1Item" ]
     ] ],
-    [ "io.h", "io_8h.html", "io_8h" ],
+    [ "io.cpp", "libs_2possumwood__sdk_2io_8cpp.html", "libs_2possumwood__sdk_2io_8cpp" ],
+    [ "io.h", "libs_2possumwood__sdk_2io_8h.html", [
+      [ "IOBase", "classpossumwood_1_1IOBase.html", "classpossumwood_1_1IOBase" ],
+      [ "IO", "classpossumwood_1_1IO.html", "classpossumwood_1_1IO" ]
+    ] ],
     [ "metadata.cpp", "possumwood__sdk_2metadata_8cpp.html", null ],
     [ "metadata.h", "possumwood__sdk_2metadata_8h.html", [
       [ "Metadata", "classpossumwood_1_1Metadata.html", "classpossumwood_1_1Metadata" ]
     ] ],
+    [ "metadata.inl", "possumwood__sdk_2metadata_8inl.html", null ],
+    [ "node_data.cpp", "node__data_8cpp.html", null ],
     [ "node_data.h", "node__data_8h.html", [
-      [ "NodeData", "classpossumwood_1_1NodeData.html", "classpossumwood_1_1NodeData" ]
+      [ "NodeData", "classpossumwood_1_1NodeData.html", "classpossumwood_1_1NodeData" ],
+      [ "Traits< NodeData >", "structpossumwood_1_1Traits_3_01NodeData_01_4.html", "structpossumwood_1_1Traits_3_01NodeData_01_4" ]
     ] ],
     [ "node_implementation.cpp", "node__implementation_8cpp.html", null ],
     [ "node_implementation.h", "node__implementation_8h.html", [
       [ "NodeImplementation", "structpossumwood_1_1NodeImplementation.html", "structpossumwood_1_1NodeImplementation" ]
+    ] ],
+    [ "traits.cpp", "traits_8cpp.html", "traits_8cpp" ],
+    [ "traits.h", "traits_8h.html", [
+      [ "Traits", "structpossumwood_1_1Traits.html", null ],
+      [ "Traits< T, typename std::enable_if< std::is_arithmetic< T >::value >::type >", "structpossumwood_1_1Traits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__arithmetic_3_0d8c0595ba092f38fa03f72dcf55dd8c7.html", "structpossumwood_1_1Traits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__arithmetic_3_0d8c0595ba092f38fa03f72dcf55dd8c7" ]
     ] ],
     [ "undo_stack.cpp", "libs_2possumwood__sdk_2undo__stack_8cpp.html", null ],
     [ "undo_stack.h", "undo__stack_8h.html", [

@@ -2,7 +2,6 @@ var annotated =
 [
     [ "anim", "namespaceanim.html", "namespaceanim" ],
     [ "dependency_graph", "namespacedependency__graph.html", "namespacedependency__graph" ],
-    [ "Imath", "namespaceImath.html", null ],
     [ "node_editor", "namespacenode__editor.html", "namespacenode__editor" ],
     [ "possumwood", "namespacepossumwood.html", "namespacepossumwood" ],
     [ "std", "namespacestd.html", "namespacestd" ],

@@ -125,7 +125,7 @@ Inheritance diagram for dependency_graph::Metadata:</div>
 <div class="dyncontent">
 <div class="center"><img src="classdependency__graph_1_1Metadata__inherit__graph.png" border="0" usemap="#dependency__graph_1_1Metadata_inherit__map" alt="Inheritance graph"/></div>
 <map name="dependency__graph_1_1Metadata_inherit__map" id="dependency__graph_1_1Metadata_inherit__map">
-<area shape="rect" id="node3" href="classpossumwood_1_1Metadata.html" title="possumwood::Metadata" alt="" coords="21,155,181,181"/></map>
+</map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
 Collaboration diagram for dependency_graph::Metadata:</div>
@@ -193,6 +193,12 @@ Public Member Functions</h2></td></tr>
 &lt; std::reference_wrapper<br class="typebreak"/>
 &lt; const <a class="el" href="classdependency__graph_1_1Attr.html">Attr</a> &gt; &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#ac7bc49b64f879791f9b3d14593f7062b">influencedBy</a> (const <a class="el" href="classdependency__graph_1_1OutAttr.html">OutAttr</a>&lt; T &gt; &amp;out) const </td></tr>
 <tr class="separator:ac7bc49b64f879791f9b3d14593f7062b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a401693fbc43570b93759c8dd6cfba916"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a401693fbc43570b93759c8dd6cfba916"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a401693fbc43570b93759c8dd6cfba916">setBlindData</a> (const T &amp;value)</td></tr>
+<tr class="separator:a401693fbc43570b93759c8dd6cfba916"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8b0d05d1f977fcbe338deeaaf40eb8b4"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a8b0d05d1f977fcbe338deeaaf40eb8b4"><td class="memTemplItemLeft" align="right" valign="top">const T &amp;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a8b0d05d1f977fcbe338deeaaf40eb8b4">blindData</a> () const </td></tr>
+<tr class="separator:a8b0d05d1f977fcbe338deeaaf40eb8b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
@@ -229,6 +235,8 @@ Private Attributes</h2></td></tr>
 , boost::bimaps::multiset_of<br class="typebreak"/>
 &lt; unsigned &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#abb9acf32a290218c6965eb50f2f2ab2d">m_influences</a></td></tr>
 <tr class="separator:abb9acf32a290218c6965eb50f2f2ab2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a78916c491f6f8da0ceb20e2787c2db95"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a78916c491f6f8da0ceb20e2787c2db95">m_blindData</a></td></tr>
+<tr class="separator:a78916c491f6f8da0ceb20e2787c2db95"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-attribs"></a>
 Static Private Attributes</h2></td></tr>
@@ -293,8 +301,6 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="classpossumwood_1_1Metadata.html#abc18753cc5a24f64122bce24bf6d7eb4">possumwood::Metadata</a>.</p>
 
 </div>
 </div>
@@ -449,6 +455,25 @@ template&lt;typename T , typename U &gt; </div>
 </div><div class="memdoc">
 
 <p>returns the number of attributes currently present </p>
+
+</div>
+</div>
+<a class="anchor" id="a8b0d05d1f977fcbe338deeaaf40eb8b4"></a>
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">const T &amp; dependency_graph::Metadata::blindData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>blind metadata's data, to be used by the client application to store visual information (e.g., attribute position, colour...)</p>
+<p>blind per-node data, to be used by the client application to store visual information (e.g., node position, colour...) </p>
 
 </div>
 </div>
@@ -613,6 +638,25 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
+<a class="anchor" id="a401693fbc43570b93759c8dd6cfba916"></a>
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void dependency_graph::Metadata::setBlindData </td>
+          <td>(</td>
+          <td class="paramtype">const T &amp;&#160;</td>
+          <td class="paramname"><em>value</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>blind metadata's data, to be used by the client application to store visual information (e.g., attribute position, colour...) </p>
+
+</div>
+</div>
 <a class="anchor" id="a5af3adc9489b67593c00a611219699d7"></a>
 <div class="memitem">
 <div class="memproto">
@@ -710,6 +754,26 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
+<a class="anchor" id="a78916c491f6f8da0ceb20e2787c2db95"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a>&gt; dependency_graph::Metadata::m_blindData</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a627a44e29ae5de7708bbd6643a1e7e0d"></a>
 <div class="memitem">
 <div class="memproto">
@@ -793,7 +857,7 @@ template&lt;typename T &gt; </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
 <li>src/libs/dependency_graph/<a class="el" href="dependency__graph_2metadata_8h_source.html">metadata.h</a></li>
 <li>src/libs/dependency_graph/<a class="el" href="dependency__graph_2metadata_8cpp.html">metadata.cpp</a></li>
-<li>src/libs/dependency_graph/<a class="el" href="metadata_8inl.html">metadata.inl</a></li>
+<li>src/libs/dependency_graph/<a class="el" href="dependency__graph_2metadata_8inl.html">metadata.inl</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
@@ -801,7 +865,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Metadata.html">Metadata</a></li>
-    <li class="footer">Generated on Thu Aug 3 2017 00:00:47 for possumwood by
+    <li class="footer">Generated on Wed Aug 9 2017 00:44:55 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

@@ -137,10 +137,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a0b4e1a138904fb84f592e8581a162789"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa7e5d66ae922534a090eb70aacd55bb1"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1BaseData.html#aa7e5d66ae922534a090eb70aacd55bb1">isEqual</a> (const <a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &amp;src) const =0</td></tr>
 <tr class="separator:aa7e5d66ae922534a090eb70aacd55bb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9ae7b8da15bd903f0240c2c166701acd"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1BaseData.html#a9ae7b8da15bd903f0240c2c166701acd">toJson</a> (<a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">io::json</a> &amp;j) const =0</td></tr>
-<tr class="separator:a9ae7b8da15bd903f0240c2c166701acd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1d784e873609c4c88458e5a743acc76a"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1BaseData.html#a1d784e873609c4c88458e5a743acc76a">fromJson</a> (const <a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">io::json</a> &amp;j)=0</td></tr>
-<tr class="separator:a1d784e873609c4c88458e5a743acc76a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a21d7992900a35f74ed6c4a921db1258f"><td class="memItemLeft" align="right" valign="top">virtual std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1BaseData.html#a21d7992900a35f74ed6c4a921db1258f">type</a> () const =0</td></tr>
 <tr class="separator:a21d7992900a35f74ed6c4a921db1258f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a969dcf0286c914bb754f7171c09bc6de"><td class="memItemLeft" align="right" valign="top">virtual std::unique_ptr&lt; <a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1BaseData.html#a969dcf0286c914bb754f7171c09bc6de">clone</a> () const =0</td></tr>
@@ -287,32 +283,6 @@ std::function&lt; std::unique_ptr<br class="typebreak"/>
 
 </div>
 </div>
-<a class="anchor" id="a1d784e873609c4c88458e5a743acc76a"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void dependency_graph::BaseData::fromJson </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">io::json</a> &amp;&#160;</td>
-          <td class="paramname"><em>j</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="structdependency__graph_1_1Data.html#ae15727df6f027a962ac546ea687be562">dependency_graph::Data&lt; T &gt;</a>.</p>
-
-</div>
-</div>
 <a class="anchor" id="aa7e5d66ae922534a090eb70aacd55bb1"></a>
 <div class="memitem">
 <div class="memproto">
@@ -336,32 +306,6 @@ std::function&lt; std::unique_ptr<br class="typebreak"/>
 </div><div class="memdoc">
 
 <p>Implemented in <a class="el" href="structdependency__graph_1_1Data.html#a8759a1cf3752ceb59876acc48c9c8c2c">dependency_graph::Data&lt; T &gt;</a>.</p>
-
-</div>
-</div>
-<a class="anchor" id="a9ae7b8da15bd903f0240c2c166701acd"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void dependency_graph::BaseData::toJson </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="namespacedependency__graph_1_1io.html#ae85eab948c8b31f7ea6955800243223c">io::json</a> &amp;&#160;</td>
-          <td class="paramname"><em>j</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="structdependency__graph_1_1Data.html#ade0fb64840c484c093da5830b7ac6d4c">dependency_graph::Data&lt; T &gt;</a>.</p>
 
 </div>
 </div>
@@ -400,7 +344,7 @@ std::function&lt; std::unique_ptr<br class="typebreak"/>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a></li>
-    <li class="footer">Generated on Thu Aug 3 2017 00:00:47 for possumwood by
+    <li class="footer">Generated on Wed Aug 9 2017 00:44:55 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

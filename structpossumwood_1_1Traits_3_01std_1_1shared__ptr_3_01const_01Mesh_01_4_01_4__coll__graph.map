@@ -1,0 +1,6 @@
+<map id="possumwood::Traits&lt; std::shared_ptr&lt; const Mesh &gt; &gt;" name="possumwood::Traits&lt; std::shared_ptr&lt; const Mesh &gt; &gt;">
+<area shape="rect" id="node2" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; std\l::shared_ptr\&lt; const\l Mesh \&gt; \&gt;" alt="" coords="729,33,879,89"/>
+<area shape="rect" id="node3" href="$classpossumwood_1_1IOBase.html" title="possumwood::IOBase" alt="" coords="439,8,590,35"/>
+<area shape="rect" id="node5" href="$classdependency__graph_1_1io_1_1basic__json.html" title="a class to store JSON values " alt="" coords="379,61,651,161"/>
+<area shape="rect" id="node6" href="$uniondependency__graph_1_1io_1_1basic__json_1_1json__value.html" title="a JSON value " alt="" coords="5,56,277,171"/>
+</map>

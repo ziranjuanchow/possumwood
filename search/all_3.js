@@ -2,7 +2,7 @@ var searchData=
 [
   ['data',['Data',['../classanim_1_1Attribute_1_1Data.html',1,'anim::Attribute']]],
   ['data',['Data',['../structdependency__graph_1_1Data.html',1,'dependency_graph']]],
-  ['data',['Data',['../structdependency__graph_1_1Data.html#a05da8c6a62ae6bfb971e9e9e67548eb2',1,'dependency_graph::Data::Data()'],['../classanim_1_1Attribute_1_1Data.html#a011ae6726c0624490dd53e1ebd1f6082',1,'anim::Attribute::Data::Data()'],['../classdependency__graph_1_1Datablock.html#a4da0c4cb4e22eebc8cbf40bbf4ea99c2',1,'dependency_graph::Datablock::data(size_t index) const '],['../classdependency__graph_1_1Datablock.html#a30258af1c796f8b9258b682a40bbcc68',1,'dependency_graph::Datablock::data(size_t index)']]],
+  ['data',['Data',['../structdependency__graph_1_1Data.html#a05da8c6a62ae6bfb971e9e9e67548eb2',1,'dependency_graph::Data::Data()'],['../classanim_1_1Attribute_1_1Data.html#a011ae6726c0624490dd53e1ebd1f6082',1,'anim::Attribute::Data::Data()'],['../classpossumwood_1_1IO.html#a0529cd0367cb12b2df39c1bbd69e0150',1,'possumwood::IO::data()'],['../classdependency__graph_1_1Datablock.html#a4da0c4cb4e22eebc8cbf40bbf4ea99c2',1,'dependency_graph::Datablock::data(size_t index) const '],['../classdependency__graph_1_1Datablock.html#a30258af1c796f8b9258b682a40bbcc68',1,'dependency_graph::Datablock::data(size_t index)']]],
   ['data_2ecpp',['data.cpp',['../data_8cpp.html',1,'']]],
   ['data_2eh',['data.h',['../data_8h.html',1,'']]],
   ['data_2einl',['data.inl',['../data_8inl.html',1,'']]],
@@ -29,8 +29,7 @@ var searchData=
   ['decimal_5fpoint_5fchar',['decimal_point_char',['../classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#a538d06bc6b2b9e65f925d3851c72709f',1,'dependency_graph::io::basic_json::lexer']]],
   ['decimater_2ecpp',['decimater.cpp',['../decimater_8cpp.html',1,'']]],
   ['decimater_5fmodule_2ecpp',['decimater_module.cpp',['../decimater__module_8cpp.html',1,'']]],
-  ['decimater_5fmodule_2eh',['decimater_module.h',['../datatypes_2decimater__module_8h.html',1,'']]],
-  ['decimater_5fmodule_2eh',['decimater_module.h',['../io_2decimater__module_8h.html',1,'']]],
+  ['decimater_5fmodule_2eh',['decimater_module.h',['../decimater__module_8h.html',1,'']]],
   ['decimatermodule',['DecimaterModule',['../classDecimaterModule.html',1,'DecimaterModule'],['../classDecimaterModule.html#ae2d1a3291c11a9a6cfd75a6989348fb0',1,'DecimaterModule::DecimaterModule()'],['../classDecimaterModule.html#a99c94b21adea676c26136eb241c30f63',1,'DecimaterModule::DecimaterModule(const DecFn &amp;fn)']]],
   ['defaultvalue',['defaultValue',['../classpossumwood_1_1Config_1_1Item.html#a3befeed21223f2e991f7eec96c6d0860',1,'possumwood::Config::Item']]],
   ['deleteaction',['deleteAction',['../classAdaptor.html#a3be49c5f800955d29f8af4936c851052',1,'Adaptor']]],

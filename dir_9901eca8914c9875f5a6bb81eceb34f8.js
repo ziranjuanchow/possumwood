@@ -1,8 +1,8 @@
 var dir_9901eca8914c9875f5a6bb81eceb34f8 =
 [
-    [ "animation.cpp", "animation_8cpp.html", null ],
-    [ "animation.h", "datatypes_2animation_8h.html", [
-      [ "Animation", "structanim_1_1Animation.html", "structanim_1_1Animation" ]
+    [ "animation.h", "animation_8h.html", [
+      [ "Animation", "structanim_1_1Animation.html", "structanim_1_1Animation" ],
+      [ "Traits< std::shared_ptr< const anim::Animation > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4" ]
     ] ],
     [ "attribute.cpp", "attribute_8cpp.html", null ],
     [ "attribute.h", "attribute_8h.html", [
