@@ -18,6 +18,10 @@ var dir_bbeb1387f6037c41dcaa5423e7174c79 =
       [ "Drawable", "classpossumwood_1_1Drawable.html", "classpossumwood_1_1Drawable" ],
       [ "DrawableFunctor", "classpossumwood_1_1DrawableFunctor.html", "classpossumwood_1_1DrawableFunctor" ]
     ] ],
+    [ "editor.cpp", "editor_8cpp.html", null ],
+    [ "editor.h", "editor_8h.html", [
+      [ "Editor", "classpossumwood_1_1Editor.html", "classpossumwood_1_1Editor" ]
+    ] ],
     [ "index.cpp", "index_8cpp.html", null ],
     [ "index.h", "index_8h.html", [
       [ "Index", "classpossumwood_1_1Index.html", "classpossumwood_1_1Index" ],

@@ -14,6 +14,7 @@ var searchData=
   ['_7edatatyped',['~DataTyped',['../classanim_1_1Attribute_1_1DataTyped.html#a5c5b52bc731a550ef8ca9afb2fcc614c',1,'anim::Attribute::DataTyped']]],
   ['_7edrawable',['~Drawable',['../classpossumwood_1_1Drawable.html#a8438b2dd7b9454fe74b611099ca1e7d5',1,'possumwood::Drawable']]],
   ['_7eedge',['~Edge',['../classnode__editor_1_1Edge.html#aa7998dbd732f5e2c16a78a6d80e563de',1,'node_editor::Edge']]],
+  ['_7eeditor',['~Editor',['../classpossumwood_1_1Editor.html#a7740a71338e175ff4bad522935bed8a3',1,'possumwood::Editor']]],
   ['_7eenum_5fui',['~enum_ui',['../classenum__ui.html#ab42b6a79982bae6c4dbce796332241b7',1,'enum_ui']]],
   ['_7efactory',['~factory',['../classpossumwood_1_1properties_1_1factory.html#aef51086dc7ebc3a8774efc76525198fc',1,'possumwood::properties::factory']]],
   ['_7efactory_5ftyped',['~factory_typed',['../classpossumwood_1_1properties_1_1factory__typed.html#a1bdf1734bf9b4ce88447b689d4937768',1,'possumwood::properties::factory_typed']]],

@@ -9,6 +9,7 @@ var namespacepossumwood =
     [ "Traits< Filename >", "structpossumwood_1_1Traits_3_01Filename_01_4.html", "structpossumwood_1_1Traits_3_01Filename_01_4" ],
     [ "Drawable", "classpossumwood_1_1Drawable.html", "classpossumwood_1_1Drawable" ],
     [ "DrawableFunctor", "classpossumwood_1_1DrawableFunctor.html", "classpossumwood_1_1DrawableFunctor" ],
+    [ "Editor", "classpossumwood_1_1Editor.html", "classpossumwood_1_1Editor" ],
     [ "Index", "classpossumwood_1_1Index.html", "classpossumwood_1_1Index" ],
     [ "IOBase", "classpossumwood_1_1IOBase.html", "classpossumwood_1_1IOBase" ],
     [ "IO", "classpossumwood_1_1IO.html", "classpossumwood_1_1IO" ],

@@ -157,6 +157,16 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:afd19e99d309f2b3ebfa37757344f91a4"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1Drawable.html">Drawable</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#afd19e99d309f2b3ebfa37757344f91a4">createDrawable</a> (<a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;&amp;values) const </td></tr>
 <tr class="memdesc:afd19e99d309f2b3ebfa37757344f91a4"><td class="mdescLeft">&#160;</td><td class="mdescRight">creates a new drawable instance for given value set  <a href="#afd19e99d309f2b3ebfa37757344f91a4">More...</a><br/></td></tr>
 <tr class="separator:afd19e99d309f2b3ebfa37757344f91a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae7d5d18cd272ee23c5f9f3cbedf5720a"><td class="memTemplParams" colspan="2">template&lt;typename EDITOR &gt; </td></tr>
+<tr class="memitem:ae7d5d18cd272ee23c5f9f3cbedf5720a"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#ae7d5d18cd272ee23c5f9f3cbedf5720a">setEditor</a> ()</td></tr>
+<tr class="memdesc:ae7d5d18cd272ee23c5f9f3cbedf5720a"><td class="mdescLeft">&#160;</td><td class="mdescRight">set the type used as editor for this node type  <a href="#ae7d5d18cd272ee23c5f9f3cbedf5720a">More...</a><br/></td></tr>
+<tr class="separator:ae7d5d18cd272ee23c5f9f3cbedf5720a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef6881f8773dbedb05c91a176e6d7cb2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#aef6881f8773dbedb05c91a176e6d7cb2">hasEditor</a> () const </td></tr>
+<tr class="memdesc:aef6881f8773dbedb05c91a176e6d7cb2"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns true if this node type has an editor set  <a href="#aef6881f8773dbedb05c91a176e6d7cb2">More...</a><br/></td></tr>
+<tr class="separator:aef6881f8773dbedb05c91a176e6d7cb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a009377ea5550c4bbacc6dc96be8c54c0"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1Editor.html">Editor</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#a009377ea5550c4bbacc6dc96be8c54c0">createEditor</a> (<a class="el" href="classdependency__graph_1_1Node.html">dependency_graph::Node</a> &amp;node)</td></tr>
+<tr class="memdesc:a009377ea5550c4bbacc6dc96be8c54c0"><td class="mdescLeft">&#160;</td><td class="mdescRight">create an editor for a node instance  <a href="#a009377ea5550c4bbacc6dc96be8c54c0">More...</a><br/></td></tr>
+<tr class="separator:a009377ea5550c4bbacc6dc96be8c54c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad3717285e7152b6e100800aa46e4a886"><td class="memItemLeft" align="right" valign="top">const std::array&lt; float, 3 &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#ad3717285e7152b6e100800aa46e4a886">colour</a> (unsigned attrId) const </td></tr>
 <tr class="memdesc:ad3717285e7152b6e100800aa46e4a886"><td class="mdescLeft">&#160;</td><td class="mdescRight">colour of an attribute, based on its index (derived from <a class="el" href="structpossumwood_1_1Traits.html" title="defaults traits struct (not implemented) ">Traits</a> instances)  <a href="#ad3717285e7152b6e100800aa46e4a886">More...</a><br/></td></tr>
 <tr class="separator:ad3717285e7152b6e100800aa46e4a886"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -169,6 +179,10 @@ Private Attributes</h2></td></tr>
 &lt; <a class="el" href="classpossumwood_1_1Drawable.html">Drawable</a> &gt;<br class="typebreak"/>
 <a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;&amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#af2b04cb5462144e406a02ec3f7746ba3">m_drawableFactory</a></td></tr>
 <tr class="separator:af2b04cb5462144e406a02ec3f7746ba3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6e8b4bde530a69adef12fee4077fac93"><td class="memItemLeft" align="right" valign="top">std::function&lt; std::unique_ptr<br class="typebreak"/>
+&lt; <a class="el" href="classpossumwood_1_1Editor.html">Editor</a> &gt;<br class="typebreak"/>
+<a class="el" href="classdependency__graph_1_1Node.html">dependency_graph::Node</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#a6e8b4bde530a69adef12fee4077fac93">m_editorFactory</a></td></tr>
+<tr class="separator:a6e8b4bde530a69adef12fee4077fac93"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2bd6465bcaf295e189a27eb9da372f72"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::array&lt; float, 3 &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#a2bd6465bcaf295e189a27eb9da372f72">m_colours</a></td></tr>
 <tr class="separator:a2bd6465bcaf295e189a27eb9da372f72"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -349,6 +363,41 @@ template&lt;typename T , typename U &gt; </div>
 
 </div>
 </div>
+<a class="anchor" id="a009377ea5550c4bbacc6dc96be8c54c0"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1Editor.html">Editor</a> &gt; possumwood::Metadata::createEditor </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classdependency__graph_1_1Node.html">dependency_graph::Node</a> &amp;&#160;</td>
+          <td class="paramname"><em>node</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>create an editor for a node instance </p>
+
+</div>
+</div>
+<a class="anchor" id="aef6881f8773dbedb05c91a176e6d7cb2"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool possumwood::Metadata::hasEditor </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>returns true if this node type has an editor set </p>
+
+</div>
+</div>
 <a class="anchor" id="a3e167bb6124d6fcc46daafb41cae2251"></a>
 <div class="memitem">
 <div class="memproto">
@@ -403,6 +452,25 @@ template&lt;typename DRAWABLE &gt; </div>
 
 </div>
 </div>
+<a class="anchor" id="ae7d5d18cd272ee23c5f9f3cbedf5720a"></a>
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename EDITOR &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void possumwood::Metadata::setEditor </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>set the type used as editor for this node type </p>
+
+</div>
+</div>
 <h2 class="groupheader">Member Data Documentation</h2>
 <a class="anchor" id="a2bd6465bcaf295e189a27eb9da372f72"></a>
 <div class="memitem">
@@ -433,6 +501,26 @@ template&lt;typename DRAWABLE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">std::function&lt;std::unique_ptr&lt;<a class="el" href="classpossumwood_1_1Drawable.html">Drawable</a>&gt;<a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a>&amp;&amp;)&gt; possumwood::Metadata::m_drawableFactory</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a6e8b4bde530a69adef12fee4077fac93"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::function&lt;std::unique_ptr&lt;<a class="el" href="classpossumwood_1_1Editor.html">Editor</a>&gt;<a class="el" href="classdependency__graph_1_1Node.html">dependency_graph::Node</a>&amp;)&gt; possumwood::Metadata::m_editorFactory</td>
         </tr>
       </table>
   </td>
@@ -475,7 +563,7 @@ template&lt;typename DRAWABLE &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1Metadata.html">Metadata</a></li>
-    <li class="footer">Generated on Wed Aug 9 2017 01:03:53 for possumwood by
+    <li class="footer">Generated on Thu Aug 10 2017 00:15:46 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>
