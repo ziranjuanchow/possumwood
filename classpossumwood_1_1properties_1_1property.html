@@ -109,6 +109,7 @@ $(document).ready(function(){initNavTree('classpossumwood_1_1properties_1_1prope
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-static-methods">Static Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="#pri-static-attribs">Static Private Attributes</a> &#124;
 <a href="classpossumwood_1_1properties_1_1property-members.html">List of all members</a>  </div>
   <div class="headertitle">
@@ -148,6 +149,8 @@ Public Types</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
+<tr class="memitem:ab317f9bf0c34cf07e48251987d88781f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1properties_1_1property.html#ab317f9bf0c34cf07e48251987d88781f">property</a> ()</td></tr>
+<tr class="separator:ab317f9bf0c34cf07e48251987d88781f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a33e78604fe6d2d4aa7bc9c8c620703ae"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1properties_1_1property.html#a33e78604fe6d2d4aa7bc9c8c620703ae">~property</a> ()</td></tr>
 <tr class="separator:a33e78604fe6d2d4aa7bc9c8c620703ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a13ea22cd2ce94259ac97938a483659a9"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1properties_1_1property.html#a13ea22cd2ce94259ac97938a483659a9">get</a> (T &amp;value) const =0</td></tr>
@@ -180,6 +183,11 @@ Private Member Functions</h2></td></tr>
 Static Private Member Functions</h2></td></tr>
 <tr class="memitem:af8d4d0fdf919ac9b93a5d57ec3426be6"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1properties_1_1property.html#af8d4d0fdf919ac9b93a5d57ec3426be6">doSetValue</a> (const <a class="el" href="classpossumwood_1_1UniqueId.html">possumwood::UniqueId</a> &amp;id, unsigned portId, const T &amp;value)</td></tr>
 <tr class="separator:af8d4d0fdf919ac9b93a5d57ec3426be6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a2bd3d65386fed94adb3c0b0c55a210fe"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1properties_1_1property.html#a2bd3d65386fed94adb3c0b0c55a210fe">m_blockedSignals</a></td></tr>
+<tr class="separator:a2bd3d65386fed94adb3c0b0c55a210fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-attribs"></a>
 Static Private Attributes</h2></td></tr>
@@ -226,6 +234,31 @@ template&lt;typename T, typename DERIVED&gt; </div>
 </div>
 </div>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a class="anchor" id="ab317f9bf0c34cf07e48251987d88781f"></a>
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T, typename DERIVED&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classpossumwood_1_1properties_1_1property.html">possumwood::properties::property</a>&lt; T, DERIVED &gt;::<a class="el" href="classpossumwood_1_1properties_1_1property.html">property</a> </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a33e78604fe6d2d4aa7bc9c8c620703ae"></a>
 <div class="memitem">
 <div class="memproto">
@@ -411,6 +444,28 @@ template&lt;typename T, typename DERIVED&gt; </div>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
+<a class="anchor" id="a2bd3d65386fed94adb3c0b0c55a210fe"></a>
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T, typename DERIVED&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="classpossumwood_1_1properties_1_1property.html">possumwood::properties::property</a>&lt; T, DERIVED &gt;::m_blockedSignals</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="ac19491df7ca8e0f2c3e0014d957a3bfd"></a>
 <div class="memitem">
 <div class="memproto">
@@ -443,7 +498,7 @@ template&lt;typename T, typename DERIVED&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="namespacepossumwood_1_1properties.html">properties</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1properties_1_1property.html">property</a></li>
-    <li class="footer">Generated on Thu Aug 10 2017 00:33:20 for possumwood by
+    <li class="footer">Generated on Thu Aug 10 2017 22:03:18 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>
