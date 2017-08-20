@@ -8,6 +8,8 @@ var classTimelineWidget =
     [ "playAction", "classTimelineWidget.html#a550cb72129824ed0db56a04db1b3814d", null ],
     [ "m_connections", "classTimelineWidget.html#ab3868f310a25a4fa39af66bae846b416", null ],
     [ "m_currentTime", "classTimelineWidget.html#a455d840f716e5c391ce9307660f4aed5", null ],
+    [ "m_frameBwdAction", "classTimelineWidget.html#ad474a87374838abd840c6947ab17907a", null ],
+    [ "m_frameFwdAction", "classTimelineWidget.html#a5afd5c1b762ea30b02732e54d8b16091", null ],
     [ "m_playAction", "classTimelineWidget.html#a572af860201e85634e1c679bc65e478c", null ],
     [ "m_playbackTimer", "classTimelineWidget.html#a6645bb90f833a1171fa4f7e09b8f8d8c", null ],
     [ "m_timeline", "classTimelineWidget.html#a5776b37f42254f0f4891b4bce881f6d9", null ]

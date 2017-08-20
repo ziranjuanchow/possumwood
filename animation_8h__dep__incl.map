@@ -1,5 +1,8 @@
 <map id="src/plugins/anim/datatypes/animation.h" name="src/plugins/anim/datatypes/animation.h">
 <area shape="rect" id="node2" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="5,97,160,138"/>
-<area shape="rect" id="node3" href="$skeleton__display_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_display.cpp" alt="" coords="185,97,340,138"/>
-<area shape="rect" id="node4" href="$plugins_2anim_2nodes_2transform_8cpp.html" title="src/plugins/anim/nodes\l/transform.cpp" alt="" coords="365,97,520,138"/>
+<area shape="rect" id="node3" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/periodic.cpp" alt="" coords="269,187,424,229"/>
+<area shape="rect" id="node4" href="$skeleton__display_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_display.cpp" alt="" coords="237,97,392,138"/>
+<area shape="rect" id="node5" href="$plugins_2anim_2nodes_2transform_8cpp.html" title="src/plugins/anim/nodes\l/transform.cpp" alt="" coords="417,97,572,138"/>
+<area shape="rect" id="node6" href="$motion__map_8h.html" title="src/plugins/anim/ui\l/motion_map.h" alt="" coords="597,97,727,138"/>
+<area shape="rect" id="node7" href="$motion__map_8cpp.html" title="src/plugins/anim/ui\l/motion_map.cpp" alt="" coords="597,187,727,229"/>
 </map>

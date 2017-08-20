@@ -132,30 +132,33 @@ $(document).ready(function(){initNavTree('values_8h_source.html','');});
 <div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;        <span class="keyword">const</span> T&amp; <span class="keyword">get</span>(<span class="keyword">const</span> <a class="code" href="classdependency__graph_1_1OutAttr.html">OutAttr&lt;T&gt;</a>&amp; attr) <span class="keyword">const</span>;</div>
 <div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;</div>
 <div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;        <span class="keyword">template</span>&lt;<span class="keyword">typename</span> T&gt;</div>
-<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classdependency__graph_1_1Values.html#a0912fd484a87c004ef70a59960075c4a">set</a>(<span class="keyword">const</span> <a class="code" href="classdependency__graph_1_1OutAttr.html">OutAttr&lt;T&gt;</a>&amp; attr, <span class="keyword">const</span> T&amp; value);</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classdependency__graph_1_1Values.html#a352ff2c4bee7a8fe88ae28c0d5c08963">set</a>(<span class="keyword">const</span> <a class="code" href="classdependency__graph_1_1InAttr.html">InAttr&lt;T&gt;</a>&amp; attr, <span class="keyword">const</span> T&amp; value);</div>
 <div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;</div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;    <span class="keyword">private</span>:</div>
-<div class="line"><a name="l00030"></a><span class="lineno"><a class="line" href="classdependency__graph_1_1Values.html#a47660a68b331af29f7732a26ecdbfb11">   30</a></span>&#160;        <a class="code" href="classdependency__graph_1_1Node.html">Node</a>* <a class="code" href="classdependency__graph_1_1Values.html#a47660a68b331af29f7732a26ecdbfb11">m_node</a>;</div>
-<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;};</div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;</div>
-<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;}</div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;        <span class="keyword">template</span>&lt;<span class="keyword">typename</span> T&gt;</div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classdependency__graph_1_1Values.html#a352ff2c4bee7a8fe88ae28c0d5c08963">set</a>(<span class="keyword">const</span> <a class="code" href="classdependency__graph_1_1OutAttr.html">OutAttr&lt;T&gt;</a>&amp; attr, <span class="keyword">const</span> T&amp; value);</div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;</div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;    <span class="keyword">private</span>:</div>
+<div class="line"><a name="l00033"></a><span class="lineno"><a class="line" href="classdependency__graph_1_1Values.html#a47660a68b331af29f7732a26ecdbfb11">   33</a></span>&#160;        <a class="code" href="classdependency__graph_1_1Node.html">Node</a>* <a class="code" href="classdependency__graph_1_1Values.html#a47660a68b331af29f7732a26ecdbfb11">m_node</a>;</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;};</div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;</div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;}</div>
 <div class="ttc" id="classdependency__graph_1_1InAttr_html"><div class="ttname"><a href="classdependency__graph_1_1InAttr.html">dependency_graph::InAttr</a></div><div class="ttdoc">Input attribute type (constructed by Metadata class) </div><div class="ttdef"><b>Definition:</b> attr.h:61</div></div>
 <div class="ttc" id="classdependency__graph_1_1Values_html_ad9c29a6e1d91107b515cfcbdd4764878"><div class="ttname"><a href="classdependency__graph_1_1Values.html#ad9c29a6e1d91107b515cfcbdd4764878">dependency_graph::Values::Values</a></div><div class="ttdeci">Values(Node &amp;n)</div><div class="ttdef"><b>Definition:</b> values.cpp:5</div></div>
+<div class="ttc" id="classdependency__graph_1_1Values_html_a352ff2c4bee7a8fe88ae28c0d5c08963"><div class="ttname"><a href="classdependency__graph_1_1Values.html#a352ff2c4bee7a8fe88ae28c0d5c08963">dependency_graph::Values::set</a></div><div class="ttdeci">void set(const InAttr&lt; T &gt; &amp;attr, const T &amp;value)</div><div class="ttdef"><b>Definition:</b> values.inl:18</div></div>
 <div class="ttc" id="classdependency__graph_1_1Values_html_a396b28cbd4e75ed74fbfe5ddf81cef48"><div class="ttname"><a href="classdependency__graph_1_1Values.html#a396b28cbd4e75ed74fbfe5ddf81cef48">dependency_graph::Values::isConnected</a></div><div class="ttdeci">bool isConnected(const InAttr&lt; T &gt; &amp;attr) const </div></div>
 <div class="ttc" id="dependency__graph_2node_8h_html"><div class="ttname"><a href="dependency__graph_2node_8h.html">node.h</a></div></div>
-<div class="ttc" id="classdependency__graph_1_1Values_html_a0912fd484a87c004ef70a59960075c4a"><div class="ttname"><a href="classdependency__graph_1_1Values.html#a0912fd484a87c004ef70a59960075c4a">dependency_graph::Values::set</a></div><div class="ttdeci">void set(const OutAttr&lt; T &gt; &amp;attr, const T &amp;value)</div><div class="ttdef"><b>Definition:</b> values.inl:18</div></div>
 <div class="ttc" id="classdependency__graph_1_1OutAttr_html"><div class="ttname"><a href="classdependency__graph_1_1OutAttr.html">dependency_graph::OutAttr</a></div><div class="ttdoc">Output attribute type (constructed by Metadata class) </div><div class="ttdef"><b>Definition:</b> attr.h:73</div></div>
 <div class="ttc" id="classdependency__graph_1_1Values_html_a1ca1a5c59f6374179c4dbdaa73da0a7c"><div class="ttname"><a href="classdependency__graph_1_1Values.html#a1ca1a5c59f6374179c4dbdaa73da0a7c">dependency_graph::Values::operator=</a></div><div class="ttdeci">Values &amp; operator=(Values &amp;&amp;vals)</div><div class="ttdef"><b>Definition:</b> values.cpp:11</div></div>
 <div class="ttc" id="classdependency__graph_1_1Values_html"><div class="ttname"><a href="classdependency__graph_1_1Values.html">dependency_graph::Values</a></div><div class="ttdef"><b>Definition:</b> values.h:9</div></div>
 <div class="ttc" id="classdependency__graph_1_1Node_html"><div class="ttname"><a href="classdependency__graph_1_1Node.html">dependency_graph::Node</a></div><div class="ttdef"><b>Definition:</b> node.h:19</div></div>
-<div class="ttc" id="classdependency__graph_1_1Values_html_a47660a68b331af29f7732a26ecdbfb11"><div class="ttname"><a href="classdependency__graph_1_1Values.html#a47660a68b331af29f7732a26ecdbfb11">dependency_graph::Values::m_node</a></div><div class="ttdeci">Node * m_node</div><div class="ttdef"><b>Definition:</b> values.h:30</div></div>
+<div class="ttc" id="classdependency__graph_1_1Values_html_a47660a68b331af29f7732a26ecdbfb11"><div class="ttname"><a href="classdependency__graph_1_1Values.html#a47660a68b331af29f7732a26ecdbfb11">dependency_graph::Values::m_node</a></div><div class="ttdeci">Node * m_node</div><div class="ttdef"><b>Definition:</b> values.h:33</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_87a455bccb09a92130c26a11a880c98a.html">libs</a></li><li class="navelem"><a class="el" href="dir_2f37f34eeec95f453fe4cb748dff596f.html">dependency_graph</a></li><li class="navelem"><a class="el" href="values_8h.html">values.h</a></li>
-    <li class="footer">Generated on Thu Aug 10 2017 22:03:17 for possumwood by
+    <li class="footer">Generated on Sun Aug 20 2017 16:20:00 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

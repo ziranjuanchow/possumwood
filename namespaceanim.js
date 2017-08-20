@@ -10,5 +10,6 @@ var namespaceanim =
     [ "LexicalCastHelper", "structanim_1_1LexicalCastHelper.html", "structanim_1_1LexicalCastHelper" ],
     [ "LexicalCastHelper< boost::filesystem::path, std::string >", "structanim_1_1LexicalCastHelper_3_01boost_1_1filesystem_1_1path_00_01std_1_1string_01_4.html", "structanim_1_1LexicalCastHelper_3_01boost_1_1filesystem_1_1path_00_01std_1_1string_01_4" ],
     [ "LexicalCastHelper< std::string, std::vector< T > >", "structanim_1_1LexicalCastHelper_3_01std_1_1string_00_01std_1_1vector_3_01T_01_4_01_4.html", "structanim_1_1LexicalCastHelper_3_01std_1_1string_00_01std_1_1vector_3_01T_01_4_01_4" ],
-    [ "Tokenizer", "classanim_1_1Tokenizer.html", "classanim_1_1Tokenizer" ]
+    [ "Tokenizer", "classanim_1_1Tokenizer.html", "classanim_1_1Tokenizer" ],
+    [ "MotionMap", "classanim_1_1MotionMap.html", "classanim_1_1MotionMap" ]
 ];
