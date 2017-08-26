@@ -9,5 +9,6 @@ var classpossumwood_1_1Editor =
     [ "widget", "classpossumwood_1_1Editor.html#a9eded3dd041269eaba3ba51b3eed8fce", null ],
     [ "Metadata", "classpossumwood_1_1Editor.html#aba8d19a917c0bff3a0ab2c135b11b0a4", null ],
     [ "m_connections", "classpossumwood_1_1Editor.html#a3899b2f1360e76afd5c838dfae56c7fb", null ],
+    [ "m_runningValueCallbacks", "classpossumwood_1_1Editor.html#a73fced20c0cf66fbf36131a6db9bd7ae", null ],
     [ "m_values", "classpossumwood_1_1Editor.html#ad2eab73d0c99934defbb6bc364be8b23", null ]
 ];

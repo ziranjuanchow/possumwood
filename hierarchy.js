@@ -190,10 +190,10 @@ var hierarchy =
       [ "node_editor::Port", "classnode__editor_1_1Port.html", null ]
     ] ],
     [ "QGraphicsScene", null, [
-      [ "anim::MotionMap", "classanim_1_1MotionMap.html", null ],
       [ "node_editor::GraphScene", "classnode__editor_1_1GraphScene.html", null ]
     ] ],
     [ "QGraphicsView", null, [
+      [ "anim::MotionMap", "classanim_1_1MotionMap.html", null ],
       [ "node_editor::GraphWidget", "classnode__editor_1_1GraphWidget.html", null ]
     ] ],
     [ "QMainWindow", null, [

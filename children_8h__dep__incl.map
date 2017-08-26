@@ -1,14 +1,16 @@
 <map id="src/plugins/anim/datatypes/children.h" name="src/plugins/anim/datatypes/children.h">
-<area shape="rect" id="node2" href="$hierarchy_8h.html" title="src/plugins/anim/datatypes\l/hierarchy.h" alt="" coords="779,97,957,138"/>
-<area shape="rect" id="node3" href="$skeleton_8h.html" title="src/plugins/anim/datatypes\l/skeleton.h" alt="" coords="677,187,856,229"/>
-<area shape="rect" id="node13" href="$hierarchy_8cpp.html" title="src/plugins/anim/datatypes\l/hierarchy.cpp" alt="" coords="880,187,1059,229"/>
-<area shape="rect" id="node4" href="$animation_8h.html" title="src/plugins/anim/datatypes\l/animation.h" alt="" coords="388,278,567,319"/>
-<area shape="rect" id="node6" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/periodic.cpp" alt="" coords="457,459,612,501"/>
-<area shape="rect" id="node7" href="$skeleton__display_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_display.cpp" alt="" coords="573,369,728,410"/>
-<area shape="rect" id="node11" href="$plugins_2anim_2datatypes_2skeleton_8cpp.html" title="src/plugins/anim/datatypes\l/skeleton.cpp" alt="" coords="804,278,983,319"/>
-<area shape="rect" id="node12" href="$tests_2anim_2skeleton_8cpp.html" title="src/tests/anim/skeleton.cpp" alt="" coords="1007,285,1189,312"/>
-<area shape="rect" id="node5" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="341,369,496,410"/>
-<area shape="rect" id="node8" href="$plugins_2anim_2nodes_2transform_8cpp.html" title="src/plugins/anim/nodes\l/transform.cpp" alt="" coords="5,369,160,410"/>
-<area shape="rect" id="node9" href="$motion__map_8h.html" title="src/plugins/anim/ui\l/motion_map.h" alt="" coords="185,369,315,410"/>
-<area shape="rect" id="node10" href="$motion__map_8cpp.html" title="src/plugins/anim/ui\l/motion_map.cpp" alt="" coords="185,459,315,501"/>
+<area shape="rect" id="node2" href="$hierarchy_8h.html" title="src/plugins/anim/datatypes\l/hierarchy.h" alt="" coords="994,97,1172,138"/>
+<area shape="rect" id="node3" href="$skeleton_8h.html" title="src/plugins/anim/datatypes\l/skeleton.h" alt="" coords="892,187,1071,229"/>
+<area shape="rect" id="node15" href="$hierarchy_8cpp.html" title="src/plugins/anim/datatypes\l/hierarchy.cpp" alt="" coords="1095,187,1274,229"/>
+<area shape="rect" id="node4" href="$animation_8h.html" title="src/plugins/anim/datatypes\l/animation.h" alt="" coords="502,278,680,319"/>
+<area shape="rect" id="node6" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/periodic.cpp" alt="" coords="713,459,868,501"/>
+<area shape="rect" id="node8" href="$skeleton__display_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_display.cpp" alt="" coords="829,369,984,410"/>
+<area shape="rect" id="node10" href="$transition_8cpp.html" title="src/plugins/anim/nodes\l/transition.cpp" alt="" coords="145,459,300,501"/>
+<area shape="rect" id="node13" href="$plugins_2anim_2datatypes_2skeleton_8cpp.html" title="src/plugins/anim/datatypes\l/skeleton.cpp" alt="" coords="1060,278,1239,319"/>
+<area shape="rect" id="node14" href="$tests_2anim_2skeleton_8cpp.html" title="src/tests/anim/skeleton.cpp" alt="" coords="1264,285,1446,312"/>
+<area shape="rect" id="node5" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="261,369,416,410"/>
+<area shape="rect" id="node7" href="$retime_8cpp.html" title="src/plugins/anim/nodes\l/retime.cpp" alt="" coords="597,369,752,410"/>
+<area shape="rect" id="node9" href="$plugins_2anim_2nodes_2transform_8cpp.html" title="src/plugins/anim/nodes\l/transform.cpp" alt="" coords="29,369,184,410"/>
+<area shape="rect" id="node11" href="$motion__map_8h.html" title="src/plugins/anim/ui\l/motion_map.h" alt="" coords="442,369,571,410"/>
+<area shape="rect" id="node12" href="$motion__map_8cpp.html" title="src/plugins/anim/ui\l/motion_map.cpp" alt="" coords="442,459,571,501"/>
 </map>

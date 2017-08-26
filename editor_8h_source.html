@@ -143,10 +143,12 @@ $(document).ready(function(){initNavTree('editor_8h_source.html','');});
 <div class="line"><a name="l00040"></a><span class="lineno"><a class="line" href="classpossumwood_1_1Editor.html#ad2eab73d0c99934defbb6bc364be8b23">   40</a></span>&#160;        std::unique_ptr&lt;dependency_graph::Values&gt; <a class="code" href="classpossumwood_1_1Editor.html#ad2eab73d0c99934defbb6bc364be8b23">m_values</a>;</div>
 <div class="line"><a name="l00041"></a><span class="lineno"><a class="line" href="classpossumwood_1_1Editor.html#a3899b2f1360e76afd5c838dfae56c7fb">   41</a></span>&#160;        std::vector&lt;boost::signals2::connection&gt; <a class="code" href="classpossumwood_1_1Editor.html#a3899b2f1360e76afd5c838dfae56c7fb">m_connections</a>;</div>
 <div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;</div>
-<div class="line"><a name="l00043"></a><span class="lineno"><a class="line" href="classpossumwood_1_1Editor.html#aba8d19a917c0bff3a0ab2c135b11b0a4">   43</a></span>&#160;    <span class="keyword">friend</span> <span class="keyword">class </span><a class="code" href="classpossumwood_1_1Metadata.html">Metadata</a>;</div>
-<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;};</div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;</div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;}</div>
+<div class="line"><a name="l00043"></a><span class="lineno"><a class="line" href="classpossumwood_1_1Editor.html#a73fced20c0cf66fbf36131a6db9bd7ae">   43</a></span>&#160;        std::set&lt;unsigned&gt; <a class="code" href="classpossumwood_1_1Editor.html#a73fced20c0cf66fbf36131a6db9bd7ae">m_runningValueCallbacks</a>;</div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;</div>
+<div class="line"><a name="l00045"></a><span class="lineno"><a class="line" href="classpossumwood_1_1Editor.html#aba8d19a917c0bff3a0ab2c135b11b0a4">   45</a></span>&#160;    <span class="keyword">friend</span> <span class="keyword">class </span><a class="code" href="classpossumwood_1_1Metadata.html">Metadata</a>;</div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;};</div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;</div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;}</div>
 <div class="ttc" id="classpossumwood_1_1Editor_html_afcd5e62afa3406335d0f051d657198fc"><div class="ttname"><a href="classpossumwood_1_1Editor.html#afcd5e62afa3406335d0f051d657198fc">possumwood::Editor::valueChanged</a></div><div class="ttdeci">virtual void valueChanged(const dependency_graph::Attr &amp;attr)</div><div class="ttdoc">callback for changes of values of associated node </div><div class="ttdef"><b>Definition:</b> editor.cpp:15</div></div>
 <div class="ttc" id="classpossumwood_1_1Editor_html_afd62f15eded4b9ce229967bdbf3118de"><div class="ttname"><a href="classpossumwood_1_1Editor.html#afd62f15eded4b9ce229967bdbf3118de">possumwood::Editor::Editor</a></div><div class="ttdeci">Editor()</div><div class="ttdef"><b>Definition:</b> editor.cpp:7</div></div>
 <div class="ttc" id="classpossumwood_1_1Editor_html_a3899b2f1360e76afd5c838dfae56c7fb"><div class="ttname"><a href="classpossumwood_1_1Editor.html#a3899b2f1360e76afd5c838dfae56c7fb">possumwood::Editor::m_connections</a></div><div class="ttdeci">std::vector&lt; boost::signals2::connection &gt; m_connections</div><div class="ttdef"><b>Definition:</b> editor.h:41</div></div>
@@ -161,6 +163,7 @@ $(document).ready(function(){initNavTree('editor_8h_source.html','');});
 <div class="ttc" id="classpossumwood_1_1Metadata_html"><div class="ttname"><a href="classpossumwood_1_1Metadata.html">possumwood::Metadata</a></div><div class="ttdef"><b>Definition:</b> metadata.h:17</div></div>
 <div class="ttc" id="values_8h_html"><div class="ttname"><a href="values_8h.html">values.h</a></div></div>
 <div class="ttc" id="classpossumwood_1_1Editor_html_a2ee1c2a93c99e155c6633732ed4aa2c9"><div class="ttname"><a href="classpossumwood_1_1Editor.html#a2ee1c2a93c99e155c6633732ed4aa2c9">possumwood::Editor::values</a></div><div class="ttdeci">dependency_graph::Values &amp; values()</div><div class="ttdoc">returns the values access object for associated node </div><div class="ttdef"><b>Definition:</b> editor.cpp:19</div></div>
+<div class="ttc" id="classpossumwood_1_1Editor_html_a73fced20c0cf66fbf36131a6db9bd7ae"><div class="ttname"><a href="classpossumwood_1_1Editor.html#a73fced20c0cf66fbf36131a6db9bd7ae">possumwood::Editor::m_runningValueCallbacks</a></div><div class="ttdeci">std::set&lt; unsigned &gt; m_runningValueCallbacks</div><div class="ttdef"><b>Definition:</b> editor.h:43</div></div>
 <div class="ttc" id="classpossumwood_1_1Editor_html_a9eded3dd041269eaba3ba51b3eed8fce"><div class="ttname"><a href="classpossumwood_1_1Editor.html#a9eded3dd041269eaba3ba51b3eed8fce">possumwood::Editor::widget</a></div><div class="ttdeci">virtual QWidget * widget()=0</div><div class="ttdoc">should be reimplemented to return the QWidget held by this Editor </div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
@@ -168,7 +171,7 @@ $(document).ready(function(){initNavTree('editor_8h_source.html','');});
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_87a455bccb09a92130c26a11a880c98a.html">libs</a></li><li class="navelem"><a class="el" href="dir_bbeb1387f6037c41dcaa5423e7174c79.html">possumwood_sdk</a></li><li class="navelem"><a class="el" href="editor_8h.html">editor.h</a></li>
-    <li class="footer">Generated on Sun Aug 20 2017 16:20:00 for possumwood by
+    <li class="footer">Generated on Sat Aug 26 2017 22:44:49 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

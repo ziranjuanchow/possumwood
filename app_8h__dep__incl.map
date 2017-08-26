@@ -9,9 +9,10 @@
 <area shape="rect" id="node9" href="$datatypes_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/filename.cpp" alt="" coords="1071,97,1260,138"/>
 <area shape="rect" id="node10" href="$property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="1284,97,1457,138"/>
 <area shape="rect" id="node18" href="$ui_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filename.cpp" alt="" coords="2107,278,2252,319"/>
-<area shape="rect" id="node29" href="$cube_8cpp.html" title="src/plugins/3d/nodes\l/cube.cpp" alt="" coords="1947,97,2089,138"/>
-<area shape="rect" id="node30" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/periodic.cpp" alt="" coords="2114,97,2269,138"/>
-<area shape="rect" id="node31" href="$skeleton__display_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_display.cpp" alt="" coords="2294,97,2449,138"/>
+<area shape="rect" id="node29" href="$cube_8cpp.html" title="src/plugins/3d/nodes\l/cube.cpp" alt="" coords="1533,97,1675,138"/>
+<area shape="rect" id="node30" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/periodic.cpp" alt="" coords="1699,97,1855,138"/>
+<area shape="rect" id="node31" href="$skeleton__display_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_display.cpp" alt="" coords="1879,97,2035,138"/>
+<area shape="rect" id="node32" href="$transition_8cpp.html" title="src/plugins/anim/nodes\l/transition.cpp" alt="" coords="2059,97,2215,138"/>
 <area shape="rect" id="node11" href="$properties_8h.html" title="src/apps/possumwood\l/properties.h" alt="" coords="442,187,595,229"/>
 <area shape="rect" id="node13" href="$factory_8cpp.html" title="src/libs/possumwood\l_sdk/properties/factory.cpp" alt="" coords="794,187,973,229"/>
 <area shape="rect" id="node14" href="$property_8cpp.html" title="src/libs/possumwood\l_sdk/properties/property.cpp" alt="" coords="999,187,1185,229"/>

@@ -43,14 +43,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "actions_8cpp.html",
-"classanim_1_1Hierarchy_1_1Item.html#a11617a6fb68ec7260e4acfc6d2d81ca6",
-"classdependency__graph_1_1Node.html#a430249f24ea073de8f931419de3b288b",
-"classdependency__graph_1_1io_1_1basic__json.html#ab70103fc0c60dd8d4a62c9c5329d85c2",
-"classdependency__graph_1_1io_1_1basic__json_1_1output__stream__adapter.html",
-"classnode__editor_1_1Port.html#a9aa99f68a5f17d4e3d130dd546cc89baa3d9dd99bc0de764a7b8a509ccde03ac4",
-"classvec3__ui.html#a240c6883263b55ea6ecc5ad9436d681d",
-"json_8h.html#a04ba09f6b57515db05829ebac4238d3d",
-"structdependency__graph_1_1Selection_1_1Connection.html#a252eaa0b04a58acdaa116ccef096948c"
+"classanim_1_1Hierarchy_1_1Item.html#a01557c4e991b63d35752f65484b3c613",
+"classdependency__graph_1_1Node.html#a0ad0805716871a6743c31b1d13d0d201",
+"classdependency__graph_1_1io_1_1basic__json.html#ab0f808cf8c5ddeb1b153b8c8aa238955",
+"classdependency__graph_1_1io_1_1basic__json_1_1output__adapter.html#a3eb0bfcba61c56f9468d2d8542240d57",
+"classnode__editor_1_1Port.html#a8c0e9a53e234be28e918036e068ed3fe",
+"classunsigned__ui.html#a700efc1f3d9e2d1ffc9748a613af3030",
+"io_2vec3_8h.html",
+"structdependency__graph_1_1DataTraits.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

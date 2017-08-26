@@ -10,6 +10,7 @@ var classanim_1_1Hierarchy =
     [ "empty", "classanim_1_1Hierarchy.html#ad77225170fd73f9d33a2d58c3b09c673", null ],
     [ "end", "classanim_1_1Hierarchy.html#acbc5c985d4d2587c4b4cc7a2622466b5", null ],
     [ "indexOf", "classanim_1_1Hierarchy.html#a664677a17222ba4136468614605bd546", null ],
+    [ "isCompatibleWith", "classanim_1_1Hierarchy.html#a62c7d1fc0410cbe3071e34a0ce5924fb", null ],
     [ "itemAttributes", "classanim_1_1Hierarchy.html#aa516fc7120679a52446ec20b5bfbc779", null ],
     [ "itemAttributes", "classanim_1_1Hierarchy.html#a21ed9ce67c4d0803dbed07b7ee39615f", null ],
     [ "operator[]", "classanim_1_1Hierarchy.html#a789f9b57eb02d85e6d4e84310b84b63e", null ],
