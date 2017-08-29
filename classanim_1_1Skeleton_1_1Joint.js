@@ -8,6 +8,8 @@ var classanim_1_1Skeleton_1_1Joint =
     [ "hasParent", "classanim_1_1Skeleton_1_1Joint.html#aa20bcf9a96ef9f05b68a75c7c0a26398", null ],
     [ "index", "classanim_1_1Skeleton_1_1Joint.html#ab3c7f0d2771fe9437897d2e1ee56480f", null ],
     [ "name", "classanim_1_1Skeleton_1_1Joint.html#a9c1812334d73382e665603d08ba1e645", null ],
+    [ "operator!=", "classanim_1_1Skeleton_1_1Joint.html#ab9d4dc13fda49969de0c5496dc77373d", null ],
+    [ "operator==", "classanim_1_1Skeleton_1_1Joint.html#aba7dd42700e21d97d2a64ed1feef3ff8", null ],
     [ "parent", "classanim_1_1Skeleton_1_1Joint.html#a75e9e27a74909aff03f550a54a7dcd85", null ],
     [ "parent", "classanim_1_1Skeleton_1_1Joint.html#a77b4dd46af0287bf2c7aed73f9abb6d8", null ],
     [ "tr", "classanim_1_1Skeleton_1_1Joint.html#a2508def30343c23e68d5502ae13fa814", null ],

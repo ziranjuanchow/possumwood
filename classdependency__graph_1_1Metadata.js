@@ -17,6 +17,7 @@ var classdependency__graph_1_1Metadata =
     [ "influences", "classdependency__graph_1_1Metadata.html#aca5ba73ac0e3860576cf4e82d2253e85", null ],
     [ "instance", "classdependency__graph_1_1Metadata.html#adda2e33f3ab682ddcae451d675ab83c8", null ],
     [ "instances", "classdependency__graph_1_1Metadata.html#ab786137cc553d861437a4d10f073daf4", null ],
+    [ "instanceSet", "classdependency__graph_1_1Metadata.html#a918736f88186b7fb83b12fff3cec8796", null ],
     [ "isValid", "classdependency__graph_1_1Metadata.html#af7c787e178580c5e3ea4da76e485b87a", null ],
     [ "setBlindData", "classdependency__graph_1_1Metadata.html#a401693fbc43570b93759c8dd6cfba916", null ],
     [ "setCompute", "classdependency__graph_1_1Metadata.html#a5af3adc9489b67593c00a611219699d7", null ],
@@ -27,6 +28,5 @@ var classdependency__graph_1_1Metadata =
     [ "m_blindData", "classdependency__graph_1_1Metadata.html#a78916c491f6f8da0ceb20e2787c2db95", null ],
     [ "m_compute", "classdependency__graph_1_1Metadata.html#a627a44e29ae5de7708bbd6643a1e7e0d", null ],
     [ "m_influences", "classdependency__graph_1_1Metadata.html#abb9acf32a290218c6965eb50f2f2ab2d", null ],
-    [ "m_type", "classdependency__graph_1_1Metadata.html#a73e48ae4cada097728171a4a477b86ae", null ],
-    [ "s_instances", "classdependency__graph_1_1Metadata.html#abe515e5b8e50b3dc2255f5fd93282916", null ]
+    [ "m_type", "classdependency__graph_1_1Metadata.html#a73e48ae4cada097728171a4a477b86ae", null ]
 ];

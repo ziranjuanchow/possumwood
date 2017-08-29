@@ -224,6 +224,7 @@ var hierarchy =
     [ "dependency_graph::io::detail::to_json_fn", "structdependency__graph_1_1io_1_1detail_1_1to__json__fn.html", null ],
     [ "anim::Tokenizer::Token", "structanim_1_1Tokenizer_1_1Token.html", null ],
     [ "possumwood::Traits< T, ENABLE >", "structpossumwood_1_1Traits.html", null ],
+    [ "possumwood::Traits< anim::Skeleton >", "structpossumwood_1_1Traits_3_01anim_1_1Skeleton_01_4.html", null ],
     [ "possumwood::Traits< DecimaterModule >", "structpossumwood_1_1Traits_3_01DecimaterModule_01_4.html", null ],
     [ "possumwood::Traits< Enum >", "structpossumwood_1_1Traits_3_01Enum_01_4.html", null ],
     [ "possumwood::Traits< Filename >", "structpossumwood_1_1Traits_3_01Filename_01_4.html", null ],

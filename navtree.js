@@ -43,14 +43,15 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "actions_8cpp.html",
-"classanim_1_1Hierarchy_1_1Item.html#a01557c4e991b63d35752f65484b3c613",
-"classdependency__graph_1_1Node.html#a0ad0805716871a6743c31b1d13d0d201",
-"classdependency__graph_1_1io_1_1basic__json.html#ab0f808cf8c5ddeb1b153b8c8aa238955",
-"classdependency__graph_1_1io_1_1basic__json_1_1output__adapter.html#a3eb0bfcba61c56f9468d2d8542240d57",
-"classnode__editor_1_1Port.html#a8c0e9a53e234be28e918036e068ed3fe",
-"classunsigned__ui.html#a700efc1f3d9e2d1ffc9748a613af3030",
-"io_2vec3_8h.html",
-"structdependency__graph_1_1DataTraits.html"
+"classanim_1_1Hierarchy_1_1Item.html",
+"classdependency__graph_1_1Metadata.html#af7c787e178580c5e3ea4da76e485b87a",
+"classdependency__graph_1_1io_1_1basic__json.html#aae6eb6bfe6ea242d921eb4c781d876d3",
+"classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#aebdf6ae1f8c9e10b2502ce2310bd9cbc",
+"classnode__editor_1_1Port.html#a7c77c4a85958449bbba8bb9f193165d5",
+"classpossumwood_1_1properties_1_1property__base.html#af026c9c1c221e29fb7bd634b145737c6",
+"io_2graph_8cpp.html#ad2dcb2ad8e34f116f3f86dd104dac506",
+"structdependency__graph_1_1Data.html#a05da8c6a62ae6bfb971e9e9e67548eb2",
+"viewport_8h_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
