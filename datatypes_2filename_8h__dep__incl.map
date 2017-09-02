@@ -1,7 +1,9 @@
 <map id="src/libs/possumwood_sdk/datatypes/filename.h" name="src/libs/possumwood_sdk/datatypes/filename.h">
 <area shape="rect" id="node2" href="$datatypes_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/filename.cpp" alt="" coords="5,97,195,138"/>
 <area shape="rect" id="node3" href="$ui_2filename_8h.html" title="src/libs/possumwood\l_sdk/ui/filename.h" alt="" coords="219,97,364,138"/>
-<area shape="rect" id="node5" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="389,97,544,138"/>
-<area shape="rect" id="node6" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="569,97,717,138"/>
+<area shape="rect" id="node5" href="$amc_8cpp.html" title="src/plugins/anim/nodes\l/amc.cpp" alt="" coords="389,97,544,138"/>
+<area shape="rect" id="node6" href="$asf_8cpp.html" title="src/plugins/anim/nodes\l/asf.cpp" alt="" coords="569,97,724,138"/>
+<area shape="rect" id="node7" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="749,97,904,138"/>
+<area shape="rect" id="node8" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="929,97,1077,138"/>
 <area shape="rect" id="node4" href="$ui_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filename.cpp" alt="" coords="219,187,364,229"/>
 </map>

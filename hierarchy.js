@@ -211,8 +211,8 @@ var hierarchy =
     [ "reverse_iterator", null, [
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_reverse_iterator< Base >", "classdependency__graph_1_1io_1_1basic__json_1_1json__reverse__iterator.html", null ]
     ] ],
-    [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
     [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
+    [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classdependency__graph_1_1io_1_1basic__json_1_1serializer.html", null ],
     [ "anim::Skeleton", "classanim_1_1Skeleton.html", null ],
     [ "SkeletonTest", "structSkeletonTest.html", null ],

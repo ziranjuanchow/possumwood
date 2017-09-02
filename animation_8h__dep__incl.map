@@ -1,10 +1,11 @@
 <map id="src/plugins/anim/datatypes/animation.h" name="src/plugins/anim/datatypes/animation.h">
-<area shape="rect" id="node2" href="$anim__frame_8cpp.html" title="src/plugins/anim/nodes\l/anim_frame.cpp" alt="" coords="5,97,160,138"/>
-<area shape="rect" id="node3" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="185,97,340,138"/>
-<area shape="rect" id="node4" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/periodic.cpp" alt="" coords="415,187,571,229"/>
-<area shape="rect" id="node5" href="$retime_8cpp.html" title="src/plugins/anim/nodes\l/retime.cpp" alt="" coords="417,97,572,138"/>
-<area shape="rect" id="node6" href="$plugins_2anim_2nodes_2transform_8cpp.html" title="src/plugins/anim/nodes\l/transform.cpp" alt="" coords="597,97,752,138"/>
-<area shape="rect" id="node7" href="$transition_8cpp.html" title="src/plugins/anim/nodes\l/transition.cpp" alt="" coords="867,187,1023,229"/>
-<area shape="rect" id="node8" href="$motion__map_8h.html" title="src/plugins/anim/ui\l/motion_map.h" alt="" coords="777,97,907,138"/>
-<area shape="rect" id="node9" href="$motion__map_8cpp.html" title="src/plugins/anim/ui\l/motion_map.cpp" alt="" coords="712,187,841,229"/>
+<area shape="rect" id="node2" href="$amc_8cpp.html" title="src/plugins/anim/nodes\l/amc.cpp" alt="" coords="5,97,160,138"/>
+<area shape="rect" id="node3" href="$anim__frame_8cpp.html" title="src/plugins/anim/nodes\l/anim_frame.cpp" alt="" coords="185,97,340,138"/>
+<area shape="rect" id="node4" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="365,97,520,138"/>
+<area shape="rect" id="node5" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/periodic.cpp" alt="" coords="595,187,751,229"/>
+<area shape="rect" id="node6" href="$retime_8cpp.html" title="src/plugins/anim/nodes\l/retime.cpp" alt="" coords="597,97,752,138"/>
+<area shape="rect" id="node7" href="$plugins_2anim_2nodes_2transform_8cpp.html" title="src/plugins/anim/nodes\l/transform.cpp" alt="" coords="777,97,932,138"/>
+<area shape="rect" id="node8" href="$transition_8cpp.html" title="src/plugins/anim/nodes\l/transition.cpp" alt="" coords="1047,187,1203,229"/>
+<area shape="rect" id="node9" href="$motion__map_8h.html" title="src/plugins/anim/ui\l/motion_map.h" alt="" coords="957,97,1087,138"/>
+<area shape="rect" id="node10" href="$motion__map_8cpp.html" title="src/plugins/anim/ui\l/motion_map.cpp" alt="" coords="892,187,1021,229"/>
 </map>
