@@ -3,6 +3,7 @@ var annotated =
     [ "anim", "namespaceanim.html", "namespaceanim" ],
     [ "dependency_graph", "namespacedependency__graph.html", "namespacedependency__graph" ],
     [ "node_editor", "namespacenode__editor.html", "namespacenode__editor" ],
+    [ "openanim", "namespaceopenanim.html", "namespaceopenanim" ],
     [ "possumwood", "namespacepossumwood.html", "namespacepossumwood" ],
     [ "std", "namespacestd.html", "namespacestd" ],
     [ "Actions", "structActions.html", "structActions" ],

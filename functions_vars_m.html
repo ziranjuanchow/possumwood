@@ -408,7 +408,8 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 : <a class="el" href="classnode__editor_1_1GraphScene.html#a853833818eb1fabfbd80e34690abb18f">node_editor::GraphScene</a>
 </li>
 <li>m_name
-: <a class="el" href="classdependency__graph_1_1Attr.html#a1055c5277f685d1381271ebd457a805c">dependency_graph::Attr</a>
+: <a class="el" href="classanim_1_1SkinnedMesh.html#a4541f0006932129f54254542b31a6bc2">anim::SkinnedMesh</a>
+, <a class="el" href="classdependency__graph_1_1Attr.html#a1055c5277f685d1381271ebd457a805c">dependency_graph::Attr</a>
 , <a class="el" href="classdependency__graph_1_1Node.html#abb48ea43b464f228b3b46e7fa0511bbf">dependency_graph::Node</a>
 , <a class="el" href="classdependency__graph_1_1Port.html#aaf9f0ac4a88cf924c3ebc911aaab7518">dependency_graph::Port</a>
 , <a class="el" href="classnode__editor_1_1Port.html#a8c0e9a53e234be28e918036e068ed3fe">node_editor::Port</a>
@@ -429,6 +430,9 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 </li>
 <li>m_nodesMoveCallback
 : <a class="el" href="classnode__editor_1_1GraphScene.html#a3322ade18843b571920e8532a46bf05e">node_editor::GraphScene</a>
+</li>
+<li>m_normals
+: <a class="el" href="classanim_1_1SkinnedMesh.html#a23a443c846cdedebfbef03389ca256a6">anim::SkinnedMesh</a>
 </li>
 <li>m_object
 : <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1iter__impl.html#aaefc47c3dd4cf154f004824f569505c1">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;</a>
@@ -510,9 +514,16 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 <li>m_polyCount
 : <a class="el" href="classmesh__ui.html#a309a4c686740490439e2c6fa8ff0ecbc">mesh_ui</a>
 </li>
+<li>m_polygons
+: <a class="el" href="classanim_1_1Polygons.html#af2330d236aae7d1151ae3d9135671d41">anim::Polygons</a>
+, <a class="el" href="classanim_1_1SkinnedMesh.html#a306271ea3efbcc7482564b8612105a62">anim::SkinnedMesh</a>
+</li>
 <li>m_ports
 : <a class="el" href="classdependency__graph_1_1Node.html#a0603907b54f87d55cdc2ca70c0117a34">dependency_graph::Node</a>
 , <a class="el" href="classnode__editor_1_1Node.html#afea10ddcda7fed2b64b43b0793da0614">node_editor::Node</a>
+</li>
+<li>m_pos
+: <a class="el" href="classanim_1_1SkinnedVertices_1_1Vertex.html#a9908f585da055c4002b94e7f7ab5286a">anim::SkinnedVertices::Vertex</a>
 </li>
 <li>m_position
 : <a class="el" href="classpossumwood_1_1NodeData.html#a9f019e22ae54f204471a72d35a2973ff">possumwood::NodeData</a>
@@ -530,6 +541,9 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 </li>
 <li>m_redoStack
 : <a class="el" href="classpossumwood_1_1UndoStack.html#ae6e29a106e89dde75bfd308ff9431d65">possumwood::UndoStack</a>
+</li>
+<li>m_registered
+: <a class="el" href="classdependency__graph_1_1Metadata.html#a9a83b5e7f2ecea7f913e691c74270747">dependency_graph::Metadata</a>
 </li>
 <li>m_runningValueCallbacks
 : <a class="el" href="classpossumwood_1_1Editor.html#a73fced20c0cf66fbf36131a6db9bd7ae">possumwood::Editor</a>
@@ -642,11 +656,18 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 <li>m_vertexCount
 : <a class="el" href="classmesh__ui.html#afad9066a2d73f1f8b40ddf882ff152c8">mesh_ui</a>
 </li>
+<li>m_vertices
+: <a class="el" href="classanim_1_1SkinnedMesh.html#a880d381bdebd7c889084c42ead97c95c">anim::SkinnedMesh</a>
+, <a class="el" href="classanim_1_1SkinnedVertices.html#a44e35439382aa32c9e53427404522a7b">anim::SkinnedVertices</a>
+</li>
 <li>m_viewport
 : <a class="el" href="classMainWindow.html#ad33afa9553e94ddf7a78ba5706c26233">MainWindow</a>
 </li>
 <li>m_warn
 : <a class="el" href="classOMLog.html#aad11e41374faf6f7c39234a96b7f7b66">OMLog</a>
+</li>
+<li>m_weights
+: <a class="el" href="classanim_1_1SkinnedVertices_1_1Vertex.html#a27f37af8d37c61a8e39a830d23a0543c">anim::SkinnedVertices::Vertex</a>
 </li>
 <li>m_widget
 : <a class="el" href="classfilename__ui.html#a3fc76c008d65f510313b7a021323f8dd">filename_ui</a>
@@ -656,13 +677,16 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 <li>mantissa
 : <a class="el" href="structTimeline_1_1TickSkip.html#a4417150be8a25e72f9428b816e37d084">Timeline::TickSkip</a>
 </li>
+<li>models
+: <a class="el" href="structopenanim_1_1RigData.html#ab6224d771f4b58fe2716fe4c86957dd9">openanim::RigData</a>
+</li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sat Sep 2 2017 16:32:19 for possumwood by
+    <li class="footer">Generated on Sun Sep 3 2017 19:55:17 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

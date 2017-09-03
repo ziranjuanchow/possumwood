@@ -31,7 +31,9 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
       [ "Connections", "classdependency__graph_1_1Graph_1_1Connections.html", "classdependency__graph_1_1Graph_1_1Connections" ]
     ] ],
     [ "io.h", "libs_2dependency__graph_2io_8h.html", "libs_2dependency__graph_2io_8h" ],
-    [ "metadata.cpp", "dependency__graph_2metadata_8cpp.html", null ],
+    [ "metadata.cpp", "dependency__graph_2metadata_8cpp.html", [
+      [ "Register", "classdependency__graph_1_1Metadata_1_1Register.html", "classdependency__graph_1_1Metadata_1_1Register" ]
+    ] ],
     [ "metadata.h", "dependency__graph_2metadata_8h.html", [
       [ "InAttr", "classdependency__graph_1_1InAttr.html", "classdependency__graph_1_1InAttr" ],
       [ "OutAttr", "classdependency__graph_1_1OutAttr.html", "classdependency__graph_1_1OutAttr" ],

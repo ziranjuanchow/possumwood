@@ -20,8 +20,22 @@ var dir_9901eca8914c9875f5a6bb81eceb34f8 =
       [ "Hierarchy", "classanim_1_1Hierarchy.html", "classanim_1_1Hierarchy" ],
       [ "Item", "classanim_1_1Hierarchy_1_1Item.html", "classanim_1_1Hierarchy_1_1Item" ]
     ] ],
+    [ "polygons.cpp", "polygons_8cpp.html", null ],
+    [ "polygons.h", "polygons_8h.html", [
+      [ "Polygons", "classanim_1_1Polygons.html", "classanim_1_1Polygons" ]
+    ] ],
     [ "skeleton.cpp", "plugins_2anim_2datatypes_2skeleton_8cpp.html", "plugins_2anim_2datatypes_2skeleton_8cpp" ],
     [ "skeleton.h", "skeleton_8h.html", "skeleton_8h" ],
+    [ "skinned_mesh.cpp", "skinned__mesh_8cpp.html", null ],
+    [ "skinned_mesh.h", "skinned__mesh_8h.html", [
+      [ "SkinnedMesh", "classanim_1_1SkinnedMesh.html", "classanim_1_1SkinnedMesh" ],
+      [ "Traits< std::shared_ptr< const std::vector< anim::SkinnedMesh > > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4" ]
+    ] ],
+    [ "skinned_vertices.cpp", "skinned__vertices_8cpp.html", null ],
+    [ "skinned_vertices.h", "skinned__vertices_8h.html", [
+      [ "SkinnedVertices", "classanim_1_1SkinnedVertices.html", "classanim_1_1SkinnedVertices" ],
+      [ "Vertex", "classanim_1_1SkinnedVertices_1_1Vertex.html", "classanim_1_1SkinnedVertices_1_1Vertex" ]
+    ] ],
     [ "transform.cpp", "plugins_2anim_2datatypes_2transform_8cpp.html", "plugins_2anim_2datatypes_2transform_8cpp" ],
     [ "transform.h", "transform_8h.html", "transform_8h" ]
 ];

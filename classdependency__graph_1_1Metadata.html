@@ -139,6 +139,8 @@ Collaboration diagram for dependency_graph::Metadata:</div>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1Metadata_1_1Comparator.html">Comparator</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata_1_1Register.html">Register</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
 Public Types</h2></td></tr>
@@ -162,10 +164,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:af7c787e178580c5e3ea4da76e485b87a"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns true if this metadata instance has no attributes or no compute  <a href="#af7c787e178580c5e3ea4da76e485b87a">More...</a><br/></td></tr>
 <tr class="separator:af7c787e178580c5e3ea4da76e485b87a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3f3f10ec088575f5c36073511db379b9"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a3f3f10ec088575f5c36073511db379b9"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a3f3f10ec088575f5c36073511db379b9">addAttribute</a> (<a class="el" href="classdependency__graph_1_1InAttr.html">InAttr</a>&lt; T &gt; &amp;in, const std::string &amp;<a class="el" href="config_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, const T &amp;defaultValue=T())</td></tr>
+<tr class="memitem:a3f3f10ec088575f5c36073511db379b9"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a3f3f10ec088575f5c36073511db379b9">addAttribute</a> (<a class="el" href="classdependency__graph_1_1InAttr.html">InAttr</a>&lt; T &gt; &amp;in, const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, const T &amp;defaultValue=T())</td></tr>
 <tr class="separator:a3f3f10ec088575f5c36073511db379b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad86fe8e49a345099ecc824c8d36fd4a5"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:ad86fe8e49a345099ecc824c8d36fd4a5"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#ad86fe8e49a345099ecc824c8d36fd4a5">addAttribute</a> (<a class="el" href="classdependency__graph_1_1OutAttr.html">OutAttr</a>&lt; T &gt; &amp;out, const std::string &amp;<a class="el" href="config_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, const T &amp;defaultValue=T())</td></tr>
+<tr class="memitem:ad86fe8e49a345099ecc824c8d36fd4a5"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#ad86fe8e49a345099ecc824c8d36fd4a5">addAttribute</a> (<a class="el" href="classdependency__graph_1_1OutAttr.html">OutAttr</a>&lt; T &gt; &amp;out, const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, const T &amp;defaultValue=T())</td></tr>
 <tr class="separator:ad86fe8e49a345099ecc824c8d36fd4a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5af3adc9489b67593c00a611219699d7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a5af3adc9489b67593c00a611219699d7">setCompute</a> (std::function&lt; <a class="el" href="classdependency__graph_1_1State.html">State</a>(<a class="el" href="classdependency__graph_1_1Values.html">Values</a> &amp;)&gt; <a class="el" href="asf_8cpp.html#a98cb3325e194483fd6a7e5f35df6767a">compute</a>)</td></tr>
 <tr class="memdesc:a5af3adc9489b67593c00a611219699d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">compute method of this node  <a href="#a5af3adc9489b67593c00a611219699d7">More...</a><br/></td></tr>
@@ -220,12 +222,15 @@ Private Member Functions</h2></td></tr>
 &lt; std::reference_wrapper<br class="typebreak"/>
 &lt; const <a class="el" href="classdependency__graph_1_1Attr.html">Attr</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a0f550d272de3d11b14c43467fea3a79e">influencedBy</a> (size_t index) const </td></tr>
 <tr class="separator:a0f550d272de3d11b14c43467fea3a79e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab2c2306710b256bbf8c62eb69033b615"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#ab2c2306710b256bbf8c62eb69033b615">doRegister</a> ()</td></tr>
+<tr class="separator:ab2c2306710b256bbf8c62eb69033b615"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae62e9c05b7c3bec0ed0d88a68335cc37"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#ae62e9c05b7c3bec0ed0d88a68335cc37">doUnregister</a> ()</td></tr>
+<tr class="separator:ae62e9c05b7c3bec0ed0d88a68335cc37"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-methods"></a>
 Static Private Member Functions</h2></td></tr>
-<tr class="memitem:a918736f88186b7fb83b12fff3cec8796"><td class="memItemLeft" align="right" valign="top">static std::set&lt; <a class="el" href="classdependency__graph_1_1Metadata.html">Metadata</a> <br class="typebreak"/>
-*, <a class="el" href="structdependency__graph_1_1Metadata_1_1Comparator.html">Metadata::Comparator</a> &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a918736f88186b7fb83b12fff3cec8796">instanceSet</a> ()</td></tr>
-<tr class="separator:a918736f88186b7fb83b12fff3cec8796"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37f9ad120a378c219a5c0c749fe9e26a"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classdependency__graph_1_1Metadata_1_1Register.html">Register</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a37f9ad120a378c219a5c0c749fe9e26a">instanceSet</a> ()</td></tr>
+<tr class="separator:a37f9ad120a378c219a5c0c749fe9e26a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -243,6 +248,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:abb9acf32a290218c6965eb50f2f2ab2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a78916c491f6f8da0ceb20e2787c2db95"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a78916c491f6f8da0ceb20e2787c2db95">m_blindData</a></td></tr>
 <tr class="separator:a78916c491f6f8da0ceb20e2787c2db95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a83b5e7f2ecea7f913e691c74270747"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a9a83b5e7f2ecea7f913e691c74270747">m_registered</a></td></tr>
+<tr class="separator:a9a83b5e7f2ecea7f913e691c74270747"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="friends"></a>
 Friends</h2></td></tr>
@@ -477,6 +484,52 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
+<a class="anchor" id="ab2c2306710b256bbf8c62eb69033b615"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void dependency_graph::Metadata::doRegister </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="ae62e9c05b7c3bec0ed0d88a68335cc37"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void dependency_graph::Metadata::doUnregister </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="ac7bc49b64f879791f9b3d14593f7062b"></a>
 <div class="memitem">
 <div class="memproto">
@@ -613,7 +666,7 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
-<a class="anchor" id="a918736f88186b7fb83b12fff3cec8796"></a>
+<a class="anchor" id="a37f9ad120a378c219a5c0c749fe9e26a"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -621,7 +674,7 @@ template&lt;typename T &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::set&lt; <a class="el" href="classdependency__graph_1_1Metadata.html">Metadata</a> *, <a class="el" href="structdependency__graph_1_1Metadata_1_1Comparator.html">Metadata::Comparator</a> &gt; &amp; dependency_graph::Metadata::instanceSet </td>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1Metadata_1_1Register.html">Metadata::Register</a> &amp; dependency_graph::Metadata::instanceSet </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -837,6 +890,26 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
+<a class="anchor" id="a9a83b5e7f2ecea7f913e691c74270747"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool dependency_graph::Metadata::m_registered</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a73e48ae4cada097728171a4a477b86ae"></a>
 <div class="memitem">
 <div class="memproto">
@@ -868,7 +941,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Metadata.html">Metadata</a></li>
-    <li class="footer">Generated on Sat Sep 2 2017 16:32:17 for possumwood by
+    <li class="footer">Generated on Sun Sep 3 2017 19:55:16 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>
