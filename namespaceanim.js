@@ -4,6 +4,7 @@ var namespaceanim =
     [ "Attribute", "classanim_1_1Attribute.html", "classanim_1_1Attribute" ],
     [ "Attributes", "classanim_1_1Attributes.html", "classanim_1_1Attributes" ],
     [ "Children", "classanim_1_1Children.html", "classanim_1_1Children" ],
+    [ "FrameEditorData", "classanim_1_1FrameEditorData.html", "classanim_1_1FrameEditorData" ],
     [ "Hierarchy", "classanim_1_1Hierarchy.html", "classanim_1_1Hierarchy" ],
     [ "Polygons", "classanim_1_1Polygons.html", "classanim_1_1Polygons" ],
     [ "Skeleton", "classanim_1_1Skeleton.html", "classanim_1_1Skeleton" ],

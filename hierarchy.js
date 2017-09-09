@@ -53,6 +53,7 @@ var hierarchy =
       [ "dependency_graph::io::detail::is_compatible_object_type_impl< B, RealType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type__impl.html", null ]
     ] ],
     [ "possumwood::Filename", "classpossumwood_1_1Filename.html", null ],
+    [ "anim::FrameEditorData", "classanim_1_1FrameEditorData.html", null ],
     [ "dependency_graph::io::detail::from_json_fn", "structdependency__graph_1_1io_1_1detail_1_1from__json__fn.html", null ],
     [ "dependency_graph::io::detail::has_from_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__from__json.html", null ],
     [ "dependency_graph::io::detail::has_non_default_from_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__non__default__from__json.html", null ],
@@ -115,6 +116,7 @@ var hierarchy =
       [ "possumwood::Editor", "classpossumwood_1_1Editor.html", null ],
       [ "possumwood::Index::Item", "structpossumwood_1_1Index_1_1Item.html", null ],
       [ "possumwood::IOBase", "classpossumwood_1_1IOBase.html", [
+        [ "possumwood::IO< anim::FrameEditorData >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< Imath::Vec3< float > >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::Enum >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::Filename >", "classpossumwood_1_1IO.html", null ],
@@ -132,6 +134,7 @@ var hierarchy =
         [ "possumwood::properties::factory_typed< enum_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< filename_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< float_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< FrameEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< mesh_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< unsigned_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< vec3_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
@@ -139,6 +142,9 @@ var hierarchy =
       ] ],
       [ "possumwood::properties::property_base", "classpossumwood_1_1properties_1_1property__base.html", [
         [ "possumwood::properties::property< T, DERIVED >", "classpossumwood_1_1properties_1_1property.html", null ],
+        [ "possumwood::properties::property< anim::FrameEditorData, FrameEditor >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "FrameEditor", "classFrameEditor.html", null ]
+        ] ],
         [ "possumwood::properties::property< bool, bool_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "bool_ui", "classbool__ui.html", null ]
         ] ],
@@ -230,6 +236,7 @@ var hierarchy =
     [ "dependency_graph::io::detail::to_json_fn", "structdependency__graph_1_1io_1_1detail_1_1to__json__fn.html", null ],
     [ "anim::Tokenizer::Token", "structanim_1_1Tokenizer_1_1Token.html", null ],
     [ "possumwood::Traits< T, ENABLE >", "structpossumwood_1_1Traits.html", null ],
+    [ "possumwood::Traits< anim::FrameEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1FrameEditorData_01_4.html", null ],
     [ "possumwood::Traits< anim::Skeleton >", "structpossumwood_1_1Traits_3_01anim_1_1Skeleton_01_4.html", null ],
     [ "possumwood::Traits< DecimaterModule >", "structpossumwood_1_1Traits_3_01DecimaterModule_01_4.html", null ],
     [ "possumwood::Traits< Enum >", "structpossumwood_1_1Traits_3_01Enum_01_4.html", null ],

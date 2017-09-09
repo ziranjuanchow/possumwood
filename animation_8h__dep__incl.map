@@ -2,10 +2,11 @@
 <area shape="rect" id="node2" href="$amc_8cpp.html" title="src/plugins/anim/nodes\l/amc.cpp" alt="" coords="5,97,160,138"/>
 <area shape="rect" id="node3" href="$anim__frame_8cpp.html" title="src/plugins/anim/nodes\l/anim_frame.cpp" alt="" coords="185,97,340,138"/>
 <area shape="rect" id="node4" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="365,97,520,138"/>
-<area shape="rect" id="node5" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/periodic.cpp" alt="" coords="595,187,751,229"/>
-<area shape="rect" id="node6" href="$retime_8cpp.html" title="src/plugins/anim/nodes\l/retime.cpp" alt="" coords="597,97,752,138"/>
-<area shape="rect" id="node7" href="$plugins_2anim_2nodes_2transform_8cpp.html" title="src/plugins/anim/nodes\l/transform.cpp" alt="" coords="777,97,932,138"/>
-<area shape="rect" id="node8" href="$transition_8cpp.html" title="src/plugins/anim/nodes\l/transition.cpp" alt="" coords="1047,187,1203,229"/>
-<area shape="rect" id="node9" href="$motion__map_8h.html" title="src/plugins/anim/ui\l/motion_map.h" alt="" coords="957,97,1087,138"/>
-<area shape="rect" id="node10" href="$motion__map_8cpp.html" title="src/plugins/anim/ui\l/motion_map.cpp" alt="" coords="892,187,1021,229"/>
+<area shape="rect" id="node5" href="$frame__edit_8cpp.html" title="src/plugins/anim/nodes\l/frame_edit.cpp" alt="" coords="545,97,700,138"/>
+<area shape="rect" id="node6" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/periodic.cpp" alt="" coords="775,187,931,229"/>
+<area shape="rect" id="node7" href="$retime_8cpp.html" title="src/plugins/anim/nodes\l/retime.cpp" alt="" coords="777,97,932,138"/>
+<area shape="rect" id="node8" href="$plugins_2anim_2nodes_2transform_8cpp.html" title="src/plugins/anim/nodes\l/transform.cpp" alt="" coords="957,97,1112,138"/>
+<area shape="rect" id="node9" href="$transition_8cpp.html" title="src/plugins/anim/nodes\l/transition.cpp" alt="" coords="1227,187,1383,229"/>
+<area shape="rect" id="node10" href="$motion__map_8h.html" title="src/plugins/anim/ui\l/motion_map.h" alt="" coords="1137,97,1267,138"/>
+<area shape="rect" id="node11" href="$motion__map_8cpp.html" title="src/plugins/anim/ui\l/motion_map.cpp" alt="" coords="1072,187,1201,229"/>
 </map>

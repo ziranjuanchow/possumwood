@@ -9,6 +9,7 @@ var searchData=
   ['token',['Token',['../structanim_1_1Tokenizer_1_1Token.html',1,'anim::Tokenizer']]],
   ['tokenizer',['Tokenizer',['../classanim_1_1Tokenizer.html',1,'anim']]],
   ['traits',['Traits',['../structpossumwood_1_1Traits.html',1,'possumwood']]],
+  ['traits_3c_20anim_3a_3aframeeditordata_20_3e',['Traits&lt; anim::FrameEditorData &gt;',['../structpossumwood_1_1Traits_3_01anim_1_1FrameEditorData_01_4.html',1,'possumwood']]],
   ['traits_3c_20anim_3a_3askeleton_20_3e',['Traits&lt; anim::Skeleton &gt;',['../structpossumwood_1_1Traits_3_01anim_1_1Skeleton_01_4.html',1,'possumwood']]],
   ['traits_3c_20decimatermodule_20_3e',['Traits&lt; DecimaterModule &gt;',['../structpossumwood_1_1Traits_3_01DecimaterModule_01_4.html',1,'possumwood']]],
   ['traits_3c_20enum_20_3e',['Traits&lt; Enum &gt;',['../structpossumwood_1_1Traits_3_01Enum_01_4.html',1,'possumwood']]],

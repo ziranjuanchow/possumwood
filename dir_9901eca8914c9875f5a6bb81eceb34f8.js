@@ -15,6 +15,11 @@ var dir_9901eca8914c9875f5a6bb81eceb34f8 =
     [ "children.h", "children_8h.html", [
       [ "Children", "classanim_1_1Children.html", "classanim_1_1Children" ]
     ] ],
+    [ "frame_editor_data.cpp", "frame__editor__data_8cpp.html", null ],
+    [ "frame_editor_data.h", "frame__editor__data_8h.html", [
+      [ "FrameEditorData", "classanim_1_1FrameEditorData.html", "classanim_1_1FrameEditorData" ],
+      [ "Traits< anim::FrameEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1FrameEditorData_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1FrameEditorData_01_4" ]
+    ] ],
     [ "hierarchy.cpp", "hierarchy_8cpp.html", null ],
     [ "hierarchy.h", "hierarchy_8h.html", [
       [ "Hierarchy", "classanim_1_1Hierarchy.html", "classanim_1_1Hierarchy" ],
