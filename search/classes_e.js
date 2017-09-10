@@ -19,6 +19,7 @@ var searchData=
   ['property_3c_20possumwood_3a_3aenum_2c_20enum_5fui_20_3e',['property&lt; possumwood::Enum, enum_ui &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_3c_20possumwood_3a_3afilename_2c_20filename_5fui_20_3e',['property&lt; possumwood::Filename, filename_ui &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_3c_20std_3a_3ashared_5fptr_3c_20const_20mesh_20_3e_2c_20mesh_5fui_20_3e',['property&lt; std::shared_ptr&lt; const Mesh &gt;, mesh_ui &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
+  ['property_3c_20std_3a_3astring_2c_20string_5fui_20_3e',['property&lt; std::string, string_ui &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_3c_20unsigned_2c_20unsigned_5fui_20_3e',['property&lt; unsigned, unsigned_ui &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_5fbase',['property_base',['../classpossumwood_1_1properties_1_1property__base.html',1,'possumwood::properties']]]
 ];

@@ -4,12 +4,13 @@
 <area shape="rect" id="node9" href="$property_8cpp.html" title="src/libs/possumwood\l_sdk/properties/property.cpp" alt="" coords="652,97,839,138"/>
 <area shape="rect" id="node10" href="$enum__ui_8h.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.h" alt="" coords="863,97,1008,138"/>
 <area shape="rect" id="node12" href="$ui_2filename_8h.html" title="src/libs/possumwood\l_sdk/ui/filename.h" alt="" coords="1033,97,1177,138"/>
-<area shape="rect" id="node14" href="$ui_2vec3_8h.html" title="src/plugins/3d/ui/vec3.h" alt="" coords="1203,104,1361,131"/>
-<area shape="rect" id="node16" href="$frame__editor_8h.html" title="src/plugins/anim/ui\l/frame_editor.h" alt="" coords="1387,97,1516,138"/>
-<area shape="rect" id="node18" href="$bool__ui_8h.html" title="src/plugins/maths/ui\l/bool_ui.h" alt="" coords="1541,97,1680,138"/>
-<area shape="rect" id="node20" href="$float__ui_8h.html" title="src/plugins/maths/ui\l/float_ui.h" alt="" coords="1704,97,1843,138"/>
-<area shape="rect" id="node22" href="$unsigned__ui_8h.html" title="src/plugins/maths/ui\l/unsigned_ui.h" alt="" coords="1867,97,2005,138"/>
-<area shape="rect" id="node24" href="$ui_2mesh_8h.html" title="src/plugins/openmesh\l/ui/mesh.h" alt="" coords="2029,97,2177,138"/>
+<area shape="rect" id="node14" href="$string_8h.html" title="src/libs/possumwood\l_sdk/ui/string.h" alt="" coords="1202,97,1347,138"/>
+<area shape="rect" id="node16" href="$ui_2vec3_8h.html" title="src/plugins/3d/ui/vec3.h" alt="" coords="1372,104,1531,131"/>
+<area shape="rect" id="node18" href="$frame__editor_8h.html" title="src/plugins/anim/ui\l/frame_editor.h" alt="" coords="1556,97,1685,138"/>
+<area shape="rect" id="node20" href="$bool__ui_8h.html" title="src/plugins/maths/ui\l/bool_ui.h" alt="" coords="1711,97,1849,138"/>
+<area shape="rect" id="node22" href="$float__ui_8h.html" title="src/plugins/maths/ui\l/float_ui.h" alt="" coords="1873,97,2012,138"/>
+<area shape="rect" id="node24" href="$unsigned__ui_8h.html" title="src/plugins/maths/ui\l/unsigned_ui.h" alt="" coords="2036,97,2175,138"/>
+<area shape="rect" id="node26" href="$ui_2mesh_8h.html" title="src/plugins/openmesh\l/ui/mesh.h" alt="" coords="2199,97,2347,138"/>
 <area shape="rect" id="node3" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="182,187,335,229"/>
 <area shape="rect" id="node7" href="$properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="359,187,512,229"/>
 <area shape="rect" id="node4" href="$actions_8cpp.html" title="src/apps/possumwood\l/actions.cpp" alt="" coords="5,278,157,319"/>
@@ -17,10 +18,11 @@
 <area shape="rect" id="node6" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="359,278,512,319"/>
 <area shape="rect" id="node11" href="$enum__ui_8cpp.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.cpp" alt="" coords="849,187,993,229"/>
 <area shape="rect" id="node13" href="$ui_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filename.cpp" alt="" coords="1018,187,1163,229"/>
-<area shape="rect" id="node15" href="$ui_2vec3_8cpp.html" title="src/plugins/3d/ui/vec3.cpp" alt="" coords="1187,195,1361,221"/>
-<area shape="rect" id="node17" href="$frame__editor_8cpp.html" title="src/plugins/anim/ui\l/frame_editor.cpp" alt="" coords="1387,187,1516,229"/>
-<area shape="rect" id="node19" href="$bool_8cpp.html" title="src/plugins/maths/ui\l/bool.cpp" alt="" coords="1541,187,1680,229"/>
-<area shape="rect" id="node21" href="$float__ui_8cpp.html" title="src/plugins/maths/ui\l/float_ui.cpp" alt="" coords="1704,187,1843,229"/>
-<area shape="rect" id="node23" href="$unsigned__ui_8cpp.html" title="src/plugins/maths/ui\l/unsigned_ui.cpp" alt="" coords="1867,187,2005,229"/>
-<area shape="rect" id="node25" href="$mesh_8cpp.html" title="src/plugins/openmesh\l/ui/mesh.cpp" alt="" coords="2029,187,2177,229"/>
+<area shape="rect" id="node15" href="$string_8cpp.html" title="src/libs/possumwood\l_sdk/ui/string.cpp" alt="" coords="1187,187,1332,229"/>
+<area shape="rect" id="node17" href="$ui_2vec3_8cpp.html" title="src/plugins/3d/ui/vec3.cpp" alt="" coords="1357,195,1531,221"/>
+<area shape="rect" id="node19" href="$frame__editor_8cpp.html" title="src/plugins/anim/ui\l/frame_editor.cpp" alt="" coords="1556,187,1685,229"/>
+<area shape="rect" id="node21" href="$bool_8cpp.html" title="src/plugins/maths/ui\l/bool.cpp" alt="" coords="1711,187,1849,229"/>
+<area shape="rect" id="node23" href="$float__ui_8cpp.html" title="src/plugins/maths/ui\l/float_ui.cpp" alt="" coords="1873,187,2012,229"/>
+<area shape="rect" id="node25" href="$unsigned__ui_8cpp.html" title="src/plugins/maths/ui\l/unsigned_ui.cpp" alt="" coords="2036,187,2175,229"/>
+<area shape="rect" id="node27" href="$mesh_8cpp.html" title="src/plugins/openmesh\l/ui/mesh.cpp" alt="" coords="2199,187,2347,229"/>
 </map>

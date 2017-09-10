@@ -7,5 +7,9 @@ var dir_7ad72fa610ffaea18c67f160e994cbdf =
     [ "filename.cpp", "ui_2filename_8cpp.html", null ],
     [ "filename.h", "ui_2filename_8h.html", [
       [ "filename_ui", "classfilename__ui.html", "classfilename__ui" ]
+    ] ],
+    [ "string.cpp", "string_8cpp.html", null ],
+    [ "string.h", "string_8h.html", [
+      [ "string_ui", "classstring__ui.html", "classstring__ui" ]
     ] ]
 ];

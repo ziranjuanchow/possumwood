@@ -8,8 +8,9 @@
 <area shape="rect" id="node18" href="$asf_8cpp.html" title="src/plugins/anim/nodes\l/asf.cpp" alt="" coords="1814,97,1970,138"/>
 <area shape="rect" id="node19" href="$remove__unskinned_8cpp.html" title="src/plugins/anim/nodes\l/remove_unskinned.cpp" alt="" coords="1995,97,2154,138"/>
 <area shape="rect" id="node20" href="$skeleton__display_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_display.cpp" alt="" coords="2180,97,2335,138"/>
-<area shape="rect" id="node21" href="$x_8cpp.html" title="src/plugins/anim/nodes\l/x.cpp" alt="" coords="2360,97,2515,138"/>
-<area shape="rect" id="node22" href="$tests_2anim_2skeleton_8cpp.html" title="src/tests/anim/skeleton.cpp" alt="" coords="2540,104,2722,131"/>
+<area shape="rect" id="node21" href="$skeleton__rename_8cpp.html" title="src/plugins/anim/nodes\l/skeleton_rename.cpp" alt="" coords="2360,97,2515,138"/>
+<area shape="rect" id="node22" href="$x_8cpp.html" title="src/plugins/anim/nodes\l/x.cpp" alt="" coords="2540,97,2695,138"/>
+<area shape="rect" id="node23" href="$tests_2anim_2skeleton_8cpp.html" title="src/tests/anim/skeleton.cpp" alt="" coords="2720,104,2902,131"/>
 <area shape="rect" id="node3" href="$amc_8cpp.html" title="src/plugins/anim/nodes\l/amc.cpp" alt="" coords="464,187,619,229"/>
 <area shape="rect" id="node5" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="644,187,799,229"/>
 <area shape="rect" id="node6" href="$frame__edit_8cpp.html" title="src/plugins/anim/nodes\l/frame_edit.cpp" alt="" coords="1184,187,1339,229"/>

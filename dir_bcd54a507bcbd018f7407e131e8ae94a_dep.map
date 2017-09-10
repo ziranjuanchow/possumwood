@@ -1,9 +1,9 @@
 <map id="src/plugins/anim/nodes" name="src/plugins/anim/nodes">
 <area shape="rect" id="node1" href="dir_bcd54a507bcbd018f7407e131e8ae94a.html" title="nodes" alt="" coords="41,52,113,100"/>
 <area shape="rect" id="node2" href="dir_9901eca8914c9875f5a6bb81eceb34f8.html" title="datatypes" alt="" coords="29,244,107,292"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000024_000023.html" title="22" alt="" coords="67,218,82,233"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000024_000023.html" title="23" alt="" coords="67,218,82,233"/>
 <area shape="rect" id="node3" href="dir_87a455bccb09a92130c26a11a880c98a.html" title="libs" alt="" coords="71,340,143,388"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000024_000008.html" title="96" alt="" coords="52,321,67,335"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000024_000008.html" title="102" alt="" coords="49,321,70,335"/>
 <area shape="rect" id="node4" href="dir_17217d6a336b535509d79555c581748f.html" title="3d" alt="" coords="175,148,247,196"/>
 <area shape="rect" id="edge4-headlabel" href="dir_000024_000018.html" title="2" alt="" coords="164,123,172,138"/>
 <area shape="rect" id="node5" href="dir_359ef67d14ae5aa6dd227a9a562c3bb7.html" title="ui" alt="" coords="79,148,151,196"/>

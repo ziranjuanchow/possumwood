@@ -50,7 +50,8 @@ var dir_bbeb1387f6037c41dcaa5423e7174c79 =
     [ "traits.cpp", "traits_8cpp.html", "traits_8cpp" ],
     [ "traits.h", "traits_8h.html", [
       [ "Traits", "structpossumwood_1_1Traits.html", null ],
-      [ "Traits< T, typename std::enable_if< std::is_arithmetic< T >::value >::type >", "structpossumwood_1_1Traits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__arithmetic_3_0d8c0595ba092f38fa03f72dcf55dd8c7.html", "structpossumwood_1_1Traits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__arithmetic_3_0d8c0595ba092f38fa03f72dcf55dd8c7" ]
+      [ "Traits< T, typename std::enable_if< std::is_arithmetic< T >::value >::type >", "structpossumwood_1_1Traits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__arithmetic_3_0d8c0595ba092f38fa03f72dcf55dd8c7.html", "structpossumwood_1_1Traits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__arithmetic_3_0d8c0595ba092f38fa03f72dcf55dd8c7" ],
+      [ "Traits< std::string >", "structpossumwood_1_1Traits_3_01std_1_1string_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1string_01_4" ]
     ] ],
     [ "undo_stack.cpp", "libs_2possumwood__sdk_2undo__stack_8cpp.html", null ],
     [ "undo_stack.h", "undo__stack_8h.html", [

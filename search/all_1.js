@@ -1,7 +1,6 @@
 var searchData=
 [
   ['back',['back',['../classdependency__graph_1_1io_1_1basic__json.html#a527535a7c8a9746193db349219bbdae9',1,'dependency_graph::io::basic_json::back()'],['../classdependency__graph_1_1io_1_1basic__json.html#a861562ad10c33fb62fc0d82207eb380a',1,'dependency_graph::io::basic_json::back() const ']]],
-  ['base',['base',['../structanim_1_1Animation.html#aa61ab6d7768e98c4b77bc2ba4748386a',1,'anim::Animation']]],
   ['base_5fiterator',['base_iterator',['../classdependency__graph_1_1io_1_1basic__json_1_1json__reverse__iterator.html#aae3458b9dabc5f34d61d9b536013954e',1,'dependency_graph::io::basic_json::json_reverse_iterator']]],
   ['basedata',['BaseData',['../classdependency__graph_1_1BaseData.html',1,'dependency_graph']]],
   ['basic_5fjson',['basic_json',['../classdependency__graph_1_1io_1_1basic__json.html',1,'dependency_graph::io']]],

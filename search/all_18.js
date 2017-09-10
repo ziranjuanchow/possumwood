@@ -33,6 +33,7 @@ var searchData=
   ['_7eproperty',['~property',['../classpossumwood_1_1properties_1_1property.html#a33e78604fe6d2d4aa7bc9c8c620703ae',1,'possumwood::properties::property::~property()'],['../structProperties_1_1Property.html#a34248564da28a0b868457f89e97f7bdb',1,'Properties::Property::~Property()']]],
   ['_7eproperty_5fbase',['~property_base',['../classpossumwood_1_1properties_1_1property__base.html#af026c9c1c221e29fb7bd634b145737c6',1,'possumwood::properties::property_base']]],
   ['_7eregister',['~Register',['../classdependency__graph_1_1Metadata_1_1Register.html#abd53310d24440b945a0157bac16427f7',1,'dependency_graph::Metadata::Register']]],
+  ['_7estring_5fui',['~string_ui',['../classstring__ui.html#a11538933ff18d96a5e1807f05f1a1a7c',1,'string_ui']]],
   ['_7etimeline',['~Timeline',['../classTimeline.html#a206e9a2a47a5c5fb0c935054b891e6fe',1,'Timeline']]],
   ['_7etimelinewidget',['~TimelineWidget',['../classTimelineWidget.html#a5683d379f9eda800b60d47987de0c98a',1,'TimelineWidget']]],
   ['_7eunsigned_5fui',['~unsigned_ui',['../classunsigned__ui.html#a720c1415dab89004c1461cff89ebef84',1,'unsigned_ui']]],

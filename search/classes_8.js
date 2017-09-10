@@ -13,6 +13,7 @@ var searchData=
   ['io_3c_20possumwood_3a_3afilename_20_3e',['IO&lt; possumwood::Filename &gt;',['../classpossumwood_1_1IO.html',1,'possumwood']]],
   ['io_3c_20possumwood_3a_3anodedata_20_3e',['IO&lt; possumwood::NodeData &gt;',['../classpossumwood_1_1IO.html',1,'possumwood']]],
   ['io_3c_20std_3a_3ashared_5fptr_3c_20const_20mesh_20_3e_20_3e',['IO&lt; std::shared_ptr&lt; const Mesh &gt; &gt;',['../classpossumwood_1_1IO.html',1,'possumwood']]],
+  ['io_3c_20std_3a_3astring_20_3e',['IO&lt; std::string &gt;',['../classpossumwood_1_1IO.html',1,'possumwood']]],
   ['io_3c_20std_3a_3avector_3c_20decimatermodule_20_3e_20_3e',['IO&lt; std::vector&lt; DecimaterModule &gt; &gt;',['../classpossumwood_1_1IO.html',1,'possumwood']]],
   ['iobase',['IOBase',['../classpossumwood_1_1IOBase.html',1,'possumwood']]],
   ['is_5fbasic_5fjson_5fnested_5ftype',['is_basic_json_nested_type',['../structdependency__graph_1_1io_1_1detail_1_1is__basic__json__nested__type.html',1,'dependency_graph::io::detail']]],
@@ -24,9 +25,9 @@ var searchData=
   ['is_5fcompatible_5fobject_5ftype_5fimpl',['is_compatible_object_type_impl',['../structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type__impl.html',1,'dependency_graph::io::detail']]],
   ['is_5fcompatible_5fobject_5ftype_5fimpl_3c_20true_2c_20realtype_2c_20compatibleobjecttype_20_3e',['is_compatible_object_type_impl&lt; true, RealType, CompatibleObjectType &gt;',['../structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01Real0baf3277237e5138eaf03391588ae6a5.html',1,'dependency_graph::io::detail']]],
   ['item',['Item',['../structSkeletonTest_1_1Item.html',1,'SkeletonTest']]],
+  ['item',['Item',['../classanim_1_1Hierarchy_1_1Item.html',1,'anim::Hierarchy']]],
   ['item',['Item',['../classpossumwood_1_1Config_1_1Item.html',1,'possumwood::Config']]],
   ['item',['Item',['../structpossumwood_1_1Index_1_1Item.html',1,'possumwood::Index']]],
-  ['item',['Item',['../classanim_1_1Hierarchy_1_1Item.html',1,'anim::Hierarchy']]],
   ['iter_5fimpl',['iter_impl',['../classdependency__graph_1_1io_1_1basic__json_1_1iter__impl.html',1,'dependency_graph::io::basic_json']]],
   ['iteration_5fproxy',['iteration_proxy',['../classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy.html',1,'dependency_graph::io::basic_json']]],
   ['iteration_5fproxy_5finternal',['iteration_proxy_internal',['../classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html',1,'dependency_graph::io::basic_json::iteration_proxy']]]
