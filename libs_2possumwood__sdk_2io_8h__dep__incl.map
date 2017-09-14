@@ -28,7 +28,7 @@
 <area shape="rect" id="node38" href="$traits_8cpp.html" title="src/libs/possumwood\l_sdk/traits.cpp" alt="" coords="2686,194,2831,235"/>
 <area shape="rect" id="node39" href="$io_2vec3_8h.html" title="src/plugins/3d/io/vec3.h" alt="" coords="1917,299,2076,325"/>
 <area shape="rect" id="node41" href="$animation_8h.html" title="src/plugins/anim/datatypes\l/animation.h" alt="" coords="3055,291,3233,333"/>
-<area shape="rect" id="node43" href="$skeleton_8h.html" title="src/plugins/anim/datatypes\l/skeleton.h" alt="" coords="3232,194,3411,235"/>
+<area shape="rect" id="node43" href="$datatypes_2skeleton_8h.html" title="src/plugins/anim/datatypes\l/skeleton.h" alt="" coords="3232,194,3411,235"/>
 <area shape="rect" id="node47" href="$skinned__mesh_8h.html" title="src/plugins/anim/datatypes\l/skinned_mesh.h" alt="" coords="2801,291,2980,333"/>
 <area shape="rect" id="node48" href="$decimater__module_8h.html" title="src/plugins/openmesh\l/datatypes/decimater\l_module.h" alt="" coords="2461,187,2609,243"/>
 <area shape="rect" id="node49" href="$datatypes_2mesh_8h.html" title="src/plugins/openmesh\l/datatypes/mesh.h" alt="" coords="1744,291,1892,333"/>

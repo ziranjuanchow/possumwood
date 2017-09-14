@@ -20,6 +20,7 @@ var annotated =
     [ "mesh_ui", "classmesh__ui.html", "classmesh__ui" ],
     [ "OMLog", "classOMLog.html", "classOMLog" ],
     [ "Properties", "classProperties.html", "classProperties" ],
+    [ "Skeleton", "classSkeleton.html", "classSkeleton" ],
     [ "SkeletonTest", "structSkeletonTest.html", "structSkeletonTest" ],
     [ "SkinMappingEditor", "classSkinMappingEditor.html", "classSkinMappingEditor" ],
     [ "string_ui", "classstring__ui.html", "classstring__ui" ],

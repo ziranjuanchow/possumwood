@@ -4,5 +4,6 @@
 <area shape="rect" id="node4" href="$remove__unskinned_8cpp.html" title="src/plugins/anim/nodes\l/remove_unskinned.cpp" alt="" coords="389,97,548,138"/>
 <area shape="rect" id="node5" href="$skin_8cpp.html" title="src/plugins/anim/nodes\l/skin.cpp" alt="" coords="574,97,729,138"/>
 <area shape="rect" id="node6" href="$skin__remapping_8cpp.html" title="src/plugins/anim/nodes\l/skin_remapping.cpp" alt="" coords="754,97,909,138"/>
-<area shape="rect" id="node7" href="$x_8cpp.html" title="src/plugins/anim/nodes\l/x.cpp" alt="" coords="934,97,1089,138"/>
+<area shape="rect" id="node7" href="$skin__remapping__regex_8cpp.html" title="src/plugins/anim/nodes\l/skin_remapping_regex.cpp" alt="" coords="935,97,1116,138"/>
+<area shape="rect" id="node8" href="$x_8cpp.html" title="src/plugins/anim/nodes\l/x.cpp" alt="" coords="1141,97,1296,138"/>
 </map>

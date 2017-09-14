@@ -138,6 +138,7 @@ var hierarchy =
         [ "possumwood::properties::factory_typed< float_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< FrameEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< mesh_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< Skeleton >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< SkinMappingEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< string_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< unsigned_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
@@ -148,6 +149,9 @@ var hierarchy =
         [ "possumwood::properties::property< T, DERIVED >", "classpossumwood_1_1properties_1_1property.html", null ],
         [ "possumwood::properties::property< anim::FrameEditorData, FrameEditor >", "classpossumwood_1_1properties_1_1property.html", [
           [ "FrameEditor", "classFrameEditor.html", null ]
+        ] ],
+        [ "possumwood::properties::property< anim::Skeleton, Skeleton >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "Skeleton", "classSkeleton.html", null ]
         ] ],
         [ "possumwood::properties::property< anim::SkinMappingEditorData, SkinMappingEditor >", "classpossumwood_1_1properties_1_1property.html", [
           [ "SkinMappingEditor", "classSkinMappingEditor.html", null ]

@@ -1,7 +1,7 @@
 <map id="src/plugins/anim/ui/motion_map.h" name="src/plugins/anim/ui/motion_map.h">
 <area shape="rect" id="node4" href="$animation_8h.html" title="datatypes/animation.h" alt="" coords="2130,96,2280,123"/>
 <area shape="rect" id="node6" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1699,245,1869,272"/>
-<area shape="rect" id="node41" href="$skeleton_8h.html" title="skeleton.h" alt="" coords="2164,171,2245,197"/>
+<area shape="rect" id="node41" href="$datatypes_2skeleton_8h.html" title="skeleton.h" alt="" coords="2164,171,2245,197"/>
 <area shape="rect" id="node8" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1585,544,1745,571"/>
 <area shape="rect" id="node11" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="1604,320,1647,347"/>
 <area shape="rect" id="node14" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1287,395,1464,421"/>

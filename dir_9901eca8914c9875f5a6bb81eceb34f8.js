@@ -30,7 +30,7 @@ var dir_9901eca8914c9875f5a6bb81eceb34f8 =
       [ "Polygons", "classanim_1_1Polygons.html", "classanim_1_1Polygons" ]
     ] ],
     [ "skeleton.cpp", "plugins_2anim_2datatypes_2skeleton_8cpp.html", "plugins_2anim_2datatypes_2skeleton_8cpp" ],
-    [ "skeleton.h", "skeleton_8h.html", "skeleton_8h" ],
+    [ "skeleton.h", "datatypes_2skeleton_8h.html", "datatypes_2skeleton_8h" ],
     [ "skin_mapping_editor_data.cpp", "skin__mapping__editor__data_8cpp.html", null ],
     [ "skin_mapping_editor_data.h", "skin__mapping__editor__data_8h.html", [
       [ "SkinMappingEditorData", "classanim_1_1SkinMappingEditorData.html", "classanim_1_1SkinMappingEditorData" ],

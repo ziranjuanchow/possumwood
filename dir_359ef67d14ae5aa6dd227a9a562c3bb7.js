@@ -8,6 +8,10 @@ var dir_359ef67d14ae5aa6dd227a9a562c3bb7 =
     [ "motion_map.h", "motion__map_8h.html", [
       [ "MotionMap", "classanim_1_1MotionMap.html", "classanim_1_1MotionMap" ]
     ] ],
+    [ "skeleton.cpp", "plugins_2anim_2ui_2skeleton_8cpp.html", null ],
+    [ "skeleton.h", "ui_2skeleton_8h.html", [
+      [ "Skeleton", "classSkeleton.html", "classSkeleton" ]
+    ] ],
     [ "skin_mapping_editor.cpp", "skin__mapping__editor_8cpp.html", null ],
     [ "skin_mapping_editor.h", "skin__mapping__editor_8h.html", [
       [ "SkinMappingEditor", "classSkinMappingEditor.html", "classSkinMappingEditor" ]

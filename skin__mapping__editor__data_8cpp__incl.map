@@ -1,6 +1,6 @@
 <map id="src/plugins/anim/datatypes/skin_mapping_editor_data.cpp" name="src/plugins/anim/datatypes/skin_mapping_editor_data.cpp">
 <area shape="rect" id="node2" href="$skin__mapping__editor__data_8h.html" title="skin_mapping_editor\l_data.h" alt="" coords="644,97,784,138"/>
-<area shape="rect" id="node3" href="$skeleton_8h.html" title="skeleton.h" alt="" coords="673,187,755,213"/>
+<area shape="rect" id="node3" href="$datatypes_2skeleton_8h.html" title="skeleton.h" alt="" coords="673,187,755,213"/>
 <area shape="rect" id="node8" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="493,261,664,288"/>
 <area shape="rect" id="node40" href="$hierarchy_8h.html" title="hierarchy.h" alt="" coords="671,336,757,363"/>
 <area shape="rect" id="node47" href="$transform_8h.html" title="transform.h" alt="" coords="2504,261,2592,288"/>

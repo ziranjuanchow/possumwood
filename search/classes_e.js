@@ -13,6 +13,7 @@ var searchData=
   ['property',['property',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property',['Property',['../structProperties_1_1Property.html',1,'Properties']]],
   ['property_3c_20anim_3a_3aframeeditordata_2c_20frameeditor_20_3e',['property&lt; anim::FrameEditorData, FrameEditor &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
+  ['property_3c_20anim_3a_3askeleton_2c_20skeleton_20_3e',['property&lt; anim::Skeleton, Skeleton &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_3c_20anim_3a_3askinmappingeditordata_2c_20skinmappingeditor_20_3e',['property&lt; anim::SkinMappingEditorData, SkinMappingEditor &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_3c_20bool_2c_20bool_5fui_20_3e',['property&lt; bool, bool_ui &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_3c_20float_2c_20float_5fui_20_3e',['property&lt; float, float_ui &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],

@@ -13,6 +13,7 @@ var dir_bcd54a507bcbd018f7407e131e8ae94a =
     [ "skeleton_rename.cpp", "skeleton__rename_8cpp.html", null ],
     [ "skin.cpp", "skin_8cpp.html", null ],
     [ "skin_remapping.cpp", "skin__remapping_8cpp.html", null ],
+    [ "skin_remapping_regex.cpp", "skin__remapping__regex_8cpp.html", null ],
     [ "transform.cpp", "plugins_2anim_2nodes_2transform_8cpp.html", null ],
     [ "transition.cpp", "transition_8cpp.html", null ],
     [ "x.cpp", "x_8cpp.html", "x_8cpp" ]

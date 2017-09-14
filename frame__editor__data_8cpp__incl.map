@@ -1,6 +1,6 @@
 <map id="src/plugins/anim/datatypes/frame_editor_data.cpp" name="src/plugins/anim/datatypes/frame_editor_data.cpp">
 <area shape="rect" id="node2" href="$frame__editor__data_8h.html" title="frame_editor_data.h" alt="" coords="646,96,783,123"/>
-<area shape="rect" id="node3" href="$skeleton_8h.html" title="skeleton.h" alt="" coords="673,171,755,197"/>
+<area shape="rect" id="node3" href="$datatypes_2skeleton_8h.html" title="skeleton.h" alt="" coords="673,171,755,197"/>
 <area shape="rect" id="node8" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="493,245,664,272"/>
 <area shape="rect" id="node40" href="$hierarchy_8h.html" title="hierarchy.h" alt="" coords="671,320,757,347"/>
 <area shape="rect" id="node47" href="$transform_8h.html" title="transform.h" alt="" coords="2504,245,2592,272"/>
