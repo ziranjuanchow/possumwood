@@ -2,5 +2,7 @@
 <area shape="rect" id="node2" href="$skinned__mesh_8cpp.html" title="src/plugins/anim/datatypes\l/skinned_mesh.cpp" alt="" coords="5,97,184,138"/>
 <area shape="rect" id="node3" href="$meshes__display_8cpp.html" title="src/plugins/anim/nodes\l/meshes_display.cpp" alt="" coords="209,97,364,138"/>
 <area shape="rect" id="node4" href="$remove__unskinned_8cpp.html" title="src/plugins/anim/nodes\l/remove_unskinned.cpp" alt="" coords="389,97,548,138"/>
-<area shape="rect" id="node5" href="$x_8cpp.html" title="src/plugins/anim/nodes\l/x.cpp" alt="" coords="574,97,729,138"/>
+<area shape="rect" id="node5" href="$skin_8cpp.html" title="src/plugins/anim/nodes\l/skin.cpp" alt="" coords="574,97,729,138"/>
+<area shape="rect" id="node6" href="$skin__remapping_8cpp.html" title="src/plugins/anim/nodes\l/skin_remapping.cpp" alt="" coords="754,97,909,138"/>
+<area shape="rect" id="node7" href="$x_8cpp.html" title="src/plugins/anim/nodes\l/x.cpp" alt="" coords="934,97,1089,138"/>
 </map>

@@ -31,6 +31,11 @@ var dir_9901eca8914c9875f5a6bb81eceb34f8 =
     ] ],
     [ "skeleton.cpp", "plugins_2anim_2datatypes_2skeleton_8cpp.html", "plugins_2anim_2datatypes_2skeleton_8cpp" ],
     [ "skeleton.h", "skeleton_8h.html", "skeleton_8h" ],
+    [ "skin_mapping_editor_data.cpp", "skin__mapping__editor__data_8cpp.html", null ],
+    [ "skin_mapping_editor_data.h", "skin__mapping__editor__data_8h.html", [
+      [ "SkinMappingEditorData", "classanim_1_1SkinMappingEditorData.html", "classanim_1_1SkinMappingEditorData" ],
+      [ "Traits< anim::SkinMappingEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1SkinMappingEditorData_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1SkinMappingEditorData_01_4" ]
+    ] ],
     [ "skinned_mesh.cpp", "skinned__mesh_8cpp.html", null ],
     [ "skinned_mesh.h", "skinned__mesh_8h.html", [
       [ "SkinnedMesh", "classanim_1_1SkinnedMesh.html", "classanim_1_1SkinnedMesh" ],

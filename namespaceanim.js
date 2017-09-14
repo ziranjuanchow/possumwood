@@ -8,6 +8,7 @@ var namespaceanim =
     [ "Hierarchy", "classanim_1_1Hierarchy.html", "classanim_1_1Hierarchy" ],
     [ "Polygons", "classanim_1_1Polygons.html", "classanim_1_1Polygons" ],
     [ "Skeleton", "classanim_1_1Skeleton.html", "classanim_1_1Skeleton" ],
+    [ "SkinMappingEditorData", "classanim_1_1SkinMappingEditorData.html", "classanim_1_1SkinMappingEditorData" ],
     [ "SkinnedMesh", "classanim_1_1SkinnedMesh.html", "classanim_1_1SkinnedMesh" ],
     [ "SkinnedVertices", "classanim_1_1SkinnedVertices.html", "classanim_1_1SkinnedVertices" ],
     [ "Transform", "structanim_1_1Transform.html", "structanim_1_1Transform" ],

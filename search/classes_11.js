@@ -11,6 +11,7 @@ var searchData=
   ['traits',['Traits',['../structpossumwood_1_1Traits.html',1,'possumwood']]],
   ['traits_3c_20anim_3a_3aframeeditordata_20_3e',['Traits&lt; anim::FrameEditorData &gt;',['../structpossumwood_1_1Traits_3_01anim_1_1FrameEditorData_01_4.html',1,'possumwood']]],
   ['traits_3c_20anim_3a_3askeleton_20_3e',['Traits&lt; anim::Skeleton &gt;',['../structpossumwood_1_1Traits_3_01anim_1_1Skeleton_01_4.html',1,'possumwood']]],
+  ['traits_3c_20anim_3a_3askinmappingeditordata_20_3e',['Traits&lt; anim::SkinMappingEditorData &gt;',['../structpossumwood_1_1Traits_3_01anim_1_1SkinMappingEditorData_01_4.html',1,'possumwood']]],
   ['traits_3c_20decimatermodule_20_3e',['Traits&lt; DecimaterModule &gt;',['../structpossumwood_1_1Traits_3_01DecimaterModule_01_4.html',1,'possumwood']]],
   ['traits_3c_20enum_20_3e',['Traits&lt; Enum &gt;',['../structpossumwood_1_1Traits_3_01Enum_01_4.html',1,'possumwood']]],
   ['traits_3c_20filename_20_3e',['Traits&lt; Filename &gt;',['../structpossumwood_1_1Traits_3_01Filename_01_4.html',1,'possumwood']]],

@@ -1,8 +1,10 @@
 <map id="src/plugins/anim/datatypes/polygons.h" name="src/plugins/anim/datatypes/polygons.h">
-<area shape="rect" id="node2" href="$polygons_8cpp.html" title="src/plugins/anim/datatypes\l/polygons.cpp" alt="" coords="87,97,265,138"/>
-<area shape="rect" id="node3" href="$skinned__mesh_8h.html" title="src/plugins/anim/datatypes\l/skinned_mesh.h" alt="" coords="289,97,468,138"/>
+<area shape="rect" id="node2" href="$polygons_8cpp.html" title="src/plugins/anim/datatypes\l/polygons.cpp" alt="" coords="269,97,448,138"/>
+<area shape="rect" id="node3" href="$skinned__mesh_8h.html" title="src/plugins/anim/datatypes\l/skinned_mesh.h" alt="" coords="472,97,651,138"/>
 <area shape="rect" id="node4" href="$skinned__mesh_8cpp.html" title="src/plugins/anim/datatypes\l/skinned_mesh.cpp" alt="" coords="5,187,184,229"/>
 <area shape="rect" id="node5" href="$meshes__display_8cpp.html" title="src/plugins/anim/nodes\l/meshes_display.cpp" alt="" coords="209,187,364,229"/>
 <area shape="rect" id="node6" href="$remove__unskinned_8cpp.html" title="src/plugins/anim/nodes\l/remove_unskinned.cpp" alt="" coords="389,187,548,229"/>
-<area shape="rect" id="node7" href="$x_8cpp.html" title="src/plugins/anim/nodes\l/x.cpp" alt="" coords="574,187,729,229"/>
+<area shape="rect" id="node7" href="$skin_8cpp.html" title="src/plugins/anim/nodes\l/skin.cpp" alt="" coords="574,187,729,229"/>
+<area shape="rect" id="node8" href="$skin__remapping_8cpp.html" title="src/plugins/anim/nodes\l/skin_remapping.cpp" alt="" coords="754,187,909,229"/>
+<area shape="rect" id="node9" href="$x_8cpp.html" title="src/plugins/anim/nodes\l/x.cpp" alt="" coords="934,187,1089,229"/>
 </map>

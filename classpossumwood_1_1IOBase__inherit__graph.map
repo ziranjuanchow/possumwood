@@ -1,11 +1,12 @@
 <map id="possumwood::IOBase" name="possumwood::IOBase">
 <area shape="rect" id="node3" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; anim\l::FrameEditorData \&gt;" alt="" coords="374,5,535,46"/>
-<area shape="rect" id="node4" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; Imath\l::Vec3\&lt; float \&gt; \&gt;" alt="" coords="371,70,538,111"/>
-<area shape="rect" id="node5" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; possumwood\l::Enum \&gt;" alt="" coords="349,135,560,177"/>
-<area shape="rect" id="node6" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; possumwood\l::Filename \&gt;" alt="" coords="349,201,560,242"/>
-<area shape="rect" id="node7" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; possumwood\l::NodeData \&gt;" alt="" coords="349,266,560,307"/>
-<area shape="rect" id="node8" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; std\l::shared_ptr\&lt; const\l Mesh \&gt; \&gt;" alt="" coords="379,331,530,387"/>
-<area shape="rect" id="node9" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; std\l::string \&gt;" alt="" coords="379,410,530,451"/>
-<area shape="rect" id="node10" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; std\l::vector\&lt; DecimaterModule \&gt; \&gt;" alt="" coords="353,475,557,517"/>
-<area shape="rect" id="node11" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; T \&gt;" alt="" coords="378,541,531,568"/>
+<area shape="rect" id="node4" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; anim\l::SkinMappingEditorData \&gt;" alt="" coords="365,70,544,111"/>
+<area shape="rect" id="node5" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; Imath\l::Vec3\&lt; float \&gt; \&gt;" alt="" coords="371,135,538,177"/>
+<area shape="rect" id="node6" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; possumwood\l::Enum \&gt;" alt="" coords="349,201,560,242"/>
+<area shape="rect" id="node7" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; possumwood\l::Filename \&gt;" alt="" coords="349,266,560,307"/>
+<area shape="rect" id="node8" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; possumwood\l::NodeData \&gt;" alt="" coords="349,331,560,373"/>
+<area shape="rect" id="node9" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; std\l::shared_ptr\&lt; const\l Mesh \&gt; \&gt;" alt="" coords="379,396,530,452"/>
+<area shape="rect" id="node10" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; std\l::string \&gt;" alt="" coords="379,475,530,517"/>
+<area shape="rect" id="node11" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; std\l::vector\&lt; DecimaterModule \&gt; \&gt;" alt="" coords="353,541,557,582"/>
+<area shape="rect" id="node12" href="$classpossumwood_1_1IO.html" title="possumwood::IO\&lt; T \&gt;" alt="" coords="378,607,531,633"/>
 </map>

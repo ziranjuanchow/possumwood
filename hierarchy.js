@@ -117,6 +117,7 @@ var hierarchy =
       [ "possumwood::Index::Item", "structpossumwood_1_1Index_1_1Item.html", null ],
       [ "possumwood::IOBase", "classpossumwood_1_1IOBase.html", [
         [ "possumwood::IO< anim::FrameEditorData >", "classpossumwood_1_1IO.html", null ],
+        [ "possumwood::IO< anim::SkinMappingEditorData >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< Imath::Vec3< float > >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::Enum >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::Filename >", "classpossumwood_1_1IO.html", null ],
@@ -137,6 +138,7 @@ var hierarchy =
         [ "possumwood::properties::factory_typed< float_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< FrameEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< mesh_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< SkinMappingEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< string_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< unsigned_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< vec3_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
@@ -146,6 +148,9 @@ var hierarchy =
         [ "possumwood::properties::property< T, DERIVED >", "classpossumwood_1_1properties_1_1property.html", null ],
         [ "possumwood::properties::property< anim::FrameEditorData, FrameEditor >", "classpossumwood_1_1properties_1_1property.html", [
           [ "FrameEditor", "classFrameEditor.html", null ]
+        ] ],
+        [ "possumwood::properties::property< anim::SkinMappingEditorData, SkinMappingEditor >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "SkinMappingEditor", "classSkinMappingEditor.html", null ]
         ] ],
         [ "possumwood::properties::property< bool, bool_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "bool_ui", "classbool__ui.html", null ]
@@ -226,11 +231,12 @@ var hierarchy =
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_reverse_iterator< Base >", "classdependency__graph_1_1io_1_1basic__json_1_1json__reverse__iterator.html", null ]
     ] ],
     [ "openanim::RigData", "structopenanim_1_1RigData.html", null ],
-    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
+    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classdependency__graph_1_1io_1_1basic__json_1_1serializer.html", null ],
     [ "anim::Skeleton", "classanim_1_1Skeleton.html", null ],
     [ "SkeletonTest", "structSkeletonTest.html", null ],
+    [ "anim::SkinMappingEditorData", "classanim_1_1SkinMappingEditorData.html", null ],
     [ "anim::SkinnedMesh", "classanim_1_1SkinnedMesh.html", null ],
     [ "anim::SkinnedVertices", "classanim_1_1SkinnedVertices.html", null ],
     [ "dependency_graph::State", "classdependency__graph_1_1State.html", null ],
@@ -243,6 +249,7 @@ var hierarchy =
     [ "possumwood::Traits< T, ENABLE >", "structpossumwood_1_1Traits.html", null ],
     [ "possumwood::Traits< anim::FrameEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1FrameEditorData_01_4.html", null ],
     [ "possumwood::Traits< anim::Skeleton >", "structpossumwood_1_1Traits_3_01anim_1_1Skeleton_01_4.html", null ],
+    [ "possumwood::Traits< anim::SkinMappingEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1SkinMappingEditorData_01_4.html", null ],
     [ "possumwood::Traits< DecimaterModule >", "structpossumwood_1_1Traits_3_01DecimaterModule_01_4.html", null ],
     [ "possumwood::Traits< Enum >", "structpossumwood_1_1Traits_3_01Enum_01_4.html", null ],
     [ "possumwood::Traits< Filename >", "structpossumwood_1_1Traits_3_01Filename_01_4.html", null ],

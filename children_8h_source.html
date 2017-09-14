@@ -193,14 +193,14 @@ $(document).ready(function(){initNavTree('children_8h_source.html','');});
 <div class="line"><a name="l00089"></a><span class="lineno"><a class="line" href="classanim_1_1Children.html#ae6e61319b22942b768e23c95fdf3d761">   89</a></span>&#160;JOINT&amp; <a class="code" href="classanim_1_1Children.html#ae6e61319b22942b768e23c95fdf3d761">Children&lt;JOINT, CONTAINER&gt;::operator[]</a>(std::size_t index) {</div>
 <div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;    assert(valid());</div>
 <div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;    assert(index &lt; m_joints-&gt;size());</div>
-<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;    <span class="keywordflow">return</span> (*m_joints)[index];</div>
+<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;    <span class="keywordflow">return</span> (*m_joints)[index+m_begin];</div>
 <div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;}</div>
 <div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;</div>
 <div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;<span class="keyword">template</span>&lt;<span class="keyword">typename</span> JOINT, <span class="keyword">typename</span> CONTAINER&gt;</div>
 <div class="line"><a name="l00096"></a><span class="lineno"><a class="line" href="classanim_1_1Children.html#a4cd377c487dc5fd569b45c55908efebd">   96</a></span>&#160;<span class="keyword">const</span> JOINT&amp; <a class="code" href="classanim_1_1Children.html#ae6e61319b22942b768e23c95fdf3d761">Children&lt;JOINT, CONTAINER&gt;::operator[]</a>(std::size_t index)<span class="keyword"> const </span>{</div>
 <div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;    assert(valid());</div>
 <div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;    assert(index &lt; m_joints-&gt;size());</div>
-<div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;    <span class="keywordflow">return</span> (*m_joints)[index];</div>
+<div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;    <span class="keywordflow">return</span> (*m_joints)[index+m_begin];</div>
 <div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;}</div>
 <div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;</div>
 <div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;}</div>
@@ -225,7 +225,7 @@ $(document).ready(function(){initNavTree('children_8h_source.html','');});
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_7020b8b7abcceffa3f9f7a2d24718f16.html">plugins</a></li><li class="navelem"><a class="el" href="dir_9d4c53a022c9bdea1b000bf7cf0b0226.html">anim</a></li><li class="navelem"><a class="el" href="dir_9901eca8914c9875f5a6bb81eceb34f8.html">datatypes</a></li><li class="navelem"><a class="el" href="children_8h.html">children.h</a></li>
-    <li class="footer">Generated on Sun Sep 10 2017 17:45:26 for possumwood by
+    <li class="footer">Generated on Thu Sep 14 2017 08:27:31 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

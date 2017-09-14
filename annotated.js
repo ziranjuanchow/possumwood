@@ -21,6 +21,7 @@ var annotated =
     [ "OMLog", "classOMLog.html", "classOMLog" ],
     [ "Properties", "classProperties.html", "classProperties" ],
     [ "SkeletonTest", "structSkeletonTest.html", "structSkeletonTest" ],
+    [ "SkinMappingEditor", "classSkinMappingEditor.html", "classSkinMappingEditor" ],
     [ "string_ui", "classstring__ui.html", "classstring__ui" ],
     [ "TestStruct", "structTestStruct.html", "structTestStruct" ],
     [ "Timeline", "classTimeline.html", "classTimeline" ],
