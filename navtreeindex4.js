@@ -1,5 +1,9 @@
 var NAVTREEINDEX4 =
 {
+"classdependency__graph_1_1io_1_1basic__json_1_1input__buffer__adapter.html#a92d164c2235a5500162c5b0cb1cdd809":[2,0,1,0,3,4,5],
+"classdependency__graph_1_1io_1_1basic__json_1_1input__buffer__adapter.html#a9301dab829412a36bff3ad3b67986f6a":[2,0,1,0,3,4,2],
+"classdependency__graph_1_1io_1_1basic__json_1_1input__buffer__adapter.html#aab570d3a6677016ac9578898acd566a9":[2,0,1,0,3,4,6],
+"classdependency__graph_1_1io_1_1basic__json_1_1input__buffer__adapter.html#af16e2620ca2065743c356fdc9019f784":[2,0,1,0,3,4,3],
 "classdependency__graph_1_1io_1_1basic__json_1_1iter__impl.html":[2,0,1,0,3,6],
 "classdependency__graph_1_1io_1_1basic__json_1_1iter__impl.html#a034da2fbc1324d0252a4abda3a14c856":[2,0,1,0,3,6,20],
 "classdependency__graph_1_1io_1_1basic__json_1_1iter__impl.html#a067d15944fb730cf1db101d3b613c5ed":[2,0,1,0,3,6,14],
@@ -245,9 +249,5 @@ var NAVTREEINDEX4 =
 "classenum__ui.html#a2ca64b542cbe85f87833a288c1d2a42c":[2,0,11,6],
 "classenum__ui.html#a5becca8aa5e7ac6ccb5ea2775cd530a0":[2,0,11,7],
 "classenum__ui.html#a8314f630eef0a389d7a658e813d1de94":[2,0,11,5],
-"classenum__ui.html#ab42b6a79982bae6c4dbce796332241b7":[2,0,11,1],
-"classenum__ui.html#ac6f8329f33a4e3caa2e5bd2578445397":[2,0,11,4],
-"classenum__ui.html#ad403f99b2fe23caa7459aa8ad4d8eeac":[2,0,11,3],
-"classenum__ui.html#adb0e85aef285982f2119498042068cfd":[2,0,11,2],
-"classes.html":[2,1]
+"classenum__ui.html#ab42b6a79982bae6c4dbce796332241b7":[2,0,11,1]
 };

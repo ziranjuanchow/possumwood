@@ -9,6 +9,7 @@ var searchData=
   ['m_5fbegin',['m_begin',['../classanim_1_1Children.html#ab8237b256309dc9e64b22eb312536a84',1,'anim::Children']]],
   ['m_5fblinddata',['m_blindData',['../classdependency__graph_1_1Metadata.html#a78916c491f6f8da0ceb20e2787c2db95',1,'dependency_graph::Metadata::m_blindData()'],['../classdependency__graph_1_1Node.html#af543559ee21bdd010791cdb6bf882ada',1,'dependency_graph::Node::m_blindData()']]],
   ['m_5fblockedsignals',['m_blockedSignals',['../classpossumwood_1_1properties_1_1property.html#a2bd3d65386fed94adb3c0b0c55a210fe',1,'possumwood::properties::property']]],
+  ['m_5fbonecountlabel',['m_boneCountLabel',['../classSkeleton.html#a0fec9b6440a2a4038f68236e9bf54e15',1,'Skeleton']]],
   ['m_5fbrowsebutton',['m_browseButton',['../classfilename__ui.html#a6b3dc3c98d64f5d2c7a4170ecb28f1c2',1,'filename_ui']]],
   ['m_5fbuffer',['m_buffer',['../rtti_8cpp.html#a4989451f8b2a3f805852c1c0d7041720',1,'rtti.cpp']]],
   ['m_5fbuttonconnection',['m_buttonConnection',['../classfilename__ui.html#ae8ce9d2acd716ba3b8ba8330aca0bbb5',1,'filename_ui']]],
@@ -30,6 +31,8 @@ var searchData=
   ['m_5fdefaultvalue',['m_defaultValue',['../classdependency__graph_1_1TypedAttr.html#af9cec68720fbd88a22c0904bb43eb9a1',1,'dependency_graph::TypedAttr::m_defaultValue()'],['../classpossumwood_1_1Config_1_1Item.html#aa4cd01b92756a6c18b03504831adf43b',1,'possumwood::Config::Item::m_defaultValue()']]],
   ['m_5fdelete',['m_delete',['../classAdaptor.html#a0984fe16eb1144786aa967669e847421',1,'Adaptor']]],
   ['m_5fdescription',['m_description',['../classpossumwood_1_1Config_1_1Item.html#a4f445d75ac65ed0e4d85d398c02e69ba',1,'possumwood::Config::Item']]],
+  ['m_5fdetailsdialog',['m_detailsDialog',['../classSkeleton.html#aef22b9f0e000918c96633fe8a7e7539f',1,'Skeleton']]],
+  ['m_5fdetailswidget',['m_detailsWidget',['../classSkeleton.html#ac825efba456283c98387cc63c8419dcd',1,'Skeleton']]],
   ['m_5fdirty',['m_dirty',['../classdependency__graph_1_1Port.html#a4ec3ddcb2b213fb855e17a395e8102fc',1,'dependency_graph::Port']]],
   ['m_5fdraw',['m_draw',['../classpossumwood_1_1DrawableFunctor.html#a7e7507454f4cba879bd65839268c2400',1,'possumwood::DrawableFunctor']]],
   ['m_5fdrawablefactory',['m_drawableFactory',['../classpossumwood_1_1Metadata.html#af2b04cb5462144e406a02ec3f7746ba3',1,'possumwood::Metadata']]],
@@ -129,6 +132,7 @@ var searchData=
   ['m_5fscenedistance',['m_sceneDistance',['../classViewport.html#a2b74e817638abf0da1e435155500032e',1,'Viewport']]],
   ['m_5fscenerotationx',['m_sceneRotationX',['../classViewport.html#a060c40cb6139db89854aa16adda4a82a',1,'Viewport']]],
   ['m_5fscenerotationy',['m_sceneRotationY',['../classViewport.html#a766355c776ea66918d54c9467ceddca8',1,'Viewport']]],
+  ['m_5fshowdetailsbutton',['m_showDetailsButton',['../classSkeleton.html#aced906410dfe3012aab5f6adac084adb',1,'Skeleton']]],
   ['m_5fsignals',['m_signals',['../classAdaptor.html#a270bf919ae7e1802e728a1e848f753c6',1,'Adaptor']]],
   ['m_5fsignalsblocked',['m_signalsBlocked',['../classFrameEditor.html#a55200ab8906b806c26a5d18876fd5981',1,'FrameEditor::m_signalsBlocked()'],['../classSkinMappingEditor.html#af51aef58d017d8930f8cad789557eda9',1,'SkinMappingEditor::m_signalsBlocked()']]],
   ['m_5fsizehint',['m_sizeHint',['../classAdaptor.html#af8e1da5ab1c249646a4c82c53196e94b',1,'Adaptor']]],
@@ -160,7 +164,7 @@ var searchData=
   ['m_5fviewport',['m_viewport',['../classMainWindow.html#ad33afa9553e94ddf7a78ba5706c26233',1,'MainWindow']]],
   ['m_5fwarn',['m_warn',['../classOMLog.html#aad11e41374faf6f7c39234a96b7f7b66',1,'OMLog']]],
   ['m_5fweights',['m_weights',['../classanim_1_1SkinnedVertices_1_1Vertex.html#a27f37af8d37c61a8e39a830d23a0543c',1,'anim::SkinnedVertices::Vertex']]],
-  ['m_5fwidget',['m_widget',['../classfilename__ui.html#a3fc76c008d65f510313b7a021323f8dd',1,'filename_ui::m_widget()'],['../classvec3__ui.html#ab2b25d9030257543d882cdab6ed87e94',1,'vec3_ui::m_widget()'],['../classFrameEditor.html#abad413e8ce7ae521c8edd23841037fb0',1,'FrameEditor::m_widget()'],['../classSkeleton.html#a905f4172aa4a060e9f77cb309590f86a',1,'Skeleton::m_widget()'],['../classSkinMappingEditor.html#a9b5338d2d9e691b923074c18b4b7a652',1,'SkinMappingEditor::m_widget()'],['../classmesh__ui.html#a6fb8242d8a363a3e4db77ddc4630c8ce',1,'mesh_ui::m_widget()']]],
+  ['m_5fwidget',['m_widget',['../classfilename__ui.html#a3fc76c008d65f510313b7a021323f8dd',1,'filename_ui::m_widget()'],['../classvec3__ui.html#ab2b25d9030257543d882cdab6ed87e94',1,'vec3_ui::m_widget()'],['../classFrameEditor.html#abad413e8ce7ae521c8edd23841037fb0',1,'FrameEditor::m_widget()'],['../classSkeleton.html#abe870b869eba6371144a549a00a3b43d',1,'Skeleton::m_widget()'],['../classSkinMappingEditor.html#a9b5338d2d9e691b923074c18b4b7a652',1,'SkinMappingEditor::m_widget()'],['../classmesh__ui.html#a6fb8242d8a363a3e4db77ddc4630c8ce',1,'mesh_ui::m_widget()']]],
   ['mantissa',['mantissa',['../structTimeline_1_1TickSkip.html#a4417150be8a25e72f9428b816e37d084',1,'Timeline::TickSkip']]],
   ['models',['models',['../structopenanim_1_1RigData.html#ab6224d771f4b58fe2716fe4c86957dd9',1,'openanim::RigData']]]
 ];
