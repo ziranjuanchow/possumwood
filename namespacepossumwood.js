@@ -25,9 +25,10 @@ var namespacepossumwood =
     [ "Traits< Imath::Vec3< float > >", "structpossumwood_1_1Traits_3_01Imath_1_1Vec3_3_01float_01_4_01_4.html", "structpossumwood_1_1Traits_3_01Imath_1_1Vec3_3_01float_01_4_01_4" ],
     [ "Traits< std::shared_ptr< const anim::Animation > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4" ],
     [ "Traits< anim::FrameEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1FrameEditorData_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1FrameEditorData_01_4" ],
+    [ "Traits< anim::JointMappingEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1JointMappingEditorData_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1JointMappingEditorData_01_4" ],
     [ "Traits< anim::Skeleton >", "structpossumwood_1_1Traits_3_01anim_1_1Skeleton_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1Skeleton_01_4" ],
-    [ "Traits< anim::SkinMappingEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1SkinMappingEditorData_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1SkinMappingEditorData_01_4" ],
     [ "Traits< std::shared_ptr< const std::vector< anim::SkinnedMesh > > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4" ],
+    [ "Traits< anim::SubsetSelection >", "structpossumwood_1_1Traits_3_01anim_1_1SubsetSelection_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1SubsetSelection_01_4" ],
     [ "Traits< DecimaterModule >", "structpossumwood_1_1Traits_3_01DecimaterModule_01_4.html", null ],
     [ "Traits< std::vector< DecimaterModule > >", "structpossumwood_1_1Traits_3_01std_1_1vector_3_01DecimaterModule_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1vector_3_01DecimaterModule_01_4_01_4" ],
     [ "Traits< std::shared_ptr< const Mesh > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Mesh_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Mesh_01_4_01_4" ]

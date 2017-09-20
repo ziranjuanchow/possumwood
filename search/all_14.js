@@ -20,7 +20,7 @@ var searchData=
   ['values_2eh',['values.h',['../values_8h.html',1,'']]],
   ['values_2einl',['values.inl',['../values_8inl.html',1,'']]],
   ['valuetoport',['valueToPort',['../classpossumwood_1_1properties_1_1property__base.html#a1d62e5f9303bb17f12dc4a4c30c8d2a4',1,'possumwood::properties::property_base::valueToPort()'],['../classpossumwood_1_1properties_1_1property.html#adbf003e5720215b0f368a681511d6284',1,'possumwood::properties::property::valueToPort()']]],
-  ['valueupdatedsignal',['valueUpdatedSignal',['../classFrameEditor.html#a8b4e3a627d25ea755041a30f4c04001d',1,'FrameEditor::valueUpdatedSignal()'],['../classSkinMappingEditor.html#a445abb62766924881ac6c6aebe40e058',1,'SkinMappingEditor::valueUpdatedSignal()']]],
+  ['valueupdatedsignal',['valueUpdatedSignal',['../classFrameEditor.html#a8b4e3a627d25ea755041a30f4c04001d',1,'FrameEditor::valueUpdatedSignal()'],['../classJointMappingEditor.html#a9c7679249dfc30337c1924eca5503a3b',1,'JointMappingEditor::valueUpdatedSignal()'],['../classMeshSubsetEditor.html#a86bd24ba409246c44dfcbaad4568e307',1,'MeshSubsetEditor::valueUpdatedSignal()']]],
   ['vec3_2ecpp',['vec3.cpp',['../io_2vec3_8cpp.html',1,'']]],
   ['vec3_2ecpp',['vec3.cpp',['../nodes_2vec3_8cpp.html',1,'']]],
   ['vec3_2ecpp',['vec3.cpp',['../ui_2vec3_8cpp.html',1,'']]],

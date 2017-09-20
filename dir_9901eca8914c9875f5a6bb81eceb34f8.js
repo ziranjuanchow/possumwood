@@ -25,17 +25,17 @@ var dir_9901eca8914c9875f5a6bb81eceb34f8 =
       [ "Hierarchy", "classanim_1_1Hierarchy.html", "classanim_1_1Hierarchy" ],
       [ "Item", "classanim_1_1Hierarchy_1_1Item.html", "classanim_1_1Hierarchy_1_1Item" ]
     ] ],
+    [ "joint_mapping_editor_data.cpp", "joint__mapping__editor__data_8cpp.html", null ],
+    [ "joint_mapping_editor_data.h", "joint__mapping__editor__data_8h.html", [
+      [ "JointMappingEditorData", "classanim_1_1JointMappingEditorData.html", "classanim_1_1JointMappingEditorData" ],
+      [ "Traits< anim::JointMappingEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1JointMappingEditorData_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1JointMappingEditorData_01_4" ]
+    ] ],
     [ "polygons.cpp", "polygons_8cpp.html", null ],
     [ "polygons.h", "polygons_8h.html", [
       [ "Polygons", "classanim_1_1Polygons.html", "classanim_1_1Polygons" ]
     ] ],
     [ "skeleton.cpp", "plugins_2anim_2datatypes_2skeleton_8cpp.html", "plugins_2anim_2datatypes_2skeleton_8cpp" ],
     [ "skeleton.h", "datatypes_2skeleton_8h.html", "datatypes_2skeleton_8h" ],
-    [ "skin_mapping_editor_data.cpp", "skin__mapping__editor__data_8cpp.html", null ],
-    [ "skin_mapping_editor_data.h", "skin__mapping__editor__data_8h.html", [
-      [ "SkinMappingEditorData", "classanim_1_1SkinMappingEditorData.html", "classanim_1_1SkinMappingEditorData" ],
-      [ "Traits< anim::SkinMappingEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1SkinMappingEditorData_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1SkinMappingEditorData_01_4" ]
-    ] ],
     [ "skinned_mesh.cpp", "skinned__mesh_8cpp.html", null ],
     [ "skinned_mesh.h", "skinned__mesh_8h.html", [
       [ "SkinnedMesh", "classanim_1_1SkinnedMesh.html", "classanim_1_1SkinnedMesh" ],
@@ -45,6 +45,13 @@ var dir_9901eca8914c9875f5a6bb81eceb34f8 =
     [ "skinned_vertices.h", "skinned__vertices_8h.html", [
       [ "SkinnedVertices", "classanim_1_1SkinnedVertices.html", "classanim_1_1SkinnedVertices" ],
       [ "Vertex", "classanim_1_1SkinnedVertices_1_1Vertex.html", "classanim_1_1SkinnedVertices_1_1Vertex" ]
+    ] ],
+    [ "subset_selection.cpp", "subset__selection_8cpp.html", null ],
+    [ "subset_selection.h", "subset__selection_8h.html", [
+      [ "SubsetSelection", "classanim_1_1SubsetSelection.html", "classanim_1_1SubsetSelection" ],
+      [ "Options", "classanim_1_1SubsetSelection_1_1Options.html", "classanim_1_1SubsetSelection_1_1Options" ],
+      [ "const_iterator", "classanim_1_1SubsetSelection_1_1const__iterator.html", "classanim_1_1SubsetSelection_1_1const__iterator" ],
+      [ "Traits< anim::SubsetSelection >", "structpossumwood_1_1Traits_3_01anim_1_1SubsetSelection_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1SubsetSelection_01_4" ]
     ] ],
     [ "transform.cpp", "plugins_2anim_2datatypes_2transform_8cpp.html", "plugins_2anim_2datatypes_2transform_8cpp" ],
     [ "transform.h", "transform_8h.html", "transform_8h" ]

@@ -76,14 +76,18 @@ var hierarchy =
     [ "dependency_graph::io::detail::is_compatible_object_type< BasicJsonType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type.html", null ],
     [ "dependency_graph::io::detail::is_compatible_object_type_impl< true, RealType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01Real0baf3277237e5138eaf03391588ae6a5.html", null ],
     [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
-    [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
     [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
+    [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >", "classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >::iteration_proxy_internal", "classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html", null ],
     [ "iterator", null, [
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iter_impl< U >", "classdependency__graph_1_1io_1_1basic__json_1_1iter__impl.html", null ]
     ] ],
+    [ "iterator_facade", null, [
+      [ "anim::SubsetSelection::const_iterator", "classanim_1_1SubsetSelection_1_1const__iterator.html", null ]
+    ] ],
     [ "anim::Skeleton::Joint", "classanim_1_1Skeleton_1_1Joint.html", null ],
+    [ "anim::JointMappingEditorData", "classanim_1_1JointMappingEditorData.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_pointer", "classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_value", "uniondependency__graph_1_1io_1_1basic__json_1_1json__value.html", null ],
     [ "std::less<::dependency_graph::io::detail::value_t >", "structstd_1_1less_3_1_1dependency__graph_1_1io_1_1detail_1_1value__t_01_4.html", null ],
@@ -117,7 +121,8 @@ var hierarchy =
       [ "possumwood::Index::Item", "structpossumwood_1_1Index_1_1Item.html", null ],
       [ "possumwood::IOBase", "classpossumwood_1_1IOBase.html", [
         [ "possumwood::IO< anim::FrameEditorData >", "classpossumwood_1_1IO.html", null ],
-        [ "possumwood::IO< anim::SkinMappingEditorData >", "classpossumwood_1_1IO.html", null ],
+        [ "possumwood::IO< anim::JointMappingEditorData >", "classpossumwood_1_1IO.html", null ],
+        [ "possumwood::IO< anim::SubsetSelection >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< Imath::Vec3< float > >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::Enum >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::Filename >", "classpossumwood_1_1IO.html", null ],
@@ -137,9 +142,10 @@ var hierarchy =
         [ "possumwood::properties::factory_typed< filename_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< float_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< FrameEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< JointMappingEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< mesh_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< MeshSubsetEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< Skeleton >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
-        [ "possumwood::properties::factory_typed< SkinMappingEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< string_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< unsigned_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< vec3_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
@@ -150,11 +156,14 @@ var hierarchy =
         [ "possumwood::properties::property< anim::FrameEditorData, FrameEditor >", "classpossumwood_1_1properties_1_1property.html", [
           [ "FrameEditor", "classFrameEditor.html", null ]
         ] ],
+        [ "possumwood::properties::property< anim::JointMappingEditorData, JointMappingEditor >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "JointMappingEditor", "classJointMappingEditor.html", null ]
+        ] ],
         [ "possumwood::properties::property< anim::Skeleton, Skeleton >", "classpossumwood_1_1properties_1_1property.html", [
           [ "Skeleton", "classSkeleton.html", null ]
         ] ],
-        [ "possumwood::properties::property< anim::SkinMappingEditorData, SkinMappingEditor >", "classpossumwood_1_1properties_1_1property.html", [
-          [ "SkinMappingEditor", "classSkinMappingEditor.html", null ]
+        [ "possumwood::properties::property< anim::SubsetSelection, MeshSubsetEditor >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "MeshSubsetEditor", "classMeshSubsetEditor.html", null ]
         ] ],
         [ "possumwood::properties::property< bool, bool_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "bool_ui", "classbool__ui.html", null ]
@@ -185,6 +194,7 @@ var hierarchy =
       [ "Properties::Property", "structProperties_1_1Property.html", null ],
       [ "Viewport", "classViewport.html", null ]
     ] ],
+    [ "anim::SubsetSelection::Options", "classanim_1_1SubsetSelection_1_1Options.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_adapter< CharType >", "classdependency__graph_1_1io_1_1basic__json_1_1output__adapter.html", [
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_stream_adapter< CharType >", "classdependency__graph_1_1io_1_1basic__json_1_1output__stream__adapter.html", null ],
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_string_adapter< CharType >", "classdependency__graph_1_1io_1_1basic__json_1_1output__string__adapter.html", null ],
@@ -240,11 +250,11 @@ var hierarchy =
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classdependency__graph_1_1io_1_1basic__json_1_1serializer.html", null ],
     [ "anim::Skeleton", "classanim_1_1Skeleton.html", null ],
     [ "SkeletonTest", "structSkeletonTest.html", null ],
-    [ "anim::SkinMappingEditorData", "classanim_1_1SkinMappingEditorData.html", null ],
     [ "anim::SkinnedMesh", "classanim_1_1SkinnedMesh.html", null ],
     [ "anim::SkinnedVertices", "classanim_1_1SkinnedVertices.html", null ],
     [ "dependency_graph::State", "classdependency__graph_1_1State.html", null ],
     [ "dependency_graph::io::detail::static_const< T >", "structdependency__graph_1_1io_1_1detail_1_1static__const.html", null ],
+    [ "anim::SubsetSelection", "classanim_1_1SubsetSelection.html", null ],
     [ "OMLog::Target", "structOMLog_1_1Target.html", null ],
     [ "TestStruct", "structTestStruct.html", null ],
     [ "Timeline::TickSkip", "structTimeline_1_1TickSkip.html", null ],
@@ -252,8 +262,9 @@ var hierarchy =
     [ "anim::Tokenizer::Token", "structanim_1_1Tokenizer_1_1Token.html", null ],
     [ "possumwood::Traits< T, ENABLE >", "structpossumwood_1_1Traits.html", null ],
     [ "possumwood::Traits< anim::FrameEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1FrameEditorData_01_4.html", null ],
+    [ "possumwood::Traits< anim::JointMappingEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1JointMappingEditorData_01_4.html", null ],
     [ "possumwood::Traits< anim::Skeleton >", "structpossumwood_1_1Traits_3_01anim_1_1Skeleton_01_4.html", null ],
-    [ "possumwood::Traits< anim::SkinMappingEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1SkinMappingEditorData_01_4.html", null ],
+    [ "possumwood::Traits< anim::SubsetSelection >", "structpossumwood_1_1Traits_3_01anim_1_1SubsetSelection_01_4.html", null ],
     [ "possumwood::Traits< DecimaterModule >", "structpossumwood_1_1Traits_3_01DecimaterModule_01_4.html", null ],
     [ "possumwood::Traits< Enum >", "structpossumwood_1_1Traits_3_01Enum_01_4.html", null ],
     [ "possumwood::Traits< Filename >", "structpossumwood_1_1Traits_3_01Filename_01_4.html", null ],

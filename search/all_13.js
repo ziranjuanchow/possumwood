@@ -23,5 +23,6 @@ var searchData=
   ['unsigned_5fui',['unsigned_ui',['../classunsigned__ui.html',1,'unsigned_ui'],['../classunsigned__ui.html#a822d91bf8f22f16670d90bee0af1e64b',1,'unsigned_ui::unsigned_ui()']]],
   ['unsigned_5fui_2ecpp',['unsigned_ui.cpp',['../unsigned__ui_8cpp.html',1,'']]],
   ['unsigned_5fui_2eh',['unsigned_ui.h',['../unsigned__ui_8h.html',1,'']]],
+  ['updateoptions',['updateOptions',['../classanim_1_1SubsetSelection.html#af45ac6993b329d2684b7ce7f7a611069',1,'anim::SubsetSelection']]],
   ['updaterect',['updateRect',['../classnode__editor_1_1Node.html#ab15809a52cee2bc2f4e816c99f3202d4',1,'node_editor::Node']]]
 ];
