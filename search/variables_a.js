@@ -2,6 +2,7 @@ var searchData=
 [
   ['m',['m',['../classdependency__graph_1_1io_1_1detail_1_1exception.html#a2db1e197559c099fffacd5a0830d11c5',1,'dependency_graph::io::detail::exception']]],
   ['m_5facceptvaluefunctors',['m_acceptValueFunctors',['../classConfigDialog.html#a9042374e60ec382a3ace65a1e04a8d5b',1,'ConfigDialog']]],
+  ['m_5factions',['m_actions',['../classSearchableMenu.html#ab1ac92f4f8c7e0562b765661e5f446ad',1,'SearchableMenu']]],
   ['m_5factive',['m_active',['../classanim_1_1Tokenizer.html#a1a9ba02d3ae6ea347d60ffaa06af0418',1,'anim::Tokenizer']]],
   ['m_5fadaptor',['m_adaptor',['../classMainWindow.html#a23c49ceae064122d44b98592aa1ac4ff',1,'MainWindow']]],
   ['m_5fattributes',['m_attributes',['../classanim_1_1Attributes.html#ae0276b396fe0eaab75a7b8659a9d706e',1,'anim::Attributes::m_attributes()'],['../classanim_1_1Hierarchy.html#aa6e8a5db84372db142a51d5d389f3839',1,'anim::Hierarchy::m_attributes()']]],
@@ -80,6 +81,7 @@ var searchData=
   ['m_5flog',['m_log',['../classMainWindow.html#a80b9f000661d7bb6a61bdde4d1a327a8',1,'MainWindow']]],
   ['m_5fmainwindow',['m_mainWindow',['../classpossumwood_1_1App.html#adeab1ca1c4fda820747fa57de2bf817c',1,'possumwood::App']]],
   ['m_5fmapping',['m_mapping',['../classanim_1_1JointMappingEditorData.html#a607d65ff46a7ef5b55a763aca83f075f',1,'anim::JointMappingEditorData']]],
+  ['m_5fmenu',['m_menu',['../classSearchableMenu.html#a91365fa3b01c6c00cf67734f423b9935',1,'SearchableMenu']]],
   ['m_5fmessages',['m_messages',['../classdependency__graph_1_1State.html#ad833e7182785c41a54ef6481520d3507',1,'dependency_graph::State']]],
   ['m_5fmeta',['m_meta',['../classdependency__graph_1_1Datablock.html#a0404c42b59f9ab402e8c1feebcc4dfbc',1,'dependency_graph::Datablock::m_meta()'],['../classdependency__graph_1_1Node.html#a9a245f250fdb2790587957e0c3a74e77',1,'dependency_graph::Node::m_meta()'],['../classpossumwood_1_1Metadata.html#aeef56eac81dd87d7fc8f34f382ee7926',1,'possumwood::Metadata::m_meta()'],['../structpossumwood_1_1NodeImplementation.html#a5f6fd2ee4fcd241bd2c1001f4d5ad948',1,'possumwood::NodeImplementation::m_meta()']]],
   ['m_5fmousepos',['m_mousePos',['../classanim_1_1MotionMap.html#adeb8205d76f38f248ed88357efe41fad',1,'anim::MotionMap']]],
@@ -87,6 +89,7 @@ var searchData=
   ['m_5fmousey',['m_mouseY',['../classViewport.html#ac8f47c094b3f64743f44033ce83acb5a',1,'Viewport::m_mouseY()'],['../classnode__editor_1_1GraphWidget.html#a3e6de970490300dbb7fc314da714d76d',1,'node_editor::GraphWidget::m_mouseY()']]],
   ['m_5fmovingnodes',['m_movingNodes',['../classnode__editor_1_1GraphScene.html#a853833818eb1fabfbd80e34690abb18f',1,'node_editor::GraphScene']]],
   ['m_5fname',['m_name',['../classdependency__graph_1_1Attr.html#a1055c5277f685d1381271ebd457a805c',1,'dependency_graph::Attr::m_name()'],['../classdependency__graph_1_1Node.html#abb48ea43b464f228b3b46e7fa0511bbf',1,'dependency_graph::Node::m_name()'],['../classdependency__graph_1_1Port.html#aaf9f0ac4a88cf924c3ebc911aaab7518',1,'dependency_graph::Port::m_name()'],['../classpossumwood_1_1Config_1_1Item.html#ab9f84ec3ae54e8abfd22a2e4b5ed8c34',1,'possumwood::Config::Item::m_name()'],['../classnode__editor_1_1Port.html#a8c0e9a53e234be28e918036e068ed3fe',1,'node_editor::Port::m_name()'],['../classanim_1_1SkinnedMesh.html#a4541f0006932129f54254542b31a6bc2',1,'anim::SkinnedMesh::m_name()']]],
+  ['m_5fnewnodemenu',['m_newNodeMenu',['../classMainWindow.html#a91549a0c5e19b556e3e1c9e50dc55867',1,'MainWindow']]],
   ['m_5fnode',['m_node',['../classdependency__graph_1_1Values.html#a47660a68b331af29f7732a26ecdbfb11',1,'dependency_graph::Values']]],
   ['m_5fnodeinfocallback',['m_nodeInfoCallback',['../classnode__editor_1_1GraphScene.html#a6b1579ec3ce48f388d753eac2101b7d1',1,'node_editor::GraphScene']]],
   ['m_5fnodes',['m_nodes',['../classProperties.html#af123916fe37ad93978a0c65091f18945',1,'Properties::m_nodes()'],['../classdependency__graph_1_1Graph_1_1Nodes.html#aa073836013cc68abf8e17dfa444e091c',1,'dependency_graph::Graph::Nodes::m_nodes()'],['../classdependency__graph_1_1Graph.html#a8151c07eea2008273565fe8f9c4a5196',1,'dependency_graph::Graph::m_nodes()'],['../classdependency__graph_1_1Selection.html#ac853dce17139af5aad1b51194c21dcfa',1,'dependency_graph::Selection::m_nodes()'],['../classnode__editor_1_1GraphScene.html#a3f0566b29b5c34b3b7af7620da4659f2',1,'node_editor::GraphScene::m_nodes()']]],

@@ -22,6 +22,7 @@ var annotated =
     [ "MeshSubsetEditor", "classMeshSubsetEditor.html", "classMeshSubsetEditor" ],
     [ "OMLog", "classOMLog.html", "classOMLog" ],
     [ "Properties", "classProperties.html", "classProperties" ],
+    [ "SearchableMenu", "classSearchableMenu.html", "classSearchableMenu" ],
     [ "Skeleton", "classSkeleton.html", "classSkeleton" ],
     [ "SkeletonTest", "structSkeletonTest.html", "structSkeletonTest" ],
     [ "string_ui", "classstring__ui.html", "classstring__ui" ],

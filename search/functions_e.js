@@ -17,6 +17,7 @@ var searchData=
   ['onremovenode',['onRemoveNode',['../classAdaptor.html#a25568398c9dd7c134f46e69b087646c3',1,'Adaptor::onRemoveNode()'],['../classdependency__graph_1_1Graph.html#a8b74b5df184f22eebc22386a5cf097fd',1,'dependency_graph::Graph::onRemoveNode()']]],
   ['onselectionchanged',['onSelectionChanged',['../classnode__editor_1_1GraphScene.html#adf1bcf418a619749cc18adb30e6b3ec2',1,'node_editor::GraphScene']]],
   ['onstatechanged',['onStateChanged',['../classAdaptor.html#a82e6a5cf093589c6111cd40d19094b28',1,'Adaptor::onStateChanged()'],['../classdependency__graph_1_1Graph.html#a786f25835f8f87e18824e8bb961a76e9',1,'dependency_graph::Graph::onStateChanged()']]],
+  ['ontextedited',['onTextEdited',['../classSearchableMenu.html#a12bc21460c4198e0ba739a57180873f1',1,'SearchableMenu']]],
   ['ontimechanged',['onTimeChanged',['../classpossumwood_1_1App.html#ac23ce2da83ea0f1ae928473ce5ed9992',1,'possumwood::App']]],
   ['ontimer',['onTimer',['../classTimelineWidget.html#a44ac90364d29a0d07eadf8fad02c6538',1,'TimelineWidget']]],
   ['operator_20const_5fiterator',['operator const_iterator',['../classdependency__graph_1_1io_1_1basic__json_1_1iter__impl.html#aa175192749463b3db01108b545f8c020',1,'dependency_graph::io::basic_json::iter_impl']]],
