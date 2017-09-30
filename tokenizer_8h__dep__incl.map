@@ -1,7 +1,7 @@
 <map id="src/plugins/anim/tokenizer.h" name="src/plugins/anim/tokenizer.h">
-<area shape="rect" id="node2" href="$amc_8cpp.html" title="src/plugins/anim/nodes\l/amc.cpp" alt="" coords="5,81,160,122"/>
-<area shape="rect" id="node3" href="$asf_8cpp.html" title="src/plugins/anim/nodes\l/asf.cpp" alt="" coords="185,81,340,122"/>
-<area shape="rect" id="node4" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/bvh.cpp" alt="" coords="365,81,520,122"/>
-<area shape="rect" id="node5" href="$x_8cpp.html" title="src/plugins/anim/nodes\l/x.cpp" alt="" coords="545,81,700,122"/>
+<area shape="rect" id="node2" href="$amc_8cpp.html" title="src/plugins/anim/nodes\l/loaders/amc.cpp" alt="" coords="5,81,160,122"/>
+<area shape="rect" id="node3" href="$asf_8cpp.html" title="src/plugins/anim/nodes\l/loaders/asf.cpp" alt="" coords="185,81,340,122"/>
+<area shape="rect" id="node4" href="$bvh_8cpp.html" title="src/plugins/anim/nodes\l/loaders/bvh.cpp" alt="" coords="365,81,520,122"/>
+<area shape="rect" id="node5" href="$x_8cpp.html" title="src/plugins/anim/nodes\l/loaders/x.cpp" alt="" coords="545,81,700,122"/>
 <area shape="rect" id="node6" href="$tokenizer_8cpp.html" title="src/plugins/anim/tokenizer.cpp" alt="" coords="725,88,923,115"/>
 </map>

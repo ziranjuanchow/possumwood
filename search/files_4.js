@@ -2,6 +2,7 @@ var searchData=
 [
   ['edge_2ecpp',['edge.cpp',['../edge_8cpp.html',1,'']]],
   ['edge_2eh',['edge.h',['../edge_8h.html',1,'']]],
+  ['edit_2ecpp',['edit.cpp',['../edit_8cpp.html',1,'']]],
   ['editor_2ecpp',['editor.cpp',['../editor_8cpp.html',1,'']]],
   ['editor_2eh',['editor.h',['../editor_8h.html',1,'']]],
   ['enum_2ecpp',['enum.cpp',['../enum_8cpp.html',1,'']]],

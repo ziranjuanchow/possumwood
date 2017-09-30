@@ -1,0 +1,32 @@
+<map id="src/plugins/anim/nodes/frame/remap.cpp" name="src/plugins/anim/nodes/frame/remap.cpp">
+<area shape="rect" id="node2" href="$node__implementation_8h.html" title="possumwood_sdk/node\l_implementation.h" alt="" coords="1131,97,1289,138"/>
+<area shape="rect" id="node43" href="$datatypes_2skeleton_8h.html" title="datatypes/skeleton.h" alt="" coords="237,493,379,520"/>
+<area shape="rect" id="node50" href="$joint__mapping__editor__data_8h.html" title="datatypes/joint_mapping\l_editor_data.h" alt="" coords="107,97,269,138"/>
+<area shape="rect" id="node6" href="$values_8inl.html" title="dependency_graph/values.inl" alt="" coords="1294,261,1484,288"/>
+<area shape="rect" id="node28" href="$attr_8inl.html" title="dependency_graph/attr.inl" alt="" coords="521,187,692,213"/>
+<area shape="rect" id="node29" href="$datablock_8inl.html" title="dependency_graph/datablock.inl" alt="" coords="1156,493,1364,520"/>
+<area shape="rect" id="node33" href="$port_8inl.html" title="dependency_graph/port.inl" alt="" coords="915,411,1089,437"/>
+<area shape="rect" id="node34" href="$node_8inl.html" title="dependency_graph/node.inl" alt="" coords="1038,336,1217,363"/>
+<area shape="rect" id="node38" href="$possumwood__sdk_2metadata_8inl.html" title="metadata.inl" alt="" coords="1431,187,1524,213"/>
+<area shape="rect" id="node7" href="$values_8h.html" title="values.h" alt="" coords="1351,411,1421,437"/>
+<area shape="rect" id="node8" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1071,493,1132,520"/>
+<area shape="rect" id="node11" href="$attr_8h.html" title="attr.h" alt="" coords="479,659,531,685"/>
+<area shape="rect" id="node20" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1783,576,1869,603"/>
+<area shape="rect" id="node26" href="$state_8h.html" title="state.h" alt="" coords="857,891,919,917"/>
+<area shape="rect" id="node27" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="877,576,931,603"/>
+<area shape="rect" id="node13" href="$datablock_8h.html" title="datablock.h" alt="" coords="1013,741,1101,768"/>
+<area shape="rect" id="node15" href="$json_8h.html" title="io/json.h" alt="" coords="1097,891,1167,917"/>
+<area shape="rect" id="node19" href="$data_8h.html" title="data.h" alt="" coords="1367,816,1424,843"/>
+<area shape="rect" id="node30" href="$data_8inl.html" title="data.inl" alt="" coords="1177,741,1241,768"/>
+<area shape="rect" id="node31" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1247,816,1341,843"/>
+<area shape="rect" id="node32" href="$rtti_8h.html" title="rtti.h" alt="" coords="623,816,671,843"/>
+<area shape="rect" id="node35" href="$graph_8h.html" title="graph.h" alt="" coords="1862,411,1927,437"/>
+<area shape="rect" id="node39" href="$possumwood__sdk_2metadata_8h.html" title="metadata.h" alt="" coords="2386,261,2472,288"/>
+<area shape="rect" id="node40" href="$editor_8h.html" title="editor.h" alt="" coords="1490,336,1555,363"/>
+<area shape="rect" id="node41" href="$traits_8h.html" title="traits.h" alt="" coords="687,576,749,603"/>
+<area shape="rect" id="node42" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="1023,659,1065,685"/>
+<area shape="rect" id="node44" href="$hierarchy_8h.html" title="hierarchy.h" alt="" coords="861,659,947,685"/>
+<area shape="rect" id="node47" href="$transform_8h.html" title="transform.h" alt="" coords="264,576,352,603"/>
+<area shape="rect" id="node45" href="$children_8h.html" title="children.h" alt="" coords="1145,816,1223,843"/>
+<area shape="rect" id="node46" href="$attributes_8h.html" title="attributes.h" alt="" coords="746,891,832,917"/>
+</map>
