@@ -5,7 +5,7 @@ var classAdaptor =
     [ "copyAction", "classAdaptor.html#a9bf0a4c79dc3e0df085fd33c8f14f88b", null ],
     [ "cutAction", "classAdaptor.html#a4bf7a9924627ec4a1bef89225cc1c65c", null ],
     [ "deleteAction", "classAdaptor.html#a3be49c5f800955d29f8af4936c851052", null ],
-    [ "draw", "classAdaptor.html#a24849c55a87e47d39228c2ff1dff9c30", null ],
+    [ "draw", "classAdaptor.html#ace3932297f03a4071287be91fe2b1452", null ],
     [ "graph", "classAdaptor.html#ad9101caff9d30030dcc950f9d456f6fc", null ],
     [ "graphWidget", "classAdaptor.html#abe4df5967289b4474e2363326f90bfad", null ],
     [ "logged", "classAdaptor.html#add986ef1cc8a881d809f021415d5f8c0", null ],

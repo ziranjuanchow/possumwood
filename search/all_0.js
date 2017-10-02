@@ -44,7 +44,7 @@ var searchData=
   ['app',['App',['../classpossumwood_1_1Config.html#a4097b3e04a4f8ece21f5abe1b10e6323',1,'possumwood::Config::App()'],['../classpossumwood_1_1App.html#a2d4adb833eab3df8ed98e7a724e0dde2',1,'possumwood::App::App()']]],
   ['app_2ecpp',['app.cpp',['../app_8cpp.html',1,'']]],
   ['app_2eh',['app.h',['../app_8h.html',1,'']]],
-  ['append',['append',['../classpossumwood_1_1UndoStack_1_1Action.html#aacacd43751d85b93a5f8d2d926055f7a',1,'possumwood::UndoStack::Action']]],
+  ['append',['append',['../classdependency__graph_1_1State.html#a2cc0cd3931cc2624f1c042d729d13729',1,'dependency_graph::State::append()'],['../classpossumwood_1_1UndoStack_1_1Action.html#aacacd43751d85b93a5f8d2d926055f7a',1,'possumwood::UndoStack::Action::append()']]],
   ['arithmetic_2ecpp',['arithmetic.cpp',['../arithmetic_8cpp.html',1,'']]],
   ['array',['array',['../uniondependency__graph_1_1io_1_1basic__json_1_1json__value.html#a3766ce8db56f64406087ac3193c20304',1,'dependency_graph::io::basic_json::json_value::array()'],['../classdependency__graph_1_1io_1_1basic__json.html#a0f97c7f7b96dc10007ddecb91ea8ab4e',1,'dependency_graph::io::basic_json::array()'],['../namespacedependency__graph_1_1io_1_1detail.html#acba6255278862e5d5eb35bc24f283d79af1f713c9e000f5d3f280adbd124df4f5',1,'dependency_graph::io::detail::array()']]],
   ['array_5fend',['array_end',['../classdependency__graph_1_1io_1_1basic__json.html#a6d8afa54ec37abd0abe0dc12f61b1ec6a49642fb732aa2e112188fba1f9d3ef7f',1,'dependency_graph::io::basic_json']]],

@@ -1,8 +1,8 @@
 <map id="src/libs/dependency_graph/values.inl" name="src/libs/dependency_graph/values.inl">
-<area shape="rect" id="node2" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="3278,97,3431,138"/>
-<area shape="rect" id="node3" href="$node__implementation_8h.html" title="src/libs/possumwood\l_sdk/node_implementation.h" alt="" coords="3455,97,3643,138"/>
-<area shape="rect" id="node42" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="3668,97,3815,138"/>
-<area shape="rect" id="node43" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="3839,97,3985,138"/>
+<area shape="rect" id="node2" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="3378,97,3531,138"/>
+<area shape="rect" id="node3" href="$node__implementation_8h.html" title="src/libs/possumwood\l_sdk/node_implementation.h" alt="" coords="3555,97,3743,138"/>
+<area shape="rect" id="node43" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="3768,97,3915,138"/>
+<area shape="rect" id="node44" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="3939,97,4085,138"/>
 <area shape="rect" id="node4" href="$node__implementation_8cpp.html" title="src/libs/possumwood\l_sdk/node_implementation.cpp" alt="" coords="5,194,208,235"/>
 <area shape="rect" id="node5" href="$time_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/time.cpp" alt="" coords="233,194,377,235"/>
 <area shape="rect" id="node6" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/animation/periodic.cpp" alt="" coords="402,194,557,235"/>
@@ -41,4 +41,5 @@
 <area shape="rect" id="node39" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="6704,194,6852,235"/>
 <area shape="rect" id="node40" href="$normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="6877,194,7075,235"/>
 <area shape="rect" id="node41" href="$plugins_2openmesh_2nodes_2transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="7099,194,7247,235"/>
+<area shape="rect" id="node42" href="$background_8cpp.html" title="src/plugins/shaders\l/nodes/background.cpp" alt="" coords="7272,194,7429,235"/>
 </map>

@@ -22,7 +22,7 @@ var searchData=
   ['adjust',['adjust',['../classnode__editor_1_1ConnectedEdge.html#a6b9f13a6e037cb9503a0c8f0c9cffac3',1,'node_editor::ConnectedEdge']]],
   ['adjustedges',['adjustEdges',['../classnode__editor_1_1Port.html#ac0aefa030e15260fa99ec7cd72f4c3d5',1,'node_editor::Port']]],
   ['app',['App',['../classpossumwood_1_1App.html#a2d4adb833eab3df8ed98e7a724e0dde2',1,'possumwood::App']]],
-  ['append',['append',['../classpossumwood_1_1UndoStack_1_1Action.html#aacacd43751d85b93a5f8d2d926055f7a',1,'possumwood::UndoStack::Action']]],
+  ['append',['append',['../classdependency__graph_1_1State.html#a2cc0cd3931cc2624f1c042d729d13729',1,'dependency_graph::State::append()'],['../classpossumwood_1_1UndoStack_1_1Action.html#aacacd43751d85b93a5f8d2d926055f7a',1,'possumwood::UndoStack::Action::append()']]],
   ['array',['array',['../classdependency__graph_1_1io_1_1basic__json.html#a0f97c7f7b96dc10007ddecb91ea8ab4e',1,'dependency_graph::io::basic_json']]],
   ['as',['as',['../classpossumwood_1_1Config_1_1Item.html#aa7c42a1bba08155da8bb16c6e5541507',1,'possumwood::Config::Item::as()'],['../classanim_1_1Attribute.html#a3f4779fad1e3304824f4be72ed4cde26',1,'anim::Attribute::as() const '],['../classanim_1_1Attribute.html#a8d91b84d42962a45f03d91fb94d07ff6',1,'anim::Attribute::as()']]],
   ['assert_5finvariant',['assert_invariant',['../classdependency__graph_1_1io_1_1basic__json.html#a798f16cab4042a95c9424230a614a62a',1,'dependency_graph::io::basic_json']]],

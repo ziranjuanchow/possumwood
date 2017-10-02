@@ -140,6 +140,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a6db3ffb02e6f92de92c06078f8324470"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeb80e81b8f6e7e9820ab80a1c3df6e0c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1State.html#aeb80e81b8f6e7e9820ab80a1c3df6e0c">errored</a> () const </td></tr>
 <tr class="separator:aeb80e81b8f6e7e9820ab80a1c3df6e0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15c7659507cc58959b42273b64ccf1c2"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1State.html#a15c7659507cc58959b42273b64ccf1c2">size</a> () const </td></tr>
+<tr class="separator:a15c7659507cc58959b42273b64ccf1c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adafbf048a5648288a3fa423f3d1b796e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1State.html#a9ef43ec4991f871a03f2e23964692760">const_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1State.html#adafbf048a5648288a3fa423f3d1b796e">begin</a> () const </td></tr>
 <tr class="separator:adafbf048a5648288a3fa423f3d1b796e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aca901470eedae4ed3cb521233711cbc5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1State.html#a9ef43ec4991f871a03f2e23964692760">const_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1State.html#aca901470eedae4ed3cb521233711cbc5">end</a> () const </td></tr>
@@ -148,6 +150,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a6de9458ad6fc5c30cafc41ce6cde64ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a83af1bde027ab3d2371cb71847967418"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1State.html#a83af1bde027ab3d2371cb71847967418">operator!=</a> (const <a class="el" href="classdependency__graph_1_1State.html">State</a> &amp;s) const </td></tr>
 <tr class="separator:a83af1bde027ab3d2371cb71847967418"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2cc0cd3931cc2624f1c042d729d13729"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1State.html#a2cc0cd3931cc2624f1c042d729d13729">append</a> (const <a class="el" href="classdependency__graph_1_1State.html">State</a> &amp;s)</td></tr>
+<tr class="separator:a2cc0cd3931cc2624f1c042d729d13729"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -256,6 +260,22 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a2cc0cd3931cc2624f1c042d729d13729"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void dependency_graph::State::append </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1State.html">State</a> &amp;&#160;</td>
+          <td class="paramname"><em>s</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="adafbf048a5648288a3fa423f3d1b796e"></a>
 <div class="memitem">
 <div class="memproto">
@@ -333,6 +353,21 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a15c7659507cc58959b42273b64ccf1c2"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::size_t dependency_graph::State::size </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Member Data Documentation</h2>
 <a class="anchor" id="accaaebb89eb04b45c0cd28b5c57a12df"></a>
 <div class="memitem">
@@ -384,7 +419,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1State.html">State</a></li>
-    <li class="footer">Generated on Sat Sep 30 2017 15:27:46 for possumwood by
+    <li class="footer">Generated on Mon Oct 2 2017 23:43:51 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

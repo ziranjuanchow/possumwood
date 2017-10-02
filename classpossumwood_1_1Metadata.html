@@ -151,9 +151,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:abb32c52ffc0e10317a3d76dd47febd46"><td class="memTemplParams" colspan="2">template&lt;typename DRAWABLE &gt; </td></tr>
 <tr class="memitem:abb32c52ffc0e10317a3d76dd47febd46"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#abb32c52ffc0e10317a3d76dd47febd46">setDrawable</a> ()</td></tr>
 <tr class="separator:abb32c52ffc0e10317a3d76dd47febd46"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a33b1876f7746fe7f914f2f97f2de9299"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#a33b1876f7746fe7f914f2f97f2de9299">setDrawable</a> (std::function&lt; void(const <a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;)&gt; fn)</td></tr>
-<tr class="memdesc:a33b1876f7746fe7f914f2f97f2de9299"><td class="mdescLeft">&#160;</td><td class="mdescRight">drawable for this node type, as a simple functor  <a href="#a33b1876f7746fe7f914f2f97f2de9299">More...</a><br/></td></tr>
-<tr class="separator:a33b1876f7746fe7f914f2f97f2de9299"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5affc808b68dffa0d52958f02012cde3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#a5affc808b68dffa0d52958f02012cde3">setDrawable</a> (std::function&lt; <a class="el" href="classdependency__graph_1_1State.html">dependency_graph::State</a>(const <a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;)&gt; fn)</td></tr>
+<tr class="memdesc:a5affc808b68dffa0d52958f02012cde3"><td class="mdescLeft">&#160;</td><td class="mdescRight">drawable for this node type, as a simple functor  <a href="#a5affc808b68dffa0d52958f02012cde3">More...</a><br/></td></tr>
+<tr class="separator:a5affc808b68dffa0d52958f02012cde3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afd19e99d309f2b3ebfa37757344f91a4"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1Drawable.html">Drawable</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Metadata.html#afd19e99d309f2b3ebfa37757344f91a4">createDrawable</a> (<a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;&amp;values) const </td></tr>
 <tr class="memdesc:afd19e99d309f2b3ebfa37757344f91a4"><td class="mdescLeft">&#160;</td><td class="mdescRight">creates a new drawable instance for given value set  <a href="#afd19e99d309f2b3ebfa37757344f91a4">More...</a><br/></td></tr>
 <tr class="separator:afd19e99d309f2b3ebfa37757344f91a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -434,14 +434,14 @@ template&lt;typename DRAWABLE &gt; </div>
 
 </div>
 </div>
-<a class="anchor" id="a33b1876f7746fe7f914f2f97f2de9299"></a>
+<a class="anchor" id="a5affc808b68dffa0d52958f02012cde3"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
           <td class="memname">void possumwood::Metadata::setDrawable </td>
           <td>(</td>
-          <td class="paramtype">std::function&lt; void(const <a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;)&gt;&#160;</td>
+          <td class="paramtype">std::function&lt; <a class="el" href="classdependency__graph_1_1State.html">dependency_graph::State</a>(const <a class="el" href="classdependency__graph_1_1Values.html">dependency_graph::Values</a> &amp;)&gt;&#160;</td>
           <td class="paramname"><em>fn</em></td><td>)</td>
           <td></td>
         </tr>
@@ -563,7 +563,7 @@ template&lt;typename EDITOR &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1Metadata.html">Metadata</a></li>
-    <li class="footer">Generated on Sat Sep 30 2017 15:27:47 for possumwood by
+    <li class="footer">Generated on Mon Oct 2 2017 23:43:53 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

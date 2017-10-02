@@ -1,9 +1,9 @@
 <map id="src/libs/dependency_graph/port.inl" name="src/libs/dependency_graph/port.inl">
-<area shape="rect" id="node2" href="$properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="3607,291,3760,333"/>
+<area shape="rect" id="node2" href="$properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="3698,291,3850,333"/>
 <area shape="rect" id="node3" href="$dependency__graph_2port_8cpp.html" title="src/libs/dependency\l_graph/port.cpp" alt="" coords="3248,97,3386,138"/>
 <area shape="rect" id="node4" href="$app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="3411,97,3556,138"/>
 <area shape="rect" id="node5" href="$node__implementation_8h.html" title="src/libs/possumwood\l_sdk/node_implementation.h" alt="" coords="3580,97,3768,138"/>
-<area shape="rect" id="node44" href="$property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="3793,97,3966,138"/>
+<area shape="rect" id="node45" href="$property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="3793,97,3966,138"/>
 <area shape="rect" id="node47" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="3990,97,4137,138"/>
 <area shape="rect" id="node48" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="4161,97,4308,138"/>
 <area shape="rect" id="node49" href="$graph__connections_8cpp.html" title="src/tests/dependency\l_graph/graph_connections.cpp" alt="" coords="4332,97,4530,138"/>
@@ -46,6 +46,6 @@
 <area shape="rect" id="node41" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="6729,194,6877,235"/>
 <area shape="rect" id="node42" href="$normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="6902,194,7100,235"/>
 <area shape="rect" id="node43" href="$plugins_2openmesh_2nodes_2transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="7124,194,7272,235"/>
-<area shape="rect" id="node45" href="$properties_8h.html" title="src/apps/possumwood\l/properties.h" alt="" coords="7298,194,7450,235"/>
-<area shape="rect" id="node46" href="$factory_8cpp.html" title="src/libs/possumwood\l_sdk/properties/factory.cpp" alt="" coords="7475,194,7654,235"/>
+<area shape="rect" id="node44" href="$background_8cpp.html" title="src/plugins/shaders\l/nodes/background.cpp" alt="" coords="7297,194,7454,235"/>
+<area shape="rect" id="node46" href="$properties_8h.html" title="src/apps/possumwood\l/properties.h" alt="" coords="7479,194,7632,235"/>
 </map>
