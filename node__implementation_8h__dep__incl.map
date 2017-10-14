@@ -38,4 +38,7 @@
 <area shape="rect" id="node38" href="$normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="6877,103,7075,145"/>
 <area shape="rect" id="node39" href="$plugins_2openmesh_2nodes_2transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="7099,103,7247,145"/>
 <area shape="rect" id="node40" href="$background_8cpp.html" title="src/plugins/shaders\l/nodes/background.cpp" alt="" coords="7272,103,7429,145"/>
+<area shape="rect" id="node41" href="$fragment__shader_8cpp.html" title="src/plugins/shaders\l/nodes/fragment_shader.cpp" alt="" coords="7453,103,7640,145"/>
+<area shape="rect" id="node42" href="$load_8cpp.html" title="src/plugins/shaders\l/nodes/image/load.cpp" alt="" coords="7665,103,7817,145"/>
+<area shape="rect" id="node43" href="$vertex__shader_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_shader.cpp" alt="" coords="7842,103,8013,145"/>
 </map>

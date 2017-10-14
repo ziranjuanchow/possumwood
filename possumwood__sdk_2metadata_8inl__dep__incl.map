@@ -1,6 +1,6 @@
 <map id="src/libs/possumwood_sdk/metadata.inl" name="src/libs/possumwood_sdk/metadata.inl">
-<area shape="rect" id="node2" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="1609,97,1761,138"/>
-<area shape="rect" id="node3" href="$node__implementation_8h.html" title="src/libs/possumwood\l_sdk/node_implementation.h" alt="" coords="3455,97,3643,138"/>
+<area shape="rect" id="node2" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="1709,97,1861,138"/>
+<area shape="rect" id="node3" href="$node__implementation_8h.html" title="src/libs/possumwood\l_sdk/node_implementation.h" alt="" coords="3754,97,3941,138"/>
 <area shape="rect" id="node11" href="$anim_2nodes_2frame_2display_8cpp.html" title="src/plugins/anim/nodes\l/frame/display.cpp" alt="" coords="5,194,160,235"/>
 <area shape="rect" id="node4" href="$node__implementation_8cpp.html" title="src/libs/possumwood\l_sdk/node_implementation.cpp" alt="" coords="185,194,388,235"/>
 <area shape="rect" id="node5" href="$time_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/time.cpp" alt="" coords="413,194,557,235"/>
@@ -40,4 +40,7 @@
 <area shape="rect" id="node40" href="$normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="6877,194,7075,235"/>
 <area shape="rect" id="node41" href="$plugins_2openmesh_2nodes_2transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="7099,194,7247,235"/>
 <area shape="rect" id="node42" href="$background_8cpp.html" title="src/plugins/shaders\l/nodes/background.cpp" alt="" coords="7272,194,7429,235"/>
+<area shape="rect" id="node43" href="$fragment__shader_8cpp.html" title="src/plugins/shaders\l/nodes/fragment_shader.cpp" alt="" coords="7453,194,7640,235"/>
+<area shape="rect" id="node44" href="$load_8cpp.html" title="src/plugins/shaders\l/nodes/image/load.cpp" alt="" coords="7665,194,7817,235"/>
+<area shape="rect" id="node45" href="$vertex__shader_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_shader.cpp" alt="" coords="7842,194,8013,235"/>
 </map>

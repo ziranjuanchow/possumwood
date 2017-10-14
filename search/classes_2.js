@@ -1,7 +1,6 @@
 var searchData=
 [
   ['cached_5finput_5fstream_5fadapter',['cached_input_stream_adapter',['../classdependency__graph_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html',1,'dependency_graph::io::basic_json']]],
-  ['callbacks',['Callbacks',['../structdependency__graph_1_1io_1_1Callbacks.html',1,'dependency_graph::io']]],
   ['children',['Children',['../classanim_1_1Children.html',1,'anim']]],
   ['comparator',['Comparator',['../structdependency__graph_1_1Metadata_1_1Comparator.html',1,'dependency_graph::Metadata']]],
   ['config',['Config',['../classpossumwood_1_1Config.html',1,'possumwood']]],

@@ -9,7 +9,8 @@ var hierarchy =
     [ "dependency_graph::Attr", "classdependency__graph_1_1Attr.html", [
       [ "dependency_graph::TypedAttr< T >", "classdependency__graph_1_1TypedAttr.html", [
         [ "dependency_graph::InAttr< T >", "classdependency__graph_1_1InAttr.html", null ],
-        [ "dependency_graph::OutAttr< T >", "classdependency__graph_1_1OutAttr.html", null ]
+        [ "dependency_graph::OutAttr< T >", "classdependency__graph_1_1OutAttr.html", null ],
+        [ "dependency_graph::InAttr< std::string >", "classdependency__graph_1_1InAttr.html", null ]
       ] ]
     ] ],
     [ "anim::Attribute", "classanim_1_1Attribute.html", null ],
@@ -23,7 +24,6 @@ var hierarchy =
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >", "classdependency__graph_1_1io_1_1basic__json.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_reader", "classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_writer", "classdependency__graph_1_1io_1_1basic__json_1_1binary__writer.html", null ],
-    [ "dependency_graph::io::Callbacks", "structdependency__graph_1_1io_1_1Callbacks.html", null ],
     [ "anim::Children< JOINT, CONTAINER >", "classanim_1_1Children.html", null ],
     [ "dependency_graph::Metadata::Comparator", "structdependency__graph_1_1Metadata_1_1Comparator.html", null ],
     [ "dependency_graph::Selection::Connection", "structdependency__graph_1_1Selection_1_1Connection.html", null ],
@@ -118,7 +118,9 @@ var hierarchy =
       [ "possumwood::Drawable", "classpossumwood_1_1Drawable.html", [
         [ "possumwood::DrawableFunctor", "classpossumwood_1_1DrawableFunctor.html", null ]
       ] ],
-      [ "possumwood::Editor", "classpossumwood_1_1Editor.html", null ],
+      [ "possumwood::Editor", "classpossumwood_1_1Editor.html", [
+        [ "possumwood::ShaderEditor", "classpossumwood_1_1ShaderEditor.html", null ]
+      ] ],
       [ "possumwood::Index::Item", "structpossumwood_1_1Index_1_1Item.html", null ],
       [ "possumwood::IOBase", "classpossumwood_1_1IOBase.html", [
         [ "possumwood::IO< anim::FrameEditorData >", "classpossumwood_1_1IO.html", null ],
@@ -128,7 +130,6 @@ var hierarchy =
         [ "possumwood::IO< possumwood::Enum >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::Filename >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::NodeData >", "classpossumwood_1_1IO.html", null ],
-        [ "possumwood::IO< std::shared_ptr< const Mesh > >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< std::string >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< std::vector< DecimaterModule > >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< T >", "classpossumwood_1_1IO.html", null ]
@@ -146,6 +147,7 @@ var hierarchy =
         [ "possumwood::properties::factory_typed< JointMappingEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< mesh_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< MeshSubsetEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< Pixmap >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< Skeleton >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< string_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< unsigned_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
@@ -184,12 +186,19 @@ var hierarchy =
         [ "possumwood::properties::property< std::shared_ptr< const Mesh >, mesh_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "mesh_ui", "classmesh__ui.html", null ]
         ] ],
+        [ "possumwood::properties::property< std::shared_ptr< const QPixmap >, Pixmap >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "Pixmap", "classPixmap.html", null ]
+        ] ],
         [ "possumwood::properties::property< std::string, string_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "string_ui", "classstring__ui.html", null ]
         ] ],
         [ "possumwood::properties::property< unsigned, unsigned_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "unsigned_ui", "classunsigned__ui.html", null ]
         ] ]
+      ] ],
+      [ "possumwood::Shader", "classpossumwood_1_1Shader.html", [
+        [ "possumwood::FragmentShader", "classpossumwood_1_1FragmentShader.html", null ],
+        [ "possumwood::VertexShader", "classpossumwood_1_1VertexShader.html", null ]
       ] ],
       [ "possumwood::UndoStack", "classpossumwood_1_1UndoStack.html", null ],
       [ "Properties::Property", "structProperties_1_1Property.html", null ],
@@ -275,8 +284,11 @@ var hierarchy =
     [ "possumwood::Traits< Imath::Vec3< float > >", "structpossumwood_1_1Traits_3_01Imath_1_1Vec3_3_01float_01_4_01_4.html", null ],
     [ "possumwood::Traits< NodeData >", "structpossumwood_1_1Traits_3_01NodeData_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const anim::Animation > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4.html", null ],
+    [ "possumwood::Traits< std::shared_ptr< const FragmentShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01FragmentShader_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const Mesh > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Mesh_01_4_01_4.html", null ],
+    [ "possumwood::Traits< std::shared_ptr< const QPixmap > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const std::vector< anim::SkinnedMesh > > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html", null ],
+    [ "possumwood::Traits< std::shared_ptr< const VertexShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::string >", "structpossumwood_1_1Traits_3_01std_1_1string_01_4.html", null ],
     [ "possumwood::Traits< std::vector< DecimaterModule > >", "structpossumwood_1_1Traits_3_01std_1_1vector_3_01DecimaterModule_01_4_01_4.html", null ],
     [ "possumwood::Traits< T, typename std::enable_if< std::is_arithmetic< T >::value >::type >", "structpossumwood_1_1Traits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__arithmetic_3_0d8c0595ba092f38fa03f72dcf55dd8c7.html", null ],

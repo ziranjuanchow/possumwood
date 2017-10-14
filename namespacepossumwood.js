@@ -31,5 +31,12 @@ var namespacepossumwood =
     [ "Traits< Imath::Vec3< float > >", "structpossumwood_1_1Traits_3_01Imath_1_1Vec3_3_01float_01_4_01_4.html", "structpossumwood_1_1Traits_3_01Imath_1_1Vec3_3_01float_01_4_01_4" ],
     [ "Traits< DecimaterModule >", "structpossumwood_1_1Traits_3_01DecimaterModule_01_4.html", null ],
     [ "Traits< std::vector< DecimaterModule > >", "structpossumwood_1_1Traits_3_01std_1_1vector_3_01DecimaterModule_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1vector_3_01DecimaterModule_01_4_01_4" ],
-    [ "Traits< std::shared_ptr< const Mesh > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Mesh_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Mesh_01_4_01_4" ]
+    [ "Traits< std::shared_ptr< const Mesh > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Mesh_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Mesh_01_4_01_4" ],
+    [ "Traits< std::shared_ptr< const QPixmap > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4" ],
+    [ "Shader", "classpossumwood_1_1Shader.html", "classpossumwood_1_1Shader" ],
+    [ "FragmentShader", "classpossumwood_1_1FragmentShader.html", "classpossumwood_1_1FragmentShader" ],
+    [ "VertexShader", "classpossumwood_1_1VertexShader.html", "classpossumwood_1_1VertexShader" ],
+    [ "Traits< std::shared_ptr< const FragmentShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01FragmentShader_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01FragmentShader_01_4_01_4" ],
+    [ "Traits< std::shared_ptr< const VertexShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4" ],
+    [ "ShaderEditor", "classpossumwood_1_1ShaderEditor.html", "classpossumwood_1_1ShaderEditor" ]
 ];

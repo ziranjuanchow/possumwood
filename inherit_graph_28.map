@@ -1,6 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classdependency__graph_1_1Attr.html" title="Common attribute base class. " alt="" coords="5,31,165,57"/>
-<area shape="rect" id="node2" href="$classdependency__graph_1_1TypedAttr.html" title="dependency_graph::TypedAttr\&lt; T \&gt;" alt="" coords="214,31,442,57"/>
+<area shape="rect" id="node1" href="$classdependency__graph_1_1Attr.html" title="Common attribute base class. " alt="" coords="5,56,165,83"/>
+<area shape="rect" id="node2" href="$classdependency__graph_1_1TypedAttr.html" title="dependency_graph::TypedAttr\&lt; T \&gt;" alt="" coords="214,56,442,83"/>
 <area shape="rect" id="node3" href="$classdependency__graph_1_1InAttr.html" title="Input attribute type (constructed by Metadata class) " alt="" coords="496,5,699,32"/>
 <area shape="rect" id="node4" href="$classdependency__graph_1_1OutAttr.html" title="Output attribute type (constructed by Metadata class) " alt="" coords="491,56,704,83"/>
+<area shape="rect" id="node5" href="$classdependency__graph_1_1InAttr.html" title="dependency_graph::InAttr\l\&lt; std::string \&gt;" alt="" coords="512,107,683,149"/>
 </map>
