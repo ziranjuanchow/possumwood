@@ -1,5 +1,6 @@
 <map id="src/plugins/shaders/ui/shader_editor.h" name="src/plugins/shaders/ui/shader_editor.h">
 <area shape="rect" id="node2" href="$fragment__shader_8cpp.html" title="src/plugins/shaders\l/nodes/fragment_shader.cpp" alt="" coords="5,97,192,138"/>
-<area shape="rect" id="node3" href="$vertex__shader_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_shader.cpp" alt="" coords="217,97,388,138"/>
-<area shape="rect" id="node4" href="$shader__editor_8cpp.html" title="src/plugins/shaders\l/ui/shader_editor.cpp" alt="" coords="413,97,555,138"/>
+<area shape="rect" id="node3" href="$nodes_2program_8cpp.html" title="src/plugins/shaders\l/nodes/program.cpp" alt="" coords="217,97,353,138"/>
+<area shape="rect" id="node4" href="$vertex__shader_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_shader.cpp" alt="" coords="378,97,549,138"/>
+<area shape="rect" id="node5" href="$shader__editor_8cpp.html" title="src/plugins/shaders\l/ui/shader_editor.cpp" alt="" coords="574,97,716,138"/>
 </map>

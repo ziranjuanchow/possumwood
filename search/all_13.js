@@ -23,6 +23,9 @@ var searchData=
   ['unsigned_5fui',['unsigned_ui',['../classunsigned__ui.html',1,'unsigned_ui'],['../classunsigned__ui.html#a822d91bf8f22f16670d90bee0af1e64b',1,'unsigned_ui::unsigned_ui()']]],
   ['unsigned_5fui_2ecpp',['unsigned_ui.cpp',['../unsigned__ui_8cpp.html',1,'']]],
   ['unsigned_5fui_2eh',['unsigned_ui.h',['../unsigned__ui_8h.html',1,'']]],
+  ['update',['update',['../structpossumwood_1_1VertexData_1_1VBOHolder.html#a1b11de1f0af1529123d9271939170002',1,'possumwood::VertexData::VBOHolder']]],
   ['updateoptions',['updateOptions',['../classanim_1_1SubsetSelection.html#af45ac6993b329d2684b7ce7f7a611069',1,'anim::SubsetSelection']]],
-  ['updaterect',['updateRect',['../classnode__editor_1_1Node.html#ab15809a52cee2bc2f4e816c99f3202d4',1,'node_editor::Node']]]
+  ['updaterect',['updateRect',['../classnode__editor_1_1Node.html#ab15809a52cee2bc2f4e816c99f3202d4',1,'node_editor::Node']]],
+  ['updatetype',['updateType',['../structpossumwood_1_1VertexData_1_1VBOHolder.html#afb9b30a28c8cd96ec86418b9aeef2f0c',1,'possumwood::VertexData::VBOHolder::updateType()'],['../classpossumwood_1_1VertexData.html#a28aa74b8c22a789103fa3142dd55c8bf',1,'possumwood::VertexData::UpdateType()']]],
+  ['use',['use',['../classpossumwood_1_1VBOBase.html#a97ec3e2d45120c32db02ee5a93005ab9',1,'possumwood::VBOBase::use()'],['../classpossumwood_1_1VertexData.html#a064103c1de0bbe0402b8ba73ceda2ebf',1,'possumwood::VertexData::use()']]]
 ];

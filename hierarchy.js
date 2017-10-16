@@ -136,6 +136,7 @@ var hierarchy =
       ] ],
       [ "possumwood::Metadata", "classpossumwood_1_1Metadata.html", null ],
       [ "possumwood::NodeImplementation", "structpossumwood_1_1NodeImplementation.html", null ],
+      [ "possumwood::Program", "classpossumwood_1_1Program.html", null ],
       [ "possumwood::properties::factories", "classpossumwood_1_1properties_1_1factories.html", null ],
       [ "possumwood::properties::factory", "classpossumwood_1_1properties_1_1factory.html", [
         [ "possumwood::properties::factory_typed< bool_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
@@ -201,6 +202,10 @@ var hierarchy =
         [ "possumwood::VertexShader", "classpossumwood_1_1VertexShader.html", null ]
       ] ],
       [ "possumwood::UndoStack", "classpossumwood_1_1UndoStack.html", null ],
+      [ "possumwood::VBOBase", "classpossumwood_1_1VBOBase.html", [
+        [ "possumwood::VBO< T >", "classpossumwood_1_1VBO.html", null ]
+      ] ],
+      [ "possumwood::VertexData", "classpossumwood_1_1VertexData.html", null ],
       [ "Properties::Property", "structProperties_1_1Property.html", null ],
       [ "Viewport", "classViewport.html", null ]
     ] ],
@@ -286,8 +291,10 @@ var hierarchy =
     [ "possumwood::Traits< std::shared_ptr< const anim::Animation > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const FragmentShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01FragmentShader_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const Mesh > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Mesh_01_4_01_4.html", null ],
+    [ "possumwood::Traits< std::shared_ptr< const Program > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Program_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const QPixmap > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const std::vector< anim::SkinnedMesh > > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html", null ],
+    [ "possumwood::Traits< std::shared_ptr< const VertexData > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexData_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const VertexShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::string >", "structpossumwood_1_1Traits_3_01std_1_1string_01_4.html", null ],
     [ "possumwood::Traits< std::vector< DecimaterModule > >", "structpossumwood_1_1Traits_3_01std_1_1vector_3_01DecimaterModule_01_4_01_4.html", null ],
@@ -300,5 +307,11 @@ var hierarchy =
       [ "dependency_graph::io::detail::conjunction< B1, Bn...>", "structdependency__graph_1_1io_1_1detail_1_1conjunction_3_01B1_00_01Bn_8_8_8_4.html", null ]
     ] ],
     [ "possumwood::UniqueId", "classpossumwood_1_1UniqueId.html", null ],
+    [ "possumwood::VertexData::VBOHolder", "structpossumwood_1_1VertexData_1_1VBOHolder.html", null ],
+    [ "possumwood::VBOTraits< T >", "structpossumwood_1_1VBOTraits.html", null ],
+    [ "possumwood::VBOTraits< double >", "structpossumwood_1_1VBOTraits_3_01double_01_4.html", null ],
+    [ "possumwood::VBOTraits< float >", "structpossumwood_1_1VBOTraits_3_01float_01_4.html", null ],
+    [ "possumwood::VBOTraits< Imath::V3d >", "structpossumwood_1_1VBOTraits_3_01Imath_1_1V3d_01_4.html", null ],
+    [ "possumwood::VBOTraits< Imath::V3f >", "structpossumwood_1_1VBOTraits_3_01Imath_1_1V3f_01_4.html", null ],
     [ "anim::SkinnedVertices::Vertex", "classanim_1_1SkinnedVertices_1_1Vertex.html", null ]
 ];

@@ -11,5 +11,6 @@ var searchData=
   ['unmangledtypeid',['unmangledTypeId',['../namespacedependency__graph.html#a9b5d786fcd88ec6e43a6f16d2c926ab4',1,'dependency_graph::unmangledTypeId()'],['../namespacedependency__graph.html#acf25cc560904d8461499b516d370ab89',1,'dependency_graph::unmangledTypeId(const T &amp;)']]],
   ['unsigned_5fui',['unsigned_ui',['../classunsigned__ui.html#a822d91bf8f22f16670d90bee0af1e64b',1,'unsigned_ui']]],
   ['updateoptions',['updateOptions',['../classanim_1_1SubsetSelection.html#af45ac6993b329d2684b7ce7f7a611069',1,'anim::SubsetSelection']]],
-  ['updaterect',['updateRect',['../classnode__editor_1_1Node.html#ab15809a52cee2bc2f4e816c99f3202d4',1,'node_editor::Node']]]
+  ['updaterect',['updateRect',['../classnode__editor_1_1Node.html#ab15809a52cee2bc2f4e816c99f3202d4',1,'node_editor::Node']]],
+  ['use',['use',['../classpossumwood_1_1VBOBase.html#a97ec3e2d45120c32db02ee5a93005ab9',1,'possumwood::VBOBase::use()'],['../classpossumwood_1_1VertexData.html#a064103c1de0bbe0402b8ba73ceda2ebf',1,'possumwood::VertexData::use()']]]
 ];

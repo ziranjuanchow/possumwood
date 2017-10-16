@@ -40,5 +40,7 @@
 <area shape="rect" id="node40" href="$background_8cpp.html" title="src/plugins/shaders\l/nodes/background.cpp" alt="" coords="7272,103,7429,145"/>
 <area shape="rect" id="node41" href="$fragment__shader_8cpp.html" title="src/plugins/shaders\l/nodes/fragment_shader.cpp" alt="" coords="7453,103,7640,145"/>
 <area shape="rect" id="node42" href="$load_8cpp.html" title="src/plugins/shaders\l/nodes/image/load.cpp" alt="" coords="7665,103,7817,145"/>
-<area shape="rect" id="node43" href="$vertex__shader_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_shader.cpp" alt="" coords="7842,103,8013,145"/>
+<area shape="rect" id="node43" href="$nodes_2program_8cpp.html" title="src/plugins/shaders\l/nodes/program.cpp" alt="" coords="7842,103,7979,145"/>
+<area shape="rect" id="node44" href="$vertex__data_2background_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/background.cpp" alt="" coords="8004,103,8233,145"/>
+<area shape="rect" id="node45" href="$vertex__shader_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_shader.cpp" alt="" coords="8258,103,8429,145"/>
 </map>
