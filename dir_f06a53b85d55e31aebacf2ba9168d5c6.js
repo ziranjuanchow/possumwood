@@ -1,5 +1,16 @@
 var dir_f06a53b85d55e31aebacf2ba9168d5c6 =
 [
+    [ "glsl_traits.h", "glsl__traits_8h.html", [
+      [ "GLSLTraits", "structpossumwood_1_1GLSLTraits.html", null ],
+      [ "GLSLTraits< float >", "structpossumwood_1_1GLSLTraits_3_01float_01_4.html", "structpossumwood_1_1GLSLTraits_3_01float_01_4" ],
+      [ "GLSLTraits< double >", "structpossumwood_1_1GLSLTraits_3_01double_01_4.html", "structpossumwood_1_1GLSLTraits_3_01double_01_4" ],
+      [ "GLSLTraits< Imath::V2f >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V2f_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V2f_01_4" ],
+      [ "GLSLTraits< Imath::V2d >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V2d_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V2d_01_4" ],
+      [ "GLSLTraits< Imath::V3f >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3f_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3f_01_4" ],
+      [ "GLSLTraits< Imath::V3d >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3d_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3d_01_4" ],
+      [ "GLSLTraits< std::array< float, 16 > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_0116_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_0116_01_4_01_4" ],
+      [ "GLSLTraits< std::array< double, 16 > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_0116_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_0116_01_4_01_4" ]
+    ] ],
     [ "pixmap.h", "datatypes_2pixmap_8h.html", [
       [ "Traits< std::shared_ptr< const QPixmap > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4" ]
     ] ],
@@ -16,19 +27,19 @@ var dir_f06a53b85d55e31aebacf2ba9168d5c6 =
       [ "Traits< std::shared_ptr< const FragmentShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01FragmentShader_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01FragmentShader_01_4_01_4" ],
       [ "Traits< std::shared_ptr< const VertexShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4" ]
     ] ],
+    [ "uniforms.cpp", "uniforms_8cpp.html", null ],
+    [ "uniforms.h", "uniforms_8h.html", [
+      [ "Uniforms", "classpossumwood_1_1Uniforms.html", "classpossumwood_1_1Uniforms" ],
+      [ "UniformHolder", "structpossumwood_1_1Uniforms_1_1UniformHolder.html", "structpossumwood_1_1Uniforms_1_1UniformHolder" ],
+      [ "Traits< std::shared_ptr< const Uniforms > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Uniforms_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Uniforms_01_4_01_4" ]
+    ] ],
+    [ "uniforms.inl", "uniforms_8inl.html", null ],
     [ "vbo.cpp", "vbo_8cpp.html", null ],
     [ "vbo.h", "vbo_8h.html", [
       [ "VBOBase", "classpossumwood_1_1VBOBase.html", "classpossumwood_1_1VBOBase" ],
       [ "VBO", "classpossumwood_1_1VBO.html", "classpossumwood_1_1VBO" ]
     ] ],
     [ "vbo.inl", "vbo_8inl.html", null ],
-    [ "vbo_traits.h", "vbo__traits_8h.html", [
-      [ "VBOTraits", "structpossumwood_1_1VBOTraits.html", null ],
-      [ "VBOTraits< float >", "structpossumwood_1_1VBOTraits_3_01float_01_4.html", "structpossumwood_1_1VBOTraits_3_01float_01_4" ],
-      [ "VBOTraits< double >", "structpossumwood_1_1VBOTraits_3_01double_01_4.html", "structpossumwood_1_1VBOTraits_3_01double_01_4" ],
-      [ "VBOTraits< Imath::V3f >", "structpossumwood_1_1VBOTraits_3_01Imath_1_1V3f_01_4.html", "structpossumwood_1_1VBOTraits_3_01Imath_1_1V3f_01_4" ],
-      [ "VBOTraits< Imath::V3d >", "structpossumwood_1_1VBOTraits_3_01Imath_1_1V3d_01_4.html", "structpossumwood_1_1VBOTraits_3_01Imath_1_1V3d_01_4" ]
-    ] ],
     [ "vertex_data.cpp", "vertex__data_8cpp.html", null ],
     [ "vertex_data.h", "vertex__data_8h.html", [
       [ "VertexData", "classpossumwood_1_1VertexData.html", "classpossumwood_1_1VertexData" ],

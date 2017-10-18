@@ -1,7 +1,7 @@
 var searchData=
 [
   ['main',['main',['../apps_2node__editor__sandbox_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../apps_2possumwood_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp']]],
-  ['mainwindow',['MainWindow',['../classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb',1,'MainWindow::MainWindow()'],['../classpossumwood_1_1App.html#a1a1e596900394ba29908171bc8a7ba9e',1,'possumwood::App::mainWindow()']]],
+  ['mainwindow',['mainWindow',['../classpossumwood_1_1App.html#a1a1e596900394ba29908171bc8a7ba9e',1,'possumwood::App::mainWindow()'],['../classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb',1,'MainWindow::MainWindow()']]],
   ['makenode',['makeNode',['../classdependency__graph_1_1Graph.html#aa45414d7127fe016d063c4e68f5e9c4c',1,'dependency_graph::Graph']]],
   ['makepath',['makePath',['../classnode__editor_1_1Edge.html#ac064dd6839d08ad4579254a06d141c02',1,'node_editor::Edge']]],
   ['maptoscene',['mapToScene',['../classAdaptor.html#a2c317d47324987ebb7d6f74e142a3aa6',1,'Adaptor']]],

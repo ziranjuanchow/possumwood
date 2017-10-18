@@ -56,6 +56,15 @@ var hierarchy =
     [ "possumwood::Filename", "classpossumwood_1_1Filename.html", null ],
     [ "anim::FrameEditorData", "classanim_1_1FrameEditorData.html", null ],
     [ "dependency_graph::io::detail::from_json_fn", "structdependency__graph_1_1io_1_1detail_1_1from__json__fn.html", null ],
+    [ "possumwood::GLSLTraits< T >", "structpossumwood_1_1GLSLTraits.html", null ],
+    [ "possumwood::GLSLTraits< double >", "structpossumwood_1_1GLSLTraits_3_01double_01_4.html", null ],
+    [ "possumwood::GLSLTraits< float >", "structpossumwood_1_1GLSLTraits_3_01float_01_4.html", null ],
+    [ "possumwood::GLSLTraits< Imath::V2d >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V2d_01_4.html", null ],
+    [ "possumwood::GLSLTraits< Imath::V2f >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V2f_01_4.html", null ],
+    [ "possumwood::GLSLTraits< Imath::V3d >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3d_01_4.html", null ],
+    [ "possumwood::GLSLTraits< Imath::V3f >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3f_01_4.html", null ],
+    [ "possumwood::GLSLTraits< std::array< double, 16 > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_0116_01_4_01_4.html", null ],
+    [ "possumwood::GLSLTraits< std::array< float, 16 > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_0116_01_4_01_4.html", null ],
     [ "dependency_graph::io::detail::has_from_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__from__json.html", null ],
     [ "dependency_graph::io::detail::has_non_default_from_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__non__default__from__json.html", null ],
     [ "dependency_graph::io::detail::has_to_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__to__json.html", null ],
@@ -294,6 +303,7 @@ var hierarchy =
     [ "possumwood::Traits< std::shared_ptr< const Program > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Program_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const QPixmap > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const std::vector< anim::SkinnedMesh > > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html", null ],
+    [ "possumwood::Traits< std::shared_ptr< const Uniforms > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Uniforms_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const VertexData > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexData_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const VertexShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::string >", "structpossumwood_1_1Traits_3_01std_1_1string_01_4.html", null ],
@@ -306,12 +316,9 @@ var hierarchy =
     [ "type", null, [
       [ "dependency_graph::io::detail::conjunction< B1, Bn...>", "structdependency__graph_1_1io_1_1detail_1_1conjunction_3_01B1_00_01Bn_8_8_8_4.html", null ]
     ] ],
+    [ "possumwood::Uniforms::UniformHolder", "structpossumwood_1_1Uniforms_1_1UniformHolder.html", null ],
+    [ "possumwood::Uniforms", "classpossumwood_1_1Uniforms.html", null ],
     [ "possumwood::UniqueId", "classpossumwood_1_1UniqueId.html", null ],
     [ "possumwood::VertexData::VBOHolder", "structpossumwood_1_1VertexData_1_1VBOHolder.html", null ],
-    [ "possumwood::VBOTraits< T >", "structpossumwood_1_1VBOTraits.html", null ],
-    [ "possumwood::VBOTraits< double >", "structpossumwood_1_1VBOTraits_3_01double_01_4.html", null ],
-    [ "possumwood::VBOTraits< float >", "structpossumwood_1_1VBOTraits_3_01float_01_4.html", null ],
-    [ "possumwood::VBOTraits< Imath::V3d >", "structpossumwood_1_1VBOTraits_3_01Imath_1_1V3d_01_4.html", null ],
-    [ "possumwood::VBOTraits< Imath::V3f >", "structpossumwood_1_1VBOTraits_3_01Imath_1_1V3f_01_4.html", null ],
     [ "anim::SkinnedVertices::Vertex", "classanim_1_1SkinnedVertices_1_1Vertex.html", null ]
 ];

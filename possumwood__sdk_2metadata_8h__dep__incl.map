@@ -46,6 +46,6 @@
 <area shape="rect" id="node46" href="$fragment__shader_8cpp.html" title="src/plugins/shaders\l/nodes/fragment_shader.cpp" alt="" coords="7455,285,7641,326"/>
 <area shape="rect" id="node47" href="$load_8cpp.html" title="src/plugins/shaders\l/nodes/image/load.cpp" alt="" coords="7666,285,7819,326"/>
 <area shape="rect" id="node48" href="$nodes_2program_8cpp.html" title="src/plugins/shaders\l/nodes/program.cpp" alt="" coords="7843,285,7980,326"/>
-<area shape="rect" id="node49" href="$vertex__data_2background_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/background.cpp" alt="" coords="8005,285,8235,326"/>
-<area shape="rect" id="node50" href="$vertex__shader_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_shader.cpp" alt="" coords="8259,285,8431,326"/>
+<area shape="rect" id="node49" href="$float_8cpp.html" title="src/plugins/shaders\l/nodes/uniforms/float.cpp" alt="" coords="8005,285,8173,326"/>
+<area shape="rect" id="node50" href="$plugins_2shaders_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/shaders\l/nodes/uniforms/viewport.cpp" alt="" coords="8198,285,8391,326"/>
 </map>

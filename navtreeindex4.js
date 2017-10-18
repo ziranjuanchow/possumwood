@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"classdependency__graph_1_1io_1_1basic__json.html#ac150f9dcbf482d847b1771623371a4ad":[2,0,1,0,3,65],
 "classdependency__graph_1_1io_1_1basic__json.html#ac647599b597f73f6bb75c17f444c9bd1":[2,0,1,0,3,188],
 "classdependency__graph_1_1io_1_1basic__json.html#acb55cc745210b6778ba096e2fa90b99d":[2,0,1,0,3,171],
 "classdependency__graph_1_1io_1_1basic__json.html#acd6e31606f9fd6ae6742a7909853e70c":[2,0,1,0,3,170],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "classdependency__graph_1_1io_1_1basic__json_1_1output__stream__adapter.html#ae5088b5decb0a6fc6a1934410800a823":[2,0,1,0,3,13,1],
 "classdependency__graph_1_1io_1_1basic__json_1_1output__string__adapter.html":[2,0,1,0,3,14],
 "classdependency__graph_1_1io_1_1basic__json_1_1output__string__adapter.html#a0e82f7db46dae7ec4a5b5e316fe9563e":[2,0,1,0,3,14,3],
-"classdependency__graph_1_1io_1_1basic__json_1_1output__string__adapter.html#a6a976d6fbd1f3633324efcaa55f71257":[2,0,1,0,3,14,2],
-"classdependency__graph_1_1io_1_1basic__json_1_1output__string__adapter.html#a98e6c55d3de1117a1a1925dc07a2c209":[2,0,1,0,3,14,1]
+"classdependency__graph_1_1io_1_1basic__json_1_1output__string__adapter.html#a6a976d6fbd1f3633324efcaa55f71257":[2,0,1,0,3,14,2]
 };
