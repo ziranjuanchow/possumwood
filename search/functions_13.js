@@ -13,5 +13,5 @@ var searchData=
   ['unsigned_5fui',['unsigned_ui',['../classunsigned__ui.html#a822d91bf8f22f16670d90bee0af1e64b',1,'unsigned_ui']]],
   ['updateoptions',['updateOptions',['../classanim_1_1SubsetSelection.html#af45ac6993b329d2684b7ce7f7a611069',1,'anim::SubsetSelection']]],
   ['updaterect',['updateRect',['../classnode__editor_1_1Node.html#ab15809a52cee2bc2f4e816c99f3202d4',1,'node_editor::Node']]],
-  ['use',['use',['../classpossumwood_1_1Uniforms.html#a119a93076de2f366557eb57f0f235447',1,'possumwood::Uniforms::use()'],['../classpossumwood_1_1VBOBase.html#a97ec3e2d45120c32db02ee5a93005ab9',1,'possumwood::VBOBase::use()'],['../classpossumwood_1_1VertexData.html#a064103c1de0bbe0402b8ba73ceda2ebf',1,'possumwood::VertexData::use()']]]
+  ['use',['use',['../classpossumwood_1_1Texture.html#aae2eb71d525852ee33bb070290b559a4',1,'possumwood::Texture::use()'],['../classpossumwood_1_1Uniforms.html#a119a93076de2f366557eb57f0f235447',1,'possumwood::Uniforms::use()'],['../classpossumwood_1_1VBOBase.html#a97ec3e2d45120c32db02ee5a93005ab9',1,'possumwood::VBOBase::use()'],['../classpossumwood_1_1VertexData.html#a064103c1de0bbe0402b8ba73ceda2ebf',1,'possumwood::VertexData::use()']]]
 ];

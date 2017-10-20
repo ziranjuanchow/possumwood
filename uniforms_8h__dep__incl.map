@@ -1,7 +1,8 @@
 <map id="src/plugins/shaders/datatypes/uniforms.h" name="src/plugins/shaders/datatypes/uniforms.h">
-<area shape="rect" id="node2" href="$uniforms_8inl.html" title="src/plugins/shaders\l/datatypes/uniforms.inl" alt="" coords="287,97,440,138"/>
+<area shape="rect" id="node2" href="$uniforms_8inl.html" title="src/plugins/shaders\l/datatypes/uniforms.inl" alt="" coords="381,97,535,138"/>
 <area shape="rect" id="node3" href="$uniforms_8cpp.html" title="src/plugins/shaders\l/datatypes/uniforms.cpp" alt="" coords="5,187,168,229"/>
 <area shape="rect" id="node4" href="$background_8cpp.html" title="src/plugins/shaders\l/nodes/background.cpp" alt="" coords="192,187,349,229"/>
 <area shape="rect" id="node5" href="$float_8cpp.html" title="src/plugins/shaders\l/nodes/uniforms/float.cpp" alt="" coords="374,187,543,229"/>
-<area shape="rect" id="node6" href="$plugins_2shaders_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/shaders\l/nodes/uniforms/viewport.cpp" alt="" coords="567,187,760,229"/>
+<area shape="rect" id="node6" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/shaders\l/nodes/uniforms/texture.cpp" alt="" coords="568,187,752,229"/>
+<area shape="rect" id="node7" href="$plugins_2shaders_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/shaders\l/nodes/uniforms/viewport.cpp" alt="" coords="777,187,969,229"/>
 </map>

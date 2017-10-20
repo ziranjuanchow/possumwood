@@ -47,5 +47,5 @@
 <area shape="rect" id="node47" href="$load_8cpp.html" title="src/plugins/shaders\l/nodes/image/load.cpp" alt="" coords="7666,285,7819,326"/>
 <area shape="rect" id="node48" href="$nodes_2program_8cpp.html" title="src/plugins/shaders\l/nodes/program.cpp" alt="" coords="7843,285,7980,326"/>
 <area shape="rect" id="node49" href="$float_8cpp.html" title="src/plugins/shaders\l/nodes/uniforms/float.cpp" alt="" coords="8005,285,8173,326"/>
-<area shape="rect" id="node50" href="$plugins_2shaders_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/shaders\l/nodes/uniforms/viewport.cpp" alt="" coords="8198,285,8391,326"/>
+<area shape="rect" id="node50" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/shaders\l/nodes/uniforms/texture.cpp" alt="" coords="8199,285,8383,326"/>
 </map>

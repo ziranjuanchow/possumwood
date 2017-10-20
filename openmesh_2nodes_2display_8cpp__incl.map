@@ -1,7 +1,7 @@
 <map id="src/plugins/openmesh/nodes/display.cpp" name="src/plugins/openmesh/nodes/display.cpp">
 <area shape="rect" id="node2" href="$node__implementation_8h.html" title="possumwood_sdk/node\l_implementation.h" alt="" coords="1598,97,1756,138"/>
 <area shape="rect" id="node45" href="$datatypes_2mesh_8h.html" title="datatypes/mesh.h" alt="" coords="2354,104,2480,131"/>
-<area shape="rect" id="node46" href="$openmesh_8h.html" title="openmesh.h" alt="" coords="2487,187,2580,213"/>
+<area shape="rect" id="node46" href="$openmesh_8h.html" title="../openmesh.h" alt="" coords="2481,187,2585,213"/>
 <area shape="rect" id="node49" href="$om__log_8h.html" title="om_log.h" alt="" coords="2163,592,2236,619"/>
 <area shape="rect" id="node6" href="$values_8inl.html" title="dependency_graph/values.inl" alt="" coords="1851,352,2041,379"/>
 <area shape="rect" id="node29" href="$attr_8inl.html" title="dependency_graph/attr.inl" alt="" coords="1424,187,1595,213"/>

@@ -210,6 +210,7 @@ var hierarchy =
         [ "possumwood::FragmentShader", "classpossumwood_1_1FragmentShader.html", null ],
         [ "possumwood::VertexShader", "classpossumwood_1_1VertexShader.html", null ]
       ] ],
+      [ "possumwood::Texture", "classpossumwood_1_1Texture.html", null ],
       [ "possumwood::UndoStack", "classpossumwood_1_1UndoStack.html", null ],
       [ "possumwood::VBOBase", "classpossumwood_1_1VBOBase.html", [
         [ "possumwood::VBO< T >", "classpossumwood_1_1VBO.html", null ]
@@ -284,6 +285,7 @@ var hierarchy =
     [ "anim::SubsetSelection", "classanim_1_1SubsetSelection.html", null ],
     [ "OMLog::Target", "structOMLog_1_1Target.html", null ],
     [ "TestStruct", "structTestStruct.html", null ],
+    [ "possumwood::Uniforms::TextureHolder", "structpossumwood_1_1Uniforms_1_1TextureHolder.html", null ],
     [ "Timeline::TickSkip", "structTimeline_1_1TickSkip.html", null ],
     [ "dependency_graph::io::detail::to_json_fn", "structdependency__graph_1_1io_1_1detail_1_1to__json__fn.html", null ],
     [ "anim::Tokenizer::Token", "structanim_1_1Tokenizer_1_1Token.html", null ],

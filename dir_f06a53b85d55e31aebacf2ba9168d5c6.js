@@ -27,10 +27,15 @@ var dir_f06a53b85d55e31aebacf2ba9168d5c6 =
       [ "Traits< std::shared_ptr< const FragmentShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01FragmentShader_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01FragmentShader_01_4_01_4" ],
       [ "Traits< std::shared_ptr< const VertexShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4" ]
     ] ],
+    [ "texture.cpp", "datatypes_2texture_8cpp.html", null ],
+    [ "texture.h", "texture_8h.html", [
+      [ "Texture", "classpossumwood_1_1Texture.html", "classpossumwood_1_1Texture" ]
+    ] ],
     [ "uniforms.cpp", "uniforms_8cpp.html", null ],
     [ "uniforms.h", "uniforms_8h.html", [
       [ "Uniforms", "classpossumwood_1_1Uniforms.html", "classpossumwood_1_1Uniforms" ],
       [ "UniformHolder", "structpossumwood_1_1Uniforms_1_1UniformHolder.html", "structpossumwood_1_1Uniforms_1_1UniformHolder" ],
+      [ "TextureHolder", "structpossumwood_1_1Uniforms_1_1TextureHolder.html", "structpossumwood_1_1Uniforms_1_1TextureHolder" ],
       [ "Traits< std::shared_ptr< const Uniforms > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Uniforms_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Uniforms_01_4_01_4" ]
     ] ],
     [ "uniforms.inl", "uniforms_8inl.html", null ],

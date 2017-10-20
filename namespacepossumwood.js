@@ -49,6 +49,7 @@ var namespacepossumwood =
     [ "VertexShader", "classpossumwood_1_1VertexShader.html", "classpossumwood_1_1VertexShader" ],
     [ "Traits< std::shared_ptr< const FragmentShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01FragmentShader_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01FragmentShader_01_4_01_4" ],
     [ "Traits< std::shared_ptr< const VertexShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4" ],
+    [ "Texture", "classpossumwood_1_1Texture.html", "classpossumwood_1_1Texture" ],
     [ "Uniforms", "classpossumwood_1_1Uniforms.html", "classpossumwood_1_1Uniforms" ],
     [ "Traits< std::shared_ptr< const Uniforms > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Uniforms_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Uniforms_01_4_01_4" ],
     [ "VBOBase", "classpossumwood_1_1VBOBase.html", "classpossumwood_1_1VBOBase" ],
