@@ -13,7 +13,7 @@
 <area shape="rect" id="node31" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="1739,459,1885,501"/>
 <area shape="rect" id="node32" href="$tests_2dependency__graph_2datablock_8cpp.html" title="src/tests/dependency\l_graph/datablock.cpp" alt="" coords="2355,459,2501,501"/>
 <area shape="rect" id="node33" href="$influences_8cpp.html" title="src/tests/dependency\l_graph/influences.cpp" alt="" coords="2011,459,2159,501"/>
-<area shape="rect" id="node6" href="$node__implementation_8cpp.html" title="src/libs/possumwood\l_sdk/node_implementation.cpp" alt="" coords="3911,731,4113,773"/>
+<area shape="rect" id="node6" href="$node__implementation_8cpp.html" title="src/libs/possumwood\l_sdk/node_implementation.cpp" alt="" coords="3899,731,4101,773"/>
 <area shape="rect" id="node7" href="$time_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/time.cpp" alt="" coords="185,731,329,773"/>
 <area shape="rect" id="node8" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/animation/periodic.cpp" alt="" coords="354,731,509,773"/>
 <area shape="rect" id="node9" href="$retime_8cpp.html" title="src/plugins/anim/nodes\l/animation/retime.cpp" alt="" coords="534,731,689,773"/>
@@ -34,7 +34,7 @@
 <area shape="rect" id="node24" href="$skin__remap_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap.cpp" alt="" coords="3145,731,3300,773"/>
 <area shape="rect" id="node25" href="$skin__remap__regex_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap_regex.cpp" alt="" coords="3325,731,3517,773"/>
 <area shape="rect" id="node26" href="$subset_8cpp.html" title="src/plugins/anim/nodes\l/mesh/subset.cpp" alt="" coords="3542,731,3697,773"/>
-<area shape="rect" id="node27" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="3722,731,3885,773"/>
+<area shape="rect" id="node27" href="$cgal_2nodes_2display_8cpp.html" title="src/plugins/cgal/nodes\l/display.cpp" alt="" coords="3723,731,3875,773"/>
 <area shape="rect" id="node36" href="$graph_8h.html" title="src/libs/dependency\l_graph/graph.h" alt="" coords="1313,278,1452,319"/>
 <area shape="rect" id="node37" href="$dependency__graph_2node_8cpp.html" title="src/libs/dependency\l_graph/node.cpp" alt="" coords="1207,369,1345,410"/>
 <area shape="rect" id="node38" href="$node_8inl.html" title="src/libs/dependency\l_graph/node.inl" alt="" coords="1580,369,1719,410"/>

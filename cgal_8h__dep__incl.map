@@ -1,0 +1,7 @@
+<map id="src/plugins/cgal/cgal.h" name="src/plugins/cgal/cgal.h">
+<area shape="rect" id="node2" href="$polyhedron_8h.html" title="src/plugins/cgal/datatypes\l/polyhedron.h" alt="" coords="170,81,344,122"/>
+<area shape="rect" id="node4" href="$cgal_2nodes_2loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="5,171,157,213"/>
+<area shape="rect" id="node3" href="$cgal_2nodes_2display_8cpp.html" title="src/plugins/cgal/nodes\l/display.cpp" alt="" coords="181,171,333,213"/>
+<area shape="rect" id="node5" href="$cgal_2nodes_2normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="358,171,516,213"/>
+<area shape="rect" id="node6" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="541,171,693,213"/>
+</map>

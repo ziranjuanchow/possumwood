@@ -1,8 +1,8 @@
 <map id="src/plugins/openmesh/datatypes/mesh.h" name="src/plugins/openmesh/datatypes/mesh.h">
 <area shape="rect" id="node2" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/decimater.cpp" alt="" coords="5,97,219,138"/>
 <area shape="rect" id="node3" href="$openmesh_2nodes_2display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="244,97,392,138"/>
-<area shape="rect" id="node4" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="417,97,565,138"/>
-<area shape="rect" id="node5" href="$normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="591,97,788,138"/>
+<area shape="rect" id="node4" href="$openmesh_2nodes_2loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="417,97,565,138"/>
+<area shape="rect" id="node5" href="$openmesh_2nodes_2normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="591,97,788,138"/>
 <area shape="rect" id="node6" href="$plugins_2openmesh_2nodes_2transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="812,97,960,138"/>
 <area shape="rect" id="node7" href="$openmesh_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/openmesh.cpp" alt="" coords="985,97,1207,138"/>
 </map>

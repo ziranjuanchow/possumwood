@@ -28,6 +28,7 @@ var namespacepossumwood =
     [ "Traits< anim::Skeleton >", "structpossumwood_1_1Traits_3_01anim_1_1Skeleton_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1Skeleton_01_4" ],
     [ "Traits< std::shared_ptr< const std::vector< anim::SkinnedMesh > > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4" ],
     [ "Traits< anim::SubsetSelection >", "structpossumwood_1_1Traits_3_01anim_1_1SubsetSelection_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1SubsetSelection_01_4" ],
+    [ "Traits< std::shared_ptr< const CGALPolyhedron > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01CGALPolyhedron_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01CGALPolyhedron_01_4_01_4" ],
     [ "Traits< Imath::Vec3< float > >", "structpossumwood_1_1Traits_3_01Imath_1_1Vec3_3_01float_01_4_01_4.html", "structpossumwood_1_1Traits_3_01Imath_1_1Vec3_3_01float_01_4_01_4" ],
     [ "Traits< DecimaterModule >", "structpossumwood_1_1Traits_3_01DecimaterModule_01_4.html", null ],
     [ "Traits< std::vector< DecimaterModule > >", "structpossumwood_1_1Traits_3_01std_1_1vector_3_01DecimaterModule_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1vector_3_01DecimaterModule_01_4_01_4" ],

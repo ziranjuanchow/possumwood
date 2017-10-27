@@ -28,8 +28,8 @@
 <area shape="rect" id="node19" href="$module__quadric_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_quadric.cpp" alt="" coords="1439,549,1613,605"/>
 <area shape="rect" id="node20" href="$module__roundness_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_roundness.cpp" alt="" coords="1638,549,1812,605"/>
 <area shape="rect" id="node21" href="$openmesh_2nodes_2display_8cpp.html" title="src/plugins/openmesh\l/nodes/display.cpp" alt="" coords="1837,557,1985,598"/>
-<area shape="rect" id="node22" href="$loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="2011,557,2159,598"/>
-<area shape="rect" id="node23" href="$normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="2184,557,2381,598"/>
+<area shape="rect" id="node22" href="$openmesh_2nodes_2loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="2011,557,2159,598"/>
+<area shape="rect" id="node23" href="$openmesh_2nodes_2normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="2184,557,2381,598"/>
 <area shape="rect" id="node24" href="$background_8cpp.html" title="src/plugins/shaders\l/nodes/background.cpp" alt="" coords="3601,557,3759,598"/>
 <area shape="rect" id="node25" href="$fragment__shader_8cpp.html" title="src/plugins/shaders\l/nodes/fragment_shader.cpp" alt="" coords="3783,557,3969,598"/>
 <area shape="rect" id="node26" href="$nodes_2program_8cpp.html" title="src/plugins/shaders\l/nodes/program.cpp" alt="" coords="3439,557,3576,598"/>
