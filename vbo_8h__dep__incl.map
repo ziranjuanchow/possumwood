@@ -1,10 +1,11 @@
 <map id="src/plugins/shaders/datatypes/vbo.h" name="src/plugins/shaders/datatypes/vbo.h">
-<area shape="rect" id="node2" href="$vbo_8cpp.html" title="src/plugins/shaders\l/datatypes/vbo.cpp" alt="" coords="333,97,467,138"/>
-<area shape="rect" id="node3" href="$vbo_8inl.html" title="src/plugins/shaders\l/datatypes/vbo.inl" alt="" coords="682,97,816,138"/>
-<area shape="rect" id="node9" href="$vertex__data_8h.html" title="src/plugins/shaders\l/datatypes/vertex_data.h" alt="" coords="491,97,657,138"/>
-<area shape="rect" id="node4" href="$vertex__data_8inl.html" title="src/plugins/shaders\l/datatypes/vertex_data.inl" alt="" coords="489,187,660,229"/>
-<area shape="rect" id="node6" href="$background_8cpp.html" title="src/plugins/shaders\l/nodes/background.cpp" alt="" coords="711,278,868,319"/>
-<area shape="rect" id="node5" href="$vertex__data_8cpp.html" title="src/plugins/shaders\l/datatypes/vertex_data.cpp" alt="" coords="5,278,184,319"/>
-<area shape="rect" id="node7" href="$vertex__data_2background_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/background.cpp" alt="" coords="209,278,439,319"/>
-<area shape="rect" id="node8" href="$openmesh_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/openmesh.cpp" alt="" coords="463,278,685,319"/>
+<area shape="rect" id="node2" href="$vbo_8cpp.html" title="src/plugins/shaders\l/datatypes/vbo.cpp" alt="" coords="5,97,139,138"/>
+<area shape="rect" id="node3" href="$vbo_8inl.html" title="src/plugins/shaders\l/datatypes/vbo.inl" alt="" coords="163,97,297,138"/>
+<area shape="rect" id="node10" href="$vertex__data_8h.html" title="src/plugins/shaders\l/datatypes/vertex_data.h" alt="" coords="322,97,488,138"/>
+<area shape="rect" id="node4" href="$vertex__data_8inl.html" title="src/plugins/shaders\l/datatypes/vertex_data.inl" alt="" coords="319,187,491,229"/>
+<area shape="rect" id="node6" href="$background_8cpp.html" title="src/plugins/shaders\l/nodes/background.cpp" alt="" coords="19,278,176,319"/>
+<area shape="rect" id="node5" href="$vertex__data_8cpp.html" title="src/plugins/shaders\l/datatypes/vertex_data.cpp" alt="" coords="201,278,380,319"/>
+<area shape="rect" id="node7" href="$vertex__data_2background_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/background.cpp" alt="" coords="405,278,635,319"/>
+<area shape="rect" id="node8" href="$cgal_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/cgal.cpp" alt="" coords="659,278,845,319"/>
+<area shape="rect" id="node9" href="$openmesh_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/openmesh.cpp" alt="" coords="870,278,1092,319"/>
 </map>

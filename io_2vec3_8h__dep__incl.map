@@ -2,8 +2,9 @@
 <area shape="rect" id="node2" href="$plugins_2anim_2nodes_2animation_2transform_8cpp.html" title="src/plugins/anim/nodes\l/animation/transform.cpp" alt="" coords="5,97,171,138"/>
 <area shape="rect" id="node3" href="$edit_8cpp.html" title="src/plugins/anim/nodes\l/frame/edit.cpp" alt="" coords="195,97,351,138"/>
 <area shape="rect" id="node4" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="376,97,528,138"/>
-<area shape="rect" id="node5" href="$io_2vec3_8cpp.html" title="src/plugins/maths/io\l/vec3.cpp" alt="" coords="552,97,691,138"/>
-<area shape="rect" id="node6" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="715,97,879,138"/>
-<area shape="rect" id="node7" href="$nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="903,97,1067,138"/>
-<area shape="rect" id="node8" href="$plugins_2openmesh_2nodes_2transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="1092,97,1240,138"/>
+<area shape="rect" id="node5" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="552,97,704,138"/>
+<area shape="rect" id="node6" href="$io_2vec3_8cpp.html" title="src/plugins/maths/io\l/vec3.cpp" alt="" coords="728,97,867,138"/>
+<area shape="rect" id="node7" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="891,97,1055,138"/>
+<area shape="rect" id="node8" href="$nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="1079,97,1243,138"/>
+<area shape="rect" id="node9" href="$plugins_2openmesh_2nodes_2transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="1268,97,1416,138"/>
 </map>

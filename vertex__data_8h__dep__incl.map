@@ -1,7 +1,8 @@
 <map id="src/plugins/shaders/datatypes/vertex_data.h" name="src/plugins/shaders/datatypes/vertex_data.h">
-<area shape="rect" id="node2" href="$vertex__data_8inl.html" title="src/plugins/shaders\l/datatypes/vertex_data.inl" alt="" coords="310,97,481,138"/>
+<area shape="rect" id="node2" href="$vertex__data_8inl.html" title="src/plugins/shaders\l/datatypes/vertex_data.inl" alt="" coords="419,97,591,138"/>
 <area shape="rect" id="node3" href="$vertex__data_8cpp.html" title="src/plugins/shaders\l/datatypes/vertex_data.cpp" alt="" coords="5,187,184,229"/>
 <area shape="rect" id="node4" href="$background_8cpp.html" title="src/plugins/shaders\l/nodes/background.cpp" alt="" coords="209,187,367,229"/>
 <area shape="rect" id="node5" href="$vertex__data_2background_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/background.cpp" alt="" coords="391,187,620,229"/>
-<area shape="rect" id="node6" href="$openmesh_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/openmesh.cpp" alt="" coords="645,187,867,229"/>
+<area shape="rect" id="node6" href="$cgal_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/cgal.cpp" alt="" coords="644,187,831,229"/>
+<area shape="rect" id="node7" href="$openmesh_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/openmesh.cpp" alt="" coords="855,187,1077,229"/>
 </map>

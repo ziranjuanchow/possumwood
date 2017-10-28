@@ -40,12 +40,12 @@
 <area shape="rect" id="node32" href="$cgal_2nodes_2loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="4127,285,4279,326"/>
 <area shape="rect" id="node33" href="$cgal_2nodes_2normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="4303,285,4461,326"/>
 <area shape="rect" id="node34" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="4487,285,4639,326"/>
-<area shape="rect" id="node35" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="4663,285,4827,326"/>
-<area shape="rect" id="node36" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="4851,285,5015,326"/>
-<area shape="rect" id="node37" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="5039,285,5203,326"/>
-<area shape="rect" id="node38" href="$nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="5227,285,5391,326"/>
-<area shape="rect" id="node39" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/decimater.cpp" alt="" coords="5415,285,5629,326"/>
-<area shape="rect" id="node40" href="$module__aspect__ratio_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_aspect_ratio.cpp" alt="" coords="5654,277,5828,333"/>
-<area shape="rect" id="node41" href="$module__edge__length_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_edge_length.cpp" alt="" coords="5853,277,6027,333"/>
-<area shape="rect" id="node42" href="$module__hausdorff_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_hausdorff.cpp" alt="" coords="6051,277,6225,333"/>
+<area shape="rect" id="node35" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="4663,285,4815,326"/>
+<area shape="rect" id="node36" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="4839,285,5003,326"/>
+<area shape="rect" id="node37" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="5027,285,5191,326"/>
+<area shape="rect" id="node38" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="5215,285,5379,326"/>
+<area shape="rect" id="node39" href="$nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="5403,285,5567,326"/>
+<area shape="rect" id="node40" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/decimater.cpp" alt="" coords="5591,285,5805,326"/>
+<area shape="rect" id="node41" href="$module__aspect__ratio_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_aspect_ratio.cpp" alt="" coords="5830,277,6004,333"/>
+<area shape="rect" id="node42" href="$module__edge__length_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_edge_length.cpp" alt="" coords="6029,277,6203,333"/>
 </map>
