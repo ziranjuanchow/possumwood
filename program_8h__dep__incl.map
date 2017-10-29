@@ -1,5 +1,5 @@
 <map id="src/plugins/shaders/datatypes/program.h" name="src/plugins/shaders/datatypes/program.h">
 <area shape="rect" id="node2" href="$datatypes_2program_8cpp.html" title="src/plugins/shaders\l/datatypes/program.cpp" alt="" coords="5,97,163,138"/>
-<area shape="rect" id="node3" href="$background_8cpp.html" title="src/plugins/shaders\l/nodes/background.cpp" alt="" coords="188,97,345,138"/>
-<area shape="rect" id="node4" href="$nodes_2program_8cpp.html" title="src/plugins/shaders\l/nodes/program.cpp" alt="" coords="370,97,507,138"/>
+<area shape="rect" id="node3" href="$draw_8cpp.html" title="src/plugins/shaders\l/nodes/draw.cpp" alt="" coords="187,97,321,138"/>
+<area shape="rect" id="node4" href="$nodes_2program_8cpp.html" title="src/plugins/shaders\l/nodes/program.cpp" alt="" coords="346,97,483,138"/>
 </map>

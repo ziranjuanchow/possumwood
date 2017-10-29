@@ -1,11 +1,12 @@
-<map id="src/plugins/shaders/datatypes/uniforms.h" name="src/plugins/shaders/datatypes/uniforms.h">
-<area shape="rect" id="node9" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="385,245,556,272"/>
-<area shape="rect" id="node41" href="$texture_8h.html" title="texture.h" alt="" coords="369,96,441,123"/>
-<area shape="rect" id="node11" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="301,469,461,496"/>
-<area shape="rect" id="node13" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="464,320,507,347"/>
-<area shape="rect" id="node14" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="718,395,895,421"/>
-<area shape="rect" id="node15" href="$data_8h.html" title="data.h" alt="" coords="777,469,835,496"/>
-<area shape="rect" id="node39" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="861,469,955,496"/>
-<area shape="rect" id="node17" href="$json_8h.html" title="io/json.h" alt="" coords="1042,544,1112,571"/>
-<area shape="rect" id="node42" href="$datatypes_2pixmap_8h.html" title="pixmap.h" alt="" coords="419,171,492,197"/>
+<map id="src/plugins/shaders/uniforms.h" name="src/plugins/shaders/uniforms.h">
+<area shape="rect" id="node2" href="$datatypes_2uniforms_8h.html" title="datatypes/uniforms.h" alt="" coords="259,96,403,123"/>
+<area shape="rect" id="node10" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="385,320,556,347"/>
+<area shape="rect" id="node42" href="$texture_8h.html" title="texture.h" alt="" coords="369,171,441,197"/>
+<area shape="rect" id="node12" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="301,544,461,571"/>
+<area shape="rect" id="node14" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="464,395,507,421"/>
+<area shape="rect" id="node15" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="718,469,895,496"/>
+<area shape="rect" id="node16" href="$data_8h.html" title="data.h" alt="" coords="777,544,835,571"/>
+<area shape="rect" id="node40" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="861,544,955,571"/>
+<area shape="rect" id="node18" href="$json_8h.html" title="io/json.h" alt="" coords="1042,619,1112,645"/>
+<area shape="rect" id="node43" href="$datatypes_2pixmap_8h.html" title="pixmap.h" alt="" coords="419,245,492,272"/>
 </map>

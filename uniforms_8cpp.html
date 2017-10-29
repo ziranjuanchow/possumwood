@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.6"/>
-<title>possumwood: src/plugins/shaders/datatypes/uniforms.cpp File Reference</title>
+<title>possumwood: src/plugins/shaders/uniforms.cpp File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -103,34 +103,41 @@ $(document).ready(function(){initNavTree('uniforms_8cpp.html','');});
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a>  </div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">uniforms.cpp File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="uniforms_8inl.html">uniforms.inl</a>&quot;</code><br/>
-<code>#include &lt;limits&gt;</code><br/>
-<code>#include &lt;<a class="el" href="app_8h_source.html">possumwood_sdk/app.h</a>&gt;</code><br/>
+<div class="textblock"><code>#include &quot;<a class="el" href="uniforms_8h_source.html">uniforms.h</a>&quot;</code><br/>
+<code>#include &lt;OpenEXR/ImathMatrix.h&gt;</code><br/>
+<code>#include &quot;<a class="el" href="uniforms_8inl.html">datatypes/uniforms.inl</a>&quot;</code><br/>
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for uniforms.cpp:</div>
 <div class="dyncontent">
-<div class="center"><img src="uniforms_8cpp__incl.png" border="0" usemap="#src_2plugins_2shaders_2datatypes_2uniforms_8cpp" alt=""/></div>
-<map name="src_2plugins_2shaders_2datatypes_2uniforms_8cpp" id="src_2plugins_2shaders_2datatypes_2uniforms_8cpp">
-<area shape="rect" id="node2" href="uniforms_8inl.html" title="uniforms.inl" alt="" coords="1935,96,2023,123"/><area shape="rect" id="node22" href="app_8h.html" title="possumwood_sdk/app.h" alt="" coords="1283,96,1446,123"/><area shape="rect" id="node3" href="uniforms_8h.html" title="uniforms.h" alt="" coords="1987,171,2069,197"/><area shape="rect" id="node18" href="glsl__traits_8h.html" title="glsl_traits.h" alt="" coords="2364,171,2453,197"/><area shape="rect" id="node11" href="traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1727,419,1898,445"/><area shape="rect" id="node15" href="texture_8h.html" title="texture.h" alt="" coords="1992,253,2065,280"/><area shape="rect" id="node13" href="rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1673,584,1834,611"/><area shape="rect" id="node14" href="libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="1701,501,1743,528"/><area shape="rect" id="node16" href="datatypes_2pixmap_8h.html" title="pixmap.h" alt="" coords="1974,336,2047,363"/><area shape="rect" id="node25" href="graph_8h.html" title="dependency_graph/graph.h" alt="" coords="217,336,395,363"/><area shape="rect" id="node38" href="config_8h.html" title="config.h" alt="" coords="891,501,958,528"/><area shape="rect" id="node40" href="undo__stack_8h.html" title="undo_stack.h" alt="" coords="1576,501,1675,528"/><area shape="rect" id="node41" href="index_8h.html" title="index.h" alt="" coords="1043,171,1107,197"/><area shape="rect" id="node31" href="dependency__graph_2node_8h.html" title="node.h" alt="" coords="779,419,841,445"/><area shape="rect" id="node33" href="attr_8h.html" title="attr.h" alt="" coords="1160,584,1211,611"/><area shape="rect" id="node34" href="dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="491,501,577,528"/><area shape="rect" id="node36" href="state_8h.html" title="state.h" alt="" coords="707,584,769,611"/><area shape="rect" id="node37" href="dependency__graph_2port_8h.html" title="port.h" alt="" coords="1035,501,1089,528"/><area shape="rect" id="node42" href="unique__id_8h.html" title="possumwood_sdk/unique_id.h" alt="" coords="779,336,977,363"/><area shape="rect" id="node44" href="drawable_8h.html" title="possumwood_sdk/drawable.h" alt="" coords="634,253,829,280"/><area shape="rect" id="node46" href="node__data_8h.html" title="possumwood_sdk/node\l_data.h" alt="" coords="996,246,1154,287"/><area shape="rect" id="node48" href="qt__node__editor_2node_8h.html" title="qt_node_editor/node.h" alt="" coords="1244,253,1394,280"/><area shape="rect" id="node45" href="values_8h.html" title="dependency_graph/values.h" alt="" coords="521,336,705,363"/></map>
+<div class="center"><img src="uniforms_8cpp__incl.png" border="0" usemap="#src_2plugins_2shaders_2uniforms_8cpp" alt=""/></div>
+<map name="src_2plugins_2shaders_2uniforms_8cpp" id="src_2plugins_2shaders_2uniforms_8cpp">
+<area shape="rect" id="node2" href="uniforms_8h.html" title="uniforms.h" alt="" coords="1935,96,2016,123"/><area shape="rect" id="node46" href="uniforms_8inl.html" title="datatypes/uniforms.inl" alt="" coords="2062,96,2212,123"/><area shape="rect" id="node3" href="datatypes_2uniforms_8h.html" title="datatypes/uniforms.h" alt="" coords="1864,171,2008,197"/><area shape="rect" id="node11" href="traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1399,395,1569,421"/><area shape="rect" id="node43" href="texture_8h.html" title="texture.h" alt="" coords="1806,245,1879,272"/><area shape="rect" id="node13" href="rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1045,619,1205,645"/><area shape="rect" id="node15" href="libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="1463,469,1505,496"/><area shape="rect" id="node16" href="data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1395,544,1572,571"/><area shape="rect" id="node17" href="data_8h.html" title="data.h" alt="" coords="1515,619,1572,645"/><area shape="rect" id="node41" href="data__traits_8h.html" title="data_traits.h" alt="" coords="1395,619,1489,645"/><area shape="rect" id="node19" href="json_8h.html" title="io/json.h" alt="" coords="1141,693,1211,720"/><area shape="rect" id="node44" href="datatypes_2pixmap_8h.html" title="pixmap.h" alt="" coords="1805,320,1879,347"/><area shape="rect" id="node47" href="glsl__traits_8h.html" title="glsl_traits.h" alt="" coords="2195,171,2284,197"/></map>
 </div>
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
 Namespaces</h2></td></tr>
 <tr class="memitem:namespacepossumwood"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html">possumwood</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a4bbd3ece14e0437a936a38bc0b32f12f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html#a4bbd3ece14e0437a936a38bc0b32f12f">possumwood::addViewportUniforms</a> (<a class="el" href="classpossumwood_1_1Uniforms.html">possumwood::Uniforms</a> &amp;uniforms)</td></tr>
+<tr class="memdesc:a4bbd3ece14e0437a936a38bc0b32f12f"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns the viewport uniforms - modelview (straight + normal), projection matrices and resolution  <a href="#a4bbd3ece14e0437a936a38bc0b32f12f">More...</a><br/></td></tr>
+<tr class="separator:a4bbd3ece14e0437a936a38bc0b32f12f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_7020b8b7abcceffa3f9f7a2d24718f16.html">plugins</a></li><li class="navelem"><a class="el" href="dir_5f05abf033525b3ce27fdfcec5e2435c.html">shaders</a></li><li class="navelem"><a class="el" href="dir_f06a53b85d55e31aebacf2ba9168d5c6.html">datatypes</a></li><li class="navelem"><a class="el" href="uniforms_8cpp.html">uniforms.cpp</a></li>
-    <li class="footer">Generated on Sat Oct 28 2017 00:38:44 for possumwood by
+    <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_7020b8b7abcceffa3f9f7a2d24718f16.html">plugins</a></li><li class="navelem"><a class="el" href="dir_5f05abf033525b3ce27fdfcec5e2435c.html">shaders</a></li><li class="navelem"><a class="el" href="uniforms_8cpp.html">uniforms.cpp</a></li>
+    <li class="footer">Generated on Sun Oct 29 2017 12:39:37 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

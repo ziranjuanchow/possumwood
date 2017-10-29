@@ -42,10 +42,10 @@
 <area shape="rect" id="node42" href="$openmesh_2nodes_2loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="7593,103,7741,145"/>
 <area shape="rect" id="node43" href="$openmesh_2nodes_2normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="7767,103,7964,145"/>
 <area shape="rect" id="node44" href="$plugins_2openmesh_2nodes_2transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="7988,103,8136,145"/>
-<area shape="rect" id="node45" href="$background_8cpp.html" title="src/plugins/shaders\l/nodes/background.cpp" alt="" coords="8161,103,8319,145"/>
-<area shape="rect" id="node46" href="$fragment__shader_8cpp.html" title="src/plugins/shaders\l/nodes/fragment_shader.cpp" alt="" coords="8343,103,8529,145"/>
-<area shape="rect" id="node47" href="$load_8cpp.html" title="src/plugins/shaders\l/nodes/image/load.cpp" alt="" coords="8554,103,8707,145"/>
-<area shape="rect" id="node48" href="$nodes_2program_8cpp.html" title="src/plugins/shaders\l/nodes/program.cpp" alt="" coords="8731,103,8868,145"/>
-<area shape="rect" id="node49" href="$float_8cpp.html" title="src/plugins/shaders\l/nodes/uniforms/float.cpp" alt="" coords="8893,103,9061,145"/>
-<area shape="rect" id="node50" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/shaders\l/nodes/uniforms/texture.cpp" alt="" coords="9087,103,9271,145"/>
+<area shape="rect" id="node45" href="$draw_8cpp.html" title="src/plugins/shaders\l/nodes/draw.cpp" alt="" coords="8162,103,8296,145"/>
+<area shape="rect" id="node46" href="$fragment__shader_8cpp.html" title="src/plugins/shaders\l/nodes/fragment_shader.cpp" alt="" coords="8321,103,8508,145"/>
+<area shape="rect" id="node47" href="$load_8cpp.html" title="src/plugins/shaders\l/nodes/image/load.cpp" alt="" coords="8533,103,8685,145"/>
+<area shape="rect" id="node48" href="$nodes_2program_8cpp.html" title="src/plugins/shaders\l/nodes/program.cpp" alt="" coords="8710,103,8847,145"/>
+<area shape="rect" id="node49" href="$float_8cpp.html" title="src/plugins/shaders\l/nodes/uniforms/float.cpp" alt="" coords="8871,103,9040,145"/>
+<area shape="rect" id="node50" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/shaders\l/nodes/uniforms/texture.cpp" alt="" coords="9065,103,9249,145"/>
 </map>

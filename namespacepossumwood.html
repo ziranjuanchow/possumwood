@@ -106,6 +106,7 @@ $(document).ready(function(){initNavTree('namespacepossumwood.html','');});
 <a href="#namespaces">Namespaces</a> &#124;
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
+<a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
   <div class="headertitle">
 <div class="title">possumwood Namespace Reference</div>  </div>
@@ -253,6 +254,20 @@ Typedefs</h2></td></tr>
 &lt; CGALKernel::Point_3 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html#a8fb90e4db5852f68653fa0b246420779">CGALPolyhedron</a></td></tr>
 <tr class="separator:a8fb90e4db5852f68653fa0b246420779"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a36c6869cc11a99be4f30bbcffe270492"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html#a36c6869cc11a99be4f30bbcffe270492">defaultVertexShaderSrc</a> ()</td></tr>
+<tr class="separator:a36c6869cc11a99be4f30bbcffe270492"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6da494ebafbf3593616ba8336222eb9e"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="classpossumwood_1_1VertexShader.html">possumwood::VertexShader</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html#a6da494ebafbf3593616ba8336222eb9e">defaultVertexShader</a> ()</td></tr>
+<tr class="separator:a6da494ebafbf3593616ba8336222eb9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d4ba66d139cce3139d2214544be641a"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html#a8d4ba66d139cce3139d2214544be641a">defaultFragmentShaderSrc</a> ()</td></tr>
+<tr class="separator:a8d4ba66d139cce3139d2214544be641a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82623ad55b0ad222d977cb8f77169034"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="classpossumwood_1_1FragmentShader.html">possumwood::FragmentShader</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html#a82623ad55b0ad222d977cb8f77169034">defaultFragmentShader</a> ()</td></tr>
+<tr class="separator:a82623ad55b0ad222d977cb8f77169034"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4bbd3ece14e0437a936a38bc0b32f12f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html#a4bbd3ece14e0437a936a38bc0b32f12f">addViewportUniforms</a> (<a class="el" href="classpossumwood_1_1Uniforms.html">possumwood::Uniforms</a> &amp;uniforms)</td></tr>
+<tr class="memdesc:a4bbd3ece14e0437a936a38bc0b32f12f"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns the viewport uniforms - modelview (straight + normal), projection matrices and resolution  <a href="#a4bbd3ece14e0437a936a38bc0b32f12f">More...</a><br/></td></tr>
+<tr class="separator:a4bbd3ece14e0437a936a38bc0b32f12f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
 <tr class="memitem:aa6886188639dbce2c2f3e241792f56bb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classpossumwood_1_1IO.html">IO</a>&lt; <a class="el" href="classpossumwood_1_1Enum.html">Enum</a> &gt; <a class="el" href="structpossumwood_1_1Traits.html">Traits</a>&lt; <a class="el" href="classpossumwood_1_1Enum.html">Enum</a> &gt;::io &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html#aa6886188639dbce2c2f3e241792f56bb">toJson</a></td></tr>
@@ -280,6 +295,85 @@ Variables</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">typedef CGAL::Surface_mesh&lt;CGALKernel::Point_3&gt; <a class="el" href="namespacepossumwood.html#a8fb90e4db5852f68653fa0b246420779">possumwood::CGALPolyhedron</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a class="anchor" id="a4bbd3ece14e0437a936a38bc0b32f12f"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void possumwood::addViewportUniforms </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classpossumwood_1_1Uniforms.html">possumwood::Uniforms</a> &amp;&#160;</td>
+          <td class="paramname"><em>uniforms</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>returns the viewport uniforms - modelview (straight + normal), projection matrices and resolution </p>
+
+</div>
+</div>
+<a class="anchor" id="a82623ad55b0ad222d977cb8f77169034"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="classpossumwood_1_1FragmentShader.html">possumwood::FragmentShader</a> &amp; possumwood::defaultFragmentShader </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a8d4ba66d139cce3139d2214544be641a"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const std::string &amp; possumwood::defaultFragmentShaderSrc </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a6da494ebafbf3593616ba8336222eb9e"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="classpossumwood_1_1VertexShader.html">possumwood::VertexShader</a> &amp; possumwood::defaultVertexShader </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a36c6869cc11a99be4f30bbcffe270492"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const std::string &amp; possumwood::defaultVertexShaderSrc </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -317,7 +411,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li>
-    <li class="footer">Generated on Sat Oct 28 2017 00:38:45 for possumwood by
+    <li class="footer">Generated on Sun Oct 29 2017 12:39:38 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

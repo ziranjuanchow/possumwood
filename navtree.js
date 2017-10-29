@@ -50,10 +50,10 @@ var NAVTREEINDEX =
 "classdependency__graph_1_1io_1_1basic__json_1_1output__adapter.html#a82af932559adc1e9f190ab94fb4ade7b",
 "classnode__editor_1_1Port.html#a92f9f3b847c86a6f8b38e65a30e3b066",
 "classpossumwood_1_1UniqueId.html#ac9f0a103883a53e781d76d2a790c85e1",
-"frame__editor__data_8h.html",
-"node__implementation_8cpp.html",
-"structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type.html#ab9df59e5ebd2ec07f310287c5e32c130",
-"unique__id_8cpp.html"
+"enum__ui_8h_source.html",
+"namespacenode__editor.html",
+"structdependency__graph_1_1io_1_1detail_1_1has__to__json.html#acfc852b4f9d6a8b3314408c6194e8f27",
+"uniondependency__graph_1_1io_1_1basic__json_1_1json__value.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

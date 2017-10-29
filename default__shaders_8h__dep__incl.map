@@ -1,0 +1,6 @@
+<map id="src/plugins/shaders/default_shaders.h" name="src/plugins/shaders/default_shaders.h">
+<area shape="rect" id="node2" href="$default__shaders_8cpp.html" title="src/plugins/shaders\l/default_shaders.cpp" alt="" coords="5,97,147,138"/>
+<area shape="rect" id="node3" href="$draw_8cpp.html" title="src/plugins/shaders\l/nodes/draw.cpp" alt="" coords="171,97,305,138"/>
+<area shape="rect" id="node4" href="$fragment__shader_8cpp.html" title="src/plugins/shaders\l/nodes/fragment_shader.cpp" alt="" coords="331,97,517,138"/>
+<area shape="rect" id="node5" href="$vertex__shader_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_shader.cpp" alt="" coords="542,97,713,138"/>
+</map>

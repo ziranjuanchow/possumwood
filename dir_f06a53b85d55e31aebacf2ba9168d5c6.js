@@ -31,8 +31,8 @@ var dir_f06a53b85d55e31aebacf2ba9168d5c6 =
     [ "texture.h", "texture_8h.html", [
       [ "Texture", "classpossumwood_1_1Texture.html", "classpossumwood_1_1Texture" ]
     ] ],
-    [ "uniforms.cpp", "uniforms_8cpp.html", null ],
-    [ "uniforms.h", "uniforms_8h.html", [
+    [ "uniforms.cpp", "datatypes_2uniforms_8cpp.html", null ],
+    [ "uniforms.h", "datatypes_2uniforms_8h.html", [
       [ "Uniforms", "classpossumwood_1_1Uniforms.html", "classpossumwood_1_1Uniforms" ],
       [ "UniformHolder", "structpossumwood_1_1Uniforms_1_1UniformHolder.html", "structpossumwood_1_1Uniforms_1_1UniformHolder" ],
       [ "TextureHolder", "structpossumwood_1_1Uniforms_1_1TextureHolder.html", "structpossumwood_1_1Uniforms_1_1TextureHolder" ],

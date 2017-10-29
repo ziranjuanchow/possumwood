@@ -15,7 +15,7 @@
 <area shape="rect" id="node46" href="$datatypes_2pixmap_8h.html" title="src/plugins/shaders\l/datatypes/pixmap.h" alt="" coords="2133,103,2272,145"/>
 <area shape="rect" id="node47" href="$program_8h.html" title="src/plugins/shaders\l/datatypes/program.h" alt="" coords="4439,201,4584,242"/>
 <area shape="rect" id="node48" href="$shader_8h.html" title="src/plugins/shaders\l/datatypes/shader.h" alt="" coords="3901,103,4037,145"/>
-<area shape="rect" id="node49" href="$uniforms_8h.html" title="src/plugins/shaders\l/datatypes/uniforms.h" alt="" coords="4062,103,4209,145"/>
+<area shape="rect" id="node49" href="$datatypes_2uniforms_8h.html" title="src/plugins/shaders\l/datatypes/uniforms.h" alt="" coords="4062,103,4209,145"/>
 <area shape="rect" id="node50" href="$vertex__data_8h.html" title="src/plugins/shaders\l/datatypes/vertex_data.h" alt="" coords="4234,103,4400,145"/>
 <area shape="rect" id="node3" href="$actions_8h.html" title="src/apps/possumwood\l/actions.h" alt="" coords="226,201,379,242"/>
 <area shape="rect" id="node4" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="111,291,264,333"/>

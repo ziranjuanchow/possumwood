@@ -1,0 +1,11 @@
+<map id="src/plugins/shaders/default_shaders.h" name="src/plugins/shaders/default_shaders.h">
+<area shape="rect" id="node2" href="$shader_8h.html" title="datatypes/shader.h" alt="" coords="1560,96,1693,123"/>
+<area shape="rect" id="node4" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1419,171,1589,197"/>
+<area shape="rect" id="node39" href="$state_8h.html" title="dependency_graph/state.h" alt="" coords="2042,469,2216,496"/>
+<area shape="rect" id="node6" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1374,395,1535,421"/>
+<area shape="rect" id="node9" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="1227,245,1269,272"/>
+<area shape="rect" id="node12" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="826,320,1003,347"/>
+<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="425,395,483,421"/>
+<area shape="rect" id="node37" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="867,395,961,421"/>
+<area shape="rect" id="node14" href="$json_8h.html" title="io/json.h" alt="" coords="1125,469,1195,496"/>
+</map>

@@ -47,5 +47,5 @@
 <area shape="rect" id="node44" href="$openmesh_2nodes_2loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="7593,194,7741,235"/>
 <area shape="rect" id="node45" href="$openmesh_2nodes_2normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="7767,194,7964,235"/>
 <area shape="rect" id="node46" href="$plugins_2openmesh_2nodes_2transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="7988,194,8136,235"/>
-<area shape="rect" id="node47" href="$background_8cpp.html" title="src/plugins/shaders\l/nodes/background.cpp" alt="" coords="8161,194,8319,235"/>
+<area shape="rect" id="node47" href="$draw_8cpp.html" title="src/plugins/shaders\l/nodes/draw.cpp" alt="" coords="8162,194,8296,235"/>
 </map>
