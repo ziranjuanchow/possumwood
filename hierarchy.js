@@ -160,7 +160,9 @@ var hierarchy =
         [ "possumwood::properties::factory_typed< Pixmap >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< Skeleton >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< string_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< Uniforms >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< unsigned_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< VBO >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< vec3_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< T >", "classpossumwood_1_1properties_1_1factory__typed.html", null ]
       ] ],
@@ -195,6 +197,12 @@ var hierarchy =
         ] ],
         [ "possumwood::properties::property< std::shared_ptr< const Mesh >, mesh_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "mesh_ui", "classmesh__ui.html", null ]
+        ] ],
+        [ "possumwood::properties::property< std::shared_ptr< const possumwood::Uniforms >, Uniforms >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "Uniforms", "classUniforms.html", null ]
+        ] ],
+        [ "possumwood::properties::property< std::shared_ptr< const possumwood::VertexData >, VBO >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "VBO", "classVBO.html", null ]
         ] ],
         [ "possumwood::properties::property< std::shared_ptr< const QPixmap >, Pixmap >", "classpossumwood_1_1properties_1_1property.html", [
           [ "Pixmap", "classPixmap.html", null ]

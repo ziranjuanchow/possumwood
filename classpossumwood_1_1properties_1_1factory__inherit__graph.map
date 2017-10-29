@@ -11,7 +11,9 @@
 <area shape="rect" id="node12" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; Pixmap \&gt;" alt="" coords="394,606,571,647"/>
 <area shape="rect" id="node13" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; Skeleton \&gt;" alt="" coords="391,671,575,713"/>
 <area shape="rect" id="node14" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; string_ui \&gt;" alt="" coords="391,737,574,778"/>
-<area shape="rect" id="node15" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; unsigned_ui \&gt;" alt="" coords="381,802,584,843"/>
-<area shape="rect" id="node16" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; vec3_ui \&gt;" alt="" coords="393,867,572,909"/>
-<area shape="rect" id="node17" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; T \&gt;" alt="" coords="401,933,565,974"/>
+<area shape="rect" id="node15" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; Uniforms \&gt;" alt="" coords="389,802,576,843"/>
+<area shape="rect" id="node16" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; unsigned_ui \&gt;" alt="" coords="381,867,584,909"/>
+<area shape="rect" id="node17" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; VBO \&gt;" alt="" coords="401,933,565,974"/>
+<area shape="rect" id="node18" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; vec3_ui \&gt;" alt="" coords="393,998,572,1039"/>
+<area shape="rect" id="node19" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; T \&gt;" alt="" coords="401,1063,565,1105"/>
 </map>

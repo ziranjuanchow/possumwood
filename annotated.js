@@ -30,7 +30,9 @@ var annotated =
     [ "TestStruct", "structTestStruct.html", "structTestStruct" ],
     [ "Timeline", "classTimeline.html", "classTimeline" ],
     [ "TimelineWidget", "classTimelineWidget.html", "classTimelineWidget" ],
+    [ "Uniforms", "classUniforms.html", "classUniforms" ],
     [ "unsigned_ui", "classunsigned__ui.html", "classunsigned__ui" ],
+    [ "VBO", "classVBO.html", "classVBO" ],
     [ "vec3_ui", "classvec3__ui.html", "classvec3__ui" ],
     [ "Viewport", "classViewport.html", "classViewport" ]
 ];

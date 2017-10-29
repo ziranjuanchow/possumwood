@@ -39,8 +39,8 @@ var dir_45247237aeb05763094580f9720e856e =
       [ "Traits< std::shared_ptr< const Uniforms > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Uniforms_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Uniforms_01_4_01_4" ]
     ] ],
     [ "uniforms.inl", "uniforms_8inl.html", null ],
-    [ "vbo.cpp", "vbo_8cpp.html", null ],
-    [ "vbo.h", "vbo_8h.html", [
+    [ "vbo.cpp", "datatypes_2vbo_8cpp.html", null ],
+    [ "vbo.h", "datatypes_2vbo_8h.html", [
       [ "VBOBase", "classpossumwood_1_1VBOBase.html", "classpossumwood_1_1VBOBase" ],
       [ "VBO", "classpossumwood_1_1VBO.html", "classpossumwood_1_1VBO" ]
     ] ],
