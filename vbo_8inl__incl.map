@@ -1,4 +1,4 @@
-<map id="src/plugins/shaders/datatypes/vbo.inl" name="src/plugins/shaders/datatypes/vbo.inl">
+<map id="src/plugins/render/datatypes/vbo.inl" name="src/plugins/render/datatypes/vbo.inl">
 <area shape="rect" id="node2" href="$vbo_8h.html" title="vbo.h" alt="" coords="270,96,324,123"/>
 <area shape="rect" id="node10" href="$glsl__traits_8h.html" title="glsl_traits.h" alt="" coords="565,96,653,123"/>
 </map>

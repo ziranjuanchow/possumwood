@@ -17,7 +17,7 @@
 <area shape="rect" id="node23" href="$remap_8cpp.html" title="src/plugins/anim/nodes\l/frame/remap.cpp" alt="" coords="363,550,519,591"/>
 <area shape="rect" id="node27" href="$plugins_2anim_2datatypes_2skeleton_8cpp.html" title="src/plugins/anim/datatypes\l/skeleton.cpp" alt="" coords="692,459,871,501"/>
 <area shape="rect" id="node28" href="$bone__rename_8cpp.html" title="src/plugins/anim/nodes\l/frame/bone_rename.cpp" alt="" coords="895,459,1061,501"/>
-<area shape="rect" id="node29" href="$anim_2nodes_2frame_2display_8cpp.html" title="src/plugins/anim/nodes\l/frame/display.cpp" alt="" coords="1086,459,1241,501"/>
+<area shape="rect" id="node29" href="$frame_2display_8cpp.html" title="src/plugins/anim/nodes\l/frame/display.cpp" alt="" coords="1086,459,1241,501"/>
 <area shape="rect" id="node31" href="$x_8cpp.html" title="src/plugins/anim/nodes\l/loaders/x.cpp" alt="" coords="2782,459,2937,501"/>
 <area shape="rect" id="node32" href="$remove__unskinned_8cpp.html" title="src/plugins/anim/nodes\l/mesh/remove_unskinned.cpp" alt="" coords="1266,459,1461,501"/>
 <area shape="rect" id="node33" href="$skin_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin.cpp" alt="" coords="1486,459,1641,501"/>

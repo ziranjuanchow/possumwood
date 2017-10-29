@@ -1,4 +1,4 @@
-<map id="src/plugins/shaders/datatypes/vertex_data.inl" name="src/plugins/shaders/datatypes/vertex_data.inl">
+<map id="src/plugins/render/datatypes/vertex_data.inl" name="src/plugins/render/datatypes/vertex_data.inl">
 <area shape="rect" id="node2" href="$vertex__data_8h.html" title="vertex_data.h" alt="" coords="1901,96,2003,123"/>
 <area shape="rect" id="node42" href="$vbo_8inl.html" title="vbo.inl" alt="" coords="2134,395,2193,421"/>
 <area shape="rect" id="node6" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1751,171,1921,197"/>

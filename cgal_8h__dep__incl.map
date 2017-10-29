@@ -1,9 +1,8 @@
 <map id="src/plugins/cgal/cgal.h" name="src/plugins/cgal/cgal.h">
-<area shape="rect" id="node2" href="$polyhedron_8h.html" title="src/plugins/cgal/datatypes\l/polyhedron.h" alt="" coords="439,81,613,122"/>
-<area shape="rect" id="node4" href="$cgal_2nodes_2loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="5,171,157,213"/>
-<area shape="rect" id="node7" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="928,171,1080,213"/>
-<area shape="rect" id="node3" href="$cgal_2nodes_2display_8cpp.html" title="src/plugins/cgal/nodes\l/display.cpp" alt="" coords="181,171,333,213"/>
-<area shape="rect" id="node5" href="$cgal_2nodes_2normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="358,171,516,213"/>
-<area shape="rect" id="node6" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="541,171,693,213"/>
-<area shape="rect" id="node8" href="$cgal_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/cgal.cpp" alt="" coords="717,171,904,213"/>
+<area shape="rect" id="node2" href="$polyhedron_8h.html" title="src/plugins/cgal/datatypes\l/polyhedron.h" alt="" coords="354,81,528,122"/>
+<area shape="rect" id="node3" href="$cgal_2nodes_2loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="5,171,157,213"/>
+<area shape="rect" id="node6" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="752,171,904,213"/>
+<area shape="rect" id="node4" href="$cgal_2nodes_2normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="182,171,340,213"/>
+<area shape="rect" id="node5" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="365,171,517,213"/>
+<area shape="rect" id="node7" href="$cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="541,171,728,213"/>
 </map>

@@ -15,7 +15,7 @@
 <area shape="rect" id="node29" href="$unsigned__ui_8h.html" title="src/plugins/maths/ui\l/unsigned_ui.h" alt="" coords="2367,187,2505,229"/>
 <area shape="rect" id="node31" href="$ui_2vec3_8h.html" title="src/plugins/maths/ui\l/vec3.h" alt="" coords="2529,187,2668,229"/>
 <area shape="rect" id="node33" href="$ui_2mesh_8h.html" title="src/plugins/openmesh\l/ui/mesh.h" alt="" coords="2692,187,2840,229"/>
-<area shape="rect" id="node35" href="$ui_2pixmap_8h.html" title="src/plugins/shaders\l/ui/pixmap.h" alt="" coords="2866,187,3000,229"/>
+<area shape="rect" id="node35" href="$ui_2pixmap_8h.html" title="src/plugins/render\l/ui/pixmap.h" alt="" coords="2865,187,2991,229"/>
 <area shape="rect" id="node4" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="182,278,335,319"/>
 <area shape="rect" id="node8" href="$properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="359,278,512,319"/>
 <area shape="rect" id="node5" href="$actions_8cpp.html" title="src/apps/possumwood\l/actions.cpp" alt="" coords="5,369,157,410"/>
@@ -33,5 +33,5 @@
 <area shape="rect" id="node30" href="$unsigned__ui_8cpp.html" title="src/plugins/maths/ui\l/unsigned_ui.cpp" alt="" coords="2367,278,2505,319"/>
 <area shape="rect" id="node32" href="$ui_2vec3_8cpp.html" title="src/plugins/maths/ui\l/vec3.cpp" alt="" coords="2529,278,2668,319"/>
 <area shape="rect" id="node34" href="$mesh_8cpp.html" title="src/plugins/openmesh\l/ui/mesh.cpp" alt="" coords="2692,278,2840,319"/>
-<area shape="rect" id="node36" href="$pixmap_8cpp.html" title="src/plugins/shaders\l/ui/pixmap.cpp" alt="" coords="2866,278,3000,319"/>
+<area shape="rect" id="node36" href="$pixmap_8cpp.html" title="src/plugins/render\l/ui/pixmap.cpp" alt="" coords="2865,278,2991,319"/>
 </map>

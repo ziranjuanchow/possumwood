@@ -1,4 +1,4 @@
-<map id="src/plugins/shaders/ui/shader_editor.h" name="src/plugins/shaders/ui/shader_editor.h">
+<map id="src/plugins/render/ui/shader_editor.h" name="src/plugins/render/ui/shader_editor.h">
 <area shape="rect" id="node2" href="$editor_8h.html" title="possumwood_sdk/editor.h" alt="" coords="847,96,1021,123"/>
 <area shape="rect" id="node6" href="$attr_8h.html" title="dependency_graph/attr.h" alt="" coords="1315,395,1479,421"/>
 <area shape="rect" id="node36" href="$values_8h.html" title="dependency_graph/values.h" alt="" coords="843,171,1027,197"/>

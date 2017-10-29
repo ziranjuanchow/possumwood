@@ -1,4 +1,4 @@
-<map id="src/plugins/shaders/datatypes/uniforms.inl" name="src/plugins/shaders/datatypes/uniforms.inl">
+<map id="src/plugins/render/datatypes/uniforms.inl" name="src/plugins/render/datatypes/uniforms.inl">
 <area shape="rect" id="node2" href="$datatypes_2uniforms_8h.html" title="uniforms.h" alt="" coords="1841,96,1923,123"/>
 <area shape="rect" id="node44" href="$glsl__traits_8h.html" title="glsl_traits.h" alt="" coords="2151,96,2240,123"/>
 <area shape="rect" id="node10" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1396,320,1567,347"/>

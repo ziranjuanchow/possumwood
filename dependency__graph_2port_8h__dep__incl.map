@@ -36,7 +36,7 @@
 <area shape="rect" id="node24" href="$plugins_2anim_2nodes_2animation_2transform_8cpp.html" title="src/plugins/anim/nodes\l/animation/transform.cpp" alt="" coords="2120,641,2286,682"/>
 <area shape="rect" id="node25" href="$transition_8cpp.html" title="src/plugins/anim/nodes\l/animation/transition.cpp" alt="" coords="1149,641,1312,682"/>
 <area shape="rect" id="node26" href="$bone__rename_8cpp.html" title="src/plugins/anim/nodes\l/frame/bone_rename.cpp" alt="" coords="2310,641,2476,682"/>
-<area shape="rect" id="node27" href="$anim_2nodes_2frame_2display_8cpp.html" title="src/plugins/anim/nodes\l/frame/display.cpp" alt="" coords="1337,641,1492,682"/>
+<area shape="rect" id="node27" href="$frame_2display_8cpp.html" title="src/plugins/anim/nodes\l/frame/display.cpp" alt="" coords="1337,641,1492,682"/>
 <area shape="rect" id="node28" href="$edit_8cpp.html" title="src/plugins/anim/nodes\l/frame/edit.cpp" alt="" coords="2501,641,2656,682"/>
 <area shape="rect" id="node29" href="$from__animation_8cpp.html" title="src/plugins/anim/nodes\l/frame/from_animation.cpp" alt="" coords="1569,641,1746,682"/>
 <area shape="rect" id="node30" href="$remap_8cpp.html" title="src/plugins/anim/nodes\l/frame/remap.cpp" alt="" coords="2681,641,2836,682"/>

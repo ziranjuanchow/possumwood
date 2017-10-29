@@ -33,9 +33,9 @@
 <area shape="rect" id="node21" href="$time_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/time.cpp" alt="" coords="1223,550,1368,591"/>
 <area shape="rect" id="node22" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/animation/periodic.cpp" alt="" coords="1393,550,1548,591"/>
 <area shape="rect" id="node23" href="$transition_8cpp.html" title="src/plugins/anim/nodes\l/animation/transition.cpp" alt="" coords="1573,550,1736,591"/>
-<area shape="rect" id="node24" href="$anim_2nodes_2frame_2display_8cpp.html" title="src/plugins/anim/nodes\l/frame/display.cpp" alt="" coords="1761,550,1916,591"/>
+<area shape="rect" id="node24" href="$frame_2display_8cpp.html" title="src/plugins/anim/nodes\l/frame/display.cpp" alt="" coords="1761,550,1916,591"/>
 <area shape="rect" id="node25" href="$from__animation_8cpp.html" title="src/plugins/anim/nodes\l/frame/from_animation.cpp" alt="" coords="1941,550,2117,591"/>
-<area shape="rect" id="node26" href="$anim_2nodes_2mesh_2display_8cpp.html" title="src/plugins/anim/nodes\l/mesh/display.cpp" alt="" coords="2142,550,2297,591"/>
+<area shape="rect" id="node26" href="$mesh_2display_8cpp.html" title="src/plugins/anim/nodes\l/mesh/display.cpp" alt="" coords="2142,550,2297,591"/>
 <area shape="rect" id="node27" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="2322,550,2485,591"/>
 <area shape="rect" id="node29" href="$properties_8h.html" title="src/apps/possumwood\l/properties.h" alt="" coords="2951,550,3104,591"/>
 <area shape="rect" id="node34" href="$timeline__widget_8cpp.html" title="src/apps/possumwood\l/timeline_widget.cpp" alt="" coords="2565,459,2717,501"/>

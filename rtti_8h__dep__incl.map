@@ -41,11 +41,11 @@
 <area shape="rect" id="node36" href="$io_2vec3_8h.html" title="src/plugins/maths/io\l/vec3.h" alt="" coords="2619,375,2757,417"/>
 <area shape="rect" id="node37" href="$decimater__module_8h.html" title="src/plugins/openmesh\l/datatypes/decimater\l_module.h" alt="" coords="2781,368,2929,424"/>
 <area shape="rect" id="node38" href="$datatypes_2mesh_8h.html" title="src/plugins/openmesh\l/datatypes/mesh.h" alt="" coords="2955,375,3103,417"/>
-<area shape="rect" id="node39" href="$datatypes_2pixmap_8h.html" title="src/plugins/shaders\l/datatypes/pixmap.h" alt="" coords="3129,375,3268,417"/>
-<area shape="rect" id="node40" href="$program_8h.html" title="src/plugins/shaders\l/datatypes/program.h" alt="" coords="3753,473,3897,514"/>
-<area shape="rect" id="node41" href="$shader_8h.html" title="src/plugins/shaders\l/datatypes/shader.h" alt="" coords="3825,375,3961,417"/>
-<area shape="rect" id="node42" href="$datatypes_2uniforms_8h.html" title="src/plugins/shaders\l/datatypes/uniforms.h" alt="" coords="3293,375,3440,417"/>
-<area shape="rect" id="node43" href="$vertex__data_8h.html" title="src/plugins/shaders\l/datatypes/vertex_data.h" alt="" coords="3465,375,3631,417"/>
+<area shape="rect" id="node39" href="$datatypes_2pixmap_8h.html" title="src/plugins/render\l/datatypes/pixmap.h" alt="" coords="3129,375,3268,417"/>
+<area shape="rect" id="node40" href="$program_8h.html" title="src/plugins/render\l/datatypes/program.h" alt="" coords="3753,473,3897,514"/>
+<area shape="rect" id="node41" href="$shader_8h.html" title="src/plugins/render\l/datatypes/shader.h" alt="" coords="3825,375,3961,417"/>
+<area shape="rect" id="node42" href="$datatypes_2uniforms_8h.html" title="src/plugins/render\l/datatypes/uniforms.h" alt="" coords="3293,375,3440,417"/>
+<area shape="rect" id="node43" href="$vertex__data_8h.html" title="src/plugins/render\l/datatypes/vertex_data.h" alt="" coords="3465,375,3631,417"/>
 <area shape="rect" id="node47" href="$attributes_8h.html" title="src/plugins/anim/datatypes\l/attributes.h" alt="" coords="3083,187,3261,229"/>
 <area shape="rect" id="node48" href="$attribute_8cpp.html" title="src/plugins/anim/datatypes\l/attribute.cpp" alt="" coords="1925,187,2104,229"/>
 </map>

@@ -3,7 +3,7 @@
 <area shape="rect" id="node11" href="$skinned__vertices_8cpp.html" title="src/plugins/anim/datatypes\l/skinned_vertices.cpp" alt="" coords="880,97,1059,138"/>
 <area shape="rect" id="node3" href="$skinned__mesh_8cpp.html" title="src/plugins/anim/datatypes\l/skinned_mesh.cpp" alt="" coords="5,187,184,229"/>
 <area shape="rect" id="node4" href="$x_8cpp.html" title="src/plugins/anim/nodes\l/loaders/x.cpp" alt="" coords="209,187,364,229"/>
-<area shape="rect" id="node5" href="$anim_2nodes_2mesh_2display_8cpp.html" title="src/plugins/anim/nodes\l/mesh/display.cpp" alt="" coords="389,187,544,229"/>
+<area shape="rect" id="node5" href="$mesh_2display_8cpp.html" title="src/plugins/anim/nodes\l/mesh/display.cpp" alt="" coords="389,187,544,229"/>
 <area shape="rect" id="node6" href="$remove__unskinned_8cpp.html" title="src/plugins/anim/nodes\l/mesh/remove_unskinned.cpp" alt="" coords="569,187,764,229"/>
 <area shape="rect" id="node7" href="$skin_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin.cpp" alt="" coords="789,187,944,229"/>
 <area shape="rect" id="node8" href="$skin__remap_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap.cpp" alt="" coords="969,187,1124,229"/>

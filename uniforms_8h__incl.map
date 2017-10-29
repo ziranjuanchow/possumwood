@@ -1,4 +1,4 @@
-<map id="src/plugins/shaders/uniforms.h" name="src/plugins/shaders/uniforms.h">
+<map id="src/plugins/render/uniforms.h" name="src/plugins/render/uniforms.h">
 <area shape="rect" id="node2" href="$datatypes_2uniforms_8h.html" title="datatypes/uniforms.h" alt="" coords="259,96,403,123"/>
 <area shape="rect" id="node10" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="385,320,556,347"/>
 <area shape="rect" id="node42" href="$texture_8h.html" title="texture.h" alt="" coords="369,171,441,197"/>

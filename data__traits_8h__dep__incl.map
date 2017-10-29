@@ -37,7 +37,7 @@
 <area shape="rect" id="node25" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="1287,459,1439,501"/>
 <area shape="rect" id="node26" href="$openmesh_2nodes_2loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="1463,459,1611,501"/>
 <area shape="rect" id="node27" href="$openmesh_2nodes_2normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="3480,459,3677,501"/>
-<area shape="rect" id="node28" href="$load_8cpp.html" title="src/plugins/shaders\l/nodes/image/load.cpp" alt="" coords="1637,459,1789,501"/>
+<area shape="rect" id="node28" href="$load_8cpp.html" title="src/plugins/render\l/nodes/image/load.cpp" alt="" coords="1637,459,1789,501"/>
 <area shape="rect" id="node30" href="$enum__ui_8h.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.h" alt="" coords="3702,459,3847,501"/>
 <area shape="rect" id="node32" href="$ui_2filename_8h.html" title="src/libs/possumwood\l_sdk/ui/filename.h" alt="" coords="1991,459,2136,501"/>
 <area shape="rect" id="node31" href="$enum__ui_8cpp.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.cpp" alt="" coords="3702,550,3847,591"/>

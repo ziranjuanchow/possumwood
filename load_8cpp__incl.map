@@ -1,4 +1,4 @@
-<map id="src/plugins/shaders/nodes/image/load.cpp" name="src/plugins/shaders/nodes/image/load.cpp">
+<map id="src/plugins/render/nodes/image/load.cpp" name="src/plugins/render/nodes/image/load.cpp">
 <area shape="rect" id="node4" href="$node__implementation_8h.html" title="possumwood_sdk/node\l_implementation.h" alt="" coords="1962,97,2120,138"/>
 <area shape="rect" id="node47" href="$datatypes_2filename_8h.html" title="possumwood_sdk/datatypes\l/filename.h" alt="" coords="2397,411,2584,453"/>
 <area shape="rect" id="node49" href="$datatypes_2pixmap_8h.html" title="datatypes/pixmap.h" alt="" coords="2303,104,2437,131"/>

@@ -1,5 +1,5 @@
-<map id="src/plugins/shaders/uniforms.h" name="src/plugins/shaders/uniforms.h">
-<area shape="rect" id="node2" href="$draw_8cpp.html" title="src/plugins/shaders\l/nodes/draw.cpp" alt="" coords="5,97,139,138"/>
-<area shape="rect" id="node3" href="$plugins_2shaders_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/shaders\l/nodes/uniforms/viewport.cpp" alt="" coords="163,97,356,138"/>
-<area shape="rect" id="node4" href="$uniforms_8cpp.html" title="src/plugins/shaders\l/uniforms.cpp" alt="" coords="381,97,515,138"/>
+<map id="src/plugins/render/uniforms.h" name="src/plugins/render/uniforms.h">
+<area shape="rect" id="node2" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="5,97,131,138"/>
+<area shape="rect" id="node3" href="$plugins_2render_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/render\l/nodes/uniforms/viewport.cpp" alt="" coords="155,97,348,138"/>
+<area shape="rect" id="node4" href="$uniforms_8cpp.html" title="src/plugins/render\l/uniforms.cpp" alt="" coords="373,97,499,138"/>
 </map>

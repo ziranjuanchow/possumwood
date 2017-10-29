@@ -1,8 +1,8 @@
-<map id="src/plugins/shaders/datatypes/vbo.inl" name="src/plugins/shaders/datatypes/vbo.inl">
-<area shape="rect" id="node2" href="$vertex__data_8inl.html" title="src/plugins/shaders\l/datatypes/vertex_data.inl" alt="" coords="282,97,453,138"/>
-<area shape="rect" id="node4" href="$draw_8cpp.html" title="src/plugins/shaders\l/nodes/draw.cpp" alt="" coords="5,187,139,229"/>
-<area shape="rect" id="node3" href="$vertex__data_8cpp.html" title="src/plugins/shaders\l/datatypes/vertex_data.cpp" alt="" coords="163,187,343,229"/>
-<area shape="rect" id="node5" href="$background_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/background.cpp" alt="" coords="368,187,597,229"/>
-<area shape="rect" id="node6" href="$cgal_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/cgal.cpp" alt="" coords="621,187,808,229"/>
-<area shape="rect" id="node7" href="$openmesh_8cpp.html" title="src/plugins/shaders\l/nodes/vertex_data/openmesh.cpp" alt="" coords="833,187,1055,229"/>
+<map id="src/plugins/render/datatypes/vbo.inl" name="src/plugins/render/datatypes/vbo.inl">
+<area shape="rect" id="node2" href="$vertex__data_8inl.html" title="src/plugins/render\l/datatypes/vertex_data.inl" alt="" coords="274,97,445,138"/>
+<area shape="rect" id="node4" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="5,187,131,229"/>
+<area shape="rect" id="node3" href="$vertex__data_8cpp.html" title="src/plugins/render\l/datatypes/vertex_data.cpp" alt="" coords="155,187,335,229"/>
+<area shape="rect" id="node5" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="360,187,589,229"/>
+<area shape="rect" id="node6" href="$cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="613,187,800,229"/>
+<area shape="rect" id="node7" href="$openmesh_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/openmesh.cpp" alt="" coords="825,187,1047,229"/>
 </map>

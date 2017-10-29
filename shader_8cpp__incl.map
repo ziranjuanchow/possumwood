@@ -1,4 +1,4 @@
-<map id="src/plugins/shaders/datatypes/shader.cpp" name="src/plugins/shaders/datatypes/shader.cpp">
+<map id="src/plugins/render/datatypes/shader.cpp" name="src/plugins/render/datatypes/shader.cpp">
 <area shape="rect" id="node2" href="$shader_8h.html" title="shader.h" alt="" coords="1591,96,1663,123"/>
 <area shape="rect" id="node4" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1419,171,1589,197"/>
 <area shape="rect" id="node39" href="$state_8h.html" title="dependency_graph/state.h" alt="" coords="2042,469,2216,496"/>

@@ -16,6 +16,6 @@ var searchData=
   ['vertex_5fdata_2einl',['vertex_data.inl',['../vertex__data_8inl.html',1,'']]],
   ['vertex_5fshader_2ecpp',['vertex_shader.cpp',['../vertex__shader_8cpp.html',1,'']]],
   ['viewport_2ecpp',['viewport.cpp',['../apps_2possumwood_2viewport_8cpp.html',1,'']]],
-  ['viewport_2ecpp',['viewport.cpp',['../plugins_2shaders_2nodes_2uniforms_2viewport_8cpp.html',1,'']]],
+  ['viewport_2ecpp',['viewport.cpp',['../plugins_2render_2nodes_2uniforms_2viewport_8cpp.html',1,'']]],
   ['viewport_2eh',['viewport.h',['../viewport_8h.html',1,'']]]
 ];
