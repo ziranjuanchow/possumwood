@@ -21,7 +21,7 @@ var searchData=
   ['end_5fobject',['end_object',['../classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#aeb934db8d194d0be39cb0df3989699aaa7d5b4427866814de4d8f132721d59c87',1,'dependency_graph::io::basic_json::lexer']]],
   ['end_5fof_5finput',['end_of_input',['../classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#aeb934db8d194d0be39cb0df3989699aaaca11f56dd477c09e06583dbdcda0985f',1,'dependency_graph::io::basic_json::lexer']]],
   ['end_5fvalue',['end_value',['../classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#aa367fa15b03a9943ec4eed4d43cee9e7',1,'dependency_graph::io::basic_json::primitive_iterator_t']]],
-  ['enum',['Enum',['../classpossumwood_1_1Enum.html#a2e13d30a9f9d6f78bbd16f075b292af4',1,'possumwood::Enum::Enum(std::initializer_list&lt; std::string &gt; options=std::initializer_list&lt; std::string &gt;())'],['../classpossumwood_1_1Enum.html#a14283f59a63023b6680f0e2715882d07',1,'possumwood::Enum::Enum(std::initializer_list&lt; std::pair&lt; std::string, int &gt;&gt; options)']]],
+  ['enum',['Enum',['../classpossumwood_1_1Enum.html#a2e13d30a9f9d6f78bbd16f075b292af4',1,'possumwood::Enum']]],
   ['enum',['Enum',['../classpossumwood_1_1Enum.html',1,'possumwood']]],
   ['enum_2ecpp',['enum.cpp',['../enum_8cpp.html',1,'']]],
   ['enum_2eh',['enum.h',['../enum_8h.html',1,'']]],

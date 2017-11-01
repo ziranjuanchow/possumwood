@@ -1,0 +1,20 @@
+<map id="src/plugins/openmesh/openmesh.h" name="src/plugins/openmesh/openmesh.h">
+<area shape="rect" id="node2" href="$decimater__module_8h.html" title="src/plugins/openmesh\l/datatypes/decimater\l_module.h" alt="" coords="1656,96,1804,152"/>
+<area shape="rect" id="node4" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/decimater.cpp" alt="" coords="821,207,1035,249"/>
+<area shape="rect" id="node5" href="$module__aspect__ratio_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_aspect_ratio.cpp" alt="" coords="1059,200,1233,256"/>
+<area shape="rect" id="node6" href="$module__edge__length_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_edge_length.cpp" alt="" coords="1258,200,1432,256"/>
+<area shape="rect" id="node7" href="$module__hausdorff_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_hausdorff.cpp" alt="" coords="1457,200,1631,256"/>
+<area shape="rect" id="node8" href="$module__independent__sets_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_independent_sets.cpp" alt="" coords="1830,200,2004,256"/>
+<area shape="rect" id="node9" href="$module__normal__deviation_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_normal_deviation.cpp" alt="" coords="2029,200,2203,256"/>
+<area shape="rect" id="node10" href="$module__normal__flipping_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_normal_flipping.cpp" alt="" coords="2227,200,2401,256"/>
+<area shape="rect" id="node11" href="$module__quadric_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_quadric.cpp" alt="" coords="2426,200,2600,256"/>
+<area shape="rect" id="node12" href="$module__roundness_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/module\l_roundness.cpp" alt="" coords="2625,200,2799,256"/>
+<area shape="rect" id="node13" href="$datatypes_2mesh_8h.html" title="src/plugins/openmesh\l/datatypes/mesh.h" alt="" coords="568,103,716,145"/>
+<area shape="rect" id="node14" href="$openmesh_2nodes_2loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="5,207,153,249"/>
+<area shape="rect" id="node15" href="$openmesh_2nodes_2normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="179,207,376,249"/>
+<area shape="rect" id="node16" href="$plugins_2openmesh_2nodes_2transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="647,207,795,249"/>
+<area shape="rect" id="node18" href="$ui_2mesh_8h.html" title="src/plugins/openmesh\l/ui/mesh.h" alt="" coords="2812,103,2960,145"/>
+<area shape="rect" id="node3" href="$decimater__module_8cpp.html" title="src/plugins/openmesh\l/datatypes/decimater\l_module.cpp" alt="" coords="1656,200,1804,256"/>
+<area shape="rect" id="node17" href="$openmesh_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/openmesh.cpp" alt="" coords="401,207,623,249"/>
+<area shape="rect" id="node19" href="$mesh_8cpp.html" title="src/plugins/openmesh\l/ui/mesh.cpp" alt="" coords="2824,207,2972,249"/>
+</map>

@@ -34,7 +34,7 @@
 <area shape="rect" id="node24" href="$skin__remap_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap.cpp" alt="" coords="3145,731,3300,773"/>
 <area shape="rect" id="node25" href="$skin__remap__regex_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap_regex.cpp" alt="" coords="3325,731,3517,773"/>
 <area shape="rect" id="node26" href="$subset_8cpp.html" title="src/plugins/anim/nodes\l/mesh/subset.cpp" alt="" coords="3542,731,3697,773"/>
-<area shape="rect" id="node27" href="$loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="3723,731,3875,773"/>
+<area shape="rect" id="node27" href="$cgal_2nodes_2loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="3723,731,3875,773"/>
 <area shape="rect" id="node36" href="$graph_8h.html" title="src/libs/dependency\l_graph/graph.h" alt="" coords="1313,278,1452,319"/>
 <area shape="rect" id="node37" href="$dependency__graph_2node_8cpp.html" title="src/libs/dependency\l_graph/node.cpp" alt="" coords="1207,369,1345,410"/>
 <area shape="rect" id="node38" href="$node_8inl.html" title="src/libs/dependency\l_graph/node.inl" alt="" coords="1580,369,1719,410"/>
