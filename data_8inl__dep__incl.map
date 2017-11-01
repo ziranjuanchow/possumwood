@@ -40,8 +40,8 @@
 <area shape="rect" id="node30" href="$skin__remap_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap.cpp" alt="" coords="351,369,507,410"/>
 <area shape="rect" id="node31" href="$skin__remap__regex_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap_regex.cpp" alt="" coords="719,369,912,410"/>
 <area shape="rect" id="node32" href="$subset_8cpp.html" title="src/plugins/anim/nodes\l/mesh/subset.cpp" alt="" coords="937,369,1092,410"/>
-<area shape="rect" id="node33" href="$cgal_2nodes_2loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="3940,369,4092,410"/>
-<area shape="rect" id="node34" href="$cgal_2nodes_2normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="3577,369,3735,410"/>
+<area shape="rect" id="node33" href="$loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="3940,369,4092,410"/>
+<area shape="rect" id="node34" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="3577,369,3735,410"/>
 <area shape="rect" id="node44" href="$possumwood__sdk_2metadata_8h.html" title="src/libs/possumwood\l_sdk/metadata.h" alt="" coords="58,187,203,229"/>
 <area shape="rect" id="node46" href="$node__data_8h.html" title="src/libs/possumwood\l_sdk/node_data.h" alt="" coords="1955,278,2100,319"/>
 <area shape="rect" id="node47" href="$traits_8h.html" title="src/libs/possumwood\l_sdk/traits.h" alt="" coords="3501,187,3645,229"/>

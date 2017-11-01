@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['omlog',['OMLog',['../classOMLog.html',1,'']]],
   ['options',['Options',['../classanim_1_1SubsetSelection_1_1Options.html',1,'anim::SubsetSelection']]],
   ['other_5ferror',['other_error',['../classdependency__graph_1_1io_1_1detail_1_1other__error.html',1,'dependency_graph::io::detail']]],
   ['out_5fof_5frange',['out_of_range',['../classdependency__graph_1_1io_1_1detail_1_1out__of__range.html',1,'dependency_graph::io::detail']]],
