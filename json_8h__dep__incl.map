@@ -21,8 +21,8 @@
 <area shape="rect" id="node13" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="1823,731,1969,773"/>
 <area shape="rect" id="node14" href="$tests_2dependency__graph_2datablock_8cpp.html" title="src/tests/dependency\l_graph/datablock.cpp" alt="" coords="2164,731,2311,773"/>
 <area shape="rect" id="node15" href="$influences_8cpp.html" title="src/tests/dependency\l_graph/influences.cpp" alt="" coords="2335,731,2483,773"/>
-<area shape="rect" id="node8" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="2677,822,2835,863"/>
-<area shape="rect" id="node9" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="2859,822,3065,863"/>
+<area shape="rect" id="node8" href="$cgal_2nodes_2normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="2679,822,2837,863"/>
+<area shape="rect" id="node9" href="$openmesh_2nodes_2normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="2863,822,3060,863"/>
 <area shape="rect" id="node18" href="$graph_8h.html" title="src/libs/dependency\l_graph/graph.h" alt="" coords="1103,550,1241,591"/>
 <area shape="rect" id="node26" href="$node_8inl.html" title="src/libs/dependency\l_graph/node.inl" alt="" coords="1260,641,1399,682"/>
 <area shape="rect" id="node25" href="$json_8cpp.html" title="src/tests/dependency\l_graph/json.cpp" alt="" coords="856,731,1003,773"/>

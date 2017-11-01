@@ -1,7 +1,7 @@
 <map id="src/libs/possumwood_sdk/datatypes/enum.h" name="src/libs/possumwood_sdk/datatypes/enum.h">
 <area shape="rect" id="node2" href="$enum_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/enum.cpp" alt="" coords="5,97,176,138"/>
 <area shape="rect" id="node3" href="$enum__ui_8h.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.h" alt="" coords="201,97,345,138"/>
-<area shape="rect" id="node5" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="370,97,528,138"/>
-<area shape="rect" id="node6" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="553,97,759,138"/>
+<area shape="rect" id="node5" href="$cgal_2nodes_2normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="370,97,528,138"/>
+<area shape="rect" id="node6" href="$openmesh_2nodes_2normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="553,97,751,138"/>
 <area shape="rect" id="node4" href="$enum__ui_8cpp.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.cpp" alt="" coords="201,187,345,229"/>
 </map>
