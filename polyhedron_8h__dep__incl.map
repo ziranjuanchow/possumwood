@@ -1,7 +1,8 @@
 <map id="src/plugins/cgal/datatypes/polyhedron.h" name="src/plugins/cgal/datatypes/polyhedron.h">
-<area shape="rect" id="node2" href="$cgal_2nodes_2loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="5,97,157,138"/>
-<area shape="rect" id="node3" href="$cgal_2nodes_2normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="182,97,340,138"/>
-<area shape="rect" id="node4" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="365,97,517,138"/>
-<area shape="rect" id="node5" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="541,97,693,138"/>
-<area shape="rect" id="node6" href="$cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="717,97,904,138"/>
+<area shape="rect" id="node2" href="$loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="5,97,157,138"/>
+<area shape="rect" id="node3" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="182,97,340,138"/>
+<area shape="rect" id="node4" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="365,97,571,138"/>
+<area shape="rect" id="node5" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="596,97,748,138"/>
+<area shape="rect" id="node6" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="772,97,924,138"/>
+<area shape="rect" id="node7" href="$cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="948,97,1135,138"/>
 </map>

@@ -1,7 +1,0 @@
-<map id="src/plugins/openmesh/datatypes/mesh.h" name="src/plugins/openmesh/datatypes/mesh.h">
-<area shape="rect" id="node2" href="$decimater_8cpp.html" title="src/plugins/openmesh\l/nodes/decimation/decimater.cpp" alt="" coords="5,97,219,138"/>
-<area shape="rect" id="node3" href="$openmesh_2nodes_2loader_8cpp.html" title="src/plugins/openmesh\l/nodes/loader.cpp" alt="" coords="244,97,392,138"/>
-<area shape="rect" id="node4" href="$openmesh_2nodes_2normals__generator_8cpp.html" title="src/plugins/openmesh\l/nodes/normals_generator.cpp" alt="" coords="417,97,615,138"/>
-<area shape="rect" id="node5" href="$plugins_2openmesh_2nodes_2transform_8cpp.html" title="src/plugins/openmesh\l/nodes/transform.cpp" alt="" coords="639,97,787,138"/>
-<area shape="rect" id="node6" href="$openmesh_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/openmesh.cpp" alt="" coords="811,97,1033,138"/>
-</map>
