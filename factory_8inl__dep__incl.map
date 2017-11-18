@@ -1,5 +1,5 @@
 <map id="src/libs/possumwood_sdk/properties/factory.inl" name="src/libs/possumwood_sdk/properties/factory.inl">
-<area shape="rect" id="node2" href="$property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="1699,97,1872,138"/>
+<area shape="rect" id="node2" href="$property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="1781,97,1955,138"/>
 <area shape="rect" id="node3" href="$properties_8h.html" title="src/apps/possumwood\l/properties.h" alt="" coords="270,187,423,229"/>
 <area shape="rect" id="node9" href="$factory_8cpp.html" title="src/libs/possumwood\l_sdk/properties/factory.cpp" alt="" coords="447,187,627,229"/>
 <area shape="rect" id="node10" href="$property_8cpp.html" title="src/libs/possumwood\l_sdk/properties/property.cpp" alt="" coords="652,187,839,229"/>
@@ -10,13 +10,14 @@
 <area shape="rect" id="node19" href="$joint__mapping__editor_8h.html" title="src/plugins/anim/ui\l/joint_mapping_editor.h" alt="" coords="1527,187,1683,229"/>
 <area shape="rect" id="node21" href="$mesh__subset__editor_8h.html" title="src/plugins/anim/ui\l/mesh_subset_editor.h" alt="" coords="1708,187,1861,229"/>
 <area shape="rect" id="node23" href="$ui_2skeleton_8h.html" title="src/plugins/anim/ui\l/skeleton.h" alt="" coords="1887,187,2016,229"/>
-<area shape="rect" id="node25" href="$bool__ui_8h.html" title="src/plugins/maths/ui\l/bool_ui.h" alt="" coords="2041,187,2180,229"/>
-<area shape="rect" id="node27" href="$float__ui_8h.html" title="src/plugins/maths/ui\l/float_ui.h" alt="" coords="2204,187,2343,229"/>
-<area shape="rect" id="node29" href="$unsigned__ui_8h.html" title="src/plugins/maths/ui\l/unsigned_ui.h" alt="" coords="2367,187,2505,229"/>
-<area shape="rect" id="node31" href="$ui_2vec3_8h.html" title="src/plugins/maths/ui\l/vec3.h" alt="" coords="2529,187,2668,229"/>
-<area shape="rect" id="node33" href="$ui_2pixmap_8h.html" title="src/plugins/render\l/ui/pixmap.h" alt="" coords="2692,187,2817,229"/>
-<area shape="rect" id="node35" href="$ui_2uniforms_8h.html" title="src/plugins/render\l/ui/uniforms.h" alt="" coords="2841,187,2967,229"/>
-<area shape="rect" id="node37" href="$ui_2vbo_8h.html" title="src/plugins/render\l/ui/vbo.h" alt="" coords="2991,187,3116,229"/>
+<area shape="rect" id="node25" href="$meshes__ui_8h.html" title="src/plugins/cgal/ui\l/meshes_ui.h" alt="" coords="2042,187,2168,229"/>
+<area shape="rect" id="node27" href="$bool__ui_8h.html" title="src/plugins/maths/ui\l/bool_ui.h" alt="" coords="2193,187,2332,229"/>
+<area shape="rect" id="node29" href="$float__ui_8h.html" title="src/plugins/maths/ui\l/float_ui.h" alt="" coords="2356,187,2495,229"/>
+<area shape="rect" id="node31" href="$unsigned__ui_8h.html" title="src/plugins/maths/ui\l/unsigned_ui.h" alt="" coords="2519,187,2657,229"/>
+<area shape="rect" id="node33" href="$ui_2vec3_8h.html" title="src/plugins/maths/ui\l/vec3.h" alt="" coords="2681,187,2820,229"/>
+<area shape="rect" id="node35" href="$ui_2pixmap_8h.html" title="src/plugins/render\l/ui/pixmap.h" alt="" coords="2844,187,2969,229"/>
+<area shape="rect" id="node37" href="$ui_2uniforms_8h.html" title="src/plugins/render\l/ui/uniforms.h" alt="" coords="2993,187,3119,229"/>
+<area shape="rect" id="node39" href="$ui_2vbo_8h.html" title="src/plugins/render\l/ui/vbo.h" alt="" coords="3143,187,3268,229"/>
 <area shape="rect" id="node4" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="182,278,335,319"/>
 <area shape="rect" id="node8" href="$properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="359,278,512,319"/>
 <area shape="rect" id="node5" href="$actions_8cpp.html" title="src/apps/possumwood\l/actions.cpp" alt="" coords="5,369,157,410"/>
@@ -29,11 +30,12 @@
 <area shape="rect" id="node20" href="$joint__mapping__editor_8cpp.html" title="src/plugins/anim/ui\l/joint_mapping_editor.cpp" alt="" coords="1500,278,1671,319"/>
 <area shape="rect" id="node22" href="$mesh__subset__editor_8cpp.html" title="src/plugins/anim/ui\l/mesh_subset_editor.cpp" alt="" coords="1695,278,1863,319"/>
 <area shape="rect" id="node24" href="$plugins_2anim_2ui_2skeleton_8cpp.html" title="src/plugins/anim/ui\l/skeleton.cpp" alt="" coords="1887,278,2016,319"/>
-<area shape="rect" id="node26" href="$bool_8cpp.html" title="src/plugins/maths/ui\l/bool.cpp" alt="" coords="2041,278,2180,319"/>
-<area shape="rect" id="node28" href="$float__ui_8cpp.html" title="src/plugins/maths/ui\l/float_ui.cpp" alt="" coords="2204,278,2343,319"/>
-<area shape="rect" id="node30" href="$unsigned__ui_8cpp.html" title="src/plugins/maths/ui\l/unsigned_ui.cpp" alt="" coords="2367,278,2505,319"/>
-<area shape="rect" id="node32" href="$ui_2vec3_8cpp.html" title="src/plugins/maths/ui\l/vec3.cpp" alt="" coords="2529,278,2668,319"/>
-<area shape="rect" id="node34" href="$pixmap_8cpp.html" title="src/plugins/render\l/ui/pixmap.cpp" alt="" coords="2692,278,2817,319"/>
-<area shape="rect" id="node36" href="$ui_2uniforms_8cpp.html" title="src/plugins/render\l/ui/uniforms.cpp" alt="" coords="2841,278,2967,319"/>
-<area shape="rect" id="node38" href="$ui_2vbo_8cpp.html" title="src/plugins/render\l/ui/vbo.cpp" alt="" coords="2991,278,3116,319"/>
+<area shape="rect" id="node26" href="$meshes__ui_8cpp.html" title="src/plugins/cgal/ui\l/meshes_ui.cpp" alt="" coords="2042,278,2168,319"/>
+<area shape="rect" id="node28" href="$bool_8cpp.html" title="src/plugins/maths/ui\l/bool.cpp" alt="" coords="2193,278,2332,319"/>
+<area shape="rect" id="node30" href="$float__ui_8cpp.html" title="src/plugins/maths/ui\l/float_ui.cpp" alt="" coords="2356,278,2495,319"/>
+<area shape="rect" id="node32" href="$unsigned__ui_8cpp.html" title="src/plugins/maths/ui\l/unsigned_ui.cpp" alt="" coords="2519,278,2657,319"/>
+<area shape="rect" id="node34" href="$ui_2vec3_8cpp.html" title="src/plugins/maths/ui\l/vec3.cpp" alt="" coords="2681,278,2820,319"/>
+<area shape="rect" id="node36" href="$pixmap_8cpp.html" title="src/plugins/render\l/ui/pixmap.cpp" alt="" coords="2844,278,2969,319"/>
+<area shape="rect" id="node38" href="$ui_2uniforms_8cpp.html" title="src/plugins/render\l/ui/uniforms.cpp" alt="" coords="2993,278,3119,319"/>
+<area shape="rect" id="node40" href="$ui_2vbo_8cpp.html" title="src/plugins/render\l/ui/vbo.cpp" alt="" coords="3143,278,3268,319"/>
 </map>

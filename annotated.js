@@ -17,6 +17,7 @@ var annotated =
     [ "JointMappingEditor", "classJointMappingEditor.html", "classJointMappingEditor" ],
     [ "Log", "classLog.html", "classLog" ],
     [ "MainWindow", "classMainWindow.html", "classMainWindow" ],
+    [ "MeshesUI", "classMeshesUI.html", "classMeshesUI" ],
     [ "MeshSubsetEditor", "classMeshSubsetEditor.html", "classMeshSubsetEditor" ],
     [ "Pixmap", "classPixmap.html", "classPixmap" ],
     [ "Properties", "classProperties.html", "classProperties" ],

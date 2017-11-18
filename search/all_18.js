@@ -26,6 +26,7 @@ var searchData=
   ['_7eiobase',['~IOBase',['../classpossumwood_1_1IOBase.html#a3e1f55847240ef7e9b8c73df915ba850',1,'possumwood::IOBase']]],
   ['_7ejointmappingeditor',['~JointMappingEditor',['../classJointMappingEditor.html#aca2b1d6e8e2527982aecc544aeb35e63',1,'JointMappingEditor']]],
   ['_7emainwindow',['~MainWindow',['../classMainWindow.html#ae98d00a93bc118200eeef9f9bba1dba7',1,'MainWindow']]],
+  ['_7emeshesui',['~MeshesUI',['../classMeshesUI.html#acab47458a815f6474041255bdbada025',1,'MeshesUI']]],
   ['_7emeshsubseteditor',['~MeshSubsetEditor',['../classMeshSubsetEditor.html#a871f16c0b7a46d27c7898eeda6153596',1,'MeshSubsetEditor']]],
   ['_7emetadata',['~Metadata',['../classdependency__graph_1_1Metadata.html#a429a27e3f5ae5b549d5781c9de6485ce',1,'dependency_graph::Metadata::~Metadata()'],['../classpossumwood_1_1Metadata.html#abc18753cc5a24f64122bce24bf6d7eb4',1,'possumwood::Metadata::~Metadata()']]],
   ['_7enode',['~Node',['../classnode__editor_1_1Node.html#a814624c79800141cc263bc75ccd31191',1,'node_editor::Node']]],

@@ -39,7 +39,7 @@
 <area shape="rect" id="node34" href="$datatypes_2skeleton_8h.html" title="src/plugins/anim/datatypes\l/skeleton.h" alt="" coords="2316,369,2495,410"/>
 <area shape="rect" id="node35" href="$skinned__mesh_8h.html" title="src/plugins/anim/datatypes\l/skinned_mesh.h" alt="" coords="3500,459,3679,501"/>
 <area shape="rect" id="node36" href="$subset__selection_8h.html" title="src/plugins/anim/datatypes\l/subset_selection.h" alt="" coords="3792,369,3971,410"/>
-<area shape="rect" id="node37" href="$polyhedron_8h.html" title="src/plugins/cgal/datatypes\l/polyhedron.h" alt="" coords="2519,369,2693,410"/>
+<area shape="rect" id="node37" href="$meshes_8h.html" title="src/plugins/cgal/datatypes\l/meshes.h" alt="" coords="2519,369,2693,410"/>
 <area shape="rect" id="node38" href="$io_2vec3_8h.html" title="src/plugins/maths/io\l/vec3.h" alt="" coords="2719,369,2857,410"/>
 <area shape="rect" id="node39" href="$datatypes_2pixmap_8h.html" title="src/plugins/render\l/datatypes/pixmap.h" alt="" coords="2882,369,3021,410"/>
 <area shape="rect" id="node40" href="$program_8h.html" title="src/plugins/render\l/datatypes/program.h" alt="" coords="3158,459,3303,501"/>

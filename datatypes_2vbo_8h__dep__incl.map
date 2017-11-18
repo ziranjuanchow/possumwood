@@ -6,7 +6,7 @@
 <area shape="rect" id="node6" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="5,278,131,319"/>
 <area shape="rect" id="node5" href="$vertex__data_8cpp.html" title="src/plugins/render\l/datatypes/vertex_data.cpp" alt="" coords="155,278,335,319"/>
 <area shape="rect" id="node7" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="360,278,589,319"/>
-<area shape="rect" id="node8" href="$cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="613,278,800,319"/>
+<area shape="rect" id="node8" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="613,278,800,319"/>
 <area shape="rect" id="node10" href="$ui_2vbo_8h.html" title="src/plugins/render\l/ui/vbo.h" alt="" coords="704,187,829,229"/>
 <area shape="rect" id="node11" href="$ui_2vbo_8cpp.html" title="src/plugins/render\l/ui/vbo.cpp" alt="" coords="824,278,949,319"/>
 </map>
