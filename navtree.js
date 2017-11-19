@@ -53,7 +53,7 @@ var NAVTREEINDEX =
 "drawable_8cpp.html",
 "mult_8cpp.html",
 "structdependency__graph_1_1io_1_1detail_1_1has__non__default__from__json.html#a6710e7d149f564b751e67080584120ff",
-"ui_2vbo_8h_source.html"
+"ui_2uniforms_8cpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
