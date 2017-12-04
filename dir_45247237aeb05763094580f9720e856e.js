@@ -1,5 +1,11 @@
 var dir_45247237aeb05763094580f9720e856e =
 [
+    [ "buffer.cpp", "buffer_8cpp.html", null ],
+    [ "buffer.h", "buffer_8h.html", [
+      [ "Buffer", "classpossumwood_1_1Buffer.html", "classpossumwood_1_1Buffer" ],
+      [ "Element", "classpossumwood_1_1Buffer_1_1Element.html", "classpossumwood_1_1Buffer_1_1Element" ]
+    ] ],
+    [ "buffer.inl", "buffer_8inl.html", null ],
     [ "glsl_traits.h", "glsl__traits_8h.html", [
       [ "GLSLTraits", "structpossumwood_1_1GLSLTraits.html", null ],
       [ "GLSLTraits< float >", "structpossumwood_1_1GLSLTraits_3_01float_01_4.html", "structpossumwood_1_1GLSLTraits_3_01float_01_4" ],
@@ -10,7 +16,8 @@ var dir_45247237aeb05763094580f9720e856e =
       [ "GLSLTraits< Imath::V3d >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3d_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3d_01_4" ],
       [ "GLSLTraits< std::array< float, 16 > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_0116_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_0116_01_4_01_4" ],
       [ "GLSLTraits< std::array< double, 16 > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_0116_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_0116_01_4_01_4" ],
-      [ "GLSLTraits< std::array< float, WIDTH > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_01WIDTH_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_01WIDTH_01_4_01_4" ]
+      [ "GLSLTraits< std::array< float, WIDTH > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_01WIDTH_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_01WIDTH_01_4_01_4" ],
+      [ "GLSLTraits< std::array< double, WIDTH > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_01WIDTH_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_01WIDTH_01_4_01_4" ]
     ] ],
     [ "pixmap.h", "datatypes_2pixmap_8h.html", [
       [ "Traits< std::shared_ptr< const QPixmap > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4" ]

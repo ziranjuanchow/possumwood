@@ -120,7 +120,7 @@ Inheritance diagram for possumwood::VBOBase:</div>
 <div class="dyncontent">
 <div class="center"><img src="classpossumwood_1_1VBOBase__inherit__graph.png" border="0" usemap="#possumwood_1_1VBOBase_inherit__map" alt="Inheritance graph"/></div>
 <map name="possumwood_1_1VBOBase_inherit__map" id="possumwood_1_1VBOBase_inherit__map">
-<area shape="rect" id="node3" href="classpossumwood_1_1VBO.html" title="encapsulation of a single vertex data buffer " alt="" coords="5,155,171,181"/></map>
+<area shape="rect" id="node3" href="classpossumwood_1_1VBO.html" title="possumwood::VBO\&lt; T \&gt;" alt="" coords="5,155,171,181"/></map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
 Collaboration diagram for possumwood::VBOBase:</div>
@@ -141,15 +141,17 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a0a21b70e48890c06f762c430ffbae913"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1VBOBase.html#a0a21b70e48890c06f762c430ffbae913">isInitialised</a> () const </td></tr>
 <tr class="separator:a0a21b70e48890c06f762c430ffbae913"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a97ec3e2d45120c32db02ee5a93005ab9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1VBOBase.html#a97ec3e2d45120c32db02ee5a93005ab9">use</a> (GLint attribLocation) const </td></tr>
-<tr class="memdesc:a97ec3e2d45120c32db02ee5a93005ab9"><td class="mdescLeft">&#160;</td><td class="mdescRight">use the <a class="el" href="classpossumwood_1_1VBO.html" title="encapsulation of a single vertex data buffer ">VBO</a> - glEnableVertexAttribArray and glVertexAttribPointer calls  <a href="#a97ec3e2d45120c32db02ee5a93005ab9">More...</a><br/></td></tr>
+<tr class="memdesc:a97ec3e2d45120c32db02ee5a93005ab9"><td class="mdescLeft">&#160;</td><td class="mdescRight">use the <a class="el" href="classpossumwood_1_1VBO.html">VBO</a> - glEnableVertexAttribArray and glVertexAttribPointer calls  <a href="#a97ec3e2d45120c32db02ee5a93005ab9">More...</a><br/></td></tr>
 <tr class="separator:a97ec3e2d45120c32db02ee5a93005ab9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
 <tr class="memitem:aca7a476fb51d2daa7a6153ad89952fb5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1VBOBase.html#aca7a476fb51d2daa7a6153ad89952fb5">setInitialised</a> (bool val)</td></tr>
 <tr class="separator:aca7a476fb51d2daa7a6153ad89952fb5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac11552d8ca009b6f2c087ac8b40acdd6"><td class="memItemLeft" align="right" valign="top">virtual unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1VBOBase.html#ac11552d8ca009b6f2c087ac8b40acdd6">width</a> () const =0</td></tr>
-<tr class="separator:ac11552d8ca009b6f2c087ac8b40acdd6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac09f7eb2c453f8941c3a6b26cd3a8c8e"><td class="memItemLeft" align="right" valign="top">virtual std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1VBOBase.html#ac09f7eb2c453f8941c3a6b26cd3a8c8e">arraySize</a> () const =0</td></tr>
+<tr class="separator:ac09f7eb2c453f8941c3a6b26cd3a8c8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac138c948540dfd96dd07199ce72b3575"><td class="memItemLeft" align="right" valign="top">virtual std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1VBOBase.html#ac138c948540dfd96dd07199ce72b3575">width</a> () const =0</td></tr>
+<tr class="separator:ac138c948540dfd96dd07199ce72b3575"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad247bd0d7641d77f1aef612aa729d7ed"><td class="memItemLeft" align="right" valign="top">virtual GLenum&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1VBOBase.html#ad247bd0d7641d77f1aef612aa729d7ed">type</a> () const =0</td></tr>
 <tr class="separator:ad247bd0d7641d77f1aef612aa729d7ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -200,6 +202,31 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a class="anchor" id="ac09f7eb2c453f8941c3a6b26cd3a8c8e"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual std::size_t possumwood::VBOBase::arraySize </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="classpossumwood_1_1VBO.html#af767c118f2b1300447d0685dbe009979">possumwood::VBO&lt; T &gt;</a>.</p>
+
+</div>
+</div>
 <a class="anchor" id="a6d48de4a7514ac88cb89654e85072887"></a>
 <div class="memitem">
 <div class="memproto">
@@ -293,11 +320,11 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>use the <a class="el" href="classpossumwood_1_1VBO.html" title="encapsulation of a single vertex data buffer ">VBO</a> - glEnableVertexAttribArray and glVertexAttribPointer calls </p>
+<p>use the <a class="el" href="classpossumwood_1_1VBO.html">VBO</a> - glEnableVertexAttribArray and glVertexAttribPointer calls </p>
 
 </div>
 </div>
-<a class="anchor" id="ac11552d8ca009b6f2c087ac8b40acdd6"></a>
+<a class="anchor" id="ac138c948540dfd96dd07199ce72b3575"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -305,7 +332,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual unsigned possumwood::VBOBase::width </td>
+          <td class="memname">virtual std::size_t possumwood::VBOBase::width </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -318,7 +345,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="classpossumwood_1_1VBO.html#a06c430792939b68d71bf4ec9108e0565">possumwood::VBO&lt; T &gt;</a>.</p>
+<p>Implemented in <a class="el" href="classpossumwood_1_1VBO.html#a37860a81442fe8da0bf72e7d9a901cfe">possumwood::VBO&lt; T &gt;</a>.</p>
 
 </div>
 </div>
@@ -373,7 +400,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1VBOBase.html">VBOBase</a></li>
-    <li class="footer">Generated on Sun Nov 19 2017 01:52:07 for possumwood by
+    <li class="footer">Generated on Mon Dec 4 2017 09:02:04 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

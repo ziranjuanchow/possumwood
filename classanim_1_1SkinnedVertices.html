@@ -151,11 +151,18 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a759376def548e06fccd7b11564bc85e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a19d1205b1681b7343bbadda119fb0640"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classanim_1_1SkinnedVertices.html#a2b966dd3701e9ac28556dff910202b8e">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classanim_1_1SkinnedVertices.html#a19d1205b1681b7343bbadda119fb0640">end</a> ()</td></tr>
 <tr class="separator:a19d1205b1681b7343bbadda119fb0640"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a30a1a366a8d987d214bdc4455142ffdc"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classanim_1_1SkinnedVertices.html#a30a1a366a8d987d214bdc4455142ffdc">boneCount</a> () const </td></tr>
+<tr class="separator:a30a1a366a8d987d214bdc4455142ffdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1fc14758aa219faec091c16b02c7fdc5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classanim_1_1SkinnedVertices.html#a1fc14758aa219faec091c16b02c7fdc5">addVertexWeight</a> (std::size_t vertexIndex, std::size_t boneIndex, float weight)</td></tr>
+<tr class="memdesc:a1fc14758aa219faec091c16b02c7fdc5"><td class="mdescLeft">&#160;</td><td class="mdescRight">a slightly weird API to allow boneCount update  <a href="#a1fc14758aa219faec091c16b02c7fdc5">More...</a><br/></td></tr>
+<tr class="separator:a1fc14758aa219faec091c16b02c7fdc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
 <tr class="memitem:a44e35439382aa32c9e53427404522a7b"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="classanim_1_1SkinnedVertices_1_1Vertex.html">Vertex</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classanim_1_1SkinnedVertices.html#a44e35439382aa32c9e53427404522a7b">m_vertices</a></td></tr>
 <tr class="separator:a44e35439382aa32c9e53427404522a7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69557aad603df64a0604dd452376a534"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classanim_1_1SkinnedVertices.html#a69557aad603df64a0604dd452376a534">m_boneCount</a></td></tr>
+<tr class="separator:a69557aad603df64a0604dd452376a534"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>A simple storage class for skinned vertices. Each vertex has a position, and an arbitrary number of skinning weights (bone-weight pairs). </p>
@@ -227,6 +234,40 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a1fc14758aa219faec091c16b02c7fdc5"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void anim::SkinnedVertices::addVertexWeight </td>
+          <td>(</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>vertexIndex</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>boneIndex</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>weight</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>a slightly weird API to allow boneCount update </p>
+
+</div>
+</div>
 <a class="anchor" id="a8ebe3314bfe24ec41b9d18d4176239bb"></a>
 <div class="memitem">
 <div class="memproto">
@@ -251,6 +292,21 @@ Private Attributes</h2></td></tr>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a30a1a366a8d987d214bdc4455142ffdc"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::size_t anim::SkinnedVertices::boneCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -335,6 +391,26 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
+<a class="anchor" id="a69557aad603df64a0604dd452376a534"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::size_t anim::SkinnedVertices::m_boneCount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a44e35439382aa32c9e53427404522a7b"></a>
 <div class="memitem">
 <div class="memproto">
@@ -365,7 +441,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceanim.html">anim</a></li><li class="navelem"><a class="el" href="classanim_1_1SkinnedVertices.html">SkinnedVertices</a></li>
-    <li class="footer">Generated on Sun Nov 19 2017 01:52:05 for possumwood by
+    <li class="footer">Generated on Mon Dec 4 2017 09:02:03 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

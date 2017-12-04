@@ -29,6 +29,7 @@ var hierarchy =
     [ "dependency_graph::Selection::Connection", "structdependency__graph_1_1Selection_1_1Connection.html", null ],
     [ "dependency_graph::Datablock", "classdependency__graph_1_1Datablock.html", null ],
     [ "dependency_graph::DataTraits< T >", "structdependency__graph_1_1DataTraits.html", null ],
+    [ "possumwood::Buffer< T >::Element", "classpossumwood_1_1Buffer_1_1Element.html", null ],
     [ "possumwood::Enum", "classpossumwood_1_1Enum.html", null ],
     [ "exception", null, [
       [ "dependency_graph::io::detail::exception", "classdependency__graph_1_1io_1_1detail_1_1exception.html", [
@@ -63,6 +64,7 @@ var hierarchy =
     [ "possumwood::GLSLTraits< Imath::V3d >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3d_01_4.html", null ],
     [ "possumwood::GLSLTraits< Imath::V3f >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3f_01_4.html", null ],
     [ "possumwood::GLSLTraits< std::array< double, 16 > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_0116_01_4_01_4.html", null ],
+    [ "possumwood::GLSLTraits< std::array< double, WIDTH > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_01WIDTH_01_4_01_4.html", null ],
     [ "possumwood::GLSLTraits< std::array< float, 16 > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_0116_01_4_01_4.html", null ],
     [ "possumwood::GLSLTraits< std::array< float, WIDTH > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_01WIDTH_01_4_01_4.html", null ],
     [ "dependency_graph::io::detail::has_from_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__from__json.html", null ],
@@ -124,6 +126,7 @@ var hierarchy =
       [ "dependency_graph::Port", "classdependency__graph_1_1Port.html", null ],
       [ "dependency_graph::Values", "classdependency__graph_1_1Values.html", null ],
       [ "possumwood::App", "classpossumwood_1_1App.html", null ],
+      [ "possumwood::Buffer< T >", "classpossumwood_1_1Buffer.html", null ],
       [ "possumwood::Config", "classpossumwood_1_1Config.html", null ],
       [ "possumwood::Drawable", "classpossumwood_1_1Drawable.html", [
         [ "possumwood::DrawableFunctor", "classpossumwood_1_1DrawableFunctor.html", null ]

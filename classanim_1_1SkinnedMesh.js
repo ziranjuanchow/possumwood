@@ -1,5 +1,7 @@
 var classanim_1_1SkinnedMesh =
 [
+    [ "SkinnedMesh", "classanim_1_1SkinnedMesh.html#aad5395004fbb0c4671be255c7e508700", null ],
+    [ "boneCount", "classanim_1_1SkinnedMesh.html#a0c69fd987d02f4880480eda90cbab88b", null ],
     [ "name", "classanim_1_1SkinnedMesh.html#a9ea76b8e0c4376aecff8cf6e47153309", null ],
     [ "normals", "classanim_1_1SkinnedMesh.html#a6f33019be893f543f0676064d918e818", null ],
     [ "normals", "classanim_1_1SkinnedMesh.html#a94474481b31c923f0ff42f1771fa40f0", null ],

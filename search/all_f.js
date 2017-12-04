@@ -62,9 +62,9 @@ var searchData=
   ['properties',['properties',['../namespacepossumwood_1_1properties.html',1,'possumwood']]],
   ['properties_2ecpp',['properties.cpp',['../properties_8cpp.html',1,'']]],
   ['properties_2eh',['properties.h',['../properties_8h.html',1,'']]],
-  ['property',['Property',['../structProperties_1_1Property.html',1,'Properties']]],
   ['property',['property',['../classpossumwood_1_1properties_1_1factory__typed.html#a9e4b0aa276e14da91abb0ccd78c2e660',1,'possumwood::properties::factory_typed::property()'],['../classpossumwood_1_1properties_1_1property.html#ab317f9bf0c34cf07e48251987d88781f',1,'possumwood::properties::property::property()'],['../structProperties_1_1Property.html#ab8efe9045c5a55795b6c72dc623a7813',1,'Properties::Property::Property(dependency_graph::Port &amp;port)'],['../structProperties_1_1Property.html#af6cbceab0c036e926add1a3f00dcff62',1,'Properties::Property::Property(Property &amp;&amp;)']]],
   ['property',['property',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
+  ['property',['Property',['../structProperties_1_1Property.html',1,'Properties']]],
   ['property_2ecpp',['property.cpp',['../property_8cpp.html',1,'']]],
   ['property_2eh',['property.h',['../property_8h.html',1,'']]],
   ['property_3c_20anim_3a_3aframeeditordata_2c_20frameeditor_20_3e',['property&lt; anim::FrameEditorData, FrameEditor &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
@@ -83,6 +83,7 @@ var searchData=
   ['property_3c_20std_3a_3astring_2c_20string_5fui_20_3e',['property&lt; std::string, string_ui &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_3c_20unsigned_2c_20unsigned_5fui_20_3e',['property&lt; unsigned, unsigned_ui &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_5fbase',['property_base',['../classpossumwood_1_1properties_1_1property__base.html',1,'possumwood::properties']]],
+  ['ptr',['ptr',['../classpossumwood_1_1Buffer_1_1Element.html#ab3994f7afc06347c9adc14748d374364',1,'possumwood::Buffer::Element']]],
   ['purge',['purge',['../classdependency__graph_1_1Graph_1_1Connections.html#ad25ba1aeb99cb104b510c2a07a4d6d30',1,'dependency_graph::Graph::Connections']]],
   ['push_5fback',['push_back',['../classdependency__graph_1_1io_1_1basic__json.html#acd6e31606f9fd6ae6742a7909853e70c',1,'dependency_graph::io::basic_json::push_back(basic_json &amp;&amp;val)'],['../classdependency__graph_1_1io_1_1basic__json.html#acb55cc745210b6778ba096e2fa90b99d',1,'dependency_graph::io::basic_json::push_back(const basic_json &amp;val)'],['../classdependency__graph_1_1io_1_1basic__json.html#a453d389477883036f2127a5baaf44ef1',1,'dependency_graph::io::basic_json::push_back(const typename object_t::value_type &amp;val)'],['../classdependency__graph_1_1io_1_1basic__json.html#ad95092899570ac3d22ed75d8e34d7acd',1,'dependency_graph::io::basic_json::push_back(std::initializer_list&lt; basic_json &gt; init)']]]
 ];
