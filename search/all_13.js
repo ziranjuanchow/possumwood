@@ -14,8 +14,8 @@ var searchData=
   ['unexpect',['unexpect',['../classdependency__graph_1_1io_1_1basic__json_1_1parser.html#aa4dafeb6a10b6436d331a34dfad5a18a',1,'dependency_graph::io::basic_json::parser']]],
   ['unflatten',['unflatten',['../classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html#a77ae9c01195849a4c0696275a0e7ae58',1,'dependency_graph::io::basic_json::json_pointer::unflatten()'],['../classdependency__graph_1_1io_1_1basic__json.html#af41182c0e3c89fb04fa0923a94665d01',1,'dependency_graph::io::basic_json::unflatten()']]],
   ['uniformholder',['UniformHolder',['../structpossumwood_1_1Uniforms_1_1UniformHolder.html',1,'possumwood::Uniforms']]],
-  ['uniforms',['Uniforms',['../classUniforms.html',1,'Uniforms'],['../classpossumwood_1_1Uniforms.html#a52fe626a3fcc65f73f5f0668936ac2e3',1,'possumwood::Uniforms::Uniforms()'],['../classUniforms.html#a52fe626a3fcc65f73f5f0668936ac2e3',1,'Uniforms::Uniforms()']]],
   ['uniforms',['Uniforms',['../classpossumwood_1_1Uniforms.html',1,'possumwood']]],
+  ['uniforms',['Uniforms',['../classUniforms.html',1,'Uniforms'],['../classpossumwood_1_1Uniforms.html#a52fe626a3fcc65f73f5f0668936ac2e3',1,'possumwood::Uniforms::Uniforms()'],['../classUniforms.html#a52fe626a3fcc65f73f5f0668936ac2e3',1,'Uniforms::Uniforms()']]],
   ['uniforms_2ecpp',['uniforms.cpp',['../uniforms_8cpp.html',1,'']]],
   ['uniforms_2ecpp',['uniforms.cpp',['../datatypes_2uniforms_8cpp.html',1,'']]],
   ['uniforms_2ecpp',['uniforms.cpp',['../ui_2uniforms_8cpp.html',1,'']]],
@@ -37,7 +37,7 @@ var searchData=
   ['updatefunctor',['updateFunctor',['../structpossumwood_1_1Uniforms_1_1UniformHolder.html#a4ccfdf3d86a218c973771963aa8efc31',1,'possumwood::Uniforms::UniformHolder']]],
   ['updateoptions',['updateOptions',['../classanim_1_1SubsetSelection.html#af45ac6993b329d2684b7ce7f7a611069',1,'anim::SubsetSelection']]],
   ['updaterect',['updateRect',['../classnode__editor_1_1Node.html#ab15809a52cee2bc2f4e816c99f3202d4',1,'node_editor::Node']]],
-  ['updatetype',['updateType',['../structpossumwood_1_1Uniforms_1_1UniformHolder.html#a1ab7fe892597c6123afe018225c1deea',1,'possumwood::Uniforms::UniformHolder::updateType()'],['../structpossumwood_1_1VertexData_1_1VBOHolder.html#afb9b30a28c8cd96ec86418b9aeef2f0c',1,'possumwood::VertexData::VBOHolder::updateType()'],['../classpossumwood_1_1Uniforms.html#af1b9fa612b41f59d28c7318421413f0e',1,'possumwood::Uniforms::UpdateType()'],['../classpossumwood_1_1VertexData.html#a28aa74b8c22a789103fa3142dd55c8bf',1,'possumwood::VertexData::UpdateType()']]],
+  ['updatetype',['UpdateType',['../classpossumwood_1_1Uniforms.html#af1b9fa612b41f59d28c7318421413f0e',1,'possumwood::Uniforms::UpdateType()'],['../classpossumwood_1_1VertexData.html#a28aa74b8c22a789103fa3142dd55c8bf',1,'possumwood::VertexData::UpdateType()'],['../structpossumwood_1_1Uniforms_1_1UniformHolder.html#a1ab7fe892597c6123afe018225c1deea',1,'possumwood::Uniforms::UniformHolder::updateType()'],['../structpossumwood_1_1VertexData_1_1VBOHolder.html#afb9b30a28c8cd96ec86418b9aeef2f0c',1,'possumwood::VertexData::VBOHolder::updateType()']]],
   ['use',['use',['../classpossumwood_1_1Texture.html#aae2eb71d525852ee33bb070290b559a4',1,'possumwood::Texture::use()'],['../classpossumwood_1_1Uniforms.html#affa78217d4bf25437f1d162808ea5621',1,'possumwood::Uniforms::use()'],['../classpossumwood_1_1VBOBase.html#a97ec3e2d45120c32db02ee5a93005ab9',1,'possumwood::VBOBase::use()'],['../classpossumwood_1_1VertexData.html#a064103c1de0bbe0402b8ba73ceda2ebf',1,'possumwood::VertexData::use()']]],
   ['usefunctor',['useFunctor',['../structpossumwood_1_1Uniforms_1_1UniformHolder.html#a17f70b2298eee0b11633049d63407e0f',1,'possumwood::Uniforms::UniformHolder']]]
 ];

@@ -150,9 +150,10 @@ Public Types</h2></td></tr>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:ad01ebe326f620de86b7decc25afce692"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1VertexData.html#ad01ebe326f620de86b7decc25afce692">VertexData</a> (GLenum <a class="el" href="classpossumwood_1_1VertexData.html#a2f7f37003fe52a73dbbf02f1519ebb04">drawElementType</a>)</td></tr>
 <tr class="separator:ad01ebe326f620de86b7decc25afce692"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f03596bb9bf4f2c7196ef007cbf5e3e"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a8f03596bb9bf4f2c7196ef007cbf5e3e"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1VertexData.html#a8f03596bb9bf4f2c7196ef007cbf5e3e">addVBO</a> (const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, std::size_t <a class="el" href="classpossumwood_1_1VertexData.html#a628a9c55cc904aa12b9ba003099382d7">size</a>, std::size_t <a class="el" href="classpossumwood_1_1VertexData.html#a3a2b47323981a9b318b0a5a6dc52b907">arraySize</a>, std::size_t width, const <a class="el" href="classpossumwood_1_1VertexData.html#a28aa74b8c22a789103fa3142dd55c8bf">UpdateType</a> &amp;updateType, std::function&lt; void(<a class="el" href="classpossumwood_1_1Buffer.html">Buffer</a>&lt; T &gt; &amp;)&gt; updateFn)</td></tr>
-<tr class="separator:a8f03596bb9bf4f2c7196ef007cbf5e3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36069545f53be3a72802cc6dcbbd060b"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a36069545f53be3a72802cc6dcbbd060b"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1VertexData.html#a36069545f53be3a72802cc6dcbbd060b">addVBO</a> (const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, std::size_t <a class="el" href="classpossumwood_1_1VertexData.html#a628a9c55cc904aa12b9ba003099382d7">size</a>, const <a class="el" href="classpossumwood_1_1VertexData.html#a28aa74b8c22a789103fa3142dd55c8bf">UpdateType</a> &amp;updateType, std::function&lt; void(<a class="el" href="classpossumwood_1_1Buffer.html">Buffer</a>&lt; typename <a class="el" href="structpossumwood_1_1VBOTraits.html">VBOTraits</a>&lt; T &gt;::element &gt; &amp;)&gt; updateFn)</td></tr>
+<tr class="memdesc:a36069545f53be3a72802cc6dcbbd060b"><td class="mdescLeft">&#160;</td><td class="mdescRight">adds a generic <a class="el" href="classpossumwood_1_1VBO.html">VBO</a> with an update functor.  <a href="#a36069545f53be3a72802cc6dcbbd060b">More...</a><br/></td></tr>
+<tr class="separator:a36069545f53be3a72802cc6dcbbd060b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a064103c1de0bbe0402b8ba73ceda2ebf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1VertexData.html#a064103c1de0bbe0402b8ba73ceda2ebf">use</a> (GLuint programId) const </td></tr>
 <tr class="memdesc:a064103c1de0bbe0402b8ba73ceda2ebf"><td class="mdescLeft">&#160;</td><td class="mdescRight">updates and uses the program  <a href="#a064103c1de0bbe0402b8ba73ceda2ebf">More...</a><br/></td></tr>
 <tr class="separator:a064103c1de0bbe0402b8ba73ceda2ebf"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -162,9 +163,6 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a628a9c55cc904aa12b9ba003099382d7"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1VertexData.html#a628a9c55cc904aa12b9ba003099382d7">size</a> () const </td></tr>
 <tr class="memdesc:a628a9c55cc904aa12b9ba003099382d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns the size of this vertex data object (number of vertices to be drawn)  <a href="#a628a9c55cc904aa12b9ba003099382d7">More...</a><br/></td></tr>
 <tr class="separator:a628a9c55cc904aa12b9ba003099382d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3a2b47323981a9b318b0a5a6dc52b907"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1VertexData.html#a3a2b47323981a9b318b0a5a6dc52b907">arraySize</a> () const </td></tr>
-<tr class="memdesc:a3a2b47323981a9b318b0a5a6dc52b907"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns the number of array elements per vertex (1 = not using arrays)  <a href="#a3a2b47323981a9b318b0a5a6dc52b907">More...</a><br/></td></tr>
-<tr class="separator:a3a2b47323981a9b318b0a5a6dc52b907"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a978058aa35cac3b6f9aac014a0b5f448"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1VertexData.html#a978058aa35cac3b6f9aac014a0b5f448">glslDeclaration</a> () const </td></tr>
 <tr class="memdesc:a978058aa35cac3b6f9aac014a0b5f448"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns the GLSL declaration of data in this <a class="el" href="classpossumwood_1_1VertexData.html" title="holds data about a set of vertex buffer objects ">VertexData</a> object  <a href="#a978058aa35cac3b6f9aac014a0b5f448">More...</a><br/></td></tr>
 <tr class="separator:a978058aa35cac3b6f9aac014a0b5f448"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -222,7 +220,7 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a class="anchor" id="a8f03596bb9bf4f2c7196ef007cbf5e3e"></a>
+<a class="anchor" id="a36069545f53be3a72802cc6dcbbd060b"></a>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
@@ -243,25 +241,13 @@ template&lt;typename T &gt; </div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::size_t&#160;</td>
-          <td class="paramname"><em>arraySize</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::size_t&#160;</td>
-          <td class="paramname"><em>width</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
           <td class="paramtype">const <a class="el" href="classpossumwood_1_1VertexData.html#a28aa74b8c22a789103fa3142dd55c8bf">UpdateType</a> &amp;&#160;</td>
           <td class="paramname"><em>updateType</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::function&lt; void(<a class="el" href="classpossumwood_1_1Buffer.html">Buffer</a>&lt; T &gt; &amp;)&gt;&#160;</td>
+          <td class="paramtype">std::function&lt; void(<a class="el" href="classpossumwood_1_1Buffer.html">Buffer</a>&lt; typename <a class="el" href="structpossumwood_1_1VBOTraits.html">VBOTraits</a>&lt; T &gt;::element &gt; &amp;)&gt;&#160;</td>
           <td class="paramname"><em>updateFn</em>&#160;</td>
         </tr>
         <tr>
@@ -271,24 +257,8 @@ template&lt;typename T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>adds a generic <a class="el" href="classpossumwood_1_1VBO.html">VBO</a> with an update functor. T can be either float or int, and WIDTH should be between 1 and 4 </p>
 
-</div>
-</div>
-<a class="anchor" id="a3a2b47323981a9b318b0a5a6dc52b907"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t possumwood::VertexData::arraySize </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>returns the number of array elements per vertex (1 = not using arrays) </p>
+<p>adds a generic <a class="el" href="classpossumwood_1_1VBO.html">VBO</a> with an update functor. </p>
 
 </div>
 </div>
@@ -430,7 +400,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1VertexData.html">VertexData</a></li>
-    <li class="footer">Generated on Mon Dec 4 2017 09:02:04 for possumwood by
+    <li class="footer">Generated on Sat Dec 9 2017 17:15:22 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

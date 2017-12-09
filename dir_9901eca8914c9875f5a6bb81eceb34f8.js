@@ -46,6 +46,11 @@ var dir_9901eca8914c9875f5a6bb81eceb34f8 =
       [ "SkinnedVertices", "classanim_1_1SkinnedVertices.html", "classanim_1_1SkinnedVertices" ],
       [ "Vertex", "classanim_1_1SkinnedVertices_1_1Vertex.html", "classanim_1_1SkinnedVertices_1_1Vertex" ]
     ] ],
+    [ "skinning.cpp", "skinning_8cpp.html", null ],
+    [ "skinning.h", "skinning_8h.html", [
+      [ "Skinning", "classanim_1_1Skinning.html", "classanim_1_1Skinning" ],
+      [ "Weight", "structanim_1_1Skinning_1_1Weight.html", "structanim_1_1Skinning_1_1Weight" ]
+    ] ],
     [ "subset_selection.cpp", "subset__selection_8cpp.html", null ],
     [ "subset_selection.h", "subset__selection_8h.html", [
       [ "SubsetSelection", "classanim_1_1SubsetSelection.html", "classanim_1_1SubsetSelection" ],

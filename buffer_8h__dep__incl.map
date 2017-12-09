@@ -1,6 +1,7 @@
 <map id="src/plugins/render/datatypes/buffer.h" name="src/plugins/render/datatypes/buffer.h">
-<area shape="rect" id="node2" href="$buffer_8inl.html" title="src/plugins/render\l/datatypes/buffer.inl" alt="" coords="166,97,303,138"/>
-<area shape="rect" id="node10" href="$datatypes_2vbo_8h.html" title="src/plugins/render\l/datatypes/vbo.h" alt="" coords="328,97,453,138"/>
+<area shape="rect" id="node2" href="$buffer_8inl.html" title="src/plugins/render\l/datatypes/buffer.inl" alt="" coords="167,97,304,138"/>
+<area shape="rect" id="node10" href="$datatypes_2vbo_8h.html" title="src/plugins/render\l/datatypes/vbo.h" alt="" coords="329,97,455,138"/>
+<area shape="rect" id="node12" href="$vertex__data_8h.html" title="src/plugins/render\l/datatypes/vertex_data.h" alt="" coords="482,187,648,229"/>
 <area shape="rect" id="node3" href="$buffer_8cpp.html" title="src/plugins/render\l/datatypes/buffer.cpp" alt="" coords="5,187,149,229"/>
 <area shape="rect" id="node4" href="$vbo_8inl.html" title="src/plugins/render\l/datatypes/vbo.inl" alt="" coords="175,187,300,229"/>
 <area shape="rect" id="node5" href="$vertex__data_8inl.html" title="src/plugins/render\l/datatypes/vertex_data.inl" alt="" coords="278,278,449,319"/>
@@ -9,7 +10,6 @@
 <area shape="rect" id="node8" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="364,369,593,410"/>
 <area shape="rect" id="node9" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="617,369,804,410"/>
 <area shape="rect" id="node11" href="$datatypes_2vbo_8cpp.html" title="src/plugins/render\l/datatypes/vbo.cpp" alt="" coords="324,187,457,229"/>
-<area shape="rect" id="node12" href="$vertex__data_8h.html" title="src/plugins/render\l/datatypes/vertex_data.h" alt="" coords="482,187,648,229"/>
 <area shape="rect" id="node13" href="$ui_2vbo_8h.html" title="src/plugins/render\l/ui/vbo.h" alt="" coords="552,278,677,319"/>
 <area shape="rect" id="node14" href="$ui_2vbo_8cpp.html" title="src/plugins/render\l/ui/vbo.cpp" alt="" coords="828,369,953,410"/>
 </map>

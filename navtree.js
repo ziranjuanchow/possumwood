@@ -44,16 +44,16 @@ var NAVTREEINDEX =
 [
 "actions_8cpp.html",
 "classViewport.html#a060c40cb6139db89854aa16adda4a82a",
-"classanim_1_1SkinnedVertices.html#aed9384fffe65eed54542af7414df4763",
-"classdependency__graph_1_1Metadata_1_1Register.html#a3aa8f92fd19779dac868708c7cd356eb",
-"classdependency__graph_1_1io_1_1basic__json.html#aa4050680209c679b313a4a9324b36244",
-"classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#aeb934db8d194d0be39cb0df3989699aaa85cc1a37b0aaa52de40e72f0ed4e0c0d",
-"classnode__editor_1_1Port.html#a89eb0ab89012690aa157926f1393b03c",
-"classpossumwood_1_1ShaderEditor.html#a3073daed630270d919027c22f8d6f461",
-"dir_53adf0b982dc8545998aae3f283a5a58.html",
-"libs_2dependency__graph_2io_8h.html#a214ab1a19a0cc259bd721166b33ffb54",
-"structdependency__graph_1_1io_1_1detail_1_1conjunction.html",
-"tests_2possumwood_2undo__stack_8cpp.html#a60adaf37bfaea28a56f1fed4b3612ed8"
+"classanim_1_1SkinnedVertices_1_1Vertex.html#a9908f585da055c4002b94e7f7ab5286a",
+"classdependency__graph_1_1Metadata_1_1Register.html#a1f3fa84558ba226c50a1dc4bdf812d3d",
+"classdependency__graph_1_1io_1_1basic__json.html#aa2f8ab507157fed7a90a779f48073e0e",
+"classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#aeb934db8d194d0be39cb0df3989699aaa7d5b4427866814de4d8f132721d59c87",
+"classnode__editor_1_1Port.html#a884e334b938ac759d1809408233ebf7d",
+"classpossumwood_1_1Shader.html#a434c50223b8f23694117cc42e2203c32",
+"dir_3f8da47a9dbc62ab829c7c26a19cfae0.html",
+"libs_2dependency__graph_2datablock_8cpp.html",
+"structdependency__graph_1_1io_1_1adl__serializer_3_01Graph_01_4.html#a76a2090acf7c8e7b2e294e234fb5c68c",
+"tests_2anim_2transform_8cpp.html#a5e4a93597aca90635c848a53a1d47c60"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

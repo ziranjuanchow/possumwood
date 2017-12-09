@@ -8,6 +8,8 @@ var searchData=
   ['vbo_2eh',['vbo.h',['../datatypes_2vbo_8h.html',1,'']]],
   ['vbo_2eh',['vbo.h',['../ui_2vbo_8h.html',1,'']]],
   ['vbo_2einl',['vbo.inl',['../vbo_8inl.html',1,'']]],
+  ['vbo_5ftraits_2ecpp',['vbo_traits.cpp',['../vbo__traits_8cpp.html',1,'']]],
+  ['vbo_5ftraits_2eh',['vbo_traits.h',['../vbo__traits_8h.html',1,'']]],
   ['vec3_2ecpp',['vec3.cpp',['../nodes_2vec3_8cpp.html',1,'']]],
   ['vec3_2ecpp',['vec3.cpp',['../ui_2vec3_8cpp.html',1,'']]],
   ['vec3_2ecpp',['vec3.cpp',['../io_2vec3_8cpp.html',1,'']]],

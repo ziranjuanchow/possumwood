@@ -2,7 +2,7 @@ var searchData=
 [
   ['edge',['Edge',['../classnode__editor_1_1Edge.html',1,'node_editor']]],
   ['editor',['Editor',['../classpossumwood_1_1Editor.html',1,'possumwood']]],
-  ['element',['Element',['../classpossumwood_1_1Buffer_1_1Element.html',1,'possumwood::Buffer']]],
+  ['element',['Element',['../classpossumwood_1_1BufferBase_1_1Element.html',1,'possumwood::BufferBase']]],
   ['enum',['Enum',['../classpossumwood_1_1Enum.html',1,'possumwood']]],
   ['enum_5fui',['enum_ui',['../classenum__ui.html',1,'']]],
   ['exception',['exception',['../classdependency__graph_1_1io_1_1detail_1_1exception.html',1,'dependency_graph::io::detail']]],

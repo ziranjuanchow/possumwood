@@ -1,6 +1,7 @@
 <map id="src/plugins/render/datatypes/vbo.inl" name="src/plugins/render/datatypes/vbo.inl">
-<area shape="rect" id="node2" href="$datatypes_2vbo_8h.html" title="vbo.h" alt="" coords="195,96,249,123"/>
-<area shape="rect" id="node11" href="$glsl__traits_8h.html" title="glsl_traits.h" alt="" coords="503,96,592,123"/>
-<area shape="rect" id="node14" href="$buffer_8inl.html" title="buffer.inl" alt="" coords="37,96,109,123"/>
-<area shape="rect" id="node8" href="$buffer_8h.html" title="buffer.h" alt="" coords="15,171,81,197"/>
+<area shape="rect" id="node2" href="$datatypes_2vbo_8h.html" title="vbo.h" alt="" coords="269,96,323,123"/>
+<area shape="rect" id="node14" href="$glsl__traits_8h.html" title="glsl_traits.h" alt="" coords="678,171,767,197"/>
+<area shape="rect" id="node15" href="$buffer_8inl.html" title="buffer.inl" alt="" coords="112,96,184,123"/>
+<area shape="rect" id="node8" href="$buffer_8h.html" title="buffer.h" alt="" coords="55,171,121,197"/>
+<area shape="rect" id="node9" href="$vbo__traits_8h.html" title="vbo_traits.h" alt="" coords="475,171,565,197"/>
 </map>

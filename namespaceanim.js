@@ -11,6 +11,7 @@ var namespaceanim =
     [ "Skeleton", "classanim_1_1Skeleton.html", "classanim_1_1Skeleton" ],
     [ "SkinnedMesh", "classanim_1_1SkinnedMesh.html", "classanim_1_1SkinnedMesh" ],
     [ "SkinnedVertices", "classanim_1_1SkinnedVertices.html", "classanim_1_1SkinnedVertices" ],
+    [ "Skinning", "classanim_1_1Skinning.html", "classanim_1_1Skinning" ],
     [ "SubsetSelection", "classanim_1_1SubsetSelection.html", "classanim_1_1SubsetSelection" ],
     [ "Transform", "structanim_1_1Transform.html", "structanim_1_1Transform" ],
     [ "LexicalCastHelper", "structanim_1_1LexicalCastHelper.html", "structanim_1_1LexicalCastHelper" ],

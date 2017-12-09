@@ -2,8 +2,12 @@ var dir_45247237aeb05763094580f9720e856e =
 [
     [ "buffer.cpp", "buffer_8cpp.html", null ],
     [ "buffer.h", "buffer_8h.html", [
-      [ "Buffer", "classpossumwood_1_1Buffer.html", "classpossumwood_1_1Buffer" ],
-      [ "Element", "classpossumwood_1_1Buffer_1_1Element.html", "classpossumwood_1_1Buffer_1_1Element" ]
+      [ "BufferBase", "classpossumwood_1_1BufferBase.html", "classpossumwood_1_1BufferBase" ],
+      [ "Element", "classpossumwood_1_1BufferBase_1_1Element.html", "classpossumwood_1_1BufferBase_1_1Element" ],
+      [ "Buffer", "classpossumwood_1_1Buffer.html", null ],
+      [ "Buffer< float >", "classpossumwood_1_1Buffer_3_01float_01_4.html", "classpossumwood_1_1Buffer_3_01float_01_4" ],
+      [ "Buffer< double >", "classpossumwood_1_1Buffer_3_01double_01_4.html", "classpossumwood_1_1Buffer_3_01double_01_4" ],
+      [ "Buffer< int >", "classpossumwood_1_1Buffer_3_01int_01_4.html", "classpossumwood_1_1Buffer_3_01int_01_4" ]
     ] ],
     [ "buffer.inl", "buffer_8inl.html", null ],
     [ "glsl_traits.h", "glsl__traits_8h.html", [
@@ -53,6 +57,12 @@ var dir_45247237aeb05763094580f9720e856e =
       [ "VBO", "classpossumwood_1_1VBO.html", "classpossumwood_1_1VBO" ]
     ] ],
     [ "vbo.inl", "vbo_8inl.html", null ],
+    [ "vbo_traits.cpp", "vbo__traits_8cpp.html", null ],
+    [ "vbo_traits.h", "vbo__traits_8h.html", [
+      [ "VBOTraits", "structpossumwood_1_1VBOTraits.html", "structpossumwood_1_1VBOTraits" ],
+      [ "VBOTraits< std::array< T, WIDTH > >", "structpossumwood_1_1VBOTraits_3_01std_1_1array_3_01T_00_01WIDTH_01_4_01_4.html", "structpossumwood_1_1VBOTraits_3_01std_1_1array_3_01T_00_01WIDTH_01_4_01_4" ],
+      [ "VBOTraits< Imath::Vec3< T > >", "structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html", "structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4" ]
+    ] ],
     [ "vertex_data.cpp", "vertex__data_8cpp.html", null ],
     [ "vertex_data.h", "vertex__data_8h.html", [
       [ "VertexData", "classpossumwood_1_1VertexData.html", "classpossumwood_1_1VertexData" ],
