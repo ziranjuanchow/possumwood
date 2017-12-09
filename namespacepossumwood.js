@@ -36,6 +36,8 @@ var namespacepossumwood =
     [ "Buffer< float >", "classpossumwood_1_1Buffer_3_01float_01_4.html", "classpossumwood_1_1Buffer_3_01float_01_4" ],
     [ "Buffer< double >", "classpossumwood_1_1Buffer_3_01double_01_4.html", "classpossumwood_1_1Buffer_3_01double_01_4" ],
     [ "Buffer< int >", "classpossumwood_1_1Buffer_3_01int_01_4.html", "classpossumwood_1_1Buffer_3_01int_01_4" ],
+    [ "GLParameters", "classpossumwood_1_1GLParameters.html", "classpossumwood_1_1GLParameters" ],
+    [ "Traits< GLParameters >", "structpossumwood_1_1Traits_3_01GLParameters_01_4.html", "structpossumwood_1_1Traits_3_01GLParameters_01_4" ],
     [ "GLSLTraits", "structpossumwood_1_1GLSLTraits.html", null ],
     [ "GLSLTraits< float >", "structpossumwood_1_1GLSLTraits_3_01float_01_4.html", "structpossumwood_1_1GLSLTraits_3_01float_01_4" ],
     [ "GLSLTraits< double >", "structpossumwood_1_1GLSLTraits_3_01double_01_4.html", "structpossumwood_1_1GLSLTraits_3_01double_01_4" ],

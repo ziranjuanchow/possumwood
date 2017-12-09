@@ -1,9 +1,9 @@
 <map id="src/libs/possumwood_sdk/metadata.h" name="src/libs/possumwood_sdk/metadata.h">
-<area shape="rect" id="node2" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="1473,97,1625,138"/>
-<area shape="rect" id="node3" href="$possumwood__sdk_2metadata_8cpp.html" title="src/libs/possumwood\l_sdk/metadata.cpp" alt="" coords="1650,97,1795,138"/>
-<area shape="rect" id="node4" href="$possumwood__sdk_2metadata_8inl.html" title="src/libs/possumwood\l_sdk/metadata.inl" alt="" coords="1819,97,1964,138"/>
-<area shape="rect" id="node5" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="1701,187,1853,229"/>
-<area shape="rect" id="node6" href="$node__implementation_8h.html" title="src/libs/possumwood\l_sdk/node_implementation.h" alt="" coords="3737,187,3924,229"/>
+<area shape="rect" id="node2" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="1571,97,1724,138"/>
+<area shape="rect" id="node3" href="$possumwood__sdk_2metadata_8cpp.html" title="src/libs/possumwood\l_sdk/metadata.cpp" alt="" coords="1749,97,1893,138"/>
+<area shape="rect" id="node4" href="$possumwood__sdk_2metadata_8inl.html" title="src/libs/possumwood\l_sdk/metadata.inl" alt="" coords="1918,97,2063,138"/>
+<area shape="rect" id="node5" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="1799,187,1952,229"/>
+<area shape="rect" id="node6" href="$node__implementation_8h.html" title="src/libs/possumwood\l_sdk/node_implementation.h" alt="" coords="3935,187,4123,229"/>
 <area shape="rect" id="node14" href="$frame_2display_8cpp.html" title="src/plugins/anim/nodes\l/frame/display.cpp" alt="" coords="6,278,161,319"/>
 <area shape="rect" id="node7" href="$node__implementation_8cpp.html" title="src/libs/possumwood\l_sdk/node_implementation.cpp" alt="" coords="187,278,389,319"/>
 <area shape="rect" id="node8" href="$time_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/time.cpp" alt="" coords="414,278,559,319"/>
@@ -38,12 +38,14 @@
 <area shape="rect" id="node38" href="$nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="5850,278,6013,319"/>
 <area shape="rect" id="node39" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="6039,278,6164,319"/>
 <area shape="rect" id="node40" href="$fragment__shader_8cpp.html" title="src/plugins/render\l/nodes/fragment_shader.cpp" alt="" coords="6188,278,6375,319"/>
-<area shape="rect" id="node41" href="$load_8cpp.html" title="src/plugins/render\l/nodes/image/load.cpp" alt="" coords="6399,278,6552,319"/>
-<area shape="rect" id="node42" href="$nodes_2program_8cpp.html" title="src/plugins/render\l/nodes/program.cpp" alt="" coords="6577,278,6713,319"/>
-<area shape="rect" id="node43" href="$float_8cpp.html" title="src/plugins/render\l/nodes/uniforms/float.cpp" alt="" coords="6738,278,6907,319"/>
-<area shape="rect" id="node44" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/render\l/nodes/uniforms/texture.cpp" alt="" coords="6932,278,7116,319"/>
-<area shape="rect" id="node45" href="$plugins_2render_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/render\l/nodes/uniforms/viewport.cpp" alt="" coords="7141,278,7333,319"/>
-<area shape="rect" id="node46" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="7359,278,7588,319"/>
-<area shape="rect" id="node47" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="7612,278,7799,319"/>
-<area shape="rect" id="node48" href="$vertex__shader_8cpp.html" title="src/plugins/render\l/nodes/vertex_shader.cpp" alt="" coords="7823,278,7995,319"/>
+<area shape="rect" id="node41" href="$nodes_2gl__parameters_8cpp.html" title="src/plugins/render\l/nodes/gl_parameters.cpp" alt="" coords="6399,278,6571,319"/>
+<area shape="rect" id="node42" href="$load_8cpp.html" title="src/plugins/render\l/nodes/image/load.cpp" alt="" coords="6595,278,6748,319"/>
+<area shape="rect" id="node43" href="$nodes_2program_8cpp.html" title="src/plugins/render\l/nodes/program.cpp" alt="" coords="6773,278,6909,319"/>
+<area shape="rect" id="node44" href="$float_8cpp.html" title="src/plugins/render\l/nodes/uniforms/float.cpp" alt="" coords="6934,278,7103,319"/>
+<area shape="rect" id="node45" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/render\l/nodes/uniforms/texture.cpp" alt="" coords="7128,278,7312,319"/>
+<area shape="rect" id="node46" href="$plugins_2render_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/render\l/nodes/uniforms/viewport.cpp" alt="" coords="7337,278,7529,319"/>
+<area shape="rect" id="node47" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="7555,278,7784,319"/>
+<area shape="rect" id="node48" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="7808,278,7995,319"/>
+<area shape="rect" id="node49" href="$frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="8019,278,8213,319"/>
+<area shape="rect" id="node50" href="$vertex__shader_8cpp.html" title="src/plugins/render\l/nodes/vertex_shader.cpp" alt="" coords="8238,278,8409,319"/>
 </map>

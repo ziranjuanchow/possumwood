@@ -10,6 +10,11 @@ var dir_45247237aeb05763094580f9720e856e =
       [ "Buffer< int >", "classpossumwood_1_1Buffer_3_01int_01_4.html", "classpossumwood_1_1Buffer_3_01int_01_4" ]
     ] ],
     [ "buffer.inl", "buffer_8inl.html", null ],
+    [ "gl_parameters.cpp", "datatypes_2gl__parameters_8cpp.html", null ],
+    [ "gl_parameters.h", "gl__parameters_8h.html", [
+      [ "GLParameters", "classpossumwood_1_1GLParameters.html", "classpossumwood_1_1GLParameters" ],
+      [ "Traits< GLParameters >", "structpossumwood_1_1Traits_3_01GLParameters_01_4.html", "structpossumwood_1_1Traits_3_01GLParameters_01_4" ]
+    ] ],
     [ "glsl_traits.h", "glsl__traits_8h.html", [
       [ "GLSLTraits", "structpossumwood_1_1GLSLTraits.html", null ],
       [ "GLSLTraits< float >", "structpossumwood_1_1GLSLTraits_3_01float_01_4.html", "structpossumwood_1_1GLSLTraits_3_01float_01_4" ],

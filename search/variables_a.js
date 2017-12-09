@@ -79,6 +79,7 @@ var searchData=
   ['m_5fline',['m_line',['../classanim_1_1Tokenizer.html#a56501cfda8013499fe772c755817c0dd',1,'anim::Tokenizer']]],
   ['m_5flineedit',['m_lineEdit',['../classfilename__ui.html#a1d89ba4fb591f7cc2380aed312985afe',1,'filename_ui::m_lineEdit()'],['../classstring__ui.html#a1699a88409536a3545c59db4947d857b',1,'string_ui::m_lineEdit()']]],
   ['m_5flineeditconnection',['m_lineEditConnection',['../classfilename__ui.html#afd8f2a173750de3a320141d8f7215a44',1,'filename_ui::m_lineEditConnection()'],['../classstring__ui.html#ab22fef063da0215c213b1573400d45c8',1,'string_ui::m_lineEditConnection()']]],
+  ['m_5flinewidth',['m_lineWidth',['../classpossumwood_1_1GLParameters.html#a444869ad83fd53fcb00e563ccf4ca7f4',1,'possumwood::GLParameters']]],
   ['m_5flog',['m_log',['../classMainWindow.html#a80b9f000661d7bb6a61bdde4d1a327a8',1,'MainWindow']]],
   ['m_5fmainwindow',['m_mainWindow',['../classpossumwood_1_1App.html#adeab1ca1c4fda820747fa57de2bf817c',1,'possumwood::App']]],
   ['m_5fmapping',['m_mapping',['../classanim_1_1JointMappingEditorData.html#a607d65ff46a7ef5b55a763aca83f075f',1,'anim::JointMappingEditorData']]],
