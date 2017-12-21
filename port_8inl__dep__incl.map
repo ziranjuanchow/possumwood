@@ -46,6 +46,6 @@
 <area shape="rect" id="node41" href="$load_8cpp.html" title="src/plugins/render\l/nodes/image/load.cpp" alt="" coords="6594,187,6747,229"/>
 <area shape="rect" id="node42" href="$nodes_2program_8cpp.html" title="src/plugins/render\l/nodes/program.cpp" alt="" coords="6771,187,6908,229"/>
 <area shape="rect" id="node43" href="$float_8cpp.html" title="src/plugins/render\l/nodes/uniforms/float.cpp" alt="" coords="6933,187,7101,229"/>
-<area shape="rect" id="node44" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/render\l/nodes/uniforms/texture.cpp" alt="" coords="7127,187,7311,229"/>
-<area shape="rect" id="node45" href="$plugins_2render_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/render\l/nodes/uniforms/viewport.cpp" alt="" coords="7335,187,7528,229"/>
+<area shape="rect" id="node44" href="$uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="7126,187,7303,229"/>
+<area shape="rect" id="node45" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/render\l/nodes/uniforms/texture.cpp" alt="" coords="7328,187,7512,229"/>
 </map>

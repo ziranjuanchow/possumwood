@@ -14,7 +14,7 @@ var searchData=
   ['vbocount',['vboCount',['../classpossumwood_1_1VertexData.html#a6980fe748615ce0704ba4ec91b4b6886',1,'possumwood::VertexData']]],
   ['vec3_5fui',['vec3_ui',['../classvec3__ui.html#a240c6883263b55ea6ecc5ad9436d681d',1,'vec3_ui']]],
   ['vertex',['Vertex',['../classanim_1_1SkinnedVertices_1_1Vertex.html#a31f43f9056d8d9b711bdcd42698eb212',1,'anim::SkinnedVertices::Vertex']]],
-  ['vertexcount',['vertexCount',['../classpossumwood_1_1BufferBase.html#a38e91d50f2c16c76d858f2ef247e681a',1,'possumwood::BufferBase']]],
+  ['vertexcount',['vertexCount',['../classpossumwood_1_1BufferTemplated.html#ac43292516e9d42b3b034740ad1a4a55c',1,'possumwood::BufferTemplated']]],
   ['vertexdata',['VertexData',['../classpossumwood_1_1VertexData.html#ad01ebe326f620de86b7decc25afce692',1,'possumwood::VertexData']]],
   ['vertexshader',['VertexShader',['../classpossumwood_1_1VertexShader.html#a4debb5f9395a76c3b63424f7cdf1e0ca',1,'possumwood::VertexShader']]],
   ['vertices',['vertices',['../classanim_1_1SkinnedMesh.html#a619981cef5066bedca028cdc1747455c',1,'anim::SkinnedMesh::vertices()'],['../classanim_1_1SkinnedMesh.html#a9370c72a1e8c5a21cb8b0a90137b0804',1,'anim::SkinnedMesh::vertices() const ']]],

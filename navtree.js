@@ -49,11 +49,11 @@ var NAVTREEINDEX =
 "classdependency__graph_1_1io_1_1basic__json.html#aa2f8ab507157fed7a90a779f48073e0e",
 "classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#aeb934db8d194d0be39cb0df3989699aaa7d5b4427866814de4d8f132721d59c87",
 "classnode__editor_1_1Port.html#a884e334b938ac759d1809408233ebf7d",
-"classpossumwood_1_1Program.html#a6be29c0cd1b08662c1a1816800663e88",
-"dir_21f4b32d98066d7d12f98361b8c3e15c.html",
-"json_8h.html#acf3c831f2a1cda7411ce21c2ec19ade5",
-"structdependency__graph_1_1Metadata_1_1Comparator.html",
-"tests_2anim_2skeleton_8cpp.html#a019c16a02661145ebed87b64f62cc8e8"
+"classpossumwood_1_1NodeData.html#aded1c93ebd267595fd26e0845605880a",
+"dir_068c6f471759ddb0d8325b8ee9e22bb1.html",
+"json_8h.html#acba6255278862e5d5eb35bc24f283d79af1f713c9e000f5d3f280adbd124df4f5",
+"structdependency__graph_1_1DataTraits.html#aa1c7820c3a1bfb11b018695afc559318",
+"tests_2anim_2skeleton_8cpp.html#a1a1944395bcd2cac55a3de913ae446c9"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

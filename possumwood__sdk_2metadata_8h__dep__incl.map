@@ -42,10 +42,10 @@
 <area shape="rect" id="node42" href="$load_8cpp.html" title="src/plugins/render\l/nodes/image/load.cpp" alt="" coords="6595,278,6748,319"/>
 <area shape="rect" id="node43" href="$nodes_2program_8cpp.html" title="src/plugins/render\l/nodes/program.cpp" alt="" coords="6773,278,6909,319"/>
 <area shape="rect" id="node44" href="$float_8cpp.html" title="src/plugins/render\l/nodes/uniforms/float.cpp" alt="" coords="6934,278,7103,319"/>
-<area shape="rect" id="node45" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/render\l/nodes/uniforms/texture.cpp" alt="" coords="7128,278,7312,319"/>
-<area shape="rect" id="node46" href="$plugins_2render_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/render\l/nodes/uniforms/viewport.cpp" alt="" coords="7337,278,7529,319"/>
-<area shape="rect" id="node47" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="7555,278,7784,319"/>
-<area shape="rect" id="node48" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="7808,278,7995,319"/>
-<area shape="rect" id="node49" href="$frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="8019,278,8213,319"/>
-<area shape="rect" id="node50" href="$vertex__shader_8cpp.html" title="src/plugins/render\l/nodes/vertex_shader.cpp" alt="" coords="8238,278,8409,319"/>
+<area shape="rect" id="node45" href="$uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="7127,278,7304,319"/>
+<area shape="rect" id="node46" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/render\l/nodes/uniforms/texture.cpp" alt="" coords="7329,278,7513,319"/>
+<area shape="rect" id="node47" href="$plugins_2render_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/render\l/nodes/uniforms/viewport.cpp" alt="" coords="7538,278,7731,319"/>
+<area shape="rect" id="node48" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="7756,278,7985,319"/>
+<area shape="rect" id="node49" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="8009,278,8196,319"/>
+<area shape="rect" id="node50" href="$vertex__data_2frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="8220,278,8415,319"/>
 </map>

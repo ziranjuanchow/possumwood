@@ -1,13 +1,13 @@
 <map id="src/plugins/render/datatypes/uniforms.inl" name="src/plugins/render/datatypes/uniforms.inl">
-<area shape="rect" id="node2" href="$datatypes_2uniforms_8h.html" title="uniforms.h" alt="" coords="1841,96,1923,123"/>
-<area shape="rect" id="node44" href="$glsl__traits_8h.html" title="glsl_traits.h" alt="" coords="2151,96,2240,123"/>
-<area shape="rect" id="node10" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1396,320,1567,347"/>
-<area shape="rect" id="node42" href="$texture_8h.html" title="texture.h" alt="" coords="1803,171,1876,197"/>
-<area shape="rect" id="node12" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1042,544,1203,571"/>
-<area shape="rect" id="node14" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="1460,395,1503,421"/>
-<area shape="rect" id="node15" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1393,469,1569,496"/>
-<area shape="rect" id="node16" href="$data_8h.html" title="data.h" alt="" coords="1512,544,1569,571"/>
-<area shape="rect" id="node40" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1393,544,1487,571"/>
-<area shape="rect" id="node18" href="$json_8h.html" title="io/json.h" alt="" coords="1139,619,1209,645"/>
-<area shape="rect" id="node43" href="$datatypes_2pixmap_8h.html" title="pixmap.h" alt="" coords="1803,245,1876,272"/>
+<area shape="rect" id="node2" href="$datatypes_2uniforms_8h.html" title="uniforms.h" alt="" coords="1093,96,1175,123"/>
+<area shape="rect" id="node44" href="$glsl__traits_8h.html" title="glsl_traits.h" alt="" coords="2077,96,2165,123"/>
+<area shape="rect" id="node10" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="820,320,991,347"/>
+<area shape="rect" id="node42" href="$texture_8h.html" title="texture.h" alt="" coords="1135,171,1208,197"/>
+<area shape="rect" id="node12" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="242,544,403,571"/>
+<area shape="rect" id="node14" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="631,395,673,421"/>
+<area shape="rect" id="node15" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="659,469,836,496"/>
+<area shape="rect" id="node16" href="$data_8h.html" title="data.h" alt="" coords="719,544,776,571"/>
+<area shape="rect" id="node40" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="599,544,693,571"/>
+<area shape="rect" id="node18" href="$json_8h.html" title="io/json.h" alt="" coords="1022,619,1092,645"/>
+<area shape="rect" id="node43" href="$datatypes_2pixmap_8h.html" title="pixmap.h" alt="" coords="1204,245,1277,272"/>
 </map>

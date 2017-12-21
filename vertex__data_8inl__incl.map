@@ -1,16 +1,16 @@
 <map id="src/plugins/render/datatypes/vertex_data.inl" name="src/plugins/render/datatypes/vertex_data.inl">
-<area shape="rect" id="node2" href="$vertex__data_8h.html" title="vertex_data.h" alt="" coords="1941,96,2043,123"/>
-<area shape="rect" id="node45" href="$vbo_8inl.html" title="vbo.inl" alt="" coords="2323,320,2383,347"/>
-<area shape="rect" id="node6" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1495,171,1665,197"/>
-<area shape="rect" id="node39" href="$datatypes_2vbo_8h.html" title="vbo.h" alt="" coords="2190,395,2244,421"/>
-<area shape="rect" id="node42" href="$buffer_8h.html" title="buffer.h" alt="" coords="2325,469,2392,496"/>
-<area shape="rect" id="node8" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1539,395,1700,421"/>
-<area shape="rect" id="node11" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="1515,245,1557,272"/>
-<area shape="rect" id="node12" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1405,320,1581,347"/>
-<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="1457,395,1515,421"/>
-<area shape="rect" id="node37" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1338,395,1432,421"/>
-<area shape="rect" id="node14" href="$json_8h.html" title="io/json.h" alt="" coords="1206,469,1276,496"/>
-<area shape="rect" id="node43" href="$vbo__traits_8h.html" title="vbo_traits.h" alt="" coords="2467,469,2557,496"/>
-<area shape="rect" id="node46" href="$glsl__traits_8h.html" title="glsl_traits.h" alt="" coords="2582,469,2671,496"/>
-<area shape="rect" id="node47" href="$buffer_8inl.html" title="buffer.inl" alt="" coords="2320,395,2392,421"/>
+<area shape="rect" id="node2" href="$vertex__data_8h.html" title="vertex_data.h" alt="" coords="1927,96,2028,123"/>
+<area shape="rect" id="node45" href="$vbo_8inl.html" title="vbo.inl" alt="" coords="2309,320,2368,347"/>
+<area shape="rect" id="node6" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1544,171,1715,197"/>
+<area shape="rect" id="node39" href="$datatypes_2vbo_8h.html" title="vbo.h" alt="" coords="2175,395,2229,421"/>
+<area shape="rect" id="node42" href="$buffer_8h.html" title="buffer.h" alt="" coords="2311,469,2377,496"/>
+<area shape="rect" id="node8" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1525,395,1685,421"/>
+<area shape="rect" id="node11" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="1521,245,1564,272"/>
+<area shape="rect" id="node12" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1390,320,1567,347"/>
+<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="1443,395,1500,421"/>
+<area shape="rect" id="node37" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1323,395,1417,421"/>
+<area shape="rect" id="node14" href="$json_8h.html" title="io/json.h" alt="" coords="1171,469,1241,496"/>
+<area shape="rect" id="node43" href="$vbo__traits_8h.html" title="vbo_traits.h" alt="" coords="2452,469,2543,496"/>
+<area shape="rect" id="node46" href="$glsl__traits_8h.html" title="glsl_traits.h" alt="" coords="2567,469,2656,496"/>
+<area shape="rect" id="node48" href="$buffer_8inl.html" title="buffer.inl" alt="" coords="2305,395,2377,421"/>
 </map>

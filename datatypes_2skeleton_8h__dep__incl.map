@@ -16,8 +16,9 @@
 <area shape="rect" id="node30" href="$skin_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin.cpp" alt="" coords="3315,97,3471,138"/>
 <area shape="rect" id="node31" href="$skin__remap__regex_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap_regex.cpp" alt="" coords="3495,97,3688,138"/>
 <area shape="rect" id="node32" href="$ui_2skeleton_8h.html" title="src/plugins/anim/ui\l/skeleton.h" alt="" coords="3713,97,3843,138"/>
-<area shape="rect" id="node34" href="$frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="3868,97,4063,138"/>
-<area shape="rect" id="node35" href="$tests_2anim_2skeleton_8cpp.html" title="src/tests/anim/skeleton.cpp" alt="" coords="4087,104,4269,131"/>
+<area shape="rect" id="node34" href="$uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="3869,97,4045,138"/>
+<area shape="rect" id="node35" href="$vertex__data_2frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="4071,97,4265,138"/>
+<area shape="rect" id="node36" href="$tests_2anim_2skeleton_8cpp.html" title="src/tests/anim/skeleton.cpp" alt="" coords="4290,104,4472,131"/>
 <area shape="rect" id="node4" href="$retime_8cpp.html" title="src/plugins/anim/nodes\l/animation/retime.cpp" alt="" coords="785,187,940,229"/>
 <area shape="rect" id="node5" href="$plugins_2anim_2nodes_2animation_2transform_8cpp.html" title="src/plugins/anim/nodes\l/animation/transform.cpp" alt="" coords="27,187,193,229"/>
 <area shape="rect" id="node7" href="$edit_8cpp.html" title="src/plugins/anim/nodes\l/frame/edit.cpp" alt="" coords="1218,187,1373,229"/>

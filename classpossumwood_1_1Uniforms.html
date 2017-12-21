@@ -119,6 +119,10 @@ $(document).ready(function(){initNavTree('classpossumwood_1_1Uniforms.html','');
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1Uniforms_1_1Data.html">Data</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1Uniforms_1_1DataBase.html">DataBase</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1Uniforms_1_1TextureHolder.html">TextureHolder</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1Uniforms_1_1UniformHolder.html">UniformHolder</a></td></tr>
@@ -137,9 +141,9 @@ Public Types</h2></td></tr>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a52fe626a3fcc65f73f5f0668936ac2e3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#a52fe626a3fcc65f73f5f0668936ac2e3">Uniforms</a> ()</td></tr>
 <tr class="separator:a52fe626a3fcc65f73f5f0668936ac2e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa6830bc5d884e53633630b0642b138a1"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:aa6830bc5d884e53633630b0642b138a1"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#aa6830bc5d884e53633630b0642b138a1">addUniform</a> (const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, const <a class="el" href="classpossumwood_1_1Uniforms.html#af1b9fa612b41f59d28c7318421413f0e">UpdateType</a> &amp;updateType, std::function&lt; T()&gt; updateFunctor)</td></tr>
-<tr class="separator:aa6830bc5d884e53633630b0642b138a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa790227f34a1d80bf091607ad9d0455c"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:aa790227f34a1d80bf091607ad9d0455c"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#aa790227f34a1d80bf091607ad9d0455c">addUniform</a> (const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, std::size_t <a class="el" href="classpossumwood_1_1Uniforms.html#a83bcef8c4e43d8c98498809b5065cb6d">size</a>, const <a class="el" href="classpossumwood_1_1Uniforms.html#af1b9fa612b41f59d28c7318421413f0e">UpdateType</a> &amp;updateType, std::function&lt; void(T *, std::size_t)&gt; updateFunctor)</td></tr>
+<tr class="separator:aa790227f34a1d80bf091607ad9d0455c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a235587485e8bd0a0fce2f228c57a3482"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#a235587485e8bd0a0fce2f228c57a3482">addTexture</a> (const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, const QPixmap &amp;pixmap)</td></tr>
 <tr class="separator:a235587485e8bd0a0fce2f228c57a3482"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:affa78217d4bf25437f1d162808ea5621"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#affa78217d4bf25437f1d162808ea5621">use</a> (GLuint programId) const </td></tr>
@@ -226,7 +230,7 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="aa6830bc5d884e53633630b0642b138a1"></a>
+<a class="anchor" id="aa790227f34a1d80bf091607ad9d0455c"></a>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
@@ -241,13 +245,19 @@ template&lt;typename T &gt; </div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>size</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
           <td class="paramtype">const <a class="el" href="classpossumwood_1_1Uniforms.html#af1b9fa612b41f59d28c7318421413f0e">UpdateType</a> &amp;&#160;</td>
           <td class="paramname"><em>updateType</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::function&lt; T()&gt;&#160;</td>
+          <td class="paramtype">std::function&lt; void(T *, std::size_t)&gt;&#160;</td>
           <td class="paramname"><em>updateFunctor</em>&#160;</td>
         </tr>
         <tr>
@@ -382,7 +392,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1Uniforms.html">Uniforms</a></li>
-    <li class="footer">Generated on Sat Dec 9 2017 19:59:40 for possumwood by
+    <li class="footer">Generated on Thu Dec 21 2017 01:51:56 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

@@ -3,7 +3,7 @@ var searchData=
   ['edge',['Edge',['../classnode__editor_1_1Edge.html#a63e6e10757fa35c2ebef45a24420221c',1,'node_editor::Edge::Edge()'],['../classnode__editor_1_1GraphScene.html#af896695e091ae99d3d08084ae951219d',1,'node_editor::GraphScene::edge(unsigned index)'],['../classnode__editor_1_1GraphScene.html#afe07691e9db79cadd72d2c0b9806481b',1,'node_editor::GraphScene::edge(unsigned index) const ']]],
   ['edgecount',['edgeCount',['../classnode__editor_1_1GraphScene.html#ae5053a01c065b6ae267081511b100c6d',1,'node_editor::GraphScene']]],
   ['editor',['Editor',['../classpossumwood_1_1Editor.html#afd62f15eded4b9ce229967bdbf3118de',1,'possumwood::Editor']]],
-  ['element',['element',['../classpossumwood_1_1BufferBase.html#a761eb7faf2b0d41cb5d3151c42ede8f3',1,'possumwood::BufferBase::element()'],['../classpossumwood_1_1BufferBase_1_1Element.html#a8cf528cefddf98cd000b3c117934f17a',1,'possumwood::BufferBase::Element::Element()']]],
+  ['element',['element',['../classpossumwood_1_1BufferTemplated.html#a353ddc7a885f0b9053385667dab70b92',1,'possumwood::BufferTemplated::element()'],['../classpossumwood_1_1BufferTemplated_1_1Element.html#a7d29f858776d86c70a88e3fe2e5ca39b',1,'possumwood::BufferTemplated::Element::Element()']]],
   ['emit',['emit',['../classanim_1_1Tokenizer.html#a0435f1b767394a298fbc383646a34bcb',1,'anim::Tokenizer']]],
   ['emplace',['emplace',['../classdependency__graph_1_1io_1_1basic__json.html#ad6f684771f96403328bb90dfacfebe07',1,'dependency_graph::io::basic_json']]],
   ['emplace_5fback',['emplace_back',['../classdependency__graph_1_1io_1_1basic__json.html#a5fecfe7bae75b7c7b091355d58b9ea03',1,'dependency_graph::io::basic_json']]],

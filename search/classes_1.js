@@ -10,7 +10,8 @@ var searchData=
   ['buffer_3c_20float_20_3e',['Buffer&lt; float &gt;',['../classpossumwood_1_1Buffer_3_01float_01_4.html',1,'possumwood']]],
   ['buffer_3c_20int_20_3e',['Buffer&lt; int &gt;',['../classpossumwood_1_1Buffer_3_01int_01_4.html',1,'possumwood']]],
   ['bufferbase',['BufferBase',['../classpossumwood_1_1BufferBase.html',1,'possumwood']]],
-  ['bufferbase_3c_20double_20_3e',['BufferBase&lt; double &gt;',['../classpossumwood_1_1BufferBase.html',1,'possumwood']]],
-  ['bufferbase_3c_20float_20_3e',['BufferBase&lt; float &gt;',['../classpossumwood_1_1BufferBase.html',1,'possumwood']]],
-  ['bufferbase_3c_20int_20_3e',['BufferBase&lt; int &gt;',['../classpossumwood_1_1BufferBase.html',1,'possumwood']]]
+  ['buffertemplated',['BufferTemplated',['../classpossumwood_1_1BufferTemplated.html',1,'possumwood']]],
+  ['buffertemplated_3c_20double_20_3e',['BufferTemplated&lt; double &gt;',['../classpossumwood_1_1BufferTemplated.html',1,'possumwood']]],
+  ['buffertemplated_3c_20float_20_3e',['BufferTemplated&lt; float &gt;',['../classpossumwood_1_1BufferTemplated.html',1,'possumwood']]],
+  ['buffertemplated_3c_20int_20_3e',['BufferTemplated&lt; int &gt;',['../classpossumwood_1_1BufferTemplated.html',1,'possumwood']]]
 ];

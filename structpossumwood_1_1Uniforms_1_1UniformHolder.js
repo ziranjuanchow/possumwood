@@ -1,9 +1,12 @@
 var structpossumwood_1_1Uniforms_1_1UniformHolder =
 [
-    [ "data", "structpossumwood_1_1Uniforms_1_1UniformHolder.html#ab09bd07c140045653857d80b84d725de", null ],
+    [ "UniformHolder", "structpossumwood_1_1Uniforms_1_1UniformHolder.html#a6126587ba9a55f3a131b3b73a43f66bb", null ],
+    [ "UniformHolder", "structpossumwood_1_1Uniforms_1_1UniformHolder.html#ae4e70efa4a9798ebcca247339a8d0ac0", null ],
+    [ "UniformHolder", "structpossumwood_1_1Uniforms_1_1UniformHolder.html#a4f7a40a176d5fd260f75c53596e42a8c", null ],
+    [ "data", "structpossumwood_1_1Uniforms_1_1UniformHolder.html#a40a829e8536838b756c50a5b4f09b10b", null ],
     [ "glslType", "structpossumwood_1_1Uniforms_1_1UniformHolder.html#ae26596ad855a39f65b5652b257b908db", null ],
     [ "name", "structpossumwood_1_1Uniforms_1_1UniformHolder.html#a9f2255c056556395f0bfed47c71eb7ad", null ],
-    [ "updateFunctor", "structpossumwood_1_1Uniforms_1_1UniformHolder.html#a4ccfdf3d86a218c973771963aa8efc31", null ],
+    [ "updateFunctor", "structpossumwood_1_1Uniforms_1_1UniformHolder.html#a34bbac34f1c53dc07787c40c829a1bbd", null ],
     [ "updateType", "structpossumwood_1_1Uniforms_1_1UniformHolder.html#a1ab7fe892597c6123afe018225c1deea", null ],
-    [ "useFunctor", "structpossumwood_1_1Uniforms_1_1UniformHolder.html#a17f70b2298eee0b11633049d63407e0f", null ]
+    [ "useFunctor", "structpossumwood_1_1Uniforms_1_1UniformHolder.html#ad81211d8c9601676bcc316691ec83384", null ]
 ];

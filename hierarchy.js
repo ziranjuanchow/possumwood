@@ -28,9 +28,12 @@ var hierarchy =
     [ "anim::Children< JOINT, CONTAINER >", "classanim_1_1Children.html", null ],
     [ "dependency_graph::Metadata::Comparator", "structdependency__graph_1_1Metadata_1_1Comparator.html", null ],
     [ "dependency_graph::Selection::Connection", "structdependency__graph_1_1Selection_1_1Connection.html", null ],
+    [ "possumwood::Uniforms::DataBase", "structpossumwood_1_1Uniforms_1_1DataBase.html", [
+      [ "possumwood::Uniforms::Data< T >", "structpossumwood_1_1Uniforms_1_1Data.html", null ]
+    ] ],
     [ "dependency_graph::Datablock", "classdependency__graph_1_1Datablock.html", null ],
     [ "dependency_graph::DataTraits< T >", "structdependency__graph_1_1DataTraits.html", null ],
-    [ "possumwood::BufferBase< T >::Element", "classpossumwood_1_1BufferBase_1_1Element.html", null ],
+    [ "possumwood::BufferTemplated< T >::Element", "classpossumwood_1_1BufferTemplated_1_1Element.html", null ],
     [ "possumwood::Enum", "classpossumwood_1_1Enum.html", null ],
     [ "exception", null, [
       [ "dependency_graph::io::detail::exception", "classdependency__graph_1_1io_1_1detail_1_1exception.html", [
@@ -61,14 +64,10 @@ var hierarchy =
     [ "possumwood::GLSLTraits< T >", "structpossumwood_1_1GLSLTraits.html", null ],
     [ "possumwood::GLSLTraits< double >", "structpossumwood_1_1GLSLTraits_3_01double_01_4.html", null ],
     [ "possumwood::GLSLTraits< float >", "structpossumwood_1_1GLSLTraits_3_01float_01_4.html", null ],
-    [ "possumwood::GLSLTraits< Imath::V2d >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V2d_01_4.html", null ],
-    [ "possumwood::GLSLTraits< Imath::V2f >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V2f_01_4.html", null ],
-    [ "possumwood::GLSLTraits< Imath::V3d >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3d_01_4.html", null ],
-    [ "possumwood::GLSLTraits< Imath::V3f >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3f_01_4.html", null ],
-    [ "possumwood::GLSLTraits< std::array< double, 16 > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_0116_01_4_01_4.html", null ],
-    [ "possumwood::GLSLTraits< std::array< double, WIDTH > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_01WIDTH_01_4_01_4.html", null ],
-    [ "possumwood::GLSLTraits< std::array< float, 16 > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_0116_01_4_01_4.html", null ],
-    [ "possumwood::GLSLTraits< std::array< float, WIDTH > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_01WIDTH_01_4_01_4.html", null ],
+    [ "possumwood::GLSLTraits< Imath::Matrix44< T > >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Matrix44_3_01T_01_4_01_4.html", null ],
+    [ "possumwood::GLSLTraits< Imath::Vec2< T > >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html", null ],
+    [ "possumwood::GLSLTraits< Imath::Vec3< T > >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html", null ],
+    [ "possumwood::GLSLTraits< std::vector< Imath::Matrix44< T > > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1vector_3_01Imath_1_1Matrix44_3_01T_01_4_01_4_01_4.html", null ],
     [ "dependency_graph::io::detail::has_from_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__from__json.html", null ],
     [ "dependency_graph::io::detail::has_non_default_from_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__non__default__from__json.html", null ],
     [ "dependency_graph::io::detail::has_to_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__to__json.html", null ],
@@ -120,15 +119,6 @@ var hierarchy =
       ] ],
       [ "anim::Tokenizer", "classanim_1_1Tokenizer.html", null ],
       [ "anim::Tokenizer::State", "classanim_1_1Tokenizer_1_1State.html", null ],
-      [ "possumwood::BufferBase< double >", "classpossumwood_1_1BufferBase.html", [
-        [ "possumwood::Buffer< double >", "classpossumwood_1_1Buffer_3_01double_01_4.html", null ]
-      ] ],
-      [ "possumwood::BufferBase< float >", "classpossumwood_1_1BufferBase.html", [
-        [ "possumwood::Buffer< float >", "classpossumwood_1_1Buffer_3_01float_01_4.html", null ]
-      ] ],
-      [ "possumwood::BufferBase< int >", "classpossumwood_1_1BufferBase.html", [
-        [ "possumwood::Buffer< int >", "classpossumwood_1_1Buffer_3_01int_01_4.html", null ]
-      ] ],
       [ "dependency_graph::Graph", "classdependency__graph_1_1Graph.html", null ],
       [ "dependency_graph::Graph::Connections", "classdependency__graph_1_1Graph_1_1Connections.html", null ],
       [ "dependency_graph::Graph::Nodes", "classdependency__graph_1_1Graph_1_1Nodes.html", null ],
@@ -137,7 +127,18 @@ var hierarchy =
       [ "dependency_graph::Port", "classdependency__graph_1_1Port.html", null ],
       [ "dependency_graph::Values", "classdependency__graph_1_1Values.html", null ],
       [ "possumwood::App", "classpossumwood_1_1App.html", null ],
-      [ "possumwood::BufferBase< T >", "classpossumwood_1_1BufferBase.html", null ],
+      [ "possumwood::BufferBase", "classpossumwood_1_1BufferBase.html", [
+        [ "possumwood::BufferTemplated< double >", "classpossumwood_1_1BufferTemplated.html", [
+          [ "possumwood::Buffer< double >", "classpossumwood_1_1Buffer_3_01double_01_4.html", null ]
+        ] ],
+        [ "possumwood::BufferTemplated< float >", "classpossumwood_1_1BufferTemplated.html", [
+          [ "possumwood::Buffer< float >", "classpossumwood_1_1Buffer_3_01float_01_4.html", null ]
+        ] ],
+        [ "possumwood::BufferTemplated< int >", "classpossumwood_1_1BufferTemplated.html", [
+          [ "possumwood::Buffer< int >", "classpossumwood_1_1Buffer_3_01int_01_4.html", null ]
+        ] ],
+        [ "possumwood::BufferTemplated< T >", "classpossumwood_1_1BufferTemplated.html", null ]
+      ] ],
       [ "possumwood::Config", "classpossumwood_1_1Config.html", null ],
       [ "possumwood::Drawable", "classpossumwood_1_1Drawable.html", [
         [ "possumwood::DrawableFunctor", "classpossumwood_1_1DrawableFunctor.html", null ]

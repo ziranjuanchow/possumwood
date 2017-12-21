@@ -122,11 +122,17 @@ Static Public Member Functions</h2></td></tr>
 <tr class="separator:a22e21dd80acd45624de2587979d94869"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2dcf077ebe071822f7d4b17ff31ed4cc"><td class="memItemLeft" align="right" valign="top">static constexpr const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1GLSLTraits_3_01float_01_4.html#a2dcf077ebe071822f7d4b17ff31ed4cc">typeString</a> ()</td></tr>
 <tr class="separator:a2dcf077ebe071822f7d4b17ff31ed4cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa17a893ed5b6daf05b06f934f73d8ff5"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1GLSLTraits_3_01float_01_4.html#aa17a893ed5b6daf05b06f934f73d8ff5">applyUniform</a> (GLint attr, const float &amp;val)</td></tr>
-<tr class="separator:aa17a893ed5b6daf05b06f934f73d8ff5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a761bf7ff649ab817da49647e1ef99519"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1GLSLTraits_3_01float_01_4.html#a761bf7ff649ab817da49647e1ef99519">applyUniform</a> (GLint attr, std::size_t size, const float *val)</td></tr>
+<tr class="separator:a761bf7ff649ab817da49647e1ef99519"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae09f6bb51382907aee911f35778fe360"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1GLSLTraits_3_01float_01_4.html#ae09f6bb51382907aee911f35778fe360">applyUniformVec2</a> (GLint attr, std::size_t size, const float *val)</td></tr>
+<tr class="separator:ae09f6bb51382907aee911f35778fe360"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf5b98843e298bccc3192fbf50cffcd1"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1GLSLTraits_3_01float_01_4.html#aaf5b98843e298bccc3192fbf50cffcd1">applyUniformVec3</a> (GLint attr, std::size_t size, const float *val)</td></tr>
+<tr class="separator:aaf5b98843e298bccc3192fbf50cffcd1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a132fc586b323b0ffda3561b7194c1d03"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1GLSLTraits_3_01float_01_4.html#a132fc586b323b0ffda3561b7194c1d03">applyUniformMat4</a> (GLint attr, std::size_t size, const float *val)</td></tr>
+<tr class="separator:a132fc586b323b0ffda3561b7194c1d03"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a class="anchor" id="aa17a893ed5b6daf05b06f934f73d8ff5"></a>
+<a class="anchor" id="a761bf7ff649ab817da49647e1ef99519"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -142,7 +148,133 @@ Static Public Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const float &amp;&#160;</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>size</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const float *&#160;</td>
+          <td class="paramname"><em>val</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a132fc586b323b0ffda3561b7194c1d03"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void <a class="el" href="structpossumwood_1_1GLSLTraits.html">possumwood::GLSLTraits</a>&lt; float &gt;::applyUniformMat4 </td>
+          <td>(</td>
+          <td class="paramtype">GLint&#160;</td>
+          <td class="paramname"><em>attr</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>size</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const float *&#160;</td>
+          <td class="paramname"><em>val</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="ae09f6bb51382907aee911f35778fe360"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void <a class="el" href="structpossumwood_1_1GLSLTraits.html">possumwood::GLSLTraits</a>&lt; float &gt;::applyUniformVec2 </td>
+          <td>(</td>
+          <td class="paramtype">GLint&#160;</td>
+          <td class="paramname"><em>attr</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>size</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const float *&#160;</td>
+          <td class="paramname"><em>val</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="aaf5b98843e298bccc3192fbf50cffcd1"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void <a class="el" href="structpossumwood_1_1GLSLTraits.html">possumwood::GLSLTraits</a>&lt; float &gt;::applyUniformVec3 </td>
+          <td>(</td>
+          <td class="paramtype">GLint&#160;</td>
+          <td class="paramname"><em>attr</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>size</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const float *&#160;</td>
           <td class="paramname"><em>val</em>&#160;</td>
         </tr>
         <tr>
@@ -238,7 +370,7 @@ Static Public Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="structpossumwood_1_1GLSLTraits_3_01float_01_4.html">GLSLTraits< float ></a></li>
-    <li class="footer">Generated on Sat Dec 9 2017 19:59:40 for possumwood by
+    <li class="footer">Generated on Thu Dec 21 2017 01:51:56 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

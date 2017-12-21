@@ -1,6 +1,6 @@
 <map id="MeshSubsetEditor" name="MeshSubsetEditor">
-<area shape="rect" id="node2" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; anim::SubsetSelection,\l MeshSubsetEditor \&gt;" alt="" coords="848,21,1072,77"/>
-<area shape="rect" id="node3" href="$classpossumwood_1_1properties_1_1property__base.html" title="possumwood::properties\l::property_base" alt="" coords="342,5,506,46"/>
-<area shape="rect" id="node6" href="$classpossumwood_1_1properties_1_1factory.html" title="possumwood::properties\l::factory" alt="" coords="153,63,317,105"/>
-<area shape="rect" id="node5" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; MeshSubsetEditor \&gt;" alt="" coords="531,63,771,105"/>
+<area shape="rect" id="node2" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; anim::SubsetSelection,\l MeshSubsetEditor \&gt;" alt="" coords="685,27,909,83"/>
+<area shape="rect" id="node3" href="$classpossumwood_1_1properties_1_1property__base.html" title="possumwood::properties\l::property_base" alt="" coords="406,5,570,46"/>
+<area shape="rect" id="node5" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; MeshSubsetEditor \&gt;" alt="" coords="368,70,608,111"/>
+<area shape="rect" id="node6" href="$classpossumwood_1_1properties_1_1factory.html" title="possumwood::properties\l::factory" alt="" coords="153,70,317,111"/>
 </map>

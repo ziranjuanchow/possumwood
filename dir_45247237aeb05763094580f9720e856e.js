@@ -3,7 +3,8 @@ var dir_45247237aeb05763094580f9720e856e =
     [ "buffer.cpp", "buffer_8cpp.html", null ],
     [ "buffer.h", "buffer_8h.html", [
       [ "BufferBase", "classpossumwood_1_1BufferBase.html", "classpossumwood_1_1BufferBase" ],
-      [ "Element", "classpossumwood_1_1BufferBase_1_1Element.html", "classpossumwood_1_1BufferBase_1_1Element" ],
+      [ "BufferTemplated", "classpossumwood_1_1BufferTemplated.html", "classpossumwood_1_1BufferTemplated" ],
+      [ "Element", "classpossumwood_1_1BufferTemplated_1_1Element.html", "classpossumwood_1_1BufferTemplated_1_1Element" ],
       [ "Buffer", "classpossumwood_1_1Buffer.html", null ],
       [ "Buffer< float >", "classpossumwood_1_1Buffer_3_01float_01_4.html", "classpossumwood_1_1Buffer_3_01float_01_4" ],
       [ "Buffer< double >", "classpossumwood_1_1Buffer_3_01double_01_4.html", "classpossumwood_1_1Buffer_3_01double_01_4" ],
@@ -19,14 +20,10 @@ var dir_45247237aeb05763094580f9720e856e =
       [ "GLSLTraits", "structpossumwood_1_1GLSLTraits.html", null ],
       [ "GLSLTraits< float >", "structpossumwood_1_1GLSLTraits_3_01float_01_4.html", "structpossumwood_1_1GLSLTraits_3_01float_01_4" ],
       [ "GLSLTraits< double >", "structpossumwood_1_1GLSLTraits_3_01double_01_4.html", "structpossumwood_1_1GLSLTraits_3_01double_01_4" ],
-      [ "GLSLTraits< Imath::V2f >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V2f_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V2f_01_4" ],
-      [ "GLSLTraits< Imath::V2d >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V2d_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V2d_01_4" ],
-      [ "GLSLTraits< Imath::V3f >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3f_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3f_01_4" ],
-      [ "GLSLTraits< Imath::V3d >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3d_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1V3d_01_4" ],
-      [ "GLSLTraits< std::array< float, 16 > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_0116_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_0116_01_4_01_4" ],
-      [ "GLSLTraits< std::array< double, 16 > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_0116_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_0116_01_4_01_4" ],
-      [ "GLSLTraits< std::array< float, WIDTH > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_01WIDTH_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01float_00_01WIDTH_01_4_01_4" ],
-      [ "GLSLTraits< std::array< double, WIDTH > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_01WIDTH_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01std_1_1array_3_01double_00_01WIDTH_01_4_01_4" ]
+      [ "GLSLTraits< Imath::Vec2< T > >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4" ],
+      [ "GLSLTraits< Imath::Vec3< T > >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4" ],
+      [ "GLSLTraits< Imath::Matrix44< T > >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Matrix44_3_01T_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Matrix44_3_01T_01_4_01_4" ],
+      [ "GLSLTraits< std::vector< Imath::Matrix44< T > > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1vector_3_01Imath_1_1Matrix44_3_01T_01_4_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01std_1_1vector_3_01Imath_1_1Matrix44_3_01T_01_4_01_4_01_4" ]
     ] ],
     [ "pixmap.h", "datatypes_2pixmap_8h.html", [
       [ "Traits< std::shared_ptr< const QPixmap > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4" ]
@@ -51,6 +48,8 @@ var dir_45247237aeb05763094580f9720e856e =
     [ "uniforms.cpp", "datatypes_2uniforms_8cpp.html", null ],
     [ "uniforms.h", "datatypes_2uniforms_8h.html", [
       [ "Uniforms", "classpossumwood_1_1Uniforms.html", "classpossumwood_1_1Uniforms" ],
+      [ "DataBase", "structpossumwood_1_1Uniforms_1_1DataBase.html", "structpossumwood_1_1Uniforms_1_1DataBase" ],
+      [ "Data", "structpossumwood_1_1Uniforms_1_1Data.html", "structpossumwood_1_1Uniforms_1_1Data" ],
       [ "UniformHolder", "structpossumwood_1_1Uniforms_1_1UniformHolder.html", "structpossumwood_1_1Uniforms_1_1UniformHolder" ],
       [ "TextureHolder", "structpossumwood_1_1Uniforms_1_1TextureHolder.html", "structpossumwood_1_1Uniforms_1_1TextureHolder" ],
       [ "Traits< std::shared_ptr< const Uniforms > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Uniforms_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Uniforms_01_4_01_4" ]
