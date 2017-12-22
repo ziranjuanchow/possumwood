@@ -12,7 +12,7 @@ var indexSectionsWithContent =
   2: "adnops",
   3: "abcdefghijlmnprstuvx",
   4: "abcdefghijklmnoprstuvw~",
-  5: "abcdefgijlmnoprstuvwy",
+  5: "abcdefghijlmnoprstuvwy",
   6: "abcdefijnoprstuv",
   7: "cfmpstuv",
   8: "abdeklnopsuv",

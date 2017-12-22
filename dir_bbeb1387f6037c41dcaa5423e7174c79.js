@@ -17,6 +17,7 @@ var dir_bbeb1387f6037c41dcaa5423e7174c79 =
     [ "drawable.cpp", "drawable_8cpp.html", null ],
     [ "drawable.h", "drawable_8h.html", [
       [ "Drawable", "classpossumwood_1_1Drawable.html", "classpossumwood_1_1Drawable" ],
+      [ "ViewportState", "structpossumwood_1_1Drawable_1_1ViewportState.html", "structpossumwood_1_1Drawable_1_1ViewportState" ],
       [ "DrawableFunctor", "classpossumwood_1_1DrawableFunctor.html", "classpossumwood_1_1DrawableFunctor" ]
     ] ],
     [ "editor.cpp", "editor_8cpp.html", null ],

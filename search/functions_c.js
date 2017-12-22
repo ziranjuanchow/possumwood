@@ -11,7 +11,7 @@ var searchData=
   ['meshesui',['MeshesUI',['../classMeshesUI.html#afca18a27764c1f211e185b81cdd02fa4',1,'MeshesUI']]],
   ['meshsubseteditor',['MeshSubsetEditor',['../classMeshSubsetEditor.html#a7a1a1007bfb50666b90f5dcf79edc1b4',1,'MeshSubsetEditor']]],
   ['meta',['meta',['../classdependency__graph_1_1Datablock.html#a81f62bafa9c45d2e20451438abeb4e14',1,'dependency_graph::Datablock::meta()'],['../classdependency__graph_1_1io_1_1basic__json.html#ab57384537a7202c2c3e084aeeda933b3',1,'dependency_graph::io::basic_json::meta()']]],
-  ['metadata',['Metadata',['../classdependency__graph_1_1Metadata.html#ad9e2450a5e8b64021f5d6e33cdad1604',1,'dependency_graph::Metadata::Metadata()'],['../classpossumwood_1_1Metadata.html#aee9d6c21a82f005045d6a68da6985f62',1,'possumwood::Metadata::Metadata()'],['../classdependency__graph_1_1Node.html#a854c5d36263ebb3bd9f6f8b1a97d1bb4',1,'dependency_graph::Node::metadata()']]],
+  ['metadata',['metadata',['../classdependency__graph_1_1Node.html#a854c5d36263ebb3bd9f6f8b1a97d1bb4',1,'dependency_graph::Node::metadata()'],['../classdependency__graph_1_1Metadata.html#ad9e2450a5e8b64021f5d6e33cdad1604',1,'dependency_graph::Metadata::Metadata()'],['../classpossumwood_1_1Metadata.html#aee9d6c21a82f005045d6a68da6985f62',1,'possumwood::Metadata::Metadata()']]],
   ['minwidth',['minWidth',['../classnode__editor_1_1Port.html#a884e334b938ac759d1809408233ebf7d',1,'node_editor::Port']]],
   ['motionmap',['MotionMap',['../classanim_1_1MotionMap.html#a03b0ffe06de21ad6627c7c64bb9efac0',1,'anim::MotionMap']]],
   ['mousemove',['mouseMove',['../classanim_1_1MotionMap.html#a87eaf3c4bca0b8d5b91e131e024384bd',1,'anim::MotionMap']]],

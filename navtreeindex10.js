@@ -1,8 +1,5 @@
 var NAVTREEINDEX10 =
 {
-"structdependency__graph_1_1DataTraits.html#aa1c7820c3a1bfb11b018695afc559318":[2,0,1,7,0],
-"structdependency__graph_1_1DataTraits.html#adfe2251bb02099c1fe29bfe66a17876e":[2,0,1,7,2],
-"structdependency__graph_1_1Metadata_1_1Comparator.html":[2,0,1,10,0],
 "structdependency__graph_1_1Metadata_1_1Comparator.html#aaf086d194bcb4afbe7d4d3aff666bcad":[2,0,1,10,0,0],
 "structdependency__graph_1_1Selection_1_1Connection.html":[2,0,1,13,0],
 "structdependency__graph_1_1Selection_1_1Connection.html#a252eaa0b04a58acdaa116ccef096948c":[2,0,1,13,0,1],
@@ -96,6 +93,9 @@ var NAVTREEINDEX10 =
 "structopenanim_1_1RigData.html":[2,0,3,0],
 "structopenanim_1_1RigData.html#a4293272d5655b303a11aef6fccb55760":[2,0,3,0,1],
 "structopenanim_1_1RigData.html#ab6224d771f4b58fe2716fe4c86957dd9":[2,0,3,0,0],
+"structpossumwood_1_1Drawable_1_1ViewportState.html":[2,0,4,7,0],
+"structpossumwood_1_1Drawable_1_1ViewportState.html#a3284991a104d029009121278bd8eb6ac":[2,0,4,7,0,0],
+"structpossumwood_1_1Drawable_1_1ViewportState.html#af2904d4ee2fad6b65d0805b1755962a9":[2,0,4,7,0,1],
 "structpossumwood_1_1GLSLTraits.html":[2,0,4,39],
 "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Matrix44_3_01T_01_4_01_4.html":[2,0,4,44],
 "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Matrix44_3_01T_01_4_01_4.html#a22558f2bf4553e4eda449bffc6090831":[2,0,4,44,3],
