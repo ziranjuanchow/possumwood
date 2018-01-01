@@ -142,6 +142,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aaef4bfa5284e8c13433da8f8e2ed3f1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1e18a1ff4a52be33ef63d25034561850"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classViewport.html#a1e18a1ff4a52be33ef63d25034561850">~Viewport</a> ()</td></tr>
 <tr class="separator:a1e18a1ff4a52be33ef63d25034561850"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad29c98c869461ab8f8b8a20e332c4c96"><td class="memItemLeft" align="right" valign="top">const Imath::M44f &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classViewport.html#ad29c98c869461ab8f8b8a20e332c4c96">projection</a> () const </td></tr>
+<tr class="separator:ad29c98c869461ab8f8b8a20e332c4c96"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59534bce7be65c544ec837799dde4cbf"><td class="memItemLeft" align="right" valign="top">const Imath::M44f &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classViewport.html#a59534bce7be65c544ec837799dde4cbf">modelview</a> () const </td></tr>
+<tr class="separator:a59534bce7be65c544ec837799dde4cbf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
@@ -168,6 +172,10 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a0bc703782355f5faba5cb6aafd5e27d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac8f47c094b3f64743f44033ce83acb5a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classViewport.html#ac8f47c094b3f64743f44033ce83acb5a">m_mouseY</a></td></tr>
 <tr class="separator:ac8f47c094b3f64743f44033ce83acb5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e1a4ca92af1c85eebb8df0fd0176735"><td class="memItemLeft" align="right" valign="top">Imath::M44f&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classViewport.html#a3e1a4ca92af1c85eebb8df0fd0176735">m_projection</a></td></tr>
+<tr class="separator:a3e1a4ca92af1c85eebb8df0fd0176735"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23d586a3fccd2b6c2f9cb85166735120"><td class="memItemLeft" align="right" valign="top">Imath::M44f&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classViewport.html#a23d586a3fccd2b6c2f9cb85166735120">m_modelview</a></td></tr>
+<tr class="separator:a23d586a3fccd2b6c2f9cb85166735120"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a65121778a87e38cc9af1c4000621dbcc"><td class="memItemLeft" align="right" valign="top">boost::posix_time::ptime&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classViewport.html#a65121778a87e38cc9af1c4000621dbcc">m_timer</a></td></tr>
 <tr class="separator:a65121778a87e38cc9af1c4000621dbcc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -235,6 +243,21 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a59534bce7be65c544ec837799dde4cbf"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const Imath::M44f &amp; Viewport::modelview </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="ad5dbbebb1345785a463d7f62540d89b9"></a>
 <div class="memitem">
 <div class="memproto">
@@ -278,6 +301,21 @@ Private Attributes</h2></td></tr>
 <span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="ad29c98c869461ab8f8b8a20e332c4c96"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const Imath::M44f &amp; Viewport::projection </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
 </div><div class="memdoc">
 
 </div>
@@ -341,6 +379,26 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
+<a class="anchor" id="a23d586a3fccd2b6c2f9cb85166735120"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Imath::M44f Viewport::m_modelview</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a0bc703782355f5faba5cb6aafd5e27d5"></a>
 <div class="memitem">
 <div class="memproto">
@@ -390,6 +448,26 @@ Private Attributes</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">Imath::V3f Viewport::m_origin</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a3e1a4ca92af1c85eebb8df0fd0176735"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Imath::M44f Viewport::m_projection</td>
         </tr>
       </table>
   </td>
@@ -491,7 +569,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classViewport.html">Viewport</a></li>
-    <li class="footer">Generated on Fri Dec 22 2017 19:46:18 for possumwood by
+    <li class="footer">Generated on Mon Jan 1 2018 23:42:58 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

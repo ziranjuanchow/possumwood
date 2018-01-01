@@ -16,8 +16,8 @@ var indexSectionsWithContent =
   6: "abcdefijnoprstuv",
   7: "cfmpstuv",
   8: "abdeklnopsuv",
-  9: "abcdefghimnopstu",
-  10: "bjnp",
+  9: "abcdefghimnopstuv",
+  10: "bgjnp",
   11: "d"
 };
 

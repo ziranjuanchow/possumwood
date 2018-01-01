@@ -1,5 +1,9 @@
 var NAVTREEINDEX2 =
 {
+"classanim_1_1SkinnedVertices_1_1Vertex.html#a31f43f9056d8d9b711bdcd42698eb212":[2,0,0,10,0,0],
+"classanim_1_1SkinnedVertices_1_1Vertex.html#a3bc171745b76c396b636767651c0ac4a":[2,0,0,10,0,1],
+"classanim_1_1SkinnedVertices_1_1Vertex.html#a9908f585da055c4002b94e7f7ab5286a":[2,0,0,10,0,6],
+"classanim_1_1SkinnedVertices_1_1Vertex.html#a9981dabea58174bf3e785faead522a0a":[2,0,0,10,0,2],
 "classanim_1_1SkinnedVertices_1_1Vertex.html#aa1f85712d301b84979ef2d0c5a3bfcb5":[2,0,0,10,0,3],
 "classanim_1_1SkinnedVertices_1_1Vertex.html#af2d57c5e20385b49b7dee6406c9208b9":[2,0,0,10,0,7],
 "classanim_1_1SkinnedVertices_1_1Vertex.html#afa88bc5ed2584f1aaddcf81c8f83c265":[2,0,0,10,0,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX2 =
 "classdependency__graph_1_1Metadata.html#adda2e33f3ab682ddcae451d675ab83c8":[2,0,1,10,18],
 "classdependency__graph_1_1Metadata.html#ae62e9c05b7c3bec0ed0d88a68335cc37":[2,0,1,10,13],
 "classdependency__graph_1_1Metadata.html#af46bde317c89b4bf338ba50da24788bc":[2,0,1,10,9],
-"classdependency__graph_1_1Metadata.html#af4cc90f835c1fc650f795e8aeff217bb":[2,0,1,10,2],
-"classdependency__graph_1_1Metadata.html#af7c787e178580c5e3ea4da76e485b87a":[2,0,1,10,21],
-"classdependency__graph_1_1Metadata_1_1Register.html":[2,0,1,10,1],
-"classdependency__graph_1_1Metadata_1_1Register.html#a1f3fa84558ba226c50a1dc4bdf812d3d":[2,0,1,10,1,2],
-"classdependency__graph_1_1Metadata_1_1Register.html#a3aa8f92fd19779dac868708c7cd356eb":[2,0,1,10,1,3]
+"classdependency__graph_1_1Metadata.html#af4cc90f835c1fc650f795e8aeff217bb":[2,0,1,10,2]
 };

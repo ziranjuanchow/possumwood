@@ -278,6 +278,9 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 <li>m_drawState
 : <a class="el" href="classpossumwood_1_1Drawable.html#aa98762632889d0f9c8c861043d2499f6">possumwood::Drawable</a>
 </li>
+<li>m_drawType
+: <a class="el" href="classpossumwood_1_1GLRenderable.html#a20a6e8d1a9d4863b8aa18e91a3b25b7a">possumwood::GLRenderable</a>
+</li>
 <li>m_edges
 : <a class="el" href="classnode__editor_1_1GraphScene.html#af8e1ee04ca396b1b8739e174dea08911">node_editor::GraphScene</a>
 , <a class="el" href="classnode__editor_1_1Port.html#a89eb0ab89012690aa157926f1393b03c">node_editor::Port</a>
@@ -325,6 +328,12 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 <li>m_focusedComboBox
 : <a class="el" href="classFrameEditor.html#a98477b77fc8fe3a586097b67d55fd943">FrameEditor</a>
 , <a class="el" href="classJointMappingEditor.html#a7bd594d261f10405630867f254e9fb35">JointMappingEditor</a>
+</li>
+<li>m_fragmentShader
+: <a class="el" href="classpossumwood_1_1GLRenderable.html#a33a1b43d51007fc040fef427e867061b">possumwood::GLRenderable</a>
+</li>
+<li>m_fragmentShaderSrc
+: <a class="el" href="classpossumwood_1_1GLRenderable.html#ade0577db5df77bee980addff19e56c92">possumwood::GLRenderable</a>
 </li>
 <li>m_frameBwdAction
 : <a class="el" href="classTimelineWidget.html#ad474a87374838abd840c6947ab17907a">TimelineWidget</a>
@@ -440,6 +449,9 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 , <a class="el" href="classpossumwood_1_1Metadata.html#aeef56eac81dd87d7fc8f34f382ee7926">possumwood::Metadata</a>
 , <a class="el" href="structpossumwood_1_1NodeImplementation.html#a5f6fd2ee4fcd241bd2c1001f4d5ad948">possumwood::NodeImplementation</a>
 </li>
+<li>m_modelview
+: <a class="el" href="classViewport.html#a23d586a3fccd2b6c2f9cb85166735120">Viewport</a>
+</li>
 <li>m_mousePos
 : <a class="el" href="classanim_1_1MotionMap.html#adeb8205d76f38f248ed88357efe41fad">anim::MotionMap</a>
 </li>
@@ -462,6 +474,9 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 , <a class="el" href="classnode__editor_1_1Port.html#a8c0e9a53e234be28e918036e068ed3fe">node_editor::Port</a>
 , <a class="el" href="classpossumwood_1_1Config_1_1Item.html#ab9f84ec3ae54e8abfd22a2e4b5ed8c34">possumwood::Config::Item</a>
 , <a class="el" href="classpossumwood_1_1Meshes_1_1Item.html#a55dc2b7cd67a70cb855829811944dc17">possumwood::Meshes::Item</a>
+</li>
+<li>m_needsVBOUpdate
+: <a class="el" href="classpossumwood_1_1GLRenderable.html#ac44f6befbbf494a32d354c26c2265fb7">possumwood::GLRenderable</a>
 </li>
 <li>m_newNodeMenu
 : <a class="el" href="classMainWindow.html#a91549a0c5e19b556e3e1c9e50dc55867">MainWindow</a>
@@ -556,6 +571,7 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 , <a class="el" href="classdependency__graph_1_1Node.html#a4da7e31689dcd21d47a66d6b45e226a2">dependency_graph::Node</a>
 , <a class="el" href="classdependency__graph_1_1Port.html#ad117857835f532d43710de2d898f4ffe">dependency_graph::Port</a>
 , <a class="el" href="classnode__editor_1_1Port.html#a8b762df7bc0b397c5273aaf6ec1ee723">node_editor::Port</a>
+, <a class="el" href="classpossumwood_1_1GLRenderable_1_1VBO.html#ab13898ad5a61a924419291ef20e0917b">possumwood::GLRenderable::VBO</a>
 </li>
 <li>m_parse
 : <a class="el" href="classanim_1_1Tokenizer_1_1State.html#a808337952ac0feb96f2e87d5182c4f17">anim::Tokenizer::State</a>
@@ -589,8 +605,14 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 <li>m_position
 : <a class="el" href="classpossumwood_1_1NodeData.html#a9f019e22ae54f204471a72d35a2973ff">possumwood::NodeData</a>
 </li>
+<li>m_program
+: <a class="el" href="classpossumwood_1_1GLRenderable.html#a459caceabb6953f5f61cf22b1569c1f4">possumwood::GLRenderable</a>
+</li>
 <li>m_programId
 : <a class="el" href="classpossumwood_1_1Program.html#ac8440a76d08ea8738b875472ff4ddcec">possumwood::Program</a>
+</li>
+<li>m_projection
+: <a class="el" href="classViewport.html#a3e1a4ca92af1c85eebb8df0fd0176735">Viewport</a>
 </li>
 <li>m_properties
 : <a class="el" href="classMainWindow.html#a22f004bec556234a5eb739cfa1819647">MainWindow</a>
@@ -769,6 +791,12 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 : <a class="el" href="classpossumwood_1_1Editor.html#ad2eab73d0c99934defbb6bc364be8b23">possumwood::Editor</a>
 , <a class="el" href="classvec3__ui.html#a8b70e03bdeb2a922bf8ac619bfb80a1c">vec3_ui</a>
 </li>
+<li>m_vao
+: <a class="el" href="classpossumwood_1_1GLRenderable.html#a775f819e6e18dfc51f93204d0ad807c9">possumwood::GLRenderable</a>
+</li>
+<li>m_vboData
+: <a class="el" href="classpossumwood_1_1GLRenderable.html#a8f6b72bf328995309cdfd62b8d1e6dd5">possumwood::GLRenderable</a>
+</li>
 <li>m_vbos
 : <a class="el" href="classpossumwood_1_1VertexData.html#acc635e38555d34c3d677d5fc78328eae">possumwood::VertexData</a>
 </li>
@@ -776,9 +804,18 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 : <a class="el" href="classpossumwood_1_1BufferTemplated.html#a1471887107bd204f11b2d9b6de2ff229">possumwood::BufferTemplated&lt; T &gt;</a>
 , <a class="el" href="classpossumwood_1_1VBO.html#a687339bf2c37e1b6c9ec5d0ab4b86b68">possumwood::VBO&lt; T &gt;</a>
 </li>
+<li>m_vertexShader
+: <a class="el" href="classpossumwood_1_1GLRenderable.html#a31c3b763aea15f215220b53f296288fd">possumwood::GLRenderable</a>
+</li>
+<li>m_vertexShaderSrc
+: <a class="el" href="classpossumwood_1_1GLRenderable.html#a868d719a74ca92489859a63928f72a53">possumwood::GLRenderable</a>
+</li>
 <li>m_vertices
 : <a class="el" href="classanim_1_1SkinnedMesh.html#a880d381bdebd7c889084c42ead97c95c">anim::SkinnedMesh</a>
 , <a class="el" href="classanim_1_1SkinnedVertices.html#a44e35439382aa32c9e53427404522a7b">anim::SkinnedVertices</a>
+</li>
+<li>m_verticesVBO
+: <a class="el" href="classpossumwood_1_1GLRenderable.html#adaf546557ce7a06421c0161c11902847">possumwood::GLRenderable</a>
 </li>
 <li>m_viewport
 : <a class="el" href="classMainWindow.html#ad33afa9553e94ddf7a78ba5706c26233">MainWindow</a>
@@ -809,13 +846,16 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 <li>models
 : <a class="el" href="structopenanim_1_1RigData.html#ab6224d771f4b58fe2716fe4c86957dd9">openanim::RigData</a>
 </li>
+<li>modelview
+: <a class="el" href="structpossumwood_1_1Drawable_1_1ViewportState.html#a199008ca095a658944258075224e48d8">possumwood::Drawable::ViewportState</a>
+</li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Fri Dec 22 2017 19:46:20 for possumwood by
+    <li class="footer">Generated on Mon Jan 1 2018 23:43:00 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

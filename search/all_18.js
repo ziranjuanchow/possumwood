@@ -23,6 +23,7 @@ var searchData=
   ['_7efilename_5fui',['~filename_ui',['../classfilename__ui.html#a1aa5bad3dfde0b4e731411b832a34530',1,'filename_ui']]],
   ['_7efloat_5fui',['~float_ui',['../classfloat__ui.html#aa1a56280d0a4d07b079bc4e6b4ab3d1e',1,'float_ui']]],
   ['_7eframeeditor',['~FrameEditor',['../classFrameEditor.html#aa8a270fac6ab28b5980d0651e4ff316d',1,'FrameEditor']]],
+  ['_7eglrenderable',['~GLRenderable',['../classpossumwood_1_1GLRenderable.html#a3f619772bc4f8f0eefdda56398766a50',1,'possumwood::GLRenderable']]],
   ['_7egraphscene',['~GraphScene',['../classnode__editor_1_1GraphScene.html#aad44ea9c1747e76d1129a05f125e6c9d',1,'node_editor::GraphScene']]],
   ['_7einput_5fadapter',['~input_adapter',['../classdependency__graph_1_1io_1_1basic__json_1_1input__adapter.html#ad2ac77038e3fb5c6683f5b097b73a00c',1,'dependency_graph::io::basic_json::input_adapter']]],
   ['_7eiobase',['~IOBase',['../classpossumwood_1_1IOBase.html#a3e1f55847240ef7e9b8c73df915ba850',1,'possumwood::IOBase']]],
@@ -47,7 +48,7 @@ var searchData=
   ['_7etimelinewidget',['~TimelineWidget',['../classTimelineWidget.html#a5683d379f9eda800b60d47987de0c98a',1,'TimelineWidget']]],
   ['_7euniforms',['~Uniforms',['../classUniforms.html#a27212fdb84e27d2e61bb57d89b902e1f',1,'Uniforms']]],
   ['_7eunsigned_5fui',['~unsigned_ui',['../classunsigned__ui.html#a720c1415dab89004c1461cff89ebef84',1,'unsigned_ui']]],
-  ['_7evbo',['~VBO',['../classpossumwood_1_1VBO.html#a93bf0ba823d72f6b870b00e782eed0c2',1,'possumwood::VBO::~VBO()'],['../classVBO.html#aa1f948bfcd73951c3a8369f5443f4678',1,'VBO::~VBO()']]],
+  ['_7evbo',['~VBO',['../classpossumwood_1_1GLRenderable_1_1VBO.html#a1b6092f78043b15b9724caa0ae40c00b',1,'possumwood::GLRenderable::VBO::~VBO()'],['../classpossumwood_1_1VBO.html#a93bf0ba823d72f6b870b00e782eed0c2',1,'possumwood::VBO::~VBO()'],['../classVBO.html#aa1f948bfcd73951c3a8369f5443f4678',1,'VBO::~VBO()']]],
   ['_7evbobase',['~VBOBase',['../classpossumwood_1_1VBOBase.html#a1e7d45d2ed87cf9be6880184f15a1059',1,'possumwood::VBOBase']]],
   ['_7evec3_5fui',['~vec3_ui',['../classvec3__ui.html#a3a0249a69009357bd02cc57cdb2a6728',1,'vec3_ui']]],
   ['_7eviewport',['~Viewport',['../classViewport.html#a1e18a1ff4a52be33ef63d25034561850',1,'Viewport']]]

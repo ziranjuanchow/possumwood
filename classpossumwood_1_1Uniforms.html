@@ -141,13 +141,13 @@ Public Types</h2></td></tr>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a52fe626a3fcc65f73f5f0668936ac2e3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#a52fe626a3fcc65f73f5f0668936ac2e3">Uniforms</a> ()</td></tr>
 <tr class="separator:a52fe626a3fcc65f73f5f0668936ac2e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa790227f34a1d80bf091607ad9d0455c"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:aa790227f34a1d80bf091607ad9d0455c"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#aa790227f34a1d80bf091607ad9d0455c">addUniform</a> (const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, std::size_t <a class="el" href="classpossumwood_1_1Uniforms.html#a83bcef8c4e43d8c98498809b5065cb6d">size</a>, const <a class="el" href="classpossumwood_1_1Uniforms.html#af1b9fa612b41f59d28c7318421413f0e">UpdateType</a> &amp;updateType, std::function&lt; void(T *, std::size_t)&gt; updateFunctor)</td></tr>
-<tr class="separator:aa790227f34a1d80bf091607ad9d0455c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab637ff432cdeeb0f75d63b3e6e641f76"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:ab637ff432cdeeb0f75d63b3e6e641f76"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#ab637ff432cdeeb0f75d63b3e6e641f76">addUniform</a> (const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, std::size_t <a class="el" href="classpossumwood_1_1Uniforms.html#a83bcef8c4e43d8c98498809b5065cb6d">size</a>, const <a class="el" href="classpossumwood_1_1Uniforms.html#af1b9fa612b41f59d28c7318421413f0e">UpdateType</a> &amp;updateType, std::function&lt; void(T *, std::size_t, const <a class="el" href="structpossumwood_1_1Drawable_1_1ViewportState.html">Drawable::ViewportState</a> &amp;)&gt; updateFunctor)</td></tr>
+<tr class="separator:ab637ff432cdeeb0f75d63b3e6e641f76"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a235587485e8bd0a0fce2f228c57a3482"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#a235587485e8bd0a0fce2f228c57a3482">addTexture</a> (const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, const QPixmap &amp;pixmap)</td></tr>
 <tr class="separator:a235587485e8bd0a0fce2f228c57a3482"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:affa78217d4bf25437f1d162808ea5621"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#affa78217d4bf25437f1d162808ea5621">use</a> (GLuint programId) const </td></tr>
-<tr class="separator:affa78217d4bf25437f1d162808ea5621"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebf204fa9482cbba2762bdebf8c7ae02"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#aebf204fa9482cbba2762bdebf8c7ae02">use</a> (GLuint programId, const <a class="el" href="structpossumwood_1_1Drawable_1_1ViewportState.html">Drawable::ViewportState</a> &amp;) const </td></tr>
+<tr class="separator:aebf204fa9482cbba2762bdebf8c7ae02"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a83bcef8c4e43d8c98498809b5065cb6d"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Uniforms.html#a83bcef8c4e43d8c98498809b5065cb6d">size</a> () const </td></tr>
 <tr class="memdesc:a83bcef8c4e43d8c98498809b5065cb6d"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns the number of uniforms and textures stored in this container  <a href="#a83bcef8c4e43d8c98498809b5065cb6d">More...</a><br/></td></tr>
 <tr class="separator:a83bcef8c4e43d8c98498809b5065cb6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -230,7 +230,7 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="aa790227f34a1d80bf091607ad9d0455c"></a>
+<a class="anchor" id="ab637ff432cdeeb0f75d63b3e6e641f76"></a>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
@@ -257,7 +257,7 @@ template&lt;typename T &gt; </div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::function&lt; void(T *, std::size_t)&gt;&#160;</td>
+          <td class="paramtype">std::function&lt; void(T *, std::size_t, const <a class="el" href="structpossumwood_1_1Drawable_1_1ViewportState.html">Drawable::ViewportState</a> &amp;)&gt;&#160;</td>
           <td class="paramname"><em>updateFunctor</em>&#160;</td>
         </tr>
         <tr>
@@ -304,7 +304,7 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
-<a class="anchor" id="affa78217d4bf25437f1d162808ea5621"></a>
+<a class="anchor" id="aebf204fa9482cbba2762bdebf8c7ae02"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
@@ -312,8 +312,18 @@ template&lt;typename T &gt; </div>
           <td class="memname">void Uniforms::use </td>
           <td>(</td>
           <td class="paramtype">GLuint&#160;</td>
-          <td class="paramname"><em>programId</em></td><td>)</td>
-          <td> const</td>
+          <td class="paramname"><em>programId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="structpossumwood_1_1Drawable_1_1ViewportState.html">Drawable::ViewportState</a> &amp;&#160;</td>
+          <td class="paramname"><em>vs</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -392,7 +402,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1Uniforms.html">Uniforms</a></li>
-    <li class="footer">Generated on Fri Dec 22 2017 19:46:19 for possumwood by
+    <li class="footer">Generated on Mon Jan 1 2018 23:42:59 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

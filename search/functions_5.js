@@ -1,7 +1,7 @@
 var searchData=
 [
   ['factories',['factories',['../classdependency__graph_1_1BaseData.html#a46c76355f986da574b4c8da7fa34be05',1,'dependency_graph::BaseData::factories()'],['../classpossumwood_1_1properties_1_1factories.html#a31ad7a69bc33f9534589b849c6e5b12a',1,'possumwood::properties::factories::factories()']]],
-  ['factory',['factory',['../classpossumwood_1_1properties_1_1factory.html#a653df37de6506b0907f4c4bb2b02e6f6',1,'possumwood::properties::factory::factory()'],['../structdependency__graph_1_1BaseData_1_1Factory.html#a5dfe94b70a11c4c114a69013c3798347',1,'dependency_graph::BaseData::Factory::Factory()']]],
+  ['factory',['Factory',['../structdependency__graph_1_1BaseData_1_1Factory.html#a5dfe94b70a11c4c114a69013c3798347',1,'dependency_graph::BaseData::Factory::Factory()'],['../classpossumwood_1_1properties_1_1factory.html#a653df37de6506b0907f4c4bb2b02e6f6',1,'possumwood::properties::factory::factory()']]],
   ['factory_5ftyped',['factory_typed',['../classpossumwood_1_1properties_1_1factory__typed.html#abf6e9c8adb7d9d96de63545ebc286cd1',1,'possumwood::properties::factory_typed']]],
   ['filename',['filename',['../classpossumwood_1_1App.html#a654f75ca18687b310692afd7dfb1e5c9',1,'possumwood::App::filename()'],['../classpossumwood_1_1Filename.html#a6681f526ffc5156db5a12f7858fc673e',1,'possumwood::Filename::filename(bool makeAbsolute=true) const '],['../classpossumwood_1_1Filename.html#a113ae7dccb31273204ed4871596d550d',1,'possumwood::Filename::Filename(std::initializer_list&lt; std::string &gt; extensions=std::initializer_list&lt; std::string &gt;())']]],
   ['filename_5fui',['filename_ui',['../classfilename__ui.html#a750dbcde81d14e1003625d9de15246af',1,'filename_ui']]],
