@@ -1,5 +1,8 @@
 var NAVTREEINDEX8 =
 {
+"datatypes_2skeleton_8h_source.html":[3,0,0,2,0,0,15],
+"datatypes_2texture_8cpp.html":[3,0,0,2,3,0,11],
+"datatypes_2uniforms_8cpp.html":[3,0,0,2,3,0,13],
 "datatypes_2uniforms_8h.html":[3,0,0,2,3,0,14],
 "datatypes_2uniforms_8h_source.html":[3,0,0,2,3,0,14],
 "datatypes_2vbo_8cpp.html":[3,0,0,2,3,0,16],
@@ -109,8 +112,8 @@ var NAVTREEINDEX8 =
 "frame__editor__data_8h.html":[3,0,0,2,0,0,7],
 "frame__editor__data_8h_source.html":[3,0,0,2,0,0,7],
 "from__animation_8cpp.html":[3,0,0,2,0,1,1,3],
-"functions.html":[2,3,0],
 "functions.html":[2,3,0,0],
+"functions.html":[2,3,0],
 "functions_b.html":[2,3,0,1],
 "functions_c.html":[2,3,0,2],
 "functions_d.html":[2,3,0,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX8 =
 "joint__mapping__editor_8cpp.html":[3,0,0,2,0,2,2],
 "joint__mapping__editor_8h.html":[3,0,0,2,0,2,3],
 "joint__mapping__editor_8h_source.html":[3,0,0,2,0,2,3],
-"joint__mapping__editor__data_8cpp.html":[3,0,0,2,0,0,10],
-"joint__mapping__editor__data_8h.html":[3,0,0,2,0,0,11],
-"joint__mapping__editor__data_8h_source.html":[3,0,0,2,0,0,11],
-"json_8cpp.html":[3,0,0,3,1,10]
+"joint__mapping__editor__data_8cpp.html":[3,0,0,2,0,0,10]
 };

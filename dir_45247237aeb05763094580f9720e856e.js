@@ -14,6 +14,7 @@ var dir_45247237aeb05763094580f9720e856e =
     [ "gl_parameters.cpp", "datatypes_2gl__parameters_8cpp.html", null ],
     [ "gl_parameters.h", "gl__parameters_8h.html", [
       [ "GLParameters", "classpossumwood_1_1GLParameters.html", "classpossumwood_1_1GLParameters" ],
+      [ "ScopedState", "classpossumwood_1_1GLParameters_1_1ScopedState.html", "classpossumwood_1_1GLParameters_1_1ScopedState" ],
       [ "Traits< GLParameters >", "structpossumwood_1_1Traits_3_01GLParameters_01_4.html", "structpossumwood_1_1Traits_3_01GLParameters_01_4" ]
     ] ],
     [ "glsl_traits.h", "glsl__traits_8h.html", [

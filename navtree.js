@@ -49,11 +49,11 @@ var NAVTREEINDEX =
 "classdependency__graph_1_1io_1_1basic__json.html#a9e08ee9d5e7a7b14d7209ae4b7f264d7",
 "classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#aeb934db8d194d0be39cb0df3989699aaa5064b6655d88a50ae16665cf7751c0ee",
 "classnode__editor_1_1Port.html#a71f390bdbd1d0ae7b7bfc120c1d67977",
-"classpossumwood_1_1Meshes_1_1Item.html#a8e87bea788c71ae617414ce86a11a033",
-"datatypes_2uniforms_8h.html",
-"json_8cpp.html#aec7317afbcd0e01b142f1e256bf59cf6",
-"structanim_1_1LexicalCastHelper_3_01boost_1_1filesystem_1_1path_00_01std_1_1string_01_4.html#a0f7f3669fe1c411db13c371a1d974ff4",
-"structpossumwood_1_1Uniforms_1_1TextureHolder.html#aab5d3a88168e628ae508f167d80aedb0"
+"classpossumwood_1_1Meshes_1_1Item.html#a55dc2b7cd67a70cb855829811944dc17",
+"datatypes_2skeleton_8h_source.html",
+"joint__mapping__editor__data_8h.html",
+"structanim_1_1LexicalCastHelper.html",
+"structpossumwood_1_1Uniforms_1_1Data.html#a50794816221cdabf838a2fbe5b1997dc"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

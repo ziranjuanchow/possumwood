@@ -143,18 +143,18 @@ Public Member Functions</h2></td></tr>
 Public Attributes</h2></td></tr>
 <tr class="memitem:a1693811aebbd92643f4e93bf1c0ba036"><td class="memItemLeft" align="right" valign="top">std::vector&lt; Imath::V3f &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1GLRenderable_1_1VBO.html#a1693811aebbd92643f4e93bf1c0ba036">data</a></td></tr>
 <tr class="separator:a1693811aebbd92643f4e93bf1c0ba036"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a17d81adba6a0b325afdf6101a5f0840e"><td class="memItemLeft" align="right" valign="top">GLenum&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1GLRenderable_1_1VBO.html#a17d81adba6a0b325afdf6101a5f0840e">drawType</a></td></tr>
-<tr class="separator:a17d81adba6a0b325afdf6101a5f0840e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
-<tr class="memitem:acf1e5a860ede39136b480d1377639e6c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1GLRenderable_1_1VBO.html#acf1e5a860ede39136b480d1377639e6c">VBO</a> (<a class="el" href="classpossumwood_1_1GLRenderable.html">GLRenderable</a> *parent)</td></tr>
-<tr class="separator:acf1e5a860ede39136b480d1377639e6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaaa270523b29a01152669ac478160fe9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1GLRenderable_1_1VBO.html#aaaa270523b29a01152669ac478160fe9">VBO</a> (<a class="el" href="classpossumwood_1_1GLRenderable.html">GLRenderable</a> *parent, const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>)</td></tr>
+<tr class="separator:aaaa270523b29a01152669ac478160fe9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
 <tr class="memitem:ab13898ad5a61a924419291ef20e0917b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classpossumwood_1_1GLRenderable.html">GLRenderable</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1GLRenderable_1_1VBO.html#ab13898ad5a61a924419291ef20e0917b">m_parent</a></td></tr>
 <tr class="separator:ab13898ad5a61a924419291ef20e0917b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8b59baa20d1db51bf3476b645235e01"><td class="memItemLeft" align="right" valign="top">const std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1GLRenderable_1_1VBO.html#ab8b59baa20d1db51bf3476b645235e01">m_name</a></td></tr>
+<tr class="separator:ab8b59baa20d1db51bf3476b645235e01"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="friends"></a>
 Friends</h2></td></tr>
@@ -193,7 +193,7 @@ Friends</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="acf1e5a860ede39136b480d1377639e6c"></a>
+<a class="anchor" id="aaaa270523b29a01152669ac478160fe9"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -204,8 +204,18 @@ Friends</h2></td></tr>
           <td class="memname">possumwood::GLRenderable::VBO::VBO </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="classpossumwood_1_1GLRenderable.html">GLRenderable</a> *&#160;</td>
-          <td class="paramname"><em>parent</em></td><td>)</td>
+          <td class="paramname"><em>parent</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>name</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -251,14 +261,22 @@ Friends</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a17d81adba6a0b325afdf6101a5f0840e"></a>
+<a class="anchor" id="ab8b59baa20d1db51bf3476b645235e01"></a>
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">GLenum possumwood::GLRenderable::VBO::drawType</td>
+          <td class="memname">const std::string possumwood::GLRenderable::VBO::m_name</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -293,7 +311,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1GLRenderable.html">GLRenderable</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1GLRenderable_1_1VBO.html">VBO</a></li>
-    <li class="footer">Generated on Mon Jan 1 2018 23:42:59 for possumwood by
+    <li class="footer">Generated on Wed Jan 3 2018 00:00:07 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

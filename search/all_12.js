@@ -5,7 +5,7 @@ var searchData=
   ['teststruct',['TestStruct',['../structTestStruct.html',1,'TestStruct'],['../structTestStruct.html#a07c248a0dd8e82d8bd807270e48999e1',1,'TestStruct::TestStruct()']]],
   ['tetrahedron_2ecpp',['tetrahedron.cpp',['../tetrahedron_8cpp.html',1,'']]],
   ['texture',['Texture',['../classpossumwood_1_1Texture.html',1,'possumwood']]],
-  ['texture',['texture',['../structpossumwood_1_1Uniforms_1_1TextureHolder.html#aab5d3a88168e628ae508f167d80aedb0',1,'possumwood::Uniforms::TextureHolder::texture()'],['../classpossumwood_1_1Texture.html#aef84dac1bf4812b9926a12e9d8182191',1,'possumwood::Texture::Texture()']]],
+  ['texture',['Texture',['../classpossumwood_1_1Texture.html#aef84dac1bf4812b9926a12e9d8182191',1,'possumwood::Texture::Texture()'],['../structpossumwood_1_1Uniforms_1_1TextureHolder.html#aab5d3a88168e628ae508f167d80aedb0',1,'possumwood::Uniforms::TextureHolder::texture()']]],
   ['texture_2ecpp',['texture.cpp',['../nodes_2uniforms_2texture_8cpp.html',1,'']]],
   ['texture_2ecpp',['texture.cpp',['../datatypes_2texture_8cpp.html',1,'']]],
   ['texture_2eh',['texture.h',['../texture_8h.html',1,'']]],
