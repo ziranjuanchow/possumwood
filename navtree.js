@@ -43,7 +43,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "actions_8cpp.html",
-"classViewport.html#a060c40cb6139db89854aa16adda4a82a",
+"classViewport.html#a0bc703782355f5faba5cb6aafd5e27d5",
 "classanim_1_1SkinnedVertices_1_1Vertex.html#a31f43f9056d8d9b711bdcd42698eb212",
 "classdependency__graph_1_1Metadata.html#af7c787e178580c5e3ea4da76e485b87a",
 "classdependency__graph_1_1io_1_1basic__json.html#a9e08ee9d5e7a7b14d7209ae4b7f264d7",
@@ -51,9 +51,9 @@ var NAVTREEINDEX =
 "classnode__editor_1_1Port.html#a71f390bdbd1d0ae7b7bfc120c1d67977",
 "classpossumwood_1_1Meshes_1_1Item.html#a55dc2b7cd67a70cb855829811944dc17",
 "datatypes_2skeleton_8h_source.html",
-"joint__mapping__editor__data_8h.html",
-"structanim_1_1LexicalCastHelper.html",
-"structpossumwood_1_1Uniforms_1_1Data.html#a50794816221cdabf838a2fbe5b1997dc"
+"io_2vec3_8h_source.html",
+"structTimeline_1_1TickSkip.html#a4417150be8a25e72f9428b816e37d084",
+"structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html#a7ce6c558a70703e5eea7f72953bc3966"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

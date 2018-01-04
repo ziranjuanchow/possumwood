@@ -1,5 +1,10 @@
 var NAVTREEINDEX10 =
 {
+"structTimeline_1_1TickSkip.html#a4417150be8a25e72f9428b816e37d084":[2,0,26,0,1],
+"structTimeline_1_1TickSkip.html#ab18e33161330e8deb58d15d0fdce77d0":[2,0,26,0,0],
+"structanim_1_1Animation.html":[2,0,0,0],
+"structanim_1_1Animation.html#ab010d52e223cee5d4c107d5475f9fe0e":[2,0,0,0,0],
+"structanim_1_1Animation.html#ae3f036b834af83182d64b8ea501d5af3":[2,0,0,0,1],
 "structanim_1_1LexicalCastHelper.html":[2,0,0,14],
 "structanim_1_1LexicalCastHelper.html#ad8ad81554008c43086a60b1c86995819":[2,0,0,14,0],
 "structanim_1_1LexicalCastHelper_3_01boost_1_1filesystem_1_1path_00_01std_1_1string_01_4.html":[2,0,0,15],
@@ -149,7 +154,7 @@ var NAVTREEINDEX10 =
 "structpossumwood_1_1Drawable_1_1ViewportState.html#a3284991a104d029009121278bd8eb6ac":[2,0,4,8,0,0],
 "structpossumwood_1_1Drawable_1_1ViewportState.html#af2904d4ee2fad6b65d0805b1755962a9":[2,0,4,8,0,3],
 "structpossumwood_1_1GLRenderable_1_1VBOData.html":[2,0,4,11,1],
-"structpossumwood_1_1GLRenderable_1_1VBOData.html#a7712a70e56fb5981b954372dbc5221ed":[2,0,4,11,1,2],
+"structpossumwood_1_1GLRenderable_1_1VBOData.html#a3c21e763a025086a61eb19dec409389a":[2,0,4,11,1,2],
 "structpossumwood_1_1GLRenderable_1_1VBOData.html#ad04b5ad1cd41fdda09fcfe122afbefb1":[2,0,4,11,1,1],
 "structpossumwood_1_1GLRenderable_1_1VBOData.html#aff6686cb137ad2055374c45d53bba8d4":[2,0,4,11,1,0],
 "structpossumwood_1_1GLSLTraits.html":[2,0,4,41],
@@ -244,10 +249,5 @@ var NAVTREEINDEX10 =
 "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4.html#a6540a1e6c16b85c5f426690ed769f24a":[2,0,4,55,0],
 "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4.html":[2,0,4,24],
 "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4.html#a9c94a0c9d0d4eb9ac2e697e5d67c15c0":[2,0,4,24,0],
-"structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html":[2,0,4,28],
-"structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html#a7ce6c558a70703e5eea7f72953bc3966":[2,0,4,28,0],
-"structpossumwood_1_1Traits_3_01std_1_1string_01_4.html":[2,0,4,21],
-"structpossumwood_1_1Traits_3_01std_1_1string_01_4.html#a9fadc0dd0f637ca8e14e7801248041f2":[2,0,4,21,0],
-"structpossumwood_1_1Traits_3_01std_1_1string_01_4.html#aa167bf0e006b2117486d6e2f49520219":[2,0,4,21,1],
-"structpossumwood_1_1Uniforms_1_1Data.html":[2,0,4,57,0]
+"structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html":[2,0,4,28]
 };

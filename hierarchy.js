@@ -263,9 +263,6 @@ var hierarchy =
     [ "QDialog", null, [
       [ "ConfigDialog", "classConfigDialog.html", null ]
     ] ],
-    [ "QGLWidget", null, [
-      [ "Viewport", "classViewport.html", null ]
-    ] ],
     [ "QGraphicsItem", null, [
       [ "node_editor::Edge", "classnode__editor_1_1Edge.html", [
         [ "node_editor::ConnectedEdge", "classnode__editor_1_1ConnectedEdge.html", null ]
@@ -287,6 +284,9 @@ var hierarchy =
     ] ],
     [ "QMenu", null, [
       [ "SearchableMenu", "classSearchableMenu.html", null ]
+    ] ],
+    [ "QOpenGLWidget", null, [
+      [ "Viewport", "classViewport.html", null ]
     ] ],
     [ "QTreeWidget", null, [
       [ "Log", "classLog.html", null ],
