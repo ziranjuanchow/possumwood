@@ -1,5 +1,6 @@
 var NAVTREEINDEX8 =
 {
+"datatypes_2skeleton_8h.html#adea36b5f229da0c8ddd24b640ff73553":[3,0,0,2,0,0,15,3],
 "datatypes_2skeleton_8h_source.html":[3,0,0,2,0,0,15],
 "datatypes_2texture_8cpp.html":[3,0,0,2,3,0,11],
 "datatypes_2uniforms_8cpp.html":[3,0,0,2,3,0,13],
@@ -112,8 +113,8 @@ var NAVTREEINDEX8 =
 "frame__editor__data_8h.html":[3,0,0,2,0,0,7],
 "frame__editor__data_8h_source.html":[3,0,0,2,0,0,7],
 "from__animation_8cpp.html":[3,0,0,2,0,1,1,3],
-"functions.html":[2,3,0,0],
 "functions.html":[2,3,0],
+"functions.html":[2,3,0,0],
 "functions_b.html":[2,3,0,1],
 "functions_c.html":[2,3,0,2],
 "functions_d.html":[2,3,0,3],
@@ -162,8 +163,8 @@ var NAVTREEINDEX8 =
 "functions_type.html":[2,3,3],
 "functions_u.html":[2,3,0,19],
 "functions_v.html":[2,3,0,20],
-"functions_vars.html":[2,3,2,0],
 "functions_vars.html":[2,3,2],
+"functions_vars.html":[2,3,2,0],
 "functions_vars_b.html":[2,3,2,1],
 "functions_vars_c.html":[2,3,2,2],
 "functions_vars_d.html":[2,3,2,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX8 =
 "io_2graph_8h.html#a691ab756b724e5dd463974ea498963ca":[3,0,0,1,0,0,1,2],
 "io_2graph_8h.html#ad2dcb2ad8e34f116f3f86dd104dac506":[3,0,0,1,0,0,1,1],
 "io_2graph_8h_source.html":[3,0,0,1,0,0,1],
-"io_2vec3_8cpp.html":[3,0,0,2,2,0,0],
-"io_2vec3_8h.html":[3,0,0,2,2,0,1]
+"io_2vec3_8cpp.html":[3,0,0,2,2,0,0]
 };

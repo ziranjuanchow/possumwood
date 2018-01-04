@@ -18,6 +18,7 @@ var classTimeline =
     [ "value", "classTimeline.html#a2a6d9a51547ba0b7f8568eb0f435cc20", null ],
     [ "valueChanged", "classTimeline.html#aaa4dc28bfa5929e32f2739def2c3ccf6", null ],
     [ "valueFromPosition", "classTimeline.html#a518487d2ab134db587b282a0eaeefcc4", null ],
+    [ "m_dpiScale", "classTimeline.html#a5b5ba826245bad21eb986ab37a420a68", null ],
     [ "m_labelDistance", "classTimeline.html#a9cd227dbac063101a2257224efad050b", null ],
     [ "m_range", "classTimeline.html#a522701f7dae576f50f586cdbc6604ae2", null ],
     [ "m_tickDistance", "classTimeline.html#a4f0b0279a21f3c40464580dc43aef2bf", null ],

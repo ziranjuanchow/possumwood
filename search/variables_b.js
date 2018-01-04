@@ -35,6 +35,7 @@ var searchData=
   ['m_5fdetailsdialog',['m_detailsDialog',['../classSkeleton.html#aef22b9f0e000918c96633fe8a7e7539f',1,'Skeleton::m_detailsDialog()'],['../classMeshesUI.html#a38ce2204b384f398908b534f4f55a955',1,'MeshesUI::m_detailsDialog()'],['../classPixmap.html#a132ac78c2d8adc73079d658ea3bfdeb7',1,'Pixmap::m_detailsDialog()']]],
   ['m_5fdetailswidget',['m_detailsWidget',['../classSkeleton.html#ac825efba456283c98387cc63c8419dcd',1,'Skeleton::m_detailsWidget()'],['../classMeshesUI.html#aa324d76315623cd04c9176e87751bfb2',1,'MeshesUI::m_detailsWidget()'],['../classPixmap.html#abf8c447b1e92a48736f9a0f1d9640f43',1,'Pixmap::m_detailsWidget()']]],
   ['m_5fdirty',['m_dirty',['../classdependency__graph_1_1Port.html#a4ec3ddcb2b213fb855e17a395e8102fc',1,'dependency_graph::Port']]],
+  ['m_5fdpiscale',['m_dpiScale',['../classTimeline.html#a5b5ba826245bad21eb986ab37a420a68',1,'Timeline']]],
   ['m_5fdraw',['m_draw',['../classpossumwood_1_1DrawableFunctor.html#a28092ad41dfa82a369a669687c69b035',1,'possumwood::DrawableFunctor']]],
   ['m_5fdrawablefactory',['m_drawableFactory',['../classpossumwood_1_1Metadata.html#af2b04cb5462144e406a02ec3f7746ba3',1,'possumwood::Metadata']]],
   ['m_5fdrawelementtype',['m_drawElementType',['../classpossumwood_1_1VertexData.html#a6a249abc4374bdf9e2720d5fcdcb0ea6',1,'possumwood::VertexData']]],

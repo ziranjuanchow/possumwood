@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"structTimeline_1_1TickSkip.html":[2,0,26,0],
 "structTimeline_1_1TickSkip.html#a4417150be8a25e72f9428b816e37d084":[2,0,26,0,1],
 "structTimeline_1_1TickSkip.html#ab18e33161330e8deb58d15d0fdce77d0":[2,0,26,0,0],
 "structanim_1_1Animation.html":[2,0,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4.html":[2,0,4,55],
 "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4.html#a6540a1e6c16b85c5f426690ed769f24a":[2,0,4,55,0],
 "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4.html":[2,0,4,24],
-"structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4.html#a9c94a0c9d0d4eb9ac2e697e5d67c15c0":[2,0,4,24,0],
-"structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html":[2,0,4,28]
+"structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4.html#a9c94a0c9d0d4eb9ac2e697e5d67c15c0":[2,0,4,24,0]
 };
