@@ -1,0 +1,18 @@
+<map id="src/plugins/cgal/datatypes/meshes.h" name="src/plugins/cgal/datatypes/meshes.h">
+<area shape="rect" id="node2" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1641,96,1812,123"/>
+<area shape="rect" id="node38" href="$meshes_8h.html" title="../meshes.h" alt="" coords="2464,96,2555,123"/>
+<area shape="rect" id="node4" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1611,320,1772,347"/>
+<area shape="rect" id="node7" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="1823,171,1865,197"/>
+<area shape="rect" id="node10" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1818,245,1995,272"/>
+<area shape="rect" id="node11" href="$data_8h.html" title="data.h" alt="" coords="1796,320,1853,347"/>
+<area shape="rect" id="node36" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1879,320,1973,347"/>
+<area shape="rect" id="node13" href="$json_8h.html" title="io/json.h" alt="" coords="1245,395,1315,421"/>
+<area shape="rect" id="node39" href="$cgal_8h.html" title="cgal.h" alt="" coords="2517,245,2573,272"/>
+<area shape="rect" id="node50" href="$mesh_8h.html" title="mesh.h" alt="" coords="2442,171,2507,197"/>
+<area shape="rect" id="node43" href="$property_8inl.html" title="property.inl" alt="" coords="2358,320,2444,347"/>
+<area shape="rect" id="node44" href="$plugins_2cgal_2property_8h.html" title="property.h" alt="" coords="2503,469,2581,496"/>
+<area shape="rect" id="node47" href="$plugins_2cgal_2properties_8h.html" title="properties.h" alt="" coords="2356,395,2447,421"/>
+<area shape="rect" id="node49" href="$property__item_8inl.html" title="property_item.inl" alt="" coords="2522,395,2640,421"/>
+<area shape="rect" id="node45" href="$property__key_8h.html" title="property_key.h" alt="" coords="2482,544,2589,571"/>
+<area shape="rect" id="node46" href="$property__item_8h.html" title="property_item.h" alt="" coords="2665,544,2776,571"/>
+</map>

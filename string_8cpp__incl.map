@@ -1,7 +1,7 @@
 <map id="src/libs/possumwood_sdk/ui/string.cpp" name="src/libs/possumwood_sdk/ui/string.cpp">
 <area shape="rect" id="node2" href="$string_8h.html" title="string.h" alt="" coords="1021,104,1086,131"/>
 <area shape="rect" id="node27" href="$app_8h.html" title="possumwood_sdk/app.h" alt="" coords="1555,277,1718,304"/>
-<area shape="rect" id="node3" href="$property_8h.html" title="possumwood_sdk/properties\l/property.h" alt="" coords="881,187,1068,229"/>
+<area shape="rect" id="node3" href="$libs_2possumwood__sdk_2properties_2property_8h.html" title="possumwood_sdk/properties\l/property.h" alt="" coords="881,187,1068,229"/>
 <area shape="rect" id="node7" href="$node_8inl.html" title="dependency_graph/node.inl" alt="" coords="544,435,723,461"/>
 <area shape="rect" id="node26" href="$port_8inl.html" title="dependency_graph/port.inl" alt="" coords="962,517,1136,544"/>
 <area shape="rect" id="node33" href="$unique__id_8h.html" title="possumwood_sdk/unique_id.h" alt="" coords="1402,517,1599,544"/>

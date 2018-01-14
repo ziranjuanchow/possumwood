@@ -2,11 +2,11 @@
 <area shape="rect" id="node2" href="$actions_8cpp.html" title="src/apps/possumwood\l/actions.cpp" alt="" coords="2309,97,2461,138"/>
 <area shape="rect" id="node3" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="2486,97,2639,138"/>
 <area shape="rect" id="node4" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="2663,97,2816,138"/>
-<area shape="rect" id="node5" href="$properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="2841,97,2993,138"/>
+<area shape="rect" id="node5" href="$apps_2possumwood_2properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="2841,97,2993,138"/>
 <area shape="rect" id="node6" href="$app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="3018,97,3163,138"/>
 <area shape="rect" id="node7" href="$index_8cpp.html" title="src/libs/possumwood\l_sdk/index.cpp" alt="" coords="3187,97,3332,138"/>
 <area shape="rect" id="node8" href="$node__implementation_8h.html" title="src/libs/possumwood\l_sdk/node_implementation.h" alt="" coords="3357,97,3544,138"/>
-<area shape="rect" id="node46" href="$property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="3569,97,3743,138"/>
+<area shape="rect" id="node46" href="$libs_2possumwood__sdk_2properties_2property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="3569,97,3743,138"/>
 <area shape="rect" id="node47" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="3767,97,3913,138"/>
 <area shape="rect" id="node48" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="3937,97,4084,138"/>
 <area shape="rect" id="node49" href="$graph__connections_8cpp.html" title="src/tests/dependency\l_graph/graph_connections.cpp" alt="" coords="4109,97,4307,138"/>

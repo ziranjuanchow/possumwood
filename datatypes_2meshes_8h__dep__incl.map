@@ -1,0 +1,10 @@
+<map id="src/plugins/cgal/datatypes/meshes.h" name="src/plugins/cgal/datatypes/meshes.h">
+<area shape="rect" id="node2" href="$anim_2nodes_2mesh_2cgal_8cpp.html" title="src/plugins/anim/nodes\l/mesh/cgal.cpp" alt="" coords="5,97,160,138"/>
+<area shape="rect" id="node3" href="$loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="185,97,337,138"/>
+<area shape="rect" id="node4" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="362,97,520,138"/>
+<area shape="rect" id="node5" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="545,97,751,138"/>
+<area shape="rect" id="node6" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="776,97,928,138"/>
+<area shape="rect" id="node7" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="952,97,1139,138"/>
+<area shape="rect" id="node8" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="1163,97,1315,138"/>
+<area shape="rect" id="node9" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="1339,97,1525,138"/>
+</map>

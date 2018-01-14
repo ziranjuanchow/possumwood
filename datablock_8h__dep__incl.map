@@ -40,10 +40,10 @@
 <area shape="rect" id="node37" href="$json_8cpp.html" title="src/tests/dependency\l_graph/json.cpp" alt="" coords="927,641,1073,682"/>
 <area shape="rect" id="node30" href="$actions_8cpp.html" title="src/apps/possumwood\l/actions.cpp" alt="" coords="521,641,673,682"/>
 <area shape="rect" id="node31" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="343,641,496,682"/>
-<area shape="rect" id="node32" href="$properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="1295,641,1448,682"/>
+<area shape="rect" id="node32" href="$apps_2possumwood_2properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="1295,641,1448,682"/>
 <area shape="rect" id="node33" href="$app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="1473,641,1617,682"/>
 <area shape="rect" id="node34" href="$index_8cpp.html" title="src/libs/possumwood\l_sdk/index.cpp" alt="" coords="174,641,319,682"/>
-<area shape="rect" id="node35" href="$property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="1097,641,1271,682"/>
+<area shape="rect" id="node35" href="$libs_2possumwood__sdk_2properties_2property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="1097,641,1271,682"/>
 <area shape="rect" id="node42" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="534,550,687,591"/>
 <area shape="rect" id="node44" href="$possumwood__sdk_2metadata_8h.html" title="src/libs/possumwood\l_sdk/metadata.h" alt="" coords="347,550,492,591"/>
 <area shape="rect" id="node45" href="$possumwood__sdk_2metadata_8inl.html" title="src/libs/possumwood\l_sdk/metadata.inl" alt="" coords="5,641,149,682"/>

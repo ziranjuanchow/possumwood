@@ -1,6 +1,6 @@
 <map id="src/libs/possumwood_sdk/ui/enum_ui.h" name="src/libs/possumwood_sdk/ui/enum_ui.h">
 <area shape="rect" id="node2" href="$enum_8h.html" title="datatypes/enum.h" alt="" coords="369,187,495,213"/>
-<area shape="rect" id="node39" href="$property_8h.html" title="possumwood_sdk/properties\l/property.h" alt="" coords="2526,97,2713,138"/>
+<area shape="rect" id="node39" href="$libs_2possumwood__sdk_2properties_2property_8h.html" title="possumwood_sdk/properties\l/property.h" alt="" coords="2526,97,2713,138"/>
 <area shape="rect" id="node6" href="$data__traits_8h.html" title="dependency_graph/data\l_traits.h" alt="" coords="281,502,440,543"/>
 <area shape="rect" id="node7" href="$json_8h.html" title="dependency_graph/io\l/json.h" alt="" coords="1465,262,1609,303"/>
 <area shape="rect" id="node33" href="$libs_2possumwood__sdk_2io_8h.html" title="../io.h" alt="" coords="265,352,319,379"/>

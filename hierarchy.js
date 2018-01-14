@@ -52,6 +52,7 @@ var hierarchy =
     [ "dependency_graph::io::detail::external_constructor< value_t::number_unsigned >", "structdependency__graph_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1number__unsigned_01_4.html", null ],
     [ "dependency_graph::io::detail::external_constructor< value_t::object >", "structdependency__graph_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1object_01_4.html", null ],
     [ "dependency_graph::io::detail::external_constructor< value_t::string >", "structdependency__graph_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1string_01_4.html", null ],
+    [ "possumwood::CGALItems::Face_wrapper< Refs, Traits >", "structpossumwood_1_1CGALItems_1_1Face__wrapper.html", null ],
     [ "dependency_graph::BaseData::Factory< T >", "structdependency__graph_1_1BaseData_1_1Factory.html", null ],
     [ "false_type", null, [
       [ "dependency_graph::io::detail::is_compatible_integer_type_impl< bool, typename, typename >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__integer__type__impl.html", null ],
@@ -68,6 +69,16 @@ var hierarchy =
     [ "possumwood::GLSLTraits< Imath::Vec2< T > >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html", null ],
     [ "possumwood::GLSLTraits< Imath::Vec3< T > >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html", null ],
     [ "possumwood::GLSLTraits< std::vector< Imath::Matrix44< T > > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1vector_3_01Imath_1_1Matrix44_3_01T_01_4_01_4_01_4.html", null ],
+    [ "possumwood::CGALItems::Halfedge_wrapper< Refs, Traits >", "structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html", null ],
+    [ "HalfedgeDS_face_base", null, [
+      [ "possumwood::CGALFace< Refs >", "structpossumwood_1_1CGALFace.html", null ]
+    ] ],
+    [ "HalfedgeDS_halfedge_base", null, [
+      [ "possumwood::CGALHalfedge< Refs >", "structpossumwood_1_1CGALHalfedge.html", null ]
+    ] ],
+    [ "HalfedgeDS_vertex_base", null, [
+      [ "possumwood::CGALVertex< Refs >", "classpossumwood_1_1CGALVertex.html", null ]
+    ] ],
     [ "dependency_graph::io::detail::has_from_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__from__json.html", null ],
     [ "dependency_graph::io::detail::has_non_default_from_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__non__default__from__json.html", null ],
     [ "dependency_graph::io::detail::has_to_json< BasicJsonType, T >", "structdependency__graph_1_1io_1_1detail_1_1has__to__json.html", null ],
@@ -90,7 +101,6 @@ var hierarchy =
     [ "dependency_graph::io::detail::is_compatible_object_type_impl< true, RealType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01Real0baf3277237e5138eaf03391588ae6a5.html", null ],
     [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
     [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
-    [ "possumwood::Meshes::Item", "classpossumwood_1_1Meshes_1_1Item.html", null ],
     [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >", "classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >::iteration_proxy_internal", "classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html", null ],
@@ -110,7 +120,11 @@ var hierarchy =
     [ "anim::LexicalCastHelper< boost::filesystem::path, std::string >", "structanim_1_1LexicalCastHelper_3_01boost_1_1filesystem_1_1path_00_01std_1_1string_01_4.html", null ],
     [ "anim::LexicalCastHelper< float, std::string >", "structanim_1_1LexicalCastHelper_3_01float_00_01std_1_1string_01_4.html", null ],
     [ "anim::LexicalCastHelper< std::string, std::vector< T > >", "structanim_1_1LexicalCastHelper_3_01std_1_1string_00_01std_1_1vector_3_01T_01_4_01_4.html", null ],
+    [ "possumwood::Mesh", "classpossumwood_1_1Mesh.html", null ],
     [ "possumwood::Meshes", "classpossumwood_1_1Meshes.html", null ],
+    [ "Modifier_base", null, [
+      [ "possumwood::CGALBuilder< HDS, POINTS, FACES >", "classpossumwood_1_1CGALBuilder.html", null ]
+    ] ],
     [ "dependency_graph::Selection::NodeComparator", "structdependency__graph_1_1Selection_1_1NodeComparator.html", null ],
     [ "possumwood::NodeData", "classpossumwood_1_1NodeData.html", null ],
     [ "noncopyable", null, [
@@ -256,10 +270,19 @@ var hierarchy =
     ] ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::parser", "classdependency__graph_1_1io_1_1basic__json_1_1parser.html", null ],
     [ "anim::Polygons", "classanim_1_1Polygons.html", null ],
+    [ "Polyhedron_items_3", null, [
+      [ "possumwood::CGALItems", "structpossumwood_1_1CGALItems.html", null ]
+    ] ],
     [ "node_editor::Node::PortDefinition", "structnode__editor_1_1Node_1_1PortDefinition.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::primitive_iterator_t", "classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html", null ],
     [ "dependency_graph::io::detail::priority_tag< N >", "structdependency__graph_1_1io_1_1detail_1_1priority__tag.html", null ],
     [ "dependency_graph::io::detail::priority_tag< 0 >", "structdependency__graph_1_1io_1_1detail_1_1priority__tag_3_010_01_4.html", null ],
+    [ "possumwood::Properties", "classpossumwood_1_1Properties.html", null ],
+    [ "possumwood::PropertyBase", "classpossumwood_1_1PropertyBase.html", [
+      [ "possumwood::Property< T >", "classpossumwood_1_1Property.html", null ]
+    ] ],
+    [ "possumwood::PropertyItem", "classpossumwood_1_1PropertyItem.html", null ],
+    [ "possumwood::PropertyKey", "classpossumwood_1_1PropertyKey.html", null ],
     [ "QDialog", null, [
       [ "ConfigDialog", "classConfigDialog.html", null ]
     ] ],
@@ -302,8 +325,8 @@ var hierarchy =
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_reverse_iterator< Base >", "classdependency__graph_1_1io_1_1basic__json_1_1json__reverse__iterator.html", null ]
     ] ],
     [ "openanim::RigData", "structopenanim_1_1RigData.html", null ],
-    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
+    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classdependency__graph_1_1io_1_1basic__json_1_1serializer.html", null ],
     [ "anim::Skeleton", "classanim_1_1Skeleton.html", null ],
     [ "SkeletonTest", "structSkeletonTest.html", null ],
@@ -349,6 +372,9 @@ var hierarchy =
     [ "possumwood::Uniforms::UniformHolder", "structpossumwood_1_1Uniforms_1_1UniformHolder.html", null ],
     [ "possumwood::Uniforms", "classpossumwood_1_1Uniforms.html", null ],
     [ "possumwood::UniqueId", "classpossumwood_1_1UniqueId.html", null ],
+    [ "possumwood::PropertyItem::ValueBase", "classpossumwood_1_1PropertyItem_1_1ValueBase.html", [
+      [ "possumwood::PropertyItem::Value< T >", "classpossumwood_1_1PropertyItem_1_1Value.html", null ]
+    ] ],
     [ "possumwood::GLRenderable::VBOData", "structpossumwood_1_1GLRenderable_1_1VBOData.html", null ],
     [ "possumwood::VertexData::VBOHolder", "structpossumwood_1_1VertexData_1_1VBOHolder.html", null ],
     [ "possumwood::VBOTraits< T >", "structpossumwood_1_1VBOTraits.html", null ],
@@ -357,6 +383,7 @@ var hierarchy =
     [ "possumwood::VBOTraits< std::array< T, WIDTH > >", "structpossumwood_1_1VBOTraits_3_01std_1_1array_3_01T_00_01WIDTH_01_4_01_4.html", null ],
     [ "possumwood::VBOTraits< std::vector< T > >", "structpossumwood_1_1VBOTraits_3_01std_1_1vector_3_01T_01_4_01_4.html", null ],
     [ "anim::SkinnedVertices::Vertex", "classanim_1_1SkinnedVertices_1_1Vertex.html", null ],
+    [ "possumwood::CGALItems::Vertex_wrapper< Refs, Traits >", "structpossumwood_1_1CGALItems_1_1Vertex__wrapper.html", null ],
     [ "possumwood::Drawable::ViewportState", "structpossumwood_1_1Drawable_1_1ViewportState.html", null ],
     [ "anim::Skinning::Weight", "structanim_1_1Skinning_1_1Weight.html", null ]
 ];

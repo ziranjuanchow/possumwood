@@ -11,9 +11,11 @@ var searchData=
   ['priority_5ftag',['priority_tag',['../structdependency__graph_1_1io_1_1detail_1_1priority__tag.html',1,'dependency_graph::io::detail']]],
   ['priority_5ftag_3c_200_20_3e',['priority_tag&lt; 0 &gt;',['../structdependency__graph_1_1io_1_1detail_1_1priority__tag_3_010_01_4.html',1,'dependency_graph::io::detail']]],
   ['program',['Program',['../classpossumwood_1_1Program.html',1,'possumwood']]],
+  ['properties',['Properties',['../classpossumwood_1_1Properties.html',1,'possumwood']]],
   ['properties',['Properties',['../classProperties.html',1,'']]],
-  ['property',['Property',['../structProperties_1_1Property.html',1,'Properties']]],
   ['property',['property',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
+  ['property',['Property',['../structProperties_1_1Property.html',1,'Properties']]],
+  ['property',['Property',['../classpossumwood_1_1Property.html',1,'possumwood']]],
   ['property_3c_20anim_3a_3aframeeditordata_2c_20frameeditor_20_3e',['property&lt; anim::FrameEditorData, FrameEditor &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_3c_20anim_3a_3ajointmappingeditordata_2c_20jointmappingeditor_20_3e',['property&lt; anim::JointMappingEditorData, JointMappingEditor &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_3c_20anim_3a_3askeleton_2c_20skeleton_20_3e',['property&lt; anim::Skeleton, Skeleton &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
@@ -29,5 +31,8 @@ var searchData=
   ['property_3c_20std_3a_3ashared_5fptr_3c_20const_20qpixmap_20_3e_2c_20pixmap_20_3e',['property&lt; std::shared_ptr&lt; const QPixmap &gt;, Pixmap &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_3c_20std_3a_3astring_2c_20string_5fui_20_3e',['property&lt; std::string, string_ui &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_3c_20unsigned_2c_20unsigned_5fui_20_3e',['property&lt; unsigned, unsigned_ui &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
-  ['property_5fbase',['property_base',['../classpossumwood_1_1properties_1_1property__base.html',1,'possumwood::properties']]]
+  ['property_5fbase',['property_base',['../classpossumwood_1_1properties_1_1property__base.html',1,'possumwood::properties']]],
+  ['propertybase',['PropertyBase',['../classpossumwood_1_1PropertyBase.html',1,'possumwood']]],
+  ['propertyitem',['PropertyItem',['../classpossumwood_1_1PropertyItem.html',1,'possumwood']]],
+  ['propertykey',['PropertyKey',['../classpossumwood_1_1PropertyKey.html',1,'possumwood']]]
 ];

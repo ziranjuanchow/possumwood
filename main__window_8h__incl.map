@@ -2,7 +2,7 @@
 <area shape="rect" id="node4" href="$app_8h.html" title="possumwood_sdk/app.h" alt="" coords="981,261,1144,288"/>
 <area shape="rect" id="node29" href="$editor_8h.html" title="possumwood_sdk/editor.h" alt="" coords="1721,419,1895,445"/>
 <area shape="rect" id="node30" href="$adaptor_8h.html" title="adaptor.h" alt="" coords="1946,336,2021,363"/>
-<area shape="rect" id="node35" href="$properties_8h.html" title="properties.h" alt="" coords="984,96,1075,123"/>
+<area shape="rect" id="node35" href="$apps_2possumwood_2properties_8h.html" title="properties.h" alt="" coords="984,96,1075,123"/>
 <area shape="rect" id="node38" href="$viewport_8h.html" title="viewport.h" alt="" coords="2843,501,2924,528"/>
 <area shape="rect" id="node42" href="$log_8h.html" title="log.h" alt="" coords="2147,96,2197,123"/>
 <area shape="rect" id="node44" href="$timeline__widget_8h.html" title="timeline_widget.h" alt="" coords="2392,261,2515,288"/>
@@ -18,6 +18,6 @@
 <area shape="rect" id="node27" href="$values_8h.html" title="dependency_graph/values.h" alt="" coords="1360,501,1544,528"/>
 <area shape="rect" id="node33" href="$selection_8h.html" title="dependency_graph/selection.h" alt="" coords="1177,419,1375,445"/>
 <area shape="rect" id="node34" href="$graph__widget_8h.html" title="qt_node_editor/graph\l_widget.h" alt="" coords="595,411,737,453"/>
-<area shape="rect" id="node37" href="$property_8h.html" title="possumwood_sdk/properties\l/property.h" alt="" coords="1575,171,1763,213"/>
+<area shape="rect" id="node37" href="$libs_2possumwood__sdk_2properties_2property_8h.html" title="possumwood_sdk/properties\l/property.h" alt="" coords="1575,171,1763,213"/>
 <area shape="rect" id="node48" href="$timeline_8h.html" title="timeline.h" alt="" coords="2258,336,2336,363"/>
 </map>

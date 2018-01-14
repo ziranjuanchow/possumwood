@@ -12,7 +12,7 @@
 <area shape="rect" id="node11" href="$app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="549,187,694,229"/>
 <area shape="rect" id="node12" href="$datatypes_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/filename.cpp" alt="" coords="2050,187,2239,229"/>
 <area shape="rect" id="node13" href="$time_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/time.cpp" alt="" coords="2264,187,2409,229"/>
-<area shape="rect" id="node14" href="$property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="2434,187,2607,229"/>
+<area shape="rect" id="node14" href="$libs_2possumwood__sdk_2properties_2property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="2434,187,2607,229"/>
 <area shape="rect" id="node20" href="$ui_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filename.cpp" alt="" coords="2168,369,2313,410"/>
 <area shape="rect" id="node22" href="$string_8cpp.html" title="src/libs/possumwood\l_sdk/ui/string.cpp" alt="" coords="3303,369,3447,410"/>
 <area shape="rect" id="node34" href="$periodic_8cpp.html" title="src/plugins/anim/nodes\l/animation/periodic.cpp" alt="" coords="2733,187,2889,229"/>
@@ -30,9 +30,9 @@
 <area shape="rect" id="node46" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="4997,187,5226,229"/>
 <area shape="rect" id="node47" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="5250,187,5437,229"/>
 <area shape="rect" id="node48" href="$vertex__data_2frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="5461,187,5655,229"/>
-<area shape="rect" id="node15" href="$properties_8h.html" title="src/apps/possumwood\l/properties.h" alt="" coords="923,278,1075,319"/>
+<area shape="rect" id="node15" href="$apps_2possumwood_2properties_8h.html" title="src/apps/possumwood\l/properties.h" alt="" coords="923,278,1075,319"/>
 <area shape="rect" id="node16" href="$factory_8cpp.html" title="src/libs/possumwood\l_sdk/properties/factory.cpp" alt="" coords="1100,278,1279,319"/>
-<area shape="rect" id="node17" href="$property_8cpp.html" title="src/libs/possumwood\l_sdk/properties/property.cpp" alt="" coords="1305,278,1491,319"/>
+<area shape="rect" id="node17" href="$libs_2possumwood__sdk_2properties_2property_8cpp.html" title="src/libs/possumwood\l_sdk/properties/property.cpp" alt="" coords="1305,278,1491,319"/>
 <area shape="rect" id="node18" href="$enum__ui_8h.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.h" alt="" coords="1516,278,1661,319"/>
 <area shape="rect" id="node19" href="$ui_2filename_8h.html" title="src/libs/possumwood\l_sdk/ui/filename.h" alt="" coords="1685,278,1830,319"/>
 <area shape="rect" id="node21" href="$string_8h.html" title="src/libs/possumwood\l_sdk/ui/string.h" alt="" coords="1855,278,1999,319"/>

@@ -1,0 +1,23 @@
+<map id="src/plugins/cgal/property_item.inl" name="src/plugins/cgal/property_item.inl">
+<area shape="rect" id="node2" href="$property_8inl.html" title="src/plugins/cgal/property.inl" alt="" coords="741,104,923,131"/>
+<area shape="rect" id="node22" href="$property__item_8cpp.html" title="src/plugins/cgal/property\l_item.cpp" alt="" coords="947,97,1111,138"/>
+<area shape="rect" id="node3" href="$cgal_8h.html" title="src/plugins/cgal/cgal.h" alt="" coords="1065,187,1217,213"/>
+<area shape="rect" id="node20" href="$plugins_2cgal_2properties_8h.html" title="src/plugins/cgal/properties.h" alt="" coords="739,187,924,213"/>
+<area shape="rect" id="node4" href="$anim_2nodes_2mesh_2cgal_8cpp.html" title="src/plugins/anim/nodes\l/mesh/cgal.cpp" alt="" coords="1114,502,1269,543"/>
+<area shape="rect" id="node5" href="$cgal_2cgal_8cpp.html" title="src/plugins/cgal/cgal.cpp" alt="" coords="937,261,1103,288"/>
+<area shape="rect" id="node6" href="$meshes_8h.html" title="src/plugins/cgal/meshes.h" alt="" coords="745,336,919,363"/>
+<area shape="rect" id="node10" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="1294,502,1500,543"/>
+<area shape="rect" id="node13" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="1525,502,1677,543"/>
+<area shape="rect" id="node18" href="$mesh_8h.html" title="src/plugins/cgal/mesh.h" alt="" coords="752,261,911,288"/>
+<area shape="rect" id="node7" href="$datatypes_2meshes_8h.html" title="src/plugins/cgal/datatypes\l/meshes.h" alt="" coords="730,411,904,453"/>
+<area shape="rect" id="node8" href="$loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="156,502,308,543"/>
+<area shape="rect" id="node15" href="$meshes_8cpp.html" title="src/plugins/cgal/meshes.cpp" alt="" coords="929,419,1116,445"/>
+<area shape="rect" id="node16" href="$meshes__ui_8h.html" title="src/plugins/cgal/ui\l/meshes_ui.h" alt="" coords="150,411,276,453"/>
+<area shape="rect" id="node9" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="543,502,701,543"/>
+<area shape="rect" id="node11" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="727,502,879,543"/>
+<area shape="rect" id="node12" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="903,502,1089,543"/>
+<area shape="rect" id="node14" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="332,502,519,543"/>
+<area shape="rect" id="node17" href="$meshes__ui_8cpp.html" title="src/plugins/cgal/ui\l/meshes_ui.cpp" alt="" coords="5,502,131,543"/>
+<area shape="rect" id="node19" href="$mesh_8cpp.html" title="src/plugins/cgal/mesh.cpp" alt="" coords="546,336,720,363"/>
+<area shape="rect" id="node21" href="$plugins_2cgal_2properties_8cpp.html" title="src/plugins/cgal/properties.cpp" alt="" coords="530,261,728,288"/>
+</map>

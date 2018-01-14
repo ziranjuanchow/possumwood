@@ -93,6 +93,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="#index_d"><span>d</span></a></li>
       <li><a href="#index_e"><span>e</span></a></li>
       <li><a href="#index_f"><span>f</span></a></li>
+      <li><a href="#index_h"><span>h</span></a></li>
       <li><a href="#index_i"><span>i</span></a></li>
       <li><a href="#index_j"><span>j</span></a></li>
       <li><a href="#index_n"><span>n</span></a></li>
@@ -184,7 +185,7 @@ $(document).ready(function(){initNavTree('functions_type.html','');});
 , <a class="el" href="classdependency__graph_1_1State.html#a9ef43ec4991f871a03f2e23964692760">dependency_graph::State</a>
 , <a class="el" href="classpossumwood_1_1Config.html#af75ae7bd9c06fe8fdc6e8e0f869b8de9">possumwood::Config</a>
 , <a class="el" href="classpossumwood_1_1Index.html#a04631d1272b6dfe196c146186e05c646">possumwood::Index</a>
-, <a class="el" href="classpossumwood_1_1Meshes.html#a90f9fa314c083ac104ebae1c15bdfa8a">possumwood::Meshes</a>
+, <a class="el" href="classpossumwood_1_1Meshes.html#a09ab0a45c8db33418229ce5f58e4a8be">possumwood::Meshes</a>
 </li>
 <li>const_pointer
 : <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a67774fb54eb2d9346940999f63d4ea16">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
@@ -224,9 +225,19 @@ $(document).ready(function(){initNavTree('functions_type.html','');});
 
 
 <h3><a class="anchor" id="index_f"></a>- f -</h3><ul>
+<li>Face
+: <a class="el" href="structpossumwood_1_1CGALItems_1_1Face__wrapper.html#a0fcd689bd3eb494703adfc93116a7871">possumwood::CGALItems::Face_wrapper&lt; Refs, Traits &gt;</a>
+</li>
 <li>from_fn
 : <a class="el" href="classpossumwood_1_1IO.html#a9a21cee0fa486f3081a480409f996959">possumwood::IO&lt; T &gt;</a>
 , <a class="el" href="classpossumwood_1_1IOBase.html#a9f0deaeebd2eb44b34fd828cb38e29f1">possumwood::IOBase</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_h"></a>- h -</h3><ul>
+<li>Halfedge
+: <a class="el" href="structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html#afb481782589ba5c2bf17dbd84f6a5660">possumwood::CGALItems::Halfedge_wrapper&lt; Refs, Traits &gt;</a>
 </li>
 </ul>
 
@@ -251,6 +262,7 @@ $(document).ready(function(){initNavTree('functions_type.html','');});
 , <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#abe387e8ea76aea1b6e171a5094569a53">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
 , <a class="el" href="classdependency__graph_1_1Metadata_1_1Register.html#a5d4dadcd392e128f0e8d3759e9058ed9">dependency_graph::Metadata::Register</a>
 , <a class="el" href="classpossumwood_1_1Config.html#ad9b69805a2f7ee83456ee0d171747d12">possumwood::Config</a>
+, <a class="el" href="classpossumwood_1_1Meshes.html#a0cbd7980506d946f86409ce7e7435363">possumwood::Meshes</a>
 </li>
 <li>iterator_category
 : <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1iter__impl.html#a495edb393e14b0b981866e6e381cd18a">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;</a>
@@ -300,6 +312,9 @@ $(document).ready(function(){initNavTree('functions_type.html','');});
 </li>
 <li>parser_callback_t
 : <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#aa4050680209c679b313a4a9324b36244">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
+</li>
+<li>Point
+: <a class="el" href="classpossumwood_1_1CGALVertex.html#aea14c16e2247c141bf23aff7cce25f9e">possumwood::CGALVertex&lt; Refs &gt;</a>
 </li>
 <li>pointer
 : <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1iter__impl.html#a9a0fcf8c0d62a6105a60edbf4ed3e25c">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;</a>
@@ -358,13 +373,16 @@ $(document).ready(function(){initNavTree('functions_type.html','');});
 <li>vector_t
 : <a class="el" href="classpossumwood_1_1BufferTemplated.html#a75c8ab93e0f1acfd2e08373db0e84513">possumwood::BufferTemplated&lt; T &gt;</a>
 </li>
+<li>Vertex
+: <a class="el" href="structpossumwood_1_1CGALItems_1_1Vertex__wrapper.html#a45c17e3364611f814d925d8a655df6ef">possumwood::CGALItems::Vertex_wrapper&lt; Refs, Traits &gt;</a>
+</li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Thu Jan 11 2018 19:16:37 for possumwood by
+    <li class="footer">Generated on Sun Jan 14 2018 21:13:02 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

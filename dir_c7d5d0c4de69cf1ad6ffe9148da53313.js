@@ -27,8 +27,8 @@ var dir_c7d5d0c4de69cf1ad6ffe9148da53313 =
     [ "main_window.h", "main__window_8h.html", [
       [ "MainWindow", "classMainWindow.html", "classMainWindow" ]
     ] ],
-    [ "properties.cpp", "properties_8cpp.html", null ],
-    [ "properties.h", "properties_8h.html", [
+    [ "properties.cpp", "apps_2possumwood_2properties_8cpp.html", null ],
+    [ "properties.h", "apps_2possumwood_2properties_8h.html", [
       [ "Properties", "classProperties.html", "classProperties" ],
       [ "Property", "structProperties_1_1Property.html", "structProperties_1_1Property" ]
     ] ],

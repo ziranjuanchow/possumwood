@@ -1,9 +1,9 @@
 <map id="src/libs/dependency_graph/port.inl" name="src/libs/dependency_graph/port.inl">
-<area shape="rect" id="node2" href="$properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="3126,97,3279,138"/>
+<area shape="rect" id="node2" href="$apps_2possumwood_2properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="3126,97,3279,138"/>
 <area shape="rect" id="node3" href="$dependency__graph_2port_8cpp.html" title="src/libs/dependency\l_graph/port.cpp" alt="" coords="3304,97,3443,138"/>
 <area shape="rect" id="node4" href="$app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="3467,97,3612,138"/>
 <area shape="rect" id="node5" href="$node__implementation_8h.html" title="src/libs/possumwood\l_sdk/node_implementation.h" alt="" coords="3637,97,3824,138"/>
-<area shape="rect" id="node46" href="$property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="3849,97,4023,138"/>
+<area shape="rect" id="node46" href="$libs_2possumwood__sdk_2properties_2property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="3849,97,4023,138"/>
 <area shape="rect" id="node47" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="4047,97,4193,138"/>
 <area shape="rect" id="node48" href="$common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="4217,97,4364,138"/>
 <area shape="rect" id="node49" href="$graph__connections_8cpp.html" title="src/tests/dependency\l_graph/graph_connections.cpp" alt="" coords="4389,97,4587,138"/>
