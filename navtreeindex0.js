@@ -8,7 +8,7 @@ var NAVTREEINDEX0 =
 "adaptor_8h_source.html":[3,0,0,0,1,3],
 "add_8cpp.html":[3,0,0,2,2,1,0],
 "amc_8cpp.html":[3,0,0,2,0,1,2,0],
-"anim_2nodes_2mesh_2cgal_8cpp.html":[3,0,0,2,0,1,3,0],
+"anim_2nodes_2mesh_2subset_8cpp.html":[3,0,0,2,0,1,3,5],
 "animation_8h.html":[3,0,0,2,0,0,0],
 "animation_8h_source.html":[3,0,0,2,0,0,0],
 "annotated.html":[2,0],
@@ -61,6 +61,7 @@ var NAVTREEINDEX0 =
 "builder_8h_source.html":[3,0,0,2,1,3],
 "bvh_8cpp.html":[3,0,0,2,0,1,2,2],
 "cgal_2cgal_8cpp.html":[3,0,0,2,1,4],
+"cgal_2nodes_2subset_8cpp.html":[3,0,0,2,1,1,6],
 "cgal_8h.html":[3,0,0,2,1,5],
 "cgal_8h.html#a15d09c8ad599334df7be975d778f8763":[3,0,0,2,1,5,8],
 "cgal_8h.html#ae591811944093e29e56d13859dd1fe3c":[3,0,0,2,1,5,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "classUniforms.html#abfd84cad6b08152bf82178f2501c1026":[2,0,28,3],
 "classUniforms.html#affafd8c42656016cc4dc5dab5d26693e":[2,0,28,6],
 "classVBO.html":[2,0,30],
-"classVBO.html#a0ec53e167afc386582468bc5a4cf803b":[2,0,30,6],
-"classVBO.html#a49e30beac1a9bc81d96dabd2c584bfac":[2,0,30,5]
+"classVBO.html#a0ec53e167afc386582468bc5a4cf803b":[2,0,30,6]
 };

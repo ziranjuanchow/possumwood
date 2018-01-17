@@ -23,7 +23,7 @@ var searchData=
   ['addinfo',['addInfo',['../classdependency__graph_1_1State.html#afd1ef899b08cade81bffb2d7325eb66d',1,'dependency_graph::State']]],
   ['additem',['addItem',['../classpossumwood_1_1Config.html#a4aa91ed52d0df63edc8b62ff5b99261b',1,'possumwood::Config']]],
   ['additionnode',['additionNode',['../common_8cpp.html#a2dbe9e097ab14ab0737285c36e32ed0d',1,'additionNode():&#160;common.cpp'],['../common_8h.html#a64b5709b1c8408ea2ff2614c96250cf7',1,'additionNode():&#160;common.cpp']]],
-  ['addmesh',['addMesh',['../classpossumwood_1_1Meshes.html#ab75f4f1de3334483600e65926e061670',1,'possumwood::Meshes']]],
+  ['addmesh',['addMesh',['../classpossumwood_1_1Meshes.html#ab75f4f1de3334483600e65926e061670',1,'possumwood::Meshes::addMesh(const std::string &amp;name)'],['../classpossumwood_1_1Meshes.html#a057e407a8aeee1eca4115dcce3f7da98',1,'possumwood::Meshes::addMesh(const Mesh &amp;m)']]],
   ['addmessage',['addMessage',['../classLog.html#a0cd95ee37376175216cd919ec921f57c',1,'Log']]],
   ['addnode',['addNode',['../classdependency__graph_1_1Selection.html#a7b6cb01377d904e5f1c07d869fbc2ed3',1,'dependency_graph::Selection::addNode()'],['../classnode__editor_1_1GraphScene.html#a9d8c10193af4c009997dcaf61163c91b',1,'node_editor::GraphScene::addNode()']]],
   ['addport',['addPort',['../classnode__editor_1_1Node.html#a9b1bc8065a17a611f8f9f31cdceb0fb1',1,'node_editor::Node']]],

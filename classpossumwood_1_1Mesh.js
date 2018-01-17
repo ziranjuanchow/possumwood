@@ -14,9 +14,9 @@ var classpossumwood_1_1Mesh =
     [ "vertexProperties", "classpossumwood_1_1Mesh.html#a017c5216a19b129179d9f0f144caaf10", null ],
     [ "vertexProperties", "classpossumwood_1_1Mesh.html#a477271d5afb8565435115181c25c2890", null ],
     [ "Meshes", "classpossumwood_1_1Mesh.html#afd60952d9aa7750c552afbf09bc92e9e", null ],
-    [ "m_faceProperties", "classpossumwood_1_1Mesh.html#acd3bd19e17f5eb9209a99172fb565571", null ],
-    [ "m_halfedgeProperties", "classpossumwood_1_1Mesh.html#afdcdafe62d0ac181778e731ebe761961", null ],
+    [ "m_faceProperties", "classpossumwood_1_1Mesh.html#a37e1c734342e39ce05c91ba235c1a7c5", null ],
+    [ "m_halfedgeProperties", "classpossumwood_1_1Mesh.html#a9cebff84bcdcc4ce7a0cdbd843a062f3", null ],
     [ "m_name", "classpossumwood_1_1Mesh.html#afb6f97797de8bb876ed9abf2ea9b10c6", null ],
     [ "m_polyhedron", "classpossumwood_1_1Mesh.html#a15a00c1baf8f104812e338b4958a916f", null ],
-    [ "m_vertexProperties", "classpossumwood_1_1Mesh.html#a5e290b87216b4c2d785874d34bf3dc01", null ]
+    [ "m_vertexProperties", "classpossumwood_1_1Mesh.html#a11a0cfdead214d24668c4ddefa810c66", null ]
 ];
