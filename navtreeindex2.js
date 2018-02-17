@@ -1,6 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"classanim_1_1SkinnedVertices.html#a8ebe3314bfe24ec41b9d18d4176239bb":[2,0,0,10,4],
 "classanim_1_1SkinnedVertices.html#a9234b2a431fc229ff058e6102ff980c4":[2,0,0,10,6],
 "classanim_1_1SkinnedVertices.html#a99a5e9e775683d79fae678b71e8a79f0":[2,0,0,10,1],
 "classanim_1_1SkinnedVertices.html#ab296e8ce14b9e4c816801542e3611d5f":[2,0,0,10,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX2 =
 "classdependency__graph_1_1Metadata.html#ab786137cc553d861437a4d10f073daf4":[2,0,1,10,19],
 "classdependency__graph_1_1Metadata.html#abb9acf32a290218c6965eb50f2f2ab2d":[2,0,1,10,30],
 "classdependency__graph_1_1Metadata.html#ac7bc49b64f879791f9b3d14593f7062b":[2,0,1,10,14],
-"classdependency__graph_1_1Metadata.html#aca2463d557b1bf61a97e1ac7c13668af":[2,0,1,10,16]
+"classdependency__graph_1_1Metadata.html#aca2463d557b1bf61a97e1ac7c13668af":[2,0,1,10,16],
+"classdependency__graph_1_1Metadata.html#aca5ba73ac0e3860576cf4e82d2253e85":[2,0,1,10,17]
 };

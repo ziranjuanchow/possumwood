@@ -14,14 +14,14 @@
 <area shape="rect" id="node27" href="$frame_2display_8cpp.html" title="src/plugins/anim/nodes\l/frame/display.cpp" alt="" coords="2375,278,2531,319"/>
 <area shape="rect" id="node28" href="$asf_8cpp.html" title="src/plugins/anim/nodes\l/loaders/asf.cpp" alt="" coords="2555,278,2711,319"/>
 <area shape="rect" id="node29" href="$x_8cpp.html" title="src/plugins/anim/nodes\l/loaders/x.cpp" alt="" coords="2735,278,2891,319"/>
-<area shape="rect" id="node30" href="$remove__unskinned_8cpp.html" title="src/plugins/anim/nodes\l/mesh/remove_unskinned.cpp" alt="" coords="2915,278,3111,319"/>
-<area shape="rect" id="node31" href="$skin_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin.cpp" alt="" coords="3135,278,3291,319"/>
-<area shape="rect" id="node32" href="$skin__remap__regex_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap_regex.cpp" alt="" coords="3315,278,3508,319"/>
-<area shape="rect" id="node33" href="$ui_2skeleton_8h.html" title="src/plugins/anim/ui\l/skeleton.h" alt="" coords="3533,278,3663,319"/>
-<area shape="rect" id="node35" href="$mesh__to__cgal_8cpp.html" title="src/plugins/cgal/nodes\l/anim/mesh_to_cgal.cpp" alt="" coords="3689,278,3852,319"/>
-<area shape="rect" id="node36" href="$uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="3877,278,4053,319"/>
-<area shape="rect" id="node37" href="$vertex__data_2frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="4079,278,4273,319"/>
-<area shape="rect" id="node38" href="$tests_2anim_2skeleton_8cpp.html" title="src/tests/anim/skeleton.cpp" alt="" coords="4298,285,4480,312"/>
+<area shape="rect" id="node30" href="$anim_2nodes_2mesh_2cgal_8cpp.html" title="src/plugins/anim/nodes\l/mesh/cgal.cpp" alt="" coords="2915,278,3071,319"/>
+<area shape="rect" id="node31" href="$remove__unskinned_8cpp.html" title="src/plugins/anim/nodes\l/mesh/remove_unskinned.cpp" alt="" coords="3095,278,3291,319"/>
+<area shape="rect" id="node32" href="$skin_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin.cpp" alt="" coords="3315,278,3471,319"/>
+<area shape="rect" id="node33" href="$skin__remap__regex_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap_regex.cpp" alt="" coords="3495,278,3688,319"/>
+<area shape="rect" id="node34" href="$ui_2skeleton_8h.html" title="src/plugins/anim/ui\l/skeleton.h" alt="" coords="3713,278,3843,319"/>
+<area shape="rect" id="node36" href="$uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="3869,278,4045,319"/>
+<area shape="rect" id="node37" href="$vertex__data_2frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="4071,278,4265,319"/>
+<area shape="rect" id="node38" href="$tests_2anim_2skeleton_8cpp.html" title="src/tests/anim/skeleton.cpp" alt="" coords="4290,285,4472,312"/>
 <area shape="rect" id="node6" href="$retime_8cpp.html" title="src/plugins/anim/nodes\l/animation/retime.cpp" alt="" coords="785,369,940,410"/>
 <area shape="rect" id="node7" href="$plugins_2anim_2nodes_2animation_2transform_8cpp.html" title="src/plugins/anim/nodes\l/animation/transform.cpp" alt="" coords="27,369,193,410"/>
 <area shape="rect" id="node9" href="$edit_8cpp.html" title="src/plugins/anim/nodes\l/frame/edit.cpp" alt="" coords="1218,369,1373,410"/>
@@ -36,5 +36,5 @@
 <area shape="rect" id="node22" href="$skin__remap_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap.cpp" alt="" coords="2215,369,2371,410"/>
 <area shape="rect" id="node23" href="$joint__mapping__editor_8h.html" title="src/plugins/anim/ui\l/joint_mapping_editor.h" alt="" coords="2395,369,2551,410"/>
 <area shape="rect" id="node24" href="$joint__mapping__editor_8cpp.html" title="src/plugins/anim/ui\l/joint_mapping_editor.cpp" alt="" coords="2388,459,2559,501"/>
-<area shape="rect" id="node34" href="$plugins_2anim_2ui_2skeleton_8cpp.html" title="src/plugins/anim/ui\l/skeleton.cpp" alt="" coords="3533,369,3663,410"/>
+<area shape="rect" id="node35" href="$plugins_2anim_2ui_2skeleton_8cpp.html" title="src/plugins/anim/ui\l/skeleton.cpp" alt="" coords="3713,369,3843,410"/>
 </map>

@@ -16,6 +16,7 @@ var searchData=
   ['traits_3c_20anim_3a_3asubsetselection_20_3e',['Traits&lt; anim::SubsetSelection &gt;',['../structpossumwood_1_1Traits_3_01anim_1_1SubsetSelection_01_4.html',1,'possumwood']]],
   ['traits_3c_20enum_20_3e',['Traits&lt; Enum &gt;',['../structpossumwood_1_1Traits_3_01Enum_01_4.html',1,'possumwood']]],
   ['traits_3c_20filename_20_3e',['Traits&lt; Filename &gt;',['../structpossumwood_1_1Traits_3_01Filename_01_4.html',1,'possumwood']]],
+  ['traits_3c_20font_20_3e',['Traits&lt; Font &gt;',['../structpossumwood_1_1Traits_3_01Font_01_4.html',1,'possumwood']]],
   ['traits_3c_20glparameters_20_3e',['Traits&lt; GLParameters &gt;',['../structpossumwood_1_1Traits_3_01GLParameters_01_4.html',1,'possumwood']]],
   ['traits_3c_20imath_3a_3avec3_3c_20float_20_3e_20_3e',['Traits&lt; Imath::Vec3&lt; float &gt; &gt;',['../structpossumwood_1_1Traits_3_01Imath_1_1Vec3_3_01float_01_4_01_4.html',1,'possumwood']]],
   ['traits_3c_20meshes_20_3e',['Traits&lt; Meshes &gt;',['../structpossumwood_1_1Traits_3_01Meshes_01_4.html',1,'possumwood']]],

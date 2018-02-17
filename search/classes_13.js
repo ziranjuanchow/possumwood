@@ -11,6 +11,7 @@ var searchData=
   ['vboholder',['VBOHolder',['../structpossumwood_1_1VertexData_1_1VBOHolder.html',1,'possumwood::VertexData']]],
   ['vbotraits',['VBOTraits',['../structpossumwood_1_1VBOTraits.html',1,'possumwood']]],
   ['vbotraits_3c_20cgal_3a_3apoint_5f3_3c_20cgal_3a_3asimple_5fcartesian_3c_20t_20_3e_20_3e_20_3e',['VBOTraits&lt; CGAL::Point_3&lt; CGAL::Simple_cartesian&lt; T &gt; &gt; &gt;',['../structpossumwood_1_1VBOTraits_3_01CGAL_1_1Point__3_3_01CGAL_1_1Simple__cartesian_3_01T_01_4_01_4_01_4.html',1,'possumwood']]],
+  ['vbotraits_3c_20imath_3a_3avec2_3c_20t_20_3e_20_3e',['VBOTraits&lt; Imath::Vec2&lt; T &gt; &gt;',['../structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html',1,'possumwood']]],
   ['vbotraits_3c_20imath_3a_3avec3_3c_20t_20_3e_20_3e',['VBOTraits&lt; Imath::Vec3&lt; T &gt; &gt;',['../structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html',1,'possumwood']]],
   ['vbotraits_3c_20std_3a_3aarray_3c_20t_2c_20width_20_3e_20_3e',['VBOTraits&lt; std::array&lt; T, WIDTH &gt; &gt;',['../structpossumwood_1_1VBOTraits_3_01std_1_1array_3_01T_00_01WIDTH_01_4_01_4.html',1,'possumwood']]],
   ['vbotraits_3c_20std_3a_3avector_3c_20t_20_3e_20_3e',['VBOTraits&lt; std::vector&lt; T &gt; &gt;',['../structpossumwood_1_1VBOTraits_3_01std_1_1vector_3_01T_01_4_01_4.html',1,'possumwood']]],
