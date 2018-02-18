@@ -6,7 +6,6 @@ var classMainWindow =
     [ "draw", "classMainWindow.html#ad97adcaeec86c2d2094443d45f65ff07", null ],
     [ "m_adaptor", "classMainWindow.html#a23c49ceae064122d44b98592aa1ac4ff", null ],
     [ "m_editor", "classMainWindow.html#acb62ad57c995d33ed2b545cd96575991", null ],
-    [ "m_log", "classMainWindow.html#a80b9f000661d7bb6a61bdde4d1a327a8", null ],
     [ "m_newNodeMenu", "classMainWindow.html#a91549a0c5e19b556e3e1c9e50dc55867", null ],
     [ "m_properties", "classMainWindow.html#a22f004bec556234a5eb739cfa1819647", null ],
     [ "m_timeline", "classMainWindow.html#a050021dcc60a80d9b15cb7b9b1e8aba9", null ],

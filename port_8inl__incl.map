@@ -1,10 +1,13 @@
 <map id="src/libs/dependency_graph/port.inl" name="src/libs/dependency_graph/port.inl">
-<area shape="rect" id="node2" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="967,171,1021,197"/>
-<area shape="rect" id="node36" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="896,96,957,123"/>
-<area shape="rect" id="node6" href="$attr_8h.html" title="attr.h" alt="" coords="1135,245,1187,272"/>
-<area shape="rect" id="node9" href="$datablock_8h.html" title="datablock.h" alt="" coords="1219,320,1308,347"/>
-<area shape="rect" id="node11" href="$json_8h.html" title="io/json.h" alt="" coords="1266,485,1336,512"/>
-<area shape="rect" id="node35" href="$data_8h.html" title="data.h" alt="" coords="1205,403,1263,429"/>
-<area shape="rect" id="node37" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="542,320,628,347"/>
-<area shape="rect" id="node43" href="$state_8h.html" title="state.h" alt="" coords="938,485,1000,512"/>
+<area shape="rect" id="node2" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1387,245,1441,272"/>
+<area shape="rect" id="node36" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1500,171,1561,197"/>
+<area shape="rect" id="node44" href="$graph_8h.html" title="graph.h" alt="" coords="1893,96,1957,123"/>
+<area shape="rect" id="node6" href="$attr_8h.html" title="attr.h" alt="" coords="1221,328,1272,355"/>
+<area shape="rect" id="node9" href="$datablock_8h.html" title="datablock.h" alt="" coords="1253,411,1341,437"/>
+<area shape="rect" id="node11" href="$json_8h.html" title="io/json.h" alt="" coords="1267,576,1337,603"/>
+<area shape="rect" id="node35" href="$data_8h.html" title="data.h" alt="" coords="1335,493,1392,520"/>
+<area shape="rect" id="node37" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1814,411,1900,437"/>
+<area shape="rect" id="node43" href="$state_8h.html" title="state.h" alt="" coords="1731,576,1793,603"/>
+<area shape="rect" id="node45" href="$nodes_8h.html" title="nodes.h" alt="" coords="1985,245,2052,272"/>
+<area shape="rect" id="node47" href="$connections_8h.html" title="connections.h" alt="" coords="2170,245,2272,272"/>
 </map>

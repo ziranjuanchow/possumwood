@@ -8,6 +8,7 @@ var classdependency__graph_1_1Port =
     [ "flagsCallback", "classdependency__graph_1_1Port.html#a2ecd4f18c44bfee2fd369c740060954c", null ],
     [ "get", "classdependency__graph_1_1Port.html#a5bc41bb4def46f64eac5495da361bc9f", null ],
     [ "index", "classdependency__graph_1_1Port.html#ac052e2f827c77e9c49bcee18c9710e78", null ],
+    [ "isConnected", "classdependency__graph_1_1Port.html#a57573d116e99584ccd1f8b03aa5f1549", null ],
     [ "isDirty", "classdependency__graph_1_1Port.html#a8f3218b6de635251fa4026f5e9257767", null ],
     [ "name", "classdependency__graph_1_1Port.html#af981838545c482b0c944dafdbe71de3c", null ],
     [ "node", "classdependency__graph_1_1Port.html#a5c15259905713aac476f0dd53f31d92e", null ],

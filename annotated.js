@@ -15,7 +15,6 @@ var annotated =
     [ "float_ui", "classfloat__ui.html", "classfloat__ui" ],
     [ "FrameEditor", "classFrameEditor.html", "classFrameEditor" ],
     [ "JointMappingEditor", "classJointMappingEditor.html", "classJointMappingEditor" ],
-    [ "Log", "classLog.html", "classLog" ],
     [ "MainWindow", "classMainWindow.html", "classMainWindow" ],
     [ "MeshesUI", "classMeshesUI.html", "classMeshesUI" ],
     [ "MeshSubsetEditor", "classMeshSubsetEditor.html", "classMeshSubsetEditor" ],

@@ -128,7 +128,7 @@ Collaboration diagram for dependency_graph::Port:</div>
 <div class="dyncontent">
 <div class="center"><img src="classdependency__graph_1_1Port__coll__graph.png" border="0" usemap="#dependency__graph_1_1Port_coll__map" alt="Collaboration graph"/></div>
 <map name="dependency__graph_1_1Port_coll__map" id="dependency__graph_1_1Port_coll__map">
-<area shape="rect" id="node3" href="classdependency__graph_1_1Node.html" title="dependency_graph::Node" alt="" coords="789,125,960,152"/><area shape="rect" id="node5" href="classdependency__graph_1_1Metadata.html" title="dependency_graph::Metadata" alt="" coords="153,175,346,201"/><area shape="rect" id="node6" href="classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="162,316,337,343"/><area shape="rect" id="node7" href="classdependency__graph_1_1Graph_1_1Connections.html" title="dependency_graph::Graph\l::Connections" alt="" coords="501,321,675,362"/><area shape="rect" id="node8" href="classdependency__graph_1_1Graph_1_1Nodes.html" title="dependency_graph::Graph\l::Nodes" alt="" coords="501,422,675,463"/><area shape="rect" id="node4" href="classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="489,207,687,233"/><area shape="rect" id="node9" href="classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="503,156,673,183"/></map>
+<area shape="rect" id="node3" href="classdependency__graph_1_1Node.html" title="dependency_graph::Node" alt="" coords="817,125,988,152"/><area shape="rect" id="node5" href="classdependency__graph_1_1Metadata.html" title="dependency_graph::Metadata" alt="" coords="162,95,355,121"/><area shape="rect" id="node6" href="classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="519,287,694,313"/><area shape="rect" id="node7" href="classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="814,332,991,359"/><area shape="rect" id="node8" href="classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="153,257,365,284"/><area shape="rect" id="node4" href="classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="507,43,706,69"/><area shape="rect" id="node9" href="classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="521,156,692,183"/></map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
@@ -163,6 +163,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ae76c4c8d4e4ed18a0de29c53e9a66b86"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Port.html#ae76c4c8d4e4ed18a0de29c53e9a66b86">disconnect</a> (<a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;p)</td></tr>
 <tr class="memdesc:ae76c4c8d4e4ed18a0de29c53e9a66b86"><td class="mdescLeft">&#160;</td><td class="mdescRight">disconnects two connected ports  <a href="#ae76c4c8d4e4ed18a0de29c53e9a66b86">More...</a><br/></td></tr>
 <tr class="separator:ae76c4c8d4e4ed18a0de29c53e9a66b86"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a57573d116e99584ccd1f8b03aa5f1549"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Port.html#a57573d116e99584ccd1f8b03aa5f1549">isConnected</a> () const </td></tr>
+<tr class="memdesc:a57573d116e99584ccd1f8b03aa5f1549"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns true if this port is connected to anything  <a href="#a57573d116e99584ccd1f8b03aa5f1549">More...</a><br/></td></tr>
+<tr class="separator:a57573d116e99584ccd1f8b03aa5f1549"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4bd41fbdb3f08bf7f73413285939e7a5"><td class="memItemLeft" align="right" valign="top">boost::signals2::connection&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Port.html#a4bd41fbdb3f08bf7f73413285939e7a5">valueCallback</a> (const std::function&lt; void()&gt; &amp;fn)</td></tr>
 <tr class="memdesc:a4bd41fbdb3f08bf7f73413285939e7a5"><td class="mdescLeft">&#160;</td><td class="mdescRight">adds a "value changed" callback - to be used by the UI  <a href="#a4bd41fbdb3f08bf7f73413285939e7a5">More...</a><br/></td></tr>
 <tr class="separator:a4bd41fbdb3f08bf7f73413285939e7a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -353,6 +356,23 @@ template&lt;typename T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a57573d116e99584ccd1f8b03aa5f1549"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool dependency_graph::Port::isConnected </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>returns true if this port is connected to anything </p>
 
 </div>
 </div>
@@ -651,7 +671,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Port.html">Port</a></li>
-    <li class="footer">Generated on Sun Feb 18 2018 20:08:20 for possumwood by
+    <li class="footer">Generated on Sun Feb 18 2018 23:10:38 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

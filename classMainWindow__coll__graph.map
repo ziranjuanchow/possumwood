@@ -1,15 +1,14 @@
 <map id="MainWindow" name="MainWindow">
-<area shape="rect" id="node3" href="$classLog.html" title="Log" alt="" coords="1096,107,1139,133"/>
-<area shape="rect" id="node5" href="$classProperties.html" title="A widget displaying properties of selected nodes. " alt="" coords="1077,56,1158,83"/>
-<area shape="rect" id="node6" href="$classAdaptor.html" title="A simple adaptor widget, marrying qt_graph_editor and dependency_graph. " alt="" coords="1084,288,1151,315"/>
-<area shape="rect" id="node22" href="$classTimelineWidget.html" title="TimelineWidget" alt="" coords="1061,208,1173,235"/>
-<area shape="rect" id="node23" href="$classTimeline.html" title="A simple interactive Timeline widget. " alt="" coords="762,220,833,247"/>
-<area shape="rect" id="node8" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="710,460,885,487"/>
-<area shape="rect" id="node10" href="$classdependency__graph_1_1Graph_1_1Connections.html" title="dependency_graph::Graph\l::Connections" alt="" coords="1030,434,1205,475"/>
-<area shape="rect" id="node11" href="$classdependency__graph_1_1Graph_1_1Nodes.html" title="dependency_graph::Graph\l::Nodes" alt="" coords="1030,558,1205,599"/>
-<area shape="rect" id="node18" href="$classViewport.html" title="Viewport" alt="" coords="761,660,834,687"/>
-<area shape="rect" id="node12" href="$classnode__editor_1_1GraphWidget.html" title="a simple graph widget " alt="" coords="711,321,884,348"/>
-<area shape="rect" id="node14" href="$classnode__editor_1_1GraphScene.html" title="node_editor::GraphScene" alt="" coords="433,364,602,391"/>
-<area shape="rect" id="node16" href="$classnode__editor_1_1Edge.html" title="node_editor::Edge" alt="" coords="169,397,295,424"/>
-<area shape="rect" id="node20" href="$classSearchableMenu.html" title="SearchableMenu" alt="" coords="1058,157,1177,184"/>
+<area shape="rect" id="node3" href="$classProperties.html" title="A widget displaying properties of selected nodes. " alt="" coords="1155,80,1237,107"/>
+<area shape="rect" id="node5" href="$classAdaptor.html" title="A simple adaptor widget, marrying qt_graph_editor and dependency_graph. " alt="" coords="1163,327,1229,353"/>
+<area shape="rect" id="node21" href="$classTimelineWidget.html" title="TimelineWidget" alt="" coords="1140,428,1252,455"/>
+<area shape="rect" id="node22" href="$classTimeline.html" title="A simple interactive Timeline widget. " alt="" coords="839,428,910,455"/>
+<area shape="rect" id="node7" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="787,85,962,112"/>
+<area shape="rect" id="node9" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="1107,131,1285,157"/>
+<area shape="rect" id="node10" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="433,124,645,151"/>
+<area shape="rect" id="node17" href="$classViewport.html" title="Viewport" alt="" coords="502,225,575,252"/>
+<area shape="rect" id="node11" href="$classnode__editor_1_1GraphWidget.html" title="a simple graph widget " alt="" coords="788,327,961,353"/>
+<area shape="rect" id="node13" href="$classnode__editor_1_1GraphScene.html" title="node_editor::GraphScene" alt="" coords="454,293,623,320"/>
+<area shape="rect" id="node15" href="$classnode__editor_1_1Edge.html" title="node_editor::Edge" alt="" coords="169,344,295,371"/>
+<area shape="rect" id="node19" href="$classSearchableMenu.html" title="SearchableMenu" alt="" coords="1137,276,1255,303"/>
 </map>

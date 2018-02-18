@@ -24,9 +24,5 @@ var searchData=
   ['load_2ecpp',['load.cpp',['../load_8cpp.html',1,'']]],
   ['loader_2ecpp',['loader.cpp',['../loader_8cpp.html',1,'']]],
   ['loadfile',['loadFile',['../classpossumwood_1_1App.html#a881e71f55512c25b433c7af5b5b3c587',1,'possumwood::App']]],
-  ['loc',['loc',['../classdependency__graph_1_1io_1_1basic__json_1_1serializer.html#a14a27d0d16ed5b0f380eb69b55bbcd4d',1,'dependency_graph::io::basic_json::serializer']]],
-  ['log',['Log',['../classLog.html',1,'Log'],['../classLog.html#a2d05ab5158bbe622ee1d7d8c42f6678d',1,'Log::Log()']]],
-  ['log_2ecpp',['log.cpp',['../log_8cpp.html',1,'']]],
-  ['log_2eh',['log.h',['../log_8h.html',1,'']]],
-  ['logged',['logged',['../classAdaptor.html#add986ef1cc8a881d809f021415d5f8c0',1,'Adaptor']]]
+  ['loc',['loc',['../classdependency__graph_1_1io_1_1basic__json_1_1serializer.html#a14a27d0d16ed5b0f380eb69b55bbcd4d',1,'dependency_graph::io::basic_json::serializer']]]
 ];

@@ -1,10 +1,10 @@
 <map id="possumwood::Index::Item" name="possumwood::Index::Item">
-<area shape="rect" id="node3" href="$classdependency__graph_1_1Node.html" title="dependency_graph::Node" alt="" coords="789,145,960,172"/>
-<area shape="rect" id="node5" href="$classdependency__graph_1_1Metadata.html" title="dependency_graph::Metadata" alt="" coords="153,145,346,172"/>
-<area shape="rect" id="node6" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="162,348,337,375"/>
-<area shape="rect" id="node7" href="$classdependency__graph_1_1Graph_1_1Connections.html" title="dependency_graph::Graph\l::Connections" alt="" coords="501,371,675,413"/>
-<area shape="rect" id="node8" href="$classdependency__graph_1_1Graph_1_1Nodes.html" title="dependency_graph::Graph\l::Nodes" alt="" coords="501,454,675,495"/>
-<area shape="rect" id="node4" href="$classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="489,93,687,120"/>
-<area shape="rect" id="node9" href="$classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="503,43,673,69"/>
-<area shape="rect" id="node10" href="$classnode__editor_1_1Node.html" title="node_editor::Node" alt="" coords="811,257,939,284"/>
+<area shape="rect" id="node3" href="$classdependency__graph_1_1Node.html" title="dependency_graph::Node" alt="" coords="817,145,988,172"/>
+<area shape="rect" id="node5" href="$classdependency__graph_1_1Metadata.html" title="dependency_graph::Metadata" alt="" coords="162,145,355,172"/>
+<area shape="rect" id="node6" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="519,257,694,284"/>
+<area shape="rect" id="node7" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="814,316,991,343"/>
+<area shape="rect" id="node8" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="153,199,365,225"/>
+<area shape="rect" id="node4" href="$classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="507,93,706,120"/>
+<area shape="rect" id="node9" href="$classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="521,207,692,233"/>
+<area shape="rect" id="node10" href="$classnode__editor_1_1Node.html" title="node_editor::Node" alt="" coords="839,388,967,415"/>
 </map>

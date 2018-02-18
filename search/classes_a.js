@@ -5,6 +5,5 @@ var searchData=
   ['lexicalcasthelper',['LexicalCastHelper',['../structanim_1_1LexicalCastHelper.html',1,'anim']]],
   ['lexicalcasthelper_3c_20boost_3a_3afilesystem_3a_3apath_2c_20std_3a_3astring_20_3e',['LexicalCastHelper&lt; boost::filesystem::path, std::string &gt;',['../structanim_1_1LexicalCastHelper_3_01boost_1_1filesystem_1_1path_00_01std_1_1string_01_4.html',1,'anim']]],
   ['lexicalcasthelper_3c_20float_2c_20std_3a_3astring_20_3e',['LexicalCastHelper&lt; float, std::string &gt;',['../structanim_1_1LexicalCastHelper_3_01float_00_01std_1_1string_01_4.html',1,'anim']]],
-  ['lexicalcasthelper_3c_20std_3a_3astring_2c_20std_3a_3avector_3c_20t_20_3e_20_3e',['LexicalCastHelper&lt; std::string, std::vector&lt; T &gt; &gt;',['../structanim_1_1LexicalCastHelper_3_01std_1_1string_00_01std_1_1vector_3_01T_01_4_01_4.html',1,'anim']]],
-  ['log',['Log',['../classLog.html',1,'']]]
+  ['lexicalcasthelper_3c_20std_3a_3astring_2c_20std_3a_3avector_3c_20t_20_3e_20_3e',['LexicalCastHelper&lt; std::string, std::vector&lt; T &gt; &gt;',['../structanim_1_1LexicalCastHelper_3_01std_1_1string_00_01std_1_1vector_3_01T_01_4_01_4.html',1,'anim']]]
 ];

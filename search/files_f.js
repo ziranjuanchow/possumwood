@@ -28,8 +28,7 @@ var searchData=
   ['stitch_5fborders_2ecpp',['stitch_borders.cpp',['../stitch__borders_8cpp.html',1,'']]],
   ['string_2ecpp',['string.cpp',['../string_8cpp.html',1,'']]],
   ['string_2eh',['string.h',['../string_8h.html',1,'']]],
-  ['subset_2ecpp',['subset.cpp',['../cgal_2nodes_2subset_8cpp.html',1,'']]],
-  ['subset_2ecpp',['subset.cpp',['../anim_2nodes_2mesh_2subset_8cpp.html',1,'']]],
+  ['subset_2ecpp',['subset.cpp',['../subset_8cpp.html',1,'']]],
   ['subset_5fselection_2ecpp',['subset_selection.cpp',['../subset__selection_8cpp.html',1,'']]],
   ['subset_5fselection_2eh',['subset_selection.h',['../subset__selection_8h.html',1,'']]]
 ];
