@@ -1,0 +1,16 @@
+<map id="src/plugins/render/nodes/uniforms" name="src/plugins/render/nodes/uniforms">
+<area shape="rect" id="node1" href="dir_6a21387a7fbb089a5e07b5d7eca9990e.html" title="uniforms" alt="" coords="117,52,189,100"/>
+<area shape="rect" id="node2" href="dir_df79af613fe14874a93c49b2878aa84d.html" title="anim" alt="" coords="5,148,77,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000012_000022.html" title="1" alt="" coords="84,135,92,150"/>
+<area shape="rect" id="node3" href="dir_92d6b0a96f11277df1e4ed274969f060.html" title="datatypes" alt="" coords="153,148,231,196"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000012_000041.html" title="5" alt="" coords="179,121,187,135"/>
+<area shape="rect" id="node4" href="dir_4ae9457395635a5f58e3dc5d8f6443b4.html" title="maths" alt="" coords="79,244,151,292"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000012_000037.html" title="1" alt="" coords="127,220,135,235"/>
+<area shape="rect" id="node5" href="dir_91c9d2e87dd13602397f5b4d38043d61.html" title="libs" alt="" coords="116,340,188,388"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000012_000013.html" title="10" alt="" coords="179,323,194,337"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000022_000037.html" title="2" alt="" coords="88,217,96,232"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000022_000013.html" title="44" alt="" coords="99,316,114,331"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000041_000013.html" title="14" alt="" coords="162,316,176,331"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000037_000013.html" title="11" alt="" coords="137,313,151,327"/>
+<area shape="rect" id="clust1" href="dir_36c942c48d214d148af49e2583a2e923.html" title="nodes" alt="" coords="107,16,200,111"/>
+</map>

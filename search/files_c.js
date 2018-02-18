@@ -11,8 +11,5 @@ var searchData=
   ['node_5fdata_2eh',['node_data.h',['../node__data_8h.html',1,'']]],
   ['node_5fimplementation_2ecpp',['node_implementation.cpp',['../node__implementation_8cpp.html',1,'']]],
   ['node_5fimplementation_2eh',['node_implementation.h',['../node__implementation_8h.html',1,'']]],
-  ['nodes_2ecpp',['nodes.cpp',['../nodes_8cpp.html',1,'']]],
-  ['nodes_2eh',['nodes.h',['../nodes_8h.html',1,'']]],
-  ['nodes_2einl',['nodes.inl',['../nodes_8inl.html',1,'']]],
   ['normals_5fgenerator_2ecpp',['normals_generator.cpp',['../normals__generator_8cpp.html',1,'']]]
 ];

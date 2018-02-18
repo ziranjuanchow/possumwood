@@ -43,18 +43,18 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "actions_8cpp.html",
-"classVBO.html#a8316eff57abaeb870e4213c1418a6369",
-"classanim_1_1SkinnedVertices.html#a9234b2a431fc229ff058e6102ff980c4",
-"classdependency__graph_1_1Node.html#a1f2f6d3a5e9062717e8ae26526b64ac0",
+"classVBO.html#a49e30beac1a9bc81d96dabd2c584bfac",
+"classanim_1_1SkinnedVertices.html#a8ebe3314bfe24ec41b9d18d4176239bb",
+"classdependency__graph_1_1Metadata.html#aca5ba73ac0e3860576cf4e82d2253e85",
 "classdependency__graph_1_1io_1_1basic__json.html#a98e4a63fbbf3293241a4a18a8b074dc2",
 "classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#ae28ca6ab06b9c6e2bd6eb575c95f49fb",
 "classnode__editor_1_1Node.html#af03e8f43596de25ad83b28459adc8893",
 "classpossumwood_1_1IO.html#af2f25b05b169519f9ee236f3831a196d",
-"classpossumwood_1_1VertexShader.html",
-"functions_func.html",
-"namespacemembers_vars.html",
-"structdependency__graph_1_1io_1_1detail_1_1from__json__fn.html#ae1e2a2e9dea6a79a3d6e01e22ad8919b",
-"tests_2anim_2transform_8cpp.html"
+"classpossumwood_1_1VertexData.html#ad01ebe326f620de86b7decc25afce692",
+"functions_func_b.html",
+"namespacemembers_type.html",
+"structdependency__graph_1_1io_1_1detail_1_1has__from__json.html#a08b959d392112eaa9d17d06e5875970f",
+"tests_2anim_2transform_8cpp.html#a49daf7173b31c27fbfa958263c03113c"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
