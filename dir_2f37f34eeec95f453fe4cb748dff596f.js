@@ -9,6 +9,10 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
       [ "OutAttr", "classdependency__graph_1_1OutAttr.html", "classdependency__graph_1_1OutAttr" ]
     ] ],
     [ "attr.inl", "attr_8inl.html", null ],
+    [ "connections.cpp", "connections_8cpp.html", null ],
+    [ "connections.h", "connections_8h.html", [
+      [ "Connections", "classdependency__graph_1_1Connections.html", "classdependency__graph_1_1Connections" ]
+    ] ],
     [ "data.cpp", "data_8cpp.html", null ],
     [ "data.h", "data_8h.html", [
       [ "BaseData", "classdependency__graph_1_1BaseData.html", "classdependency__graph_1_1BaseData" ],
@@ -26,9 +30,7 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
     [ "datablock.inl", "datablock_8inl.html", null ],
     [ "graph.cpp", "graph_8cpp.html", null ],
     [ "graph.h", "graph_8h.html", [
-      [ "Graph", "classdependency__graph_1_1Graph.html", "classdependency__graph_1_1Graph" ],
-      [ "Nodes", "classdependency__graph_1_1Graph_1_1Nodes.html", "classdependency__graph_1_1Graph_1_1Nodes" ],
-      [ "Connections", "classdependency__graph_1_1Graph_1_1Connections.html", "classdependency__graph_1_1Graph_1_1Connections" ]
+      [ "Graph", "classdependency__graph_1_1Graph.html", "classdependency__graph_1_1Graph" ]
     ] ],
     [ "io.h", "libs_2dependency__graph_2io_8h.html", "libs_2dependency__graph_2io_8h" ],
     [ "metadata.cpp", "dependency__graph_2metadata_8cpp.html", [
@@ -46,6 +48,11 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
       [ "Node", "classdependency__graph_1_1Node.html", "classdependency__graph_1_1Node" ]
     ] ],
     [ "node.inl", "node_8inl.html", null ],
+    [ "nodes.cpp", "nodes_8cpp.html", null ],
+    [ "nodes.h", "nodes_8h.html", [
+      [ "Nodes", "classdependency__graph_1_1Nodes.html", "classdependency__graph_1_1Nodes" ]
+    ] ],
+    [ "nodes.inl", "nodes_8inl.html", null ],
     [ "port.cpp", "dependency__graph_2port_8cpp.html", null ],
     [ "port.h", "dependency__graph_2port_8h.html", [
       [ "Port", "classdependency__graph_1_1Port.html", "classdependency__graph_1_1Port" ]

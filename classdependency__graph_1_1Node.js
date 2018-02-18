@@ -24,6 +24,7 @@ var classdependency__graph_1_1Node =
     [ "state", "classdependency__graph_1_1Node.html#ab87440288d12d207a83644428b83c212", null ],
     [ "Graph", "classdependency__graph_1_1Node.html#afab89afd724f1b07b1aaad6bdc61c47a", null ],
     [ "io::adl_serializer< Node >", "classdependency__graph_1_1Node.html#a72aa0f4cfd3b52942b652401b5dc8180", null ],
+    [ "Nodes", "classdependency__graph_1_1Node.html#a9f39f523a64c996048110330ed69202d", null ],
     [ "Port", "classdependency__graph_1_1Node.html#aa502b594a737a49ef3dfcd93538c9a49", null ],
     [ "m_blindData", "classdependency__graph_1_1Node.html#af543559ee21bdd010791cdb6bf882ada", null ],
     [ "m_data", "classdependency__graph_1_1Node.html#a42384c246c81ca47c649538d5be555c2", null ],
