@@ -17,6 +17,7 @@ var classdependency__graph_1_1Nodes =
     [ "operator[]", "classdependency__graph_1_1Nodes.html#a29d6f4b6edef84e60ec1de8a68a39616", null ],
     [ "size", "classdependency__graph_1_1Nodes.html#a591e2ded42ae0eff9da52262b2b0fd7a", null ],
     [ "Graph", "classdependency__graph_1_1Nodes.html#afab89afd724f1b07b1aaad6bdc61c47a", null ],
+    [ "Network", "classdependency__graph_1_1Nodes.html#a88b59289ffd793fecd040d32e397b1e9", null ],
     [ "Node", "classdependency__graph_1_1Nodes.html#a6db9d28bd448a131448276ee03de1e6d", null ],
     [ "NodeBase", "classdependency__graph_1_1Nodes.html#a332a286fe15131e3b7d4be88690867a3", null ],
     [ "m_nodes", "classdependency__graph_1_1Nodes.html#a7eaa8ae7ebf8c61be9013e67a46a7a80", null ],

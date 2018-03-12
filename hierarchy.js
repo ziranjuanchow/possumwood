@@ -138,6 +138,7 @@ var hierarchy =
       [ "dependency_graph::Connections", "classdependency__graph_1_1Connections.html", null ],
       [ "dependency_graph::Graph", "classdependency__graph_1_1Graph.html", null ],
       [ "dependency_graph::Metadata", "classdependency__graph_1_1Metadata.html", null ],
+      [ "dependency_graph::Network", "classdependency__graph_1_1Network.html", null ],
       [ "dependency_graph::NodeBase", "classdependency__graph_1_1NodeBase.html", [
         [ "dependency_graph::Node", "classdependency__graph_1_1Node.html", null ]
       ] ],

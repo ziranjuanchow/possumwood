@@ -45,6 +45,10 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
       [ "Comparator", "structdependency__graph_1_1Metadata_1_1Comparator.html", "structdependency__graph_1_1Metadata_1_1Comparator" ]
     ] ],
     [ "metadata.inl", "dependency__graph_2metadata_8inl.html", null ],
+    [ "network.cpp", "network_8cpp.html", null ],
+    [ "network.h", "network_8h.html", [
+      [ "Network", "classdependency__graph_1_1Network.html", "classdependency__graph_1_1Network" ]
+    ] ],
     [ "node.cpp", "dependency__graph_2node_8cpp.html", null ],
     [ "node.h", "dependency__graph_2node_8h.html", [
       [ "Node", "classdependency__graph_1_1Node.html", "classdependency__graph_1_1Node" ]

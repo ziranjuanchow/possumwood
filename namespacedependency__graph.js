@@ -12,6 +12,7 @@ var namespacedependency__graph =
     [ "Datablock", "classdependency__graph_1_1Datablock.html", "classdependency__graph_1_1Datablock" ],
     [ "Graph", "classdependency__graph_1_1Graph.html", "classdependency__graph_1_1Graph" ],
     [ "Metadata", "classdependency__graph_1_1Metadata.html", "classdependency__graph_1_1Metadata" ],
+    [ "Network", "classdependency__graph_1_1Network.html", "classdependency__graph_1_1Network" ],
     [ "Node", "classdependency__graph_1_1Node.html", "classdependency__graph_1_1Node" ],
     [ "NodeBase", "classdependency__graph_1_1NodeBase.html", "classdependency__graph_1_1NodeBase" ],
     [ "Nodes", "classdependency__graph_1_1Nodes.html", "classdependency__graph_1_1Nodes" ],

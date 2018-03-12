@@ -129,7 +129,7 @@ Collaboration diagram for dependency_graph::Nodes:</div>
 <div class="dyncontent">
 <div class="center"><img src="classdependency__graph_1_1Nodes__coll__graph.png" border="0" usemap="#dependency__graph_1_1Nodes_coll__map" alt="Collaboration graph"/></div>
 <map name="dependency__graph_1_1Nodes_coll__map" id="dependency__graph_1_1Nodes_coll__map">
-<area shape="rect" id="node3" href="classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="93,173,267,200"/><area shape="rect" id="node4" href="classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="257,83,468,109"/></map>
+<area shape="rect" id="node4" href="classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="203,173,390,200"/><area shape="rect" id="node3" href="classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="61,264,235,291"/><area shape="rect" id="node5" href="classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="232,83,443,109"/></map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
@@ -196,6 +196,8 @@ Friends</h2></td></tr>
 <tr class="separator:a332a286fe15131e3b7d4be88690867a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6db9d28bd448a131448276ee03de1e6d"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a6db9d28bd448a131448276ee03de1e6d">Node</a></td></tr>
 <tr class="separator:a6db9d28bd448a131448276ee03de1e6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a88b59289ffd793fecd040d32e397b1e9"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a88b59289ffd793fecd040d32e397b1e9">Network</a></td></tr>
+<tr class="separator:a88b59289ffd793fecd040d32e397b1e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p><a class="el" href="structdependency__graph_1_1Data.html">Data</a> structure holding node instances. Iterators are not guaranteed to remain valid after operations, but the node instances are stored in a vector container (their positions in the array will not change after add, and erase shifts subsequent indices), and each node instance's memory address is guaranteed not to change during its lifetime (<a class="el" href="classdependency__graph_1_1Nodes.html">Nodes</a> are stored as pointers). </p>
@@ -526,6 +528,26 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
+<a class="anchor" id="a88b59289ffd793fecd040d32e397b1e9"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="classdependency__graph_1_1Network.html">Network</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a6db9d28bd448a131448276ee03de1e6d"></a>
 <div class="memitem">
 <div class="memproto">
@@ -618,7 +640,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Nodes.html">Nodes</a></li>
-    <li class="footer">Generated on Mon Mar 12 2018 08:08:44 for possumwood by
+    <li class="footer">Generated on Mon Mar 12 2018 22:53:54 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>
