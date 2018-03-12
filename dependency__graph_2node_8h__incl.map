@@ -1,9 +1,10 @@
 <map id="src/libs/dependency_graph/node.h" name="src/libs/dependency_graph/node.h">
-<area shape="rect" id="node6" href="$attr_8h.html" title="attr.h" alt="" coords="2165,171,2216,197"/>
-<area shape="rect" id="node35" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1579,245,1665,272"/>
-<area shape="rect" id="node41" href="$state_8h.html" title="state.h" alt="" coords="1866,411,1928,437"/>
-<area shape="rect" id="node42" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="2229,96,2283,123"/>
-<area shape="rect" id="node9" href="$datablock_8h.html" title="datablock.h" alt="" coords="2198,245,2287,272"/>
-<area shape="rect" id="node11" href="$json_8h.html" title="io/json.h" alt="" coords="1258,411,1328,437"/>
-<area shape="rect" id="node34" href="$data_8h.html" title="data.h" alt="" coords="1719,328,1776,355"/>
+<area shape="rect" id="node6" href="$node__base_8h.html" title="node_base.h" alt="" coords="1084,96,1180,123"/>
+<area shape="rect" id="node33" href="$attr_8h.html" title="attr.h" alt="" coords="1350,171,1401,197"/>
+<area shape="rect" id="node36" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="797,245,883,272"/>
+<area shape="rect" id="node42" href="$state_8h.html" title="state.h" alt="" coords="1367,411,1429,437"/>
+<area shape="rect" id="node43" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1349,96,1403,123"/>
+<area shape="rect" id="node8" href="$data_8h.html" title="data.h" alt="" coords="935,328,992,355"/>
+<area shape="rect" id="node9" href="$json_8h.html" title="io/json.h" alt="" coords="1221,411,1291,437"/>
+<area shape="rect" id="node35" href="$datablock_8h.html" title="datablock.h" alt="" coords="1265,245,1353,272"/>
 </map>

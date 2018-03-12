@@ -1,10 +1,11 @@
 <map id="src/libs/dependency_graph/selection.h" name="src/libs/dependency_graph/selection.h">
-<area shape="rect" id="node3" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="2035,96,2096,123"/>
-<area shape="rect" id="node8" href="$attr_8h.html" title="attr.h" alt="" coords="1989,245,2040,272"/>
-<area shape="rect" id="node37" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="2175,320,2261,347"/>
-<area shape="rect" id="node42" href="$state_8h.html" title="state.h" alt="" coords="2062,485,2124,512"/>
-<area shape="rect" id="node43" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="2226,171,2280,197"/>
-<area shape="rect" id="node11" href="$datablock_8h.html" title="datablock.h" alt="" coords="1494,320,1583,347"/>
-<area shape="rect" id="node13" href="$json_8h.html" title="io/json.h" alt="" coords="1249,485,1319,512"/>
-<area shape="rect" id="node36" href="$data_8h.html" title="data.h" alt="" coords="1509,403,1567,429"/>
+<area shape="rect" id="node3" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1769,96,1831,123"/>
+<area shape="rect" id="node8" href="$node__base_8h.html" title="node_base.h" alt="" coords="1476,171,1572,197"/>
+<area shape="rect" id="node35" href="$attr_8h.html" title="attr.h" alt="" coords="1742,245,1793,272"/>
+<area shape="rect" id="node38" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1937,320,2023,347"/>
+<area shape="rect" id="node43" href="$state_8h.html" title="state.h" alt="" coords="1405,485,1467,512"/>
+<area shape="rect" id="node44" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1806,171,1860,197"/>
+<area shape="rect" id="node10" href="$data_8h.html" title="data.h" alt="" coords="1327,403,1384,429"/>
+<area shape="rect" id="node11" href="$json_8h.html" title="io/json.h" alt="" coords="1181,485,1251,512"/>
+<area shape="rect" id="node37" href="$datablock_8h.html" title="datablock.h" alt="" coords="1245,320,1333,347"/>
 </map>

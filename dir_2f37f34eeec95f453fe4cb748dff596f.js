@@ -28,7 +28,9 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
       [ "Datablock", "classdependency__graph_1_1Datablock.html", "classdependency__graph_1_1Datablock" ]
     ] ],
     [ "datablock.inl", "datablock_8inl.html", null ],
-    [ "graph.cpp", "graph_8cpp.html", null ],
+    [ "graph.cpp", "graph_8cpp.html", [
+      [ "Signals", "structdependency__graph_1_1Graph_1_1Signals.html", "structdependency__graph_1_1Graph_1_1Signals" ]
+    ] ],
     [ "graph.h", "graph_8h.html", [
       [ "Graph", "classdependency__graph_1_1Graph.html", "classdependency__graph_1_1Graph" ]
     ] ],
@@ -48,6 +50,11 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
       [ "Node", "classdependency__graph_1_1Node.html", "classdependency__graph_1_1Node" ]
     ] ],
     [ "node.inl", "node_8inl.html", null ],
+    [ "node_base.cpp", "node__base_8cpp.html", null ],
+    [ "node_base.h", "node__base_8h.html", [
+      [ "NodeBase", "classdependency__graph_1_1NodeBase.html", "classdependency__graph_1_1NodeBase" ]
+    ] ],
+    [ "node_base.inl", "node__base_8inl.html", null ],
     [ "nodes.cpp", "nodes_8cpp.html", null ],
     [ "nodes.h", "nodes_8h.html", [
       [ "Nodes", "classdependency__graph_1_1Nodes.html", "classdependency__graph_1_1Nodes" ]

@@ -7,6 +7,7 @@ var searchData=
   ['serializer',['serializer',['../classdependency__graph_1_1io_1_1basic__json_1_1serializer.html',1,'dependency_graph::io::basic_json']]],
   ['shader',['Shader',['../classpossumwood_1_1Shader.html',1,'possumwood']]],
   ['shadereditor',['ShaderEditor',['../classpossumwood_1_1ShaderEditor.html',1,'possumwood']]],
+  ['signals',['Signals',['../structdependency__graph_1_1Graph_1_1Signals.html',1,'dependency_graph::Graph']]],
   ['skeleton',['Skeleton',['../classanim_1_1Skeleton.html',1,'anim']]],
   ['skeleton',['Skeleton',['../classSkeleton.html',1,'']]],
   ['skeletontest',['SkeletonTest',['../structSkeletonTest.html',1,'']]],

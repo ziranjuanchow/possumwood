@@ -12,12 +12,13 @@ var classdependency__graph_1_1Nodes =
     [ "end", "classdependency__graph_1_1Nodes.html#a899bbb007eb112857c17b70ea375c1ea", null ],
     [ "end", "classdependency__graph_1_1Nodes.html#a62c9f997a688a497bac5debc323bc2e2", null ],
     [ "erase", "classdependency__graph_1_1Nodes.html#aeeea61a418e09c456952bdd800f6583a", null ],
-    [ "findNodeIndex", "classdependency__graph_1_1Nodes.html#a8c0a30794da1cd32ecae7717219e180e", null ],
+    [ "findNodeIndex", "classdependency__graph_1_1Nodes.html#a2eea41987aa42db9b4b14506f00c1264", null ],
     [ "operator[]", "classdependency__graph_1_1Nodes.html#a4df8f77f69b0cb72fe17d8996eb7e85f", null ],
     [ "operator[]", "classdependency__graph_1_1Nodes.html#a29d6f4b6edef84e60ec1de8a68a39616", null ],
     [ "size", "classdependency__graph_1_1Nodes.html#a591e2ded42ae0eff9da52262b2b0fd7a", null ],
     [ "Graph", "classdependency__graph_1_1Nodes.html#afab89afd724f1b07b1aaad6bdc61c47a", null ],
     [ "Node", "classdependency__graph_1_1Nodes.html#a6db9d28bd448a131448276ee03de1e6d", null ],
+    [ "NodeBase", "classdependency__graph_1_1Nodes.html#a332a286fe15131e3b7d4be88690867a3", null ],
     [ "m_nodes", "classdependency__graph_1_1Nodes.html#a7eaa8ae7ebf8c61be9013e67a46a7a80", null ],
     [ "m_parent", "classdependency__graph_1_1Nodes.html#a0c54fb37ab6716ef52439878ca1004e1", null ]
 ];
