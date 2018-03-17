@@ -1,13 +1,13 @@
 <map id="src/libs/possumwood_sdk/editor.cpp" name="src/libs/possumwood_sdk/editor.cpp">
-<area shape="rect" id="node2" href="$editor_8h.html" title="editor.h" alt="" coords="769,96,833,123"/>
-<area shape="rect" id="node37" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="965,245,1027,272"/>
-<area shape="rect" id="node6" href="$attr_8h.html" title="dependency_graph/attr.h" alt="" coords="1509,395,1673,421"/>
-<area shape="rect" id="node36" href="$values_8h.html" title="dependency_graph/values.h" alt="" coords="775,171,959,197"/>
-<area shape="rect" id="node10" href="$datablock_8h.html" title="datablock.h" alt="" coords="1433,469,1521,496"/>
-<area shape="rect" id="node11" href="$json_8h.html" title="io/json.h" alt="" coords="1397,635,1467,661"/>
-<area shape="rect" id="node35" href="$data_8h.html" title="data.h" alt="" coords="1352,552,1409,579"/>
-<area shape="rect" id="node38" href="$node__base_8h.html" title="node_base.h" alt="" coords="1209,320,1305,347"/>
-<area shape="rect" id="node39" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="597,469,683,496"/>
-<area shape="rect" id="node45" href="$state_8h.html" title="state.h" alt="" coords="678,635,740,661"/>
-<area shape="rect" id="node46" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1077,320,1131,347"/>
+<area shape="rect" id="node2" href="$editor_8h.html" title="editor.h" alt="" coords="1178,96,1243,123"/>
+<area shape="rect" id="node37" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1141,245,1203,272"/>
+<area shape="rect" id="node6" href="$attr_8h.html" title="dependency_graph/attr.h" alt="" coords="1356,395,1520,421"/>
+<area shape="rect" id="node36" href="$values_8h.html" title="dependency_graph/values.h" alt="" coords="1073,171,1257,197"/>
+<area shape="rect" id="node10" href="$datablock_8h.html" title="datablock.h" alt="" coords="1354,469,1443,496"/>
+<area shape="rect" id="node11" href="$json_8h.html" title="io/json.h" alt="" coords="1347,635,1417,661"/>
+<area shape="rect" id="node35" href="$data_8h.html" title="data.h" alt="" coords="1303,552,1360,579"/>
+<area shape="rect" id="node38" href="$node__base_8h.html" title="node_base.h" alt="" coords="939,320,1035,347"/>
+<area shape="rect" id="node40" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="606,469,692,496"/>
+<area shape="rect" id="node46" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1151,320,1205,347"/>
+<area shape="rect" id="node39" href="$state_8h.html" title="state.h" alt="" coords="687,635,749,661"/>
 </map>

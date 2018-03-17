@@ -15,7 +15,7 @@ var classdependency__graph_1_1Connections =
     [ "end", "classdependency__graph_1_1Connections.html#a876a9ea28a3a178d78c8509c63e9ee2b", null ],
     [ "onConnect", "classdependency__graph_1_1Connections.html#a41a1595c707bf0903c35b596e8016eb6", null ],
     [ "onDisconnect", "classdependency__graph_1_1Connections.html#a31bf8e678f32592c3bc583cee7426fc6", null ],
-    [ "purge", "classdependency__graph_1_1Connections.html#a3dae17afcaccf2a7f0e8870898e0dcff", null ],
+    [ "purge", "classdependency__graph_1_1Connections.html#a2d6614f9bd6094c1932faf949a9a8243", null ],
     [ "remove", "classdependency__graph_1_1Connections.html#af74c644b0ac8883c4841f53650a14e6a", null ],
     [ "size", "classdependency__graph_1_1Connections.html#a3a3dda8fe29abea7388cbf8d10fc190c", null ],
     [ "m_connections", "classdependency__graph_1_1Connections.html#a37c4262b0def67ff035982047e57e06f", null ],

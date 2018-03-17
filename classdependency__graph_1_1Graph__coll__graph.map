@@ -1,5 +1,6 @@
 <map id="dependency_graph::Graph" name="dependency_graph::Graph">
-<area shape="rect" id="node3" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="155,275,342,301"/>
-<area shape="rect" id="node4" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="160,184,337,211"/>
-<area shape="rect" id="node5" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="395,133,606,160"/>
+<area shape="rect" id="node2" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="205,173,392,200"/>
+<area shape="rect" id="node3" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="405,264,604,291"/>
+<area shape="rect" id="node5" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="5,264,181,291"/>
+<area shape="rect" id="node6" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="193,83,404,109"/>
 </map>

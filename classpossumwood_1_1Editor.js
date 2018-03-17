@@ -2,7 +2,7 @@ var classpossumwood_1_1Editor =
 [
     [ "Editor", "classpossumwood_1_1Editor.html#afd62f15eded4b9ce229967bdbf3118de", null ],
     [ "~Editor", "classpossumwood_1_1Editor.html#a7740a71338e175ff4bad522935bed8a3", null ],
-    [ "setNodeReference", "classpossumwood_1_1Editor.html#a97d2b263f0d9f7c48eed42496da39f34", null ],
+    [ "setNodeReference", "classpossumwood_1_1Editor.html#a04f2af2456620a6791a1f44d355d0b19", null ],
     [ "valueChanged", "classpossumwood_1_1Editor.html#afcd5e62afa3406335d0f051d657198fc", null ],
     [ "values", "classpossumwood_1_1Editor.html#a2ee1c2a93c99e155c6633732ed4aa2c9", null ],
     [ "values", "classpossumwood_1_1Editor.html#a19a4889f92938322b57e31d406b71e98", null ],

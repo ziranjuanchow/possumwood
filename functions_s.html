@@ -205,7 +205,7 @@ $(document).ready(function(){initNavTree('functions_s.html','');});
 <li>set()
 : <a class="el" href="classbool__ui.html#ab78edfe69bd8d2914187c43d73b74e52">bool_ui</a>
 , <a class="el" href="classdependency__graph_1_1Datablock.html#a523e640865f32b47d0638c136052581c">dependency_graph::Datablock</a>
-, <a class="el" href="classdependency__graph_1_1Node.html#a45a81a71b9fcc5fdd69130c49facddd9">dependency_graph::Node</a>
+, <a class="el" href="classdependency__graph_1_1NodeBase.html#afee64171a17d39c7c1fd3ac530e1233b">dependency_graph::NodeBase</a>
 , <a class="el" href="classdependency__graph_1_1Port.html#a0de3bb78b6f2edd976c5aa289a27c9d1">dependency_graph::Port</a>
 , <a class="el" href="classdependency__graph_1_1Values.html#a352ff2c4bee7a8fe88ae28c0d5c08963">dependency_graph::Values</a>
 , <a class="el" href="classenum__ui.html#ac6f8329f33a4e3caa2e5bd2578445397">enum_ui</a>
@@ -244,6 +244,11 @@ $(document).ready(function(){initNavTree('functions_s.html','');});
 <li>setCompute()
 : <a class="el" href="classdependency__graph_1_1Metadata.html#a5af3adc9489b67593c00a611219699d7">dependency_graph::Metadata</a>
 , <a class="el" href="classpossumwood_1_1Metadata.html#a3e167bb6124d6fcc46daafb41cae2251">possumwood::Metadata</a>
+</li>
+<li>setDatablock()
+: <a class="el" href="classdependency__graph_1_1Network.html#adc362d8795e3d223cfba825e841b8c43">dependency_graph::Network</a>
+, <a class="el" href="classdependency__graph_1_1Node.html#a2314719ff30ac44c86f029f7eb5b8610">dependency_graph::Node</a>
+, <a class="el" href="classdependency__graph_1_1NodeBase.html#aaed72a766800cc6a2baacf7e9b74e365">dependency_graph::NodeBase</a>
 </li>
 <li>setDirty()
 : <a class="el" href="classdependency__graph_1_1Port.html#a093b639f606e151a0ab0fddafb3d7a1b">dependency_graph::Port</a>
@@ -291,7 +296,7 @@ $(document).ready(function(){initNavTree('functions_s.html','');});
 : <a class="el" href="classnode__editor_1_1GraphScene.html#a5a967af50e32d22de143feb39f792338">node_editor::GraphScene</a>
 </li>
 <li>setNodeReference()
-: <a class="el" href="classpossumwood_1_1Editor.html#a97d2b263f0d9f7c48eed42496da39f34">possumwood::Editor</a>
+: <a class="el" href="classpossumwood_1_1Editor.html#a04f2af2456620a6791a1f44d355d0b19">possumwood::Editor</a>
 </li>
 <li>setNodesMoveCallback()
 : <a class="el" href="classnode__editor_1_1GraphScene.html#a773d9fd6ea1d64be154f9d828ae8ace0">node_editor::GraphScene</a>
@@ -398,7 +403,7 @@ $(document).ready(function(){initNavTree('functions_s.html','');});
 </li>
 <li>Skeleton
 : <a class="el" href="classanim_1_1Skeleton_1_1Joint.html#a6a11291b70c2cbded85d321ce539c62f">anim::Skeleton::Joint</a>
-, <a class="el" href="classanim_1_1Skeleton.html#af01a02f1ce9ae4c801cd6e66ccf7407f">anim::Skeleton</a>
+, <a class="el" href="classanim_1_1Skeleton.html#a5ce96faf871847ec710b038052f3fa5b">anim::Skeleton</a>
 </li>
 <li>skeleton
 : <a class="el" href="structopenanim_1_1RigData.html#a4293272d5655b303a11aef6fccb55760">openanim::RigData</a>
@@ -435,23 +440,21 @@ $(document).ready(function(){initNavTree('functions_s.html','');});
 , <a class="el" href="classanim_1_1Tokenizer_1_1State.html#a5d62b28240b6e7ebb402a516a0cb34a6">anim::Tokenizer::State</a>
 </li>
 <li>state()
-: <a class="el" href="classdependency__graph_1_1Node.html#ab87440288d12d207a83644428b83c212">dependency_graph::Node</a>
+: <a class="el" href="classdependency__graph_1_1Network.html#a4802737166687b8eb641f9206408873c">dependency_graph::Network</a>
+, <a class="el" href="classdependency__graph_1_1Node.html#a6cbfc1854e6aab549a8fbc4aa4d580c2">dependency_graph::Node</a>
+, <a class="el" href="classdependency__graph_1_1NodeBase.html#a9814d99fba425e31dc86c9c6308ffa79">dependency_graph::NodeBase</a>
 </li>
 <li>State()
 : <a class="el" href="classdependency__graph_1_1State.html#a5697fbf8c1f754d7ed3953c23e9db10f">dependency_graph::State</a>
+, <a class="el" href="classnode__editor_1_1Node.html#a34b6a04a0eb552d7f9bcd55aa92f4ca4">node_editor::Node</a>
 </li>
 <li>state()
 : <a class="el" href="classnode__editor_1_1Node.html#a007874c602ee383e7b10ffd763d8f442">node_editor::Node</a>
-</li>
-<li>State
-: <a class="el" href="classnode__editor_1_1Node.html#a34b6a04a0eb552d7f9bcd55aa92f4ca4">node_editor::Node</a>
-</li>
-<li>state()
-: <a class="el" href="classpossumwood_1_1Program.html#a6be29c0cd1b08662c1a1816800663e88">possumwood::Program</a>
+, <a class="el" href="classpossumwood_1_1Program.html#a6be29c0cd1b08662c1a1816800663e88">possumwood::Program</a>
 , <a class="el" href="classpossumwood_1_1Shader.html#aa96dac7be761fb6c78ed2f96ac3bd3c0">possumwood::Shader</a>
 </li>
 <li>stateChanged()
-: <a class="el" href="classdependency__graph_1_1Graph.html#a825ebe6163153e1e29fa7dd3f547b040">dependency_graph::Graph</a>
+: <a class="el" href="classdependency__graph_1_1Graph.html#ab91984be797b216a3fb44fe1cea916c3">dependency_graph::Graph</a>
 </li>
 <li>str
 : <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1output__string__adapter.html#a0e82f7db46dae7ec4a5b5e316fe9563e">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::output_string_adapter&lt; CharType &gt;</a>
@@ -469,7 +472,7 @@ $(document).ready(function(){initNavTree('functions_s.html','');});
 : <a class="el" href="classstring__ui.html#a9bf00a2468da9131e626b733ac55f465">string_ui</a>
 </li>
 <li>strtof()
-: <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#a365faa1b21b7f434d205e3d3138b95a2">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::lexer</a>
+: <a class="el" href="classdependency__graph_1_1io_1_1basic__json_1_1lexer.html#a5a0a4485f8e788fdc740dd961fdbdce3">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::lexer</a>
 </li>
 <li>SubsetSelection
 : <a class="el" href="classanim_1_1SubsetSelection_1_1const__iterator.html#aa6094864861bd1d971b3b99ef3ee2581">anim::SubsetSelection::const_iterator</a>
@@ -477,7 +480,7 @@ $(document).ready(function(){initNavTree('functions_s.html','');});
 , <a class="el" href="classanim_1_1SubsetSelection.html#aad75ba5497ada4050fab0adc3fda72d5">anim::SubsetSelection</a>
 </li>
 <li>swap()
-: <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a1ff131bba028c9d95937fa624bac3f7c">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
+: <a class="el" href="classdependency__graph_1_1io_1_1basic__json.html#a3246dd3f285338bdd25dc4697d4f255b">dependency_graph::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
 </li>
 </ul>
 </div><!-- contents -->
@@ -485,7 +488,7 @@ $(document).ready(function(){initNavTree('functions_s.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Mar 12 2018 22:53:56 for possumwood by
+    <li class="footer">Generated on Sat Mar 17 2018 16:25:03 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>
