@@ -1,10 +1,5 @@
 var NAVTREEINDEX12 =
 {
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#ae26596ad855a39f65b5652b257b908db":[2,0,4,70,3,4],
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#ae3870648498c76866c26f4e49f8d36a7":[2,0,4,70,3,5],
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#ae4e70efa4a9798ebcca247339a8d0ac0":[2,0,4,70,3,1],
-"structpossumwood_1_1VBOTraits.html":[2,0,4,74],
-"structpossumwood_1_1VBOTraits.html#a4001f4ccbdd9495d199f3e82a711b280":[2,0,4,74,0],
 "structpossumwood_1_1VBOTraits.html#afcb389218b785193ccb34b0c5678a1f3":[2,0,4,74,1],
 "structpossumwood_1_1VBOTraits_3_01CGAL_1_1Point__3_3_01CGAL_1_1Simple__cartesian_3_01T_01_4_01_4_01_4.html":[2,0,4,80],
 "structpossumwood_1_1VBOTraits_3_01CGAL_1_1Point__3_3_01CGAL_1_1Simple__cartesian_3_01T_01_4_01_4_01_4.html#aeb744fb9cf1a6586410c319faf13057d":[2,0,4,80,1],

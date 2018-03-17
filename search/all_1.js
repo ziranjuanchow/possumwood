@@ -16,7 +16,7 @@ var searchData=
   ['binary_5freader',['binary_reader',['../classdependency__graph_1_1io_1_1basic__json_1_1binary__reader.html',1,'dependency_graph::io::basic_json']]],
   ['binary_5fwriter',['binary_writer',['../classdependency__graph_1_1io_1_1basic__json_1_1binary__writer.html',1,'dependency_graph::io::basic_json']]],
   ['binary_5fwriter',['binary_writer',['../classdependency__graph_1_1io_1_1basic__json_1_1binary__writer.html#aec291f30e39ad72816dc87366a44bc52',1,'dependency_graph::io::basic_json::binary_writer']]],
-  ['blinddata',['blindData',['../classdependency__graph_1_1Metadata.html#a8b0d05d1f977fcbe338deeaaf40eb8b4',1,'dependency_graph::Metadata::blindData()'],['../classdependency__graph_1_1NodeBase.html#ac1fa58b3e5e28f1c1ba7d9cad074fd2e',1,'dependency_graph::NodeBase::blindData()']]],
+  ['blinddata',['blindData',['../classdependency__graph_1_1NodeBase.html#ac1fa58b3e5e28f1c1ba7d9cad074fd2e',1,'dependency_graph::NodeBase']]],
   ['blinddatachanged',['blindDataChanged',['../classdependency__graph_1_1Graph.html#acf16a7e91a9344f571d9266143ec0be2',1,'dependency_graph::Graph']]],
   ['bone',['bone',['../structanim_1_1Skinning_1_1Weight.html#aabf8e03a4c65023efb914f5460f9b9a7',1,'anim::Skinning::Weight']]],
   ['bone_5frename_2ecpp',['bone_rename.cpp',['../bone__rename_8cpp.html',1,'']]],

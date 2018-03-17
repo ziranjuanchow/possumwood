@@ -136,7 +136,9 @@ var hierarchy =
       [ "anim::Tokenizer", "classanim_1_1Tokenizer.html", null ],
       [ "anim::Tokenizer::State", "classanim_1_1Tokenizer_1_1State.html", null ],
       [ "dependency_graph::Connections", "classdependency__graph_1_1Connections.html", null ],
-      [ "dependency_graph::Metadata", "classdependency__graph_1_1Metadata.html", null ],
+      [ "dependency_graph::Metadata", "classdependency__graph_1_1Metadata.html", [
+        [ "possumwood::Metadata", "classpossumwood_1_1Metadata.html", null ]
+      ] ],
       [ "dependency_graph::NodeBase", "classdependency__graph_1_1NodeBase.html", [
         [ "dependency_graph::Network", "classdependency__graph_1_1Network.html", [
           [ "dependency_graph::Graph", "classdependency__graph_1_1Graph.html", null ]
@@ -184,7 +186,6 @@ var hierarchy =
         [ "possumwood::IO< std::string >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< T >", "classpossumwood_1_1IO.html", null ]
       ] ],
-      [ "possumwood::Metadata", "classpossumwood_1_1Metadata.html", null ],
       [ "possumwood::NodeImplementation", "structpossumwood_1_1NodeImplementation.html", null ],
       [ "possumwood::Program", "classpossumwood_1_1Program.html", null ],
       [ "possumwood::properties::factories", "classpossumwood_1_1properties_1_1factories.html", null ],
