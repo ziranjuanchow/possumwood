@@ -13,6 +13,7 @@ var hierarchy =
         [ "dependency_graph::InAttr< std::string >", "classdependency__graph_1_1InAttr.html", null ]
       ] ]
     ] ],
+    [ "dependency_graph::Attr::AttrData", "structdependency__graph_1_1Attr_1_1AttrData.html", null ],
     [ "anim::Attribute", "classanim_1_1Attribute.html", null ],
     [ "anim::Attributes", "classanim_1_1Attributes.html", null ],
     [ "B1", null, [
@@ -26,7 +27,7 @@ var hierarchy =
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_writer", "classdependency__graph_1_1io_1_1basic__json_1_1binary__writer.html", null ],
     [ "possumwood::Buffer< T >", "classpossumwood_1_1Buffer.html", null ],
     [ "anim::Children< JOINT, CONTAINER >", "classanim_1_1Children.html", null ],
-    [ "dependency_graph::Metadata::Comparator", "structdependency__graph_1_1Metadata_1_1Comparator.html", null ],
+    [ "dependency_graph::MetadataRegister::Compare", "structdependency__graph_1_1MetadataRegister_1_1Compare.html", null ],
     [ "dependency_graph::Selection::Connection", "structdependency__graph_1_1Selection_1_1Connection.html", null ],
     [ "possumwood::Uniforms::DataBase", "structpossumwood_1_1Uniforms_1_1DataBase.html", [
       [ "possumwood::Uniforms::Data< T >", "structpossumwood_1_1Uniforms_1_1Data.html", null ]
@@ -102,8 +103,8 @@ var hierarchy =
     [ "dependency_graph::io::detail::is_compatible_object_type< BasicJsonType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type.html", null ],
     [ "dependency_graph::io::detail::is_compatible_object_type_impl< true, RealType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01Real0baf3277237e5138eaf03391588ae6a5.html", null ],
     [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
-    [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
     [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
+    [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >", "classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >::iteration_proxy_internal", "classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html", null ],
     [ "iterator", null, [
@@ -124,6 +125,8 @@ var hierarchy =
     [ "anim::LexicalCastHelper< std::string, std::vector< T > >", "structanim_1_1LexicalCastHelper_3_01std_1_1string_00_01std_1_1vector_3_01T_01_4_01_4.html", null ],
     [ "possumwood::Mesh", "classpossumwood_1_1Mesh.html", null ],
     [ "possumwood::Meshes", "classpossumwood_1_1Meshes.html", null ],
+    [ "dependency_graph::MetadataHandle", "classdependency__graph_1_1MetadataHandle.html", null ],
+    [ "dependency_graph::MetadataRegister", "classdependency__graph_1_1MetadataRegister.html", null ],
     [ "Modifier_base", null, [
       [ "possumwood::CGALBuilder< HDS, POINTS, FACES >", "classpossumwood_1_1CGALBuilder.html", null ]
     ] ],
@@ -326,7 +329,6 @@ var hierarchy =
       [ "Timeline", "classTimeline.html", null ],
       [ "TimelineWidget", "classTimelineWidget.html", null ]
     ] ],
-    [ "dependency_graph::Metadata::Register", "classdependency__graph_1_1Metadata_1_1Register.html", null ],
     [ "reverse_iterator", null, [
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_reverse_iterator< Base >", "classdependency__graph_1_1io_1_1basic__json_1_1json__reverse__iterator.html", null ]
     ] ],

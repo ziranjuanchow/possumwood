@@ -9,6 +9,7 @@ var searchData=
   ['animation',['Animation',['../structanim_1_1Animation.html',1,'anim']]],
   ['app',['App',['../classpossumwood_1_1App.html',1,'possumwood']]],
   ['attr',['Attr',['../classdependency__graph_1_1Attr.html',1,'dependency_graph']]],
+  ['attrdata',['AttrData',['../structdependency__graph_1_1Attr_1_1AttrData.html',1,'dependency_graph::Attr']]],
   ['attribute',['Attribute',['../classanim_1_1Attribute.html',1,'anim']]],
   ['attributes',['Attributes',['../classanim_1_1Attributes.html',1,'anim']]]
 ];

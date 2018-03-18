@@ -119,7 +119,6 @@ Namespaces</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Attr.html">Attr</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Common attribute base class.  <a href="classdependency__graph_1_1Attr.html#details">More...</a><br/></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1TypedAttr.html">TypedAttr</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -144,6 +143,10 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html">Metadata</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1MetadataHandle.html">MetadataHandle</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1MetadataRegister.html">MetadataRegister</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Network.html">Network</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Node.html">Node</a></td></tr>
@@ -163,6 +166,8 @@ Classes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
+<tr class="memitem:a5b32756554bc1d8c8c1104ecc6679da0"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacedependency__graph.html#a5b32756554bc1d8c8c1104ecc6679da0">operator&lt;&lt;</a> (std::ostream &amp;out, const <a class="el" href="classdependency__graph_1_1Attr.html">Attr</a> &amp;attr)</td></tr>
+<tr class="separator:a5b32756554bc1d8c8c1104ecc6679da0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab7167919051a09eabc58d568d6ad3d90"><td class="memItemLeft" align="right" valign="top">const std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacedependency__graph.html#ab7167919051a09eabc58d568d6ad3d90">unmangledName</a> (const char *<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>)</td></tr>
 <tr class="memdesc:ab7167919051a09eabc58d568d6ad3d90"><td class="mdescLeft">&#160;</td><td class="mdescRight">This method uses internal GCC ways to unmangle name and returns the result in a string.  <a href="#ab7167919051a09eabc58d568d6ad3d90">More...</a><br/></td></tr>
 <tr class="separator:ab7167919051a09eabc58d568d6ad3d90"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -193,6 +198,32 @@ Functions</h2></td></tr>
           <td></td>
           <td class="paramtype">const State &amp;&#160;</td>
           <td class="paramname"><em>s</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a5b32756554bc1d8c8c1104ecc6679da0"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::ostream &amp; dependency_graph::operator&lt;&lt; </td>
+          <td>(</td>
+          <td class="paramtype">std::ostream &amp;&#160;</td>
+          <td class="paramname"><em>out</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const Attr &amp;&#160;</td>
+          <td class="paramname"><em>attr</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -267,7 +298,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li>
-    <li class="footer">Generated on Sun Mar 18 2018 00:23:31 for possumwood by
+    <li class="footer">Generated on Sun Mar 18 2018 19:11:48 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

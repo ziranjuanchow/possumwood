@@ -2,5 +2,5 @@
 <area shape="rect" id="node3" href="$classdependency__graph_1_1InAttr.html" title="Input attribute type (constructed by Metadata class) " alt="" coords="5,155,208,181"/>
 <area shape="rect" id="node4" href="$classdependency__graph_1_1OutAttr.html" title="Output attribute type (constructed by Metadata class) " alt="" coords="232,155,445,181"/>
 <area shape="rect" id="node5" href="$classdependency__graph_1_1InAttr.html" title="InAttr\&lt; std::string \&gt;" alt="" coords="469,155,604,181"/>
-<area shape="rect" id="node2" href="$classdependency__graph_1_1Attr.html" title="Common attribute base class. " alt="" coords="259,5,417,32"/>
+<area shape="rect" id="node2" href="$classdependency__graph_1_1Attr.html" title="dependency_graph::Attr" alt="" coords="259,5,417,32"/>
 </map>

@@ -13,7 +13,7 @@ var classdependency__graph_1_1NodeBase =
     [ "hasParentNetwork", "classdependency__graph_1_1NodeBase.html#a8c07c80037da7dfc526d1302b6d1bf6f", null ],
     [ "index", "classdependency__graph_1_1NodeBase.html#a84ba955bc52bade4ff24d4bb13524abd", null ],
     [ "markAsDirty", "classdependency__graph_1_1NodeBase.html#abcf506d4c52ef20b65f13126d09082bb", null ],
-    [ "metadata", "classdependency__graph_1_1NodeBase.html#ae26e61e7932d48a445c7689984023260", null ],
+    [ "metadata", "classdependency__graph_1_1NodeBase.html#a8cf3e11de2d7eb306c1fbcbfa42420f3", null ],
     [ "name", "classdependency__graph_1_1NodeBase.html#a66e471f0aba593e1d82dbaab70545667", null ],
     [ "network", "classdependency__graph_1_1NodeBase.html#a18fd1bda1bc793c7a3eac4bbcfae48ea", null ],
     [ "network", "classdependency__graph_1_1NodeBase.html#a408c0ddcbfca20502133cfdf630caf0e", null ],

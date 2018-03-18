@@ -1,13 +1,8 @@
 var dir_2f37f34eeec95f453fe4cb748dff596f =
 [
     [ "io", "dir_70d8b055225fabee50c3c1cb1318899f.html", "dir_70d8b055225fabee50c3c1cb1318899f" ],
-    [ "attr.cpp", "attr_8cpp.html", null ],
-    [ "attr.h", "attr_8h.html", [
-      [ "Attr", "classdependency__graph_1_1Attr.html", "classdependency__graph_1_1Attr" ],
-      [ "TypedAttr", "classdependency__graph_1_1TypedAttr.html", "classdependency__graph_1_1TypedAttr" ],
-      [ "InAttr", "classdependency__graph_1_1InAttr.html", "classdependency__graph_1_1InAttr" ],
-      [ "OutAttr", "classdependency__graph_1_1OutAttr.html", "classdependency__graph_1_1OutAttr" ]
-    ] ],
+    [ "attr.cpp", "attr_8cpp.html", "attr_8cpp" ],
+    [ "attr.h", "attr_8h.html", "attr_8h" ],
     [ "attr.inl", "attr_8inl.html", null ],
     [ "connections.cpp", "connections_8cpp.html", null ],
     [ "connections.h", "connections_8h.html", [
@@ -35,16 +30,19 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
       [ "Graph", "classdependency__graph_1_1Graph.html", "classdependency__graph_1_1Graph" ]
     ] ],
     [ "io.h", "libs_2dependency__graph_2io_8h.html", "libs_2dependency__graph_2io_8h" ],
-    [ "metadata.cpp", "dependency__graph_2metadata_8cpp.html", [
-      [ "Register", "classdependency__graph_1_1Metadata_1_1Register.html", "classdependency__graph_1_1Metadata_1_1Register" ]
-    ] ],
+    [ "metadata.cpp", "dependency__graph_2metadata_8cpp.html", null ],
     [ "metadata.h", "dependency__graph_2metadata_8h.html", [
       [ "InAttr", "classdependency__graph_1_1InAttr.html", "classdependency__graph_1_1InAttr" ],
       [ "OutAttr", "classdependency__graph_1_1OutAttr.html", "classdependency__graph_1_1OutAttr" ],
       [ "Metadata", "classdependency__graph_1_1Metadata.html", "classdependency__graph_1_1Metadata" ],
-      [ "Comparator", "structdependency__graph_1_1Metadata_1_1Comparator.html", "structdependency__graph_1_1Metadata_1_1Comparator" ]
+      [ "MetadataHandle", "classdependency__graph_1_1MetadataHandle.html", "classdependency__graph_1_1MetadataHandle" ]
     ] ],
     [ "metadata.inl", "dependency__graph_2metadata_8inl.html", null ],
+    [ "metadata_register.cpp", "metadata__register_8cpp.html", null ],
+    [ "metadata_register.h", "metadata__register_8h.html", [
+      [ "MetadataRegister", "classdependency__graph_1_1MetadataRegister.html", "classdependency__graph_1_1MetadataRegister" ],
+      [ "Compare", "structdependency__graph_1_1MetadataRegister_1_1Compare.html", "structdependency__graph_1_1MetadataRegister_1_1Compare" ]
+    ] ],
     [ "network.cpp", "network_8cpp.html", null ],
     [ "network.h", "network_8h.html", [
       [ "Network", "classdependency__graph_1_1Network.html", "classdependency__graph_1_1Network" ]
