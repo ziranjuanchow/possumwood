@@ -21,5 +21,6 @@ var namespacedependency__graph =
     [ "Port", "classdependency__graph_1_1Port.html", "classdependency__graph_1_1Port" ],
     [ "Selection", "classdependency__graph_1_1Selection.html", "classdependency__graph_1_1Selection" ],
     [ "State", "classdependency__graph_1_1State.html", "classdependency__graph_1_1State" ],
+    [ "UniqueId", "classdependency__graph_1_1UniqueId.html", "classdependency__graph_1_1UniqueId" ],
     [ "Values", "classdependency__graph_1_1Values.html", "classdependency__graph_1_1Values" ]
 ];

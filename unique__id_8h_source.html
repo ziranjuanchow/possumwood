@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.6"/>
-<title>possumwood: src/libs/possumwood_sdk/unique_id.h Source File</title>
+<title>possumwood: src/libs/dependency_graph/unique_id.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -108,37 +108,37 @@ $(document).ready(function(){initNavTree('unique__id_8h_source.html','');});
 <div class="contents">
 <a href="unique__id_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#pragma once</span></div>
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor"></span></div>
-<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="preprocessor">#include &lt;cstddef&gt;</span></div>
+<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="preprocessor">#include &lt;atomic&gt;</span></div>
 <div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;</div>
-<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="keyword">namespace </span>possumwood {</div>
+<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="keyword">namespace </span>dependency_graph {</div>
 <div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;</div>
-<div class="line"><a name="l00013"></a><span class="lineno"><a class="line" href="classpossumwood_1_1UniqueId.html">   13</a></span>&#160;<span class="keyword">class </span><a class="code" href="classpossumwood_1_1UniqueId.html">UniqueId</a> {</div>
+<div class="line"><a name="l00013"></a><span class="lineno"><a class="line" href="classdependency__graph_1_1UniqueId.html">   13</a></span>&#160;<span class="keyword">class </span><a class="code" href="classdependency__graph_1_1UniqueId.html">UniqueId</a> {</div>
 <div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;    <span class="keyword">public</span>:</div>
-<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;        <a class="code" href="classpossumwood_1_1UniqueId.html#a8519426ae174d554591e21af26236dd4">UniqueId</a>();</div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;        <a class="code" href="classdependency__graph_1_1UniqueId.html#a08266d00c43e595f2bd86e6461b4eee4">UniqueId</a>();</div>
 <div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;</div>
-<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;        <span class="keywordtype">bool</span> <a class="code" href="classpossumwood_1_1UniqueId.html#a5d359cb24609f020482e5b79381db6c6">operator == </a>(<span class="keyword">const</span> <a class="code" href="classpossumwood_1_1UniqueId.html">UniqueId</a>&amp; <span class="keywordtype">id</span>) <span class="keyword">const</span>;</div>
-<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;        <span class="keywordtype">bool</span> <a class="code" href="classpossumwood_1_1UniqueId.html#a07df3467132cf92cd01addbeab029713">operator != </a>(<span class="keyword">const</span> <a class="code" href="classpossumwood_1_1UniqueId.html">UniqueId</a>&amp; <span class="keywordtype">id</span>) <span class="keyword">const</span>;</div>
+<div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;        <span class="keywordtype">bool</span> <a class="code" href="classdependency__graph_1_1UniqueId.html#ae6c52103e0ff9e2c9f14cd0191e08ff3">operator == </a>(<span class="keyword">const</span> <a class="code" href="classdependency__graph_1_1UniqueId.html">UniqueId</a>&amp; <span class="keywordtype">id</span>) <span class="keyword">const</span>;</div>
+<div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;        <span class="keywordtype">bool</span> <a class="code" href="classdependency__graph_1_1UniqueId.html#aa89604ecd2b99c4de13a572a77b7886b">operator != </a>(<span class="keyword">const</span> <a class="code" href="classdependency__graph_1_1UniqueId.html">UniqueId</a>&amp; <span class="keywordtype">id</span>) <span class="keyword">const</span>;</div>
 <div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;</div>
-<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;        <span class="keywordtype">bool</span> <a class="code" href="classpossumwood_1_1UniqueId.html#ac9f0a103883a53e781d76d2a790c85e1">operator &lt; </a>(<span class="keyword">const</span> <a class="code" href="classpossumwood_1_1UniqueId.html">UniqueId</a>&amp; <span class="keywordtype">id</span>) <span class="keyword">const</span>;</div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;        <span class="keywordtype">bool</span> <a class="code" href="classdependency__graph_1_1UniqueId.html#a50144f0b81520219016510e6a3e26b4e">operator &lt; </a>(<span class="keyword">const</span> <a class="code" href="classdependency__graph_1_1UniqueId.html">UniqueId</a>&amp; <span class="keywordtype">id</span>) <span class="keyword">const</span>;</div>
 <div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;</div>
 <div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;    <span class="keyword">private</span>:</div>
-<div class="line"><a name="l00023"></a><span class="lineno"><a class="line" href="classpossumwood_1_1UniqueId.html#af404e76646895bd0cc229df8719567fc">   23</a></span>&#160;        std::size_t <a class="code" href="classpossumwood_1_1UniqueId.html#af404e76646895bd0cc229df8719567fc">m_id</a>;</div>
+<div class="line"><a name="l00023"></a><span class="lineno"><a class="line" href="classdependency__graph_1_1UniqueId.html#a61e228e6cad35691ce649e8982f76c6f">   23</a></span>&#160;        std::size_t <a class="code" href="classdependency__graph_1_1UniqueId.html#a61e228e6cad35691ce649e8982f76c6f">m_id</a>;</div>
 <div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;};</div>
 <div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;</div>
 <div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;}</div>
-<div class="ttc" id="classpossumwood_1_1UniqueId_html"><div class="ttname"><a href="classpossumwood_1_1UniqueId.html">possumwood::UniqueId</a></div><div class="ttdef"><b>Definition:</b> unique_id.h:13</div></div>
-<div class="ttc" id="classpossumwood_1_1UniqueId_html_a5d359cb24609f020482e5b79381db6c6"><div class="ttname"><a href="classpossumwood_1_1UniqueId.html#a5d359cb24609f020482e5b79381db6c6">possumwood::UniqueId::operator==</a></div><div class="ttdeci">bool operator==(const UniqueId &amp;id) const </div><div class="ttdef"><b>Definition:</b> unique_id.cpp:13</div></div>
-<div class="ttc" id="classpossumwood_1_1UniqueId_html_a07df3467132cf92cd01addbeab029713"><div class="ttname"><a href="classpossumwood_1_1UniqueId.html#a07df3467132cf92cd01addbeab029713">possumwood::UniqueId::operator!=</a></div><div class="ttdeci">bool operator!=(const UniqueId &amp;id) const </div><div class="ttdef"><b>Definition:</b> unique_id.cpp:17</div></div>
-<div class="ttc" id="classpossumwood_1_1UniqueId_html_a8519426ae174d554591e21af26236dd4"><div class="ttname"><a href="classpossumwood_1_1UniqueId.html#a8519426ae174d554591e21af26236dd4">possumwood::UniqueId::UniqueId</a></div><div class="ttdeci">UniqueId()</div><div class="ttdef"><b>Definition:</b> unique_id.cpp:7</div></div>
-<div class="ttc" id="classpossumwood_1_1UniqueId_html_ac9f0a103883a53e781d76d2a790c85e1"><div class="ttname"><a href="classpossumwood_1_1UniqueId.html#ac9f0a103883a53e781d76d2a790c85e1">possumwood::UniqueId::operator&lt;</a></div><div class="ttdeci">bool operator&lt;(const UniqueId &amp;id) const </div><div class="ttdef"><b>Definition:</b> unique_id.cpp:21</div></div>
-<div class="ttc" id="classpossumwood_1_1UniqueId_html_af404e76646895bd0cc229df8719567fc"><div class="ttname"><a href="classpossumwood_1_1UniqueId.html#af404e76646895bd0cc229df8719567fc">possumwood::UniqueId::m_id</a></div><div class="ttdeci">std::size_t m_id</div><div class="ttdef"><b>Definition:</b> unique_id.h:23</div></div>
+<div class="ttc" id="classdependency__graph_1_1UniqueId_html_a61e228e6cad35691ce649e8982f76c6f"><div class="ttname"><a href="classdependency__graph_1_1UniqueId.html#a61e228e6cad35691ce649e8982f76c6f">dependency_graph::UniqueId::m_id</a></div><div class="ttdeci">std::size_t m_id</div><div class="ttdef"><b>Definition:</b> unique_id.h:23</div></div>
+<div class="ttc" id="classdependency__graph_1_1UniqueId_html_ae6c52103e0ff9e2c9f14cd0191e08ff3"><div class="ttname"><a href="classdependency__graph_1_1UniqueId.html#ae6c52103e0ff9e2c9f14cd0191e08ff3">dependency_graph::UniqueId::operator==</a></div><div class="ttdeci">bool operator==(const UniqueId &amp;id) const </div><div class="ttdef"><b>Definition:</b> unique_id.cpp:13</div></div>
+<div class="ttc" id="classdependency__graph_1_1UniqueId_html_aa89604ecd2b99c4de13a572a77b7886b"><div class="ttname"><a href="classdependency__graph_1_1UniqueId.html#aa89604ecd2b99c4de13a572a77b7886b">dependency_graph::UniqueId::operator!=</a></div><div class="ttdeci">bool operator!=(const UniqueId &amp;id) const </div><div class="ttdef"><b>Definition:</b> unique_id.cpp:17</div></div>
+<div class="ttc" id="classdependency__graph_1_1UniqueId_html"><div class="ttname"><a href="classdependency__graph_1_1UniqueId.html">dependency_graph::UniqueId</a></div><div class="ttdef"><b>Definition:</b> unique_id.h:13</div></div>
+<div class="ttc" id="classdependency__graph_1_1UniqueId_html_a08266d00c43e595f2bd86e6461b4eee4"><div class="ttname"><a href="classdependency__graph_1_1UniqueId.html#a08266d00c43e595f2bd86e6461b4eee4">dependency_graph::UniqueId::UniqueId</a></div><div class="ttdeci">UniqueId()</div><div class="ttdef"><b>Definition:</b> unique_id.cpp:7</div></div>
+<div class="ttc" id="classdependency__graph_1_1UniqueId_html_a50144f0b81520219016510e6a3e26b4e"><div class="ttname"><a href="classdependency__graph_1_1UniqueId.html#a50144f0b81520219016510e6a3e26b4e">dependency_graph::UniqueId::operator&lt;</a></div><div class="ttdeci">bool operator&lt;(const UniqueId &amp;id) const </div><div class="ttdef"><b>Definition:</b> unique_id.cpp:21</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_87a455bccb09a92130c26a11a880c98a.html">libs</a></li><li class="navelem"><a class="el" href="dir_bbeb1387f6037c41dcaa5423e7174c79.html">possumwood_sdk</a></li><li class="navelem"><a class="el" href="unique__id_8h.html">unique_id.h</a></li>
-    <li class="footer">Generated on Sun Mar 18 2018 19:11:47 for possumwood by
+    <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_87a455bccb09a92130c26a11a880c98a.html">libs</a></li><li class="navelem"><a class="el" href="dir_2f37f34eeec95f453fe4cb748dff596f.html">dependency_graph</a></li><li class="navelem"><a class="el" href="unique__id_8h.html">unique_id.h</a></li>
+    <li class="footer">Generated on Tue Mar 20 2018 23:23:16 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

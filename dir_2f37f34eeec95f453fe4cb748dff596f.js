@@ -6,7 +6,8 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
     [ "attr.inl", "attr_8inl.html", null ],
     [ "connections.cpp", "connections_8cpp.html", null ],
     [ "connections.h", "connections_8h.html", [
-      [ "Connections", "classdependency__graph_1_1Connections.html", "classdependency__graph_1_1Connections" ]
+      [ "Connections", "classdependency__graph_1_1Connections.html", "classdependency__graph_1_1Connections" ],
+      [ "PortId", "structdependency__graph_1_1Connections_1_1PortId.html", "structdependency__graph_1_1Connections_1_1PortId" ]
     ] ],
     [ "data.cpp", "data_8cpp.html", null ],
     [ "data.h", "data_8h.html", [
@@ -59,7 +60,8 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
     [ "node_base.inl", "node__base_8inl.html", null ],
     [ "nodes.cpp", "nodes_8cpp.html", null ],
     [ "nodes.h", "nodes_8h.html", [
-      [ "Nodes", "classdependency__graph_1_1Nodes.html", "classdependency__graph_1_1Nodes" ]
+      [ "Nodes", "classdependency__graph_1_1Nodes.html", "classdependency__graph_1_1Nodes" ],
+      [ "Compare", "structdependency__graph_1_1Nodes_1_1Compare.html", "structdependency__graph_1_1Nodes_1_1Compare" ]
     ] ],
     [ "nodes.inl", "nodes_8inl.html", null ],
     [ "port.cpp", "dependency__graph_2port_8cpp.html", null ],
@@ -77,6 +79,10 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
     ] ],
     [ "state.cpp", "state_8cpp.html", "state_8cpp" ],
     [ "state.h", "state_8h.html", "state_8h" ],
+    [ "unique_id.cpp", "unique__id_8cpp.html", null ],
+    [ "unique_id.h", "unique__id_8h.html", [
+      [ "UniqueId", "classdependency__graph_1_1UniqueId.html", "classdependency__graph_1_1UniqueId" ]
+    ] ],
     [ "values.cpp", "values_8cpp.html", null ],
     [ "values.h", "values_8h.html", [
       [ "Values", "classdependency__graph_1_1Values.html", "classdependency__graph_1_1Values" ]

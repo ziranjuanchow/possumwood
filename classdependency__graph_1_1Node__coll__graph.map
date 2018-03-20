@@ -1,9 +1,10 @@
 <map id="dependency_graph::Node" name="dependency_graph::Node">
-<area shape="rect" id="node2" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="308,79,508,106"/>
-<area shape="rect" id="node4" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="657,51,845,78"/>
-<area shape="rect" id="node5" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="953,6,1130,33"/>
-<area shape="rect" id="node6" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="302,22,514,49"/>
-<area shape="rect" id="node7" href="$classdependency__graph_1_1MetadataHandle.html" title="dependency_graph::Metadata\lHandle" alt="" coords="6,179,199,220"/>
-<area shape="rect" id="node8" href="$classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="309,157,507,183"/>
-<area shape="rect" id="node9" href="$classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="323,270,493,297"/>
+<area shape="rect" id="node2" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="301,180,501,207"/>
+<area shape="rect" id="node5" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="619,193,807,220"/>
+<area shape="rect" id="node6" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="967,292,1145,319"/>
+<area shape="rect" id="node7" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="950,168,1162,195"/>
+<area shape="rect" id="node4" href="$classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="7,180,198,207"/>
+<area shape="rect" id="node8" href="$classdependency__graph_1_1MetadataHandle.html" title="dependency_graph::Metadata\lHandle" alt="" coords="6,7,199,49"/>
+<area shape="rect" id="node9" href="$classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="302,52,501,79"/>
+<area shape="rect" id="node10" href="$classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="316,103,487,129"/>
 </map>

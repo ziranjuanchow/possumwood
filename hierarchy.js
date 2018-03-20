@@ -28,6 +28,7 @@ var hierarchy =
     [ "possumwood::Buffer< T >", "classpossumwood_1_1Buffer.html", null ],
     [ "anim::Children< JOINT, CONTAINER >", "classanim_1_1Children.html", null ],
     [ "dependency_graph::MetadataRegister::Compare", "structdependency__graph_1_1MetadataRegister_1_1Compare.html", null ],
+    [ "dependency_graph::Nodes::Compare", "structdependency__graph_1_1Nodes_1_1Compare.html", null ],
     [ "dependency_graph::Selection::Connection", "structdependency__graph_1_1Selection_1_1Connection.html", null ],
     [ "possumwood::Uniforms::DataBase", "structpossumwood_1_1Uniforms_1_1DataBase.html", [
       [ "possumwood::Uniforms::Data< T >", "structpossumwood_1_1Uniforms_1_1Data.html", null ]
@@ -102,9 +103,9 @@ var hierarchy =
     [ "dependency_graph::io::detail::is_compatible_integer_type_impl< true, RealIntegerType, CompatibleNumberIntegerType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01Rea17ea58341f187a02331be20fb110065c.html", null ],
     [ "dependency_graph::io::detail::is_compatible_object_type< BasicJsonType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type.html", null ],
     [ "dependency_graph::io::detail::is_compatible_object_type_impl< true, RealType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01Real0baf3277237e5138eaf03391588ae6a5.html", null ],
+    [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
     [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
     [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
-    [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >", "classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >::iteration_proxy_internal", "classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html", null ],
     [ "iterator", null, [
@@ -284,6 +285,7 @@ var hierarchy =
       [ "possumwood::CGALItems", "structpossumwood_1_1CGALItems.html", null ]
     ] ],
     [ "node_editor::Node::PortDefinition", "structnode__editor_1_1Node_1_1PortDefinition.html", null ],
+    [ "dependency_graph::Connections::PortId", "structdependency__graph_1_1Connections_1_1PortId.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::primitive_iterator_t", "classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html", null ],
     [ "dependency_graph::io::detail::priority_tag< N >", "structdependency__graph_1_1io_1_1detail_1_1priority__tag.html", null ],
     [ "dependency_graph::io::detail::priority_tag< 0 >", "structdependency__graph_1_1io_1_1detail_1_1priority__tag_3_010_01_4.html", null ],
@@ -381,7 +383,7 @@ var hierarchy =
     ] ],
     [ "possumwood::Uniforms::UniformHolder", "structpossumwood_1_1Uniforms_1_1UniformHolder.html", null ],
     [ "possumwood::Uniforms", "classpossumwood_1_1Uniforms.html", null ],
-    [ "possumwood::UniqueId", "classpossumwood_1_1UniqueId.html", null ],
+    [ "dependency_graph::UniqueId", "classdependency__graph_1_1UniqueId.html", null ],
     [ "possumwood::PropertyItem::ValueBase", "classpossumwood_1_1PropertyItem_1_1ValueBase.html", [
       [ "possumwood::PropertyItem::Value< T >", "classpossumwood_1_1PropertyItem_1_1Value.html", null ]
     ] ],

@@ -105,9 +105,13 @@ $(document).ready(function(){initNavTree('classdependency__graph_1_1Connections.
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-types">Private Types</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
 <a href="classdependency__graph_1_1Connections-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">dependency_graph::Connections Class Reference</div>  </div>
@@ -127,16 +131,16 @@ Collaboration diagram for dependency_graph::Connections:</div>
 <div class="dyncontent">
 <div class="center"><img src="classdependency__graph_1_1Connections__coll__graph.png" border="0" usemap="#dependency__graph_1_1Connections_coll__map" alt="Collaboration graph"/></div>
 <map name="dependency__graph_1_1Connections_coll__map" id="dependency__graph_1_1Connections_coll__map">
-</map>
+<area shape="rect" id="node3" href="classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="240,173,428,200"/><area shape="rect" id="node4" href="classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="54,264,253,291"/><area shape="rect" id="node6" href="classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="336,264,513,291"/><area shape="rect" id="node5" href="classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="24,173,214,200"/></map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1Connections_1_1PortId.html">PortId</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
 Public Types</h2></td></tr>
-<tr class="memitem:a1c6c63cb22b8f32eee4aef3bacbf02a8"><td class="memItemLeft" align="right" valign="top">typedef boost::bimap<br class="typebreak"/>
-&lt; boost::bimaps::multiset_of<br class="typebreak"/>
-&lt; <a class="el" href="classdependency__graph_1_1Port.html">Port</a> * &gt;, <a class="el" href="classdependency__graph_1_1Port.html">Port</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#a1c6c63cb22b8f32eee4aef3bacbf02a8">connections_container</a></td></tr>
-<tr class="memdesc:a1c6c63cb22b8f32eee4aef3bacbf02a8"><td class="mdescLeft">&#160;</td><td class="mdescRight">the container for connection data (a helper define - not useable outside the implementation cpp)  <a href="#a1c6c63cb22b8f32eee4aef3bacbf02a8">More...</a><br/></td></tr>
-<tr class="separator:a1c6c63cb22b8f32eee4aef3bacbf02a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a26e759c1179b77be843088c31aa99959"><td class="memItemLeft" align="right" valign="top">typedef <br class="typebreak"/>
 boost::transform_iterator<br class="typebreak"/>
 &lt; std::function&lt; const <br class="typebreak"/>
@@ -199,9 +203,37 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a31bf8e678f32592c3bc583cee7426fc6"><td class="memItemLeft" align="right" valign="top">boost::signals2::connection&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#a31bf8e678f32592c3bc583cee7426fc6">onDisconnect</a> (std::function&lt; void(<a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;, <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;)&gt; callback)</td></tr>
 <tr class="separator:a31bf8e678f32592c3bc583cee7426fc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-types"></a>
+Private Types</h2></td></tr>
+<tr class="memitem:a89589e95381c02b5e76218dff75cf5f5"><td class="memItemLeft" align="right" valign="top">typedef boost::bimap<br class="typebreak"/>
+&lt; boost::bimaps::multiset_of<br class="typebreak"/>
+&lt; <a class="el" href="structdependency__graph_1_1Connections_1_1PortId.html">PortId</a> &gt;, <a class="el" href="structdependency__graph_1_1Connections_1_1PortId.html">PortId</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#a89589e95381c02b5e76218dff75cf5f5">connections_container</a></td></tr>
+<tr class="memdesc:a89589e95381c02b5e76218dff75cf5f5"><td class="mdescLeft">&#160;</td><td class="mdescRight">the container for connection data (a helper define - not useable outside the implementation cpp)  <a href="#a89589e95381c02b5e76218dff75cf5f5">More...</a><br/></td></tr>
+<tr class="separator:a89589e95381c02b5e76218dff75cf5f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a67532562d81cad4b13853cc7f41ba7e6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#a67532562d81cad4b13853cc7f41ba7e6">Connections</a> (<a class="el" href="classdependency__graph_1_1Network.html">Network</a> *parent)</td></tr>
+<tr class="separator:a67532562d81cad4b13853cc7f41ba7e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade0e4992880bc0f281449e828e7121d0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structdependency__graph_1_1Connections_1_1PortId.html">Connections::PortId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#ade0e4992880bc0f281449e828e7121d0">getId</a> (const <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;p) const </td></tr>
+<tr class="separator:ade0e4992880bc0f281449e828e7121d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a42b99c5778580f80e881f0bd93f580cf"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#a42b99c5778580f80e881f0bd93f580cf">getPort</a> (const <a class="el" href="structdependency__graph_1_1Connections_1_1PortId.html">Connections::PortId</a> &amp;id) const </td></tr>
+<tr class="separator:a42b99c5778580f80e881f0bd93f580cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e6da87630479bade436bc1819ca7910"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#a1e6da87630479bade436bc1819ca7910">getPort</a> (const <a class="el" href="structdependency__graph_1_1Connections_1_1PortId.html">Connections::PortId</a> &amp;id)</td></tr>
+<tr class="separator:a1e6da87630479bade436bc1819ca7910"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c1d6085964e9f9b553299a40f39bc44"><td class="memItemLeft" align="right" valign="top">const std::pair&lt; const <a class="el" href="classdependency__graph_1_1Port.html">Port</a> <br class="typebreak"/>
+&amp;, const <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#a7c1d6085964e9f9b553299a40f39bc44">convert</a> (const Connections::connections_container::left_value_type &amp;val) const </td></tr>
+<tr class="memdesc:a7c1d6085964e9f9b553299a40f39bc44"><td class="mdescLeft">&#160;</td><td class="mdescRight">dereferencing function to convert internal connection representation to a pair of port references  <a href="#a7c1d6085964e9f9b553299a40f39bc44">More...</a><br/></td></tr>
+<tr class="separator:a7c1d6085964e9f9b553299a40f39bc44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a00aa1525e5efc2e95b82d8b3e56e0940"><td class="memItemLeft" align="right" valign="top">const std::pair&lt; <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;, <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#a00aa1525e5efc2e95b82d8b3e56e0940">convertConst</a> (const Connections::connections_container::left_value_type &amp;val)</td></tr>
+<tr class="memdesc:a00aa1525e5efc2e95b82d8b3e56e0940"><td class="mdescLeft">&#160;</td><td class="mdescRight">dereferencing function to convert internal connection representation to a pair of port references  <a href="#a00aa1525e5efc2e95b82d8b3e56e0940">More...</a><br/></td></tr>
+<tr class="separator:a00aa1525e5efc2e95b82d8b3e56e0940"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a37c4262b0def67ff035982047e57e06f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Connections.html#a1c6c63cb22b8f32eee4aef3bacbf02a8">connections_container</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#a37c4262b0def67ff035982047e57e06f">m_connections</a></td></tr>
+<tr class="memitem:a56326e6f0dc3e3d20e1fe4194bb61cbb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Network.html">Network</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#a56326e6f0dc3e3d20e1fe4194bb61cbb">m_parent</a></td></tr>
+<tr class="separator:a56326e6f0dc3e3d20e1fe4194bb61cbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37c4262b0def67ff035982047e57e06f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Connections.html#a89589e95381c02b5e76218dff75cf5f5">connections_container</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#a37c4262b0def67ff035982047e57e06f">m_connections</a></td></tr>
 <tr class="separator:a37c4262b0def67ff035982047e57e06f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae9c794a73c918b1b7d486d20dcb254a3"><td class="memItemLeft" align="right" valign="top">boost::signals2::signal&lt; void(<a class="el" href="classdependency__graph_1_1Port.html">Port</a> <br class="typebreak"/>
 &amp;, <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#ae9c794a73c918b1b7d486d20dcb254a3">m_onConnect</a></td></tr>
@@ -210,18 +242,31 @@ Private Attributes</h2></td></tr>
 <tr class="memitem:aa2b6114d484694850e1f1504a9c9c37e"><td class="memItemLeft" align="right" valign="top">boost::signals2::signal&lt; void(<a class="el" href="classdependency__graph_1_1Port.html">Port</a> <br class="typebreak"/>
 &amp;, <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#aa2b6114d484694850e1f1504a9c9c37e">m_onDisconnect</a></td></tr>
 <tr class="separator:aa2b6114d484694850e1f1504a9c9c37e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:a88b59289ffd793fecd040d32e397b1e9"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#a88b59289ffd793fecd040d32e397b1e9">Network</a></td></tr>
+<tr class="separator:a88b59289ffd793fecd040d32e397b1e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>A simple container class for all connections. It stores connections as pointers to related ports and does <em>not</em> ensure that these are valid in any way. An external mechanism needs to call appropriate functions when needed. </p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a class="anchor" id="a1c6c63cb22b8f32eee4aef3bacbf02a8"></a>
+<a class="anchor" id="a89589e95381c02b5e76218dff75cf5f5"></a>
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">typedef boost::bimap&lt; boost::bimaps::multiset_of&lt;<a class="el" href="classdependency__graph_1_1Port.html">Port</a>*&gt;, <a class="el" href="classdependency__graph_1_1Port.html">Port</a>* &gt; <a class="el" href="classdependency__graph_1_1Connections.html#a1c6c63cb22b8f32eee4aef3bacbf02a8">dependency_graph::Connections::connections_container</a></td>
+          <td class="memname">typedef boost::bimap&lt; boost::bimaps::multiset_of&lt;<a class="el" href="structdependency__graph_1_1Connections_1_1PortId.html">PortId</a>&gt;, <a class="el" href="structdependency__graph_1_1Connections_1_1PortId.html">PortId</a> &gt; <a class="el" href="classdependency__graph_1_1Connections.html#a89589e95381c02b5e76218dff75cf5f5">dependency_graph::Connections::connections_container</a></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 <p>the container for connection data (a helper define - not useable outside the implementation cpp) </p>
@@ -253,6 +298,31 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>allows iteration over connections </p>
+
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a class="anchor" id="a67532562d81cad4b13853cc7f41ba7e6"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">dependency_graph::Connections::Connections </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classdependency__graph_1_1Network.html">Network</a> *&#160;</td>
+          <td class="paramname"><em>parent</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -385,6 +455,58 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a7c1d6085964e9f9b553299a40f39bc44"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const std::pair&lt; const <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;, const <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp; &gt; dependency_graph::Connections::convert </td>
+          <td>(</td>
+          <td class="paramtype">const Connections::connections_container::left_value_type &amp;&#160;</td>
+          <td class="paramname"><em>val</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>dereferencing function to convert internal connection representation to a pair of port references </p>
+
+</div>
+</div>
+<a class="anchor" id="a00aa1525e5efc2e95b82d8b3e56e0940"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const std::pair&lt; <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;, <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp; &gt; dependency_graph::Connections::convertConst </td>
+          <td>(</td>
+          <td class="paramtype">const Connections::connections_container::left_value_type &amp;&#160;</td>
+          <td class="paramname"><em>val</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>dereferencing function to convert internal connection representation to a pair of port references </p>
+
+</div>
+</div>
 <a class="anchor" id="af8b92716d4445b3f1e1525ec162b7ab7"></a>
 <div class="memitem">
 <div class="memproto">
@@ -433,6 +555,78 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>connections iteration </p>
+
+</div>
+</div>
+<a class="anchor" id="ade0e4992880bc0f281449e828e7121d0"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="structdependency__graph_1_1Connections_1_1PortId.html">Connections::PortId</a> dependency_graph::Connections::getId </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;&#160;</td>
+          <td class="paramname"><em>p</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a42b99c5778580f80e881f0bd93f580cf"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp; dependency_graph::Connections::getPort </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structdependency__graph_1_1Connections_1_1PortId.html">Connections::PortId</a> &amp;&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a1e6da87630479bade436bc1819ca7910"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp; dependency_graph::Connections::getPort </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structdependency__graph_1_1Connections_1_1PortId.html">Connections::PortId</a> &amp;&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -529,6 +723,27 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a class="anchor" id="a88b59289ffd793fecd040d32e397b1e9"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="classdependency__graph_1_1Network.html">Network</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Member Data Documentation</h2>
 <a class="anchor" id="a37c4262b0def67ff035982047e57e06f"></a>
 <div class="memitem">
@@ -538,7 +753,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classdependency__graph_1_1Connections.html#a1c6c63cb22b8f32eee4aef3bacbf02a8">connections_container</a> dependency_graph::Connections::m_connections</td>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1Connections.html#a89589e95381c02b5e76218dff75cf5f5">connections_container</a> dependency_graph::Connections::m_connections</td>
         </tr>
       </table>
   </td>
@@ -592,6 +807,26 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a56326e6f0dc3e3d20e1fe4194bb61cbb"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1Network.html">Network</a>* dependency_graph::Connections::m_parent</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <hr/>The documentation for this class was generated from the following files:<ul>
 <li>src/libs/dependency_graph/<a class="el" href="connections_8h_source.html">connections.h</a></li>
 <li>src/libs/dependency_graph/<a class="el" href="connections_8cpp.html">connections.cpp</a></li>
@@ -602,7 +837,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Connections.html">Connections</a></li>
-    <li class="footer">Generated on Sun Mar 18 2018 19:11:48 for possumwood by
+    <li class="footer">Generated on Tue Mar 20 2018 23:23:17 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

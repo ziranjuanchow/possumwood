@@ -1,7 +1,7 @@
 var classdependency__graph_1_1Port =
 [
     [ "Port", "classdependency__graph_1_1Port.html#a0faadb20af5423b89d0cbfe9d19ea0f1", null ],
-    [ "Port", "classdependency__graph_1_1Port.html#adba17ec40c05a11f688201963a98f262", null ],
+    [ "Port", "classdependency__graph_1_1Port.html#a2db24211a6414ff2d355643f795d54c1", null ],
     [ "category", "classdependency__graph_1_1Port.html#aebf0911529e7ff44ef3650c84660ec88", null ],
     [ "connect", "classdependency__graph_1_1Port.html#aa71d6f754bddceb7f7a9bc85557f093b", null ],
     [ "disconnect", "classdependency__graph_1_1Port.html#ae76c4c8d4e4ed18a0de29c53e9a66b86", null ],
@@ -22,7 +22,6 @@ var classdependency__graph_1_1Port =
     [ "m_dirty", "classdependency__graph_1_1Port.html#a4ec3ddcb2b213fb855e17a395e8102fc", null ],
     [ "m_flagsCallbacks", "classdependency__graph_1_1Port.html#a7647d68a2fcc5258a65622869058592e", null ],
     [ "m_id", "classdependency__graph_1_1Port.html#a385b7eaa75e38e433c604ef78367d180", null ],
-    [ "m_name", "classdependency__graph_1_1Port.html#aaf9f0ac4a88cf924c3ebc911aaab7518", null ],
     [ "m_parent", "classdependency__graph_1_1Port.html#aa3f6e621b820985f8dde0bfc3201c5a0", null ],
     [ "m_valueCallbacks", "classdependency__graph_1_1Port.html#aa732025aac5fa0eae08ff92b2d4e7629", null ]
 ];

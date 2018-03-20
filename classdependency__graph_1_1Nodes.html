@@ -105,8 +105,10 @@ $(document).ready(function(){initNavTree('classdependency__graph_1_1Nodes.html',
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-types">Private Types</a> &#124;
 <a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="#friends">Friends</a> &#124;
@@ -129,21 +131,24 @@ Collaboration diagram for dependency_graph::Nodes:</div>
 <div class="dyncontent">
 <div class="center"><img src="classdependency__graph_1_1Nodes__coll__graph.png" border="0" usemap="#dependency__graph_1_1Nodes_coll__map" alt="Collaboration graph"/></div>
 <map name="dependency__graph_1_1Nodes_coll__map" id="dependency__graph_1_1Nodes_coll__map">
-<area shape="rect" id="node3" href="classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="149,173,336,200"/><area shape="rect" id="node4" href="classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="187,264,385,291"/><area shape="rect" id="node5" href="classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="206,83,417,109"/></map>
+<area shape="rect" id="node3" href="classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="241,173,428,200"/><area shape="rect" id="node4" href="classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="55,264,253,291"/><area shape="rect" id="node6" href="classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="319,264,531,291"/><area shape="rect" id="node5" href="classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="25,173,215,200"/></map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1Nodes_1_1Compare.html">Compare</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
 Public Types</h2></td></tr>
-<tr class="memitem:ad39c76cfcd4edff2e8aebb6e1473e6ce"><td class="memItemLeft" align="right" valign="top">typedef <br class="typebreak"/>
+<tr class="memitem:a28b0b3c341f9543fcec9addbf987f30d"><td class="memItemLeft" align="right" valign="top">typedef <br class="typebreak"/>
 boost::indirect_iterator<br class="typebreak"/>
-&lt; std::vector&lt; std::unique_ptr<br class="typebreak"/>
-&lt; <a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &gt; &gt;::<a class="el" href="classdependency__graph_1_1Nodes.html#ad39c76cfcd4edff2e8aebb6e1473e6ce">const_iterator</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#ad39c76cfcd4edff2e8aebb6e1473e6ce">const_iterator</a></td></tr>
-<tr class="separator:ad39c76cfcd4edff2e8aebb6e1473e6ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a95479e9a495592746148d3e3a3f6cdaf"><td class="memItemLeft" align="right" valign="top">typedef <br class="typebreak"/>
+&lt; NodeSet::const_iterator &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a28b0b3c341f9543fcec9addbf987f30d">const_iterator</a></td></tr>
+<tr class="separator:a28b0b3c341f9543fcec9addbf987f30d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8689f5b3983de0c832fed9990bb5dab"><td class="memItemLeft" align="right" valign="top">typedef <br class="typebreak"/>
 boost::indirect_iterator<br class="typebreak"/>
-&lt; std::vector&lt; std::unique_ptr<br class="typebreak"/>
-&lt; <a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &gt; &gt;::<a class="el" href="classdependency__graph_1_1Nodes.html#a95479e9a495592746148d3e3a3f6cdaf">iterator</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a95479e9a495592746148d3e3a3f6cdaf">iterator</a></td></tr>
-<tr class="separator:a95479e9a495592746148d3e3a3f6cdaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+&lt; NodeSet::iterator &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#ad8689f5b3983de0c832fed9990bb5dab">iterator</a></td></tr>
+<tr class="separator:ad8689f5b3983de0c832fed9990bb5dab"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -151,42 +156,48 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a5e94dcd38e79e3660a630f4f9812a0a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a591e2ded42ae0eff9da52262b2b0fd7a"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a591e2ded42ae0eff9da52262b2b0fd7a">size</a> () const </td></tr>
 <tr class="separator:a591e2ded42ae0eff9da52262b2b0fd7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab69ae023dc3d05573788b2b4ce330cae"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#ab69ae023dc3d05573788b2b4ce330cae">operator[]</a> (std::size_t index)</td></tr>
-<tr class="separator:ab69ae023dc3d05573788b2b4ce330cae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aefdad53f9b8d4df652b7bab631d34336"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#aefdad53f9b8d4df652b7bab631d34336">operator[]</a> (std::size_t index) const </td></tr>
-<tr class="separator:aefdad53f9b8d4df652b7bab631d34336"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acd043407b08ca9288df910e7964528c2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Nodes.html#ad39c76cfcd4edff2e8aebb6e1473e6ce">const_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#acd043407b08ca9288df910e7964528c2">begin</a> () const </td></tr>
+<tr class="memitem:a7c66f82bedfe6d7da3f85cfe08a63478"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a7c66f82bedfe6d7da3f85cfe08a63478">operator[]</a> (const <a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a> &amp;index)</td></tr>
+<tr class="separator:a7c66f82bedfe6d7da3f85cfe08a63478"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0fa8691b226b3696023bf1aba1f4a490"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a0fa8691b226b3696023bf1aba1f4a490">operator[]</a> (const <a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a> &amp;index) const </td></tr>
+<tr class="separator:a0fa8691b226b3696023bf1aba1f4a490"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd043407b08ca9288df910e7964528c2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Nodes.html#a28b0b3c341f9543fcec9addbf987f30d">const_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#acd043407b08ca9288df910e7964528c2">begin</a> () const </td></tr>
 <tr class="separator:acd043407b08ca9288df910e7964528c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a899bbb007eb112857c17b70ea375c1ea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Nodes.html#ad39c76cfcd4edff2e8aebb6e1473e6ce">const_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a899bbb007eb112857c17b70ea375c1ea">end</a> () const </td></tr>
+<tr class="memitem:a899bbb007eb112857c17b70ea375c1ea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Nodes.html#a28b0b3c341f9543fcec9addbf987f30d">const_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a899bbb007eb112857c17b70ea375c1ea">end</a> () const </td></tr>
 <tr class="separator:a899bbb007eb112857c17b70ea375c1ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b95557b2e4da7b90ea6b1ae9c25a990"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Nodes.html#a95479e9a495592746148d3e3a3f6cdaf">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a4b95557b2e4da7b90ea6b1ae9c25a990">begin</a> ()</td></tr>
+<tr class="memitem:a6692ac1b64931d320091e45365953027"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Nodes.html#a28b0b3c341f9543fcec9addbf987f30d">const_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a6692ac1b64931d320091e45365953027">find</a> (const <a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a> &amp;id) const </td></tr>
+<tr class="separator:a6692ac1b64931d320091e45365953027"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b95557b2e4da7b90ea6b1ae9c25a990"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Nodes.html#ad8689f5b3983de0c832fed9990bb5dab">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a4b95557b2e4da7b90ea6b1ae9c25a990">begin</a> ()</td></tr>
 <tr class="separator:a4b95557b2e4da7b90ea6b1ae9c25a990"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62c9f997a688a497bac5debc323bc2e2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Nodes.html#a95479e9a495592746148d3e3a3f6cdaf">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a62c9f997a688a497bac5debc323bc2e2">end</a> ()</td></tr>
+<tr class="memitem:a62c9f997a688a497bac5debc323bc2e2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Nodes.html#ad8689f5b3983de0c832fed9990bb5dab">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a62c9f997a688a497bac5debc323bc2e2">end</a> ()</td></tr>
 <tr class="separator:a62c9f997a688a497bac5debc323bc2e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a183e0600fb2e814abf5db6be5502eb1a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Nodes.html#ad8689f5b3983de0c832fed9990bb5dab">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a183e0600fb2e814abf5db6be5502eb1a">find</a> (const <a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a> &amp;id)</td></tr>
+<tr class="separator:a183e0600fb2e814abf5db6be5502eb1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab552ed8c0c2ad26c8b9bcbbdfb1ba5b4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#ab552ed8c0c2ad26c8b9bcbbdfb1ba5b4">add</a> (const <a class="el" href="classdependency__graph_1_1MetadataHandle.html">MetadataHandle</a> &amp;type, const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, std::unique_ptr&lt; <a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &gt; &amp;&amp;blindData=std::unique_ptr&lt; <a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &gt;(), boost::optional&lt; const <a class="el" href="classdependency__graph_1_1Datablock.html">dependency_graph::Datablock</a> &amp; &gt; datablock=boost::optional&lt; const <a class="el" href="classdependency__graph_1_1Datablock.html">dependency_graph::Datablock</a> &amp; &gt;())</td></tr>
 <tr class="separator:ab552ed8c0c2ad26c8b9bcbbdfb1ba5b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2a2aed233e72d08f4775749fb1ef182e"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:a2a2aed233e72d08f4775749fb1ef182e"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &amp;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a2a2aed233e72d08f4775749fb1ef182e">add</a> (const <a class="el" href="classdependency__graph_1_1MetadataHandle.html">MetadataHandle</a> &amp;type, const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, const T &amp;blindData, boost::optional&lt; const <a class="el" href="classdependency__graph_1_1Datablock.html">dependency_graph::Datablock</a> &amp; &gt; datablock=boost::optional&lt; const <a class="el" href="classdependency__graph_1_1Datablock.html">dependency_graph::Datablock</a> &amp; &gt;())</td></tr>
 <tr class="separator:a2a2aed233e72d08f4775749fb1ef182e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeeea61a418e09c456952bdd800f6583a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Nodes.html#a95479e9a495592746148d3e3a3f6cdaf">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#aeeea61a418e09c456952bdd800f6583a">erase</a> (<a class="el" href="classdependency__graph_1_1Nodes.html#a95479e9a495592746148d3e3a3f6cdaf">iterator</a> i)</td></tr>
+<tr class="memitem:aeeea61a418e09c456952bdd800f6583a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Nodes.html#ad8689f5b3983de0c832fed9990bb5dab">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#aeeea61a418e09c456952bdd800f6583a">erase</a> (<a class="el" href="classdependency__graph_1_1Nodes.html#ad8689f5b3983de0c832fed9990bb5dab">iterator</a> i)</td></tr>
 <tr class="separator:aeeea61a418e09c456952bdd800f6583a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7ddf6d8dd2b694dff6769bd7579a0d37"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a7ddf6d8dd2b694dff6769bd7579a0d37">clear</a> ()</td></tr>
 <tr class="separator:a7ddf6d8dd2b694dff6769bd7579a0d37"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-types"></a>
+Private Types</h2></td></tr>
+<tr class="memitem:adcf58b1c7ee07b395a236f022b06620e"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#adcf58b1c7ee07b395a236f022b06620e">NodeSet</a> = std::set&lt; std::unique_ptr&lt; <a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &gt;, <a class="el" href="structdependency__graph_1_1Nodes_1_1Compare.html">Compare</a> &gt;</td></tr>
+<tr class="separator:adcf58b1c7ee07b395a236f022b06620e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
 <tr class="memitem:a13061c25c02593625e4ce60bdf6e6068"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a13061c25c02593625e4ce60bdf6e6068">Nodes</a> (<a class="el" href="classdependency__graph_1_1Network.html">Network</a> *parent)</td></tr>
 <tr class="separator:a13061c25c02593625e4ce60bdf6e6068"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2eea41987aa42db9b4b14506f00c1264"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a2eea41987aa42db9b4b14506f00c1264">findNodeIndex</a> (const <a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &amp;n) const </td></tr>
-<tr class="separator:a2eea41987aa42db9b4b14506f00c1264"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
 <tr class="memitem:ab90df215f22a1f824869f3ac457397c2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Network.html">Network</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#ab90df215f22a1f824869f3ac457397c2">m_parent</a></td></tr>
 <tr class="separator:ab90df215f22a1f824869f3ac457397c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5ecd165fa56793b7cdbc9102893b510f"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::unique_ptr<br class="typebreak"/>
-&lt; <a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a5ecd165fa56793b7cdbc9102893b510f">m_nodes</a></td></tr>
-<tr class="separator:a5ecd165fa56793b7cdbc9102893b510f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f5182cf1557cd5855518d4cbb88f74d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Nodes.html#adcf58b1c7ee07b395a236f022b06620e">NodeSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Nodes.html#a7f5182cf1557cd5855518d4cbb88f74d">m_nodes</a></td></tr>
+<tr class="separator:a7f5182cf1557cd5855518d4cbb88f74d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="friends"></a>
 Friends</h2></td></tr>
@@ -202,26 +213,46 @@ Friends</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p><a class="el" href="structdependency__graph_1_1Data.html">Data</a> structure holding node instances. Iterators are not guaranteed to remain valid after operations, but the node instances are stored in a vector container (their positions in the array will not change after add, and erase shifts subsequent indices), and each node instance's memory address is guaranteed not to change during its lifetime (<a class="el" href="classdependency__graph_1_1Nodes.html">Nodes</a> are stored as pointers). </p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a class="anchor" id="ad39c76cfcd4edff2e8aebb6e1473e6ce"></a>
+<a class="anchor" id="a28b0b3c341f9543fcec9addbf987f30d"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef boost::indirect_iterator&lt;std::vector&lt;std::unique_ptr&lt;<a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a>&gt; &gt;::<a class="el" href="classdependency__graph_1_1Nodes.html#ad39c76cfcd4edff2e8aebb6e1473e6ce">const_iterator</a>&gt; <a class="el" href="classdependency__graph_1_1Nodes.html#ad39c76cfcd4edff2e8aebb6e1473e6ce">dependency_graph::Nodes::const_iterator</a></td>
+          <td class="memname">typedef boost::indirect_iterator&lt;NodeSet::const_iterator&gt; <a class="el" href="classdependency__graph_1_1Nodes.html#a28b0b3c341f9543fcec9addbf987f30d">dependency_graph::Nodes::const_iterator</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a class="anchor" id="a95479e9a495592746148d3e3a3f6cdaf"></a>
+<a class="anchor" id="ad8689f5b3983de0c832fed9990bb5dab"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef boost::indirect_iterator&lt;std::vector&lt;std::unique_ptr&lt;<a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a>&gt; &gt;::<a class="el" href="classdependency__graph_1_1Nodes.html#a95479e9a495592746148d3e3a3f6cdaf">iterator</a>&gt; <a class="el" href="classdependency__graph_1_1Nodes.html#a95479e9a495592746148d3e3a3f6cdaf">dependency_graph::Nodes::iterator</a></td>
+          <td class="memname">typedef boost::indirect_iterator&lt;NodeSet::iterator&gt; <a class="el" href="classdependency__graph_1_1Nodes.html#ad8689f5b3983de0c832fed9990bb5dab">dependency_graph::Nodes::iterator</a></td>
         </tr>
       </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="adcf58b1c7ee07b395a236f022b06620e"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="classdependency__graph_1_1Nodes.html#adcf58b1c7ee07b395a236f022b06620e">dependency_graph::Nodes::NodeSet</a> =  std::set&lt;std::unique_ptr&lt;<a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a>&gt;, <a class="el" href="structdependency__graph_1_1Nodes_1_1Compare.html">Compare</a>&gt;</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -335,7 +366,7 @@ template&lt;typename T &gt; </div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classdependency__graph_1_1Nodes.html#ad39c76cfcd4edff2e8aebb6e1473e6ce">Nodes::const_iterator</a> dependency_graph::Nodes::begin </td>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1Nodes.html#a28b0b3c341f9543fcec9addbf987f30d">Nodes::const_iterator</a> dependency_graph::Nodes::begin </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -350,7 +381,7 @@ template&lt;typename T &gt; </div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classdependency__graph_1_1Nodes.html#a95479e9a495592746148d3e3a3f6cdaf">Nodes::iterator</a> dependency_graph::Nodes::begin </td>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1Nodes.html#ad8689f5b3983de0c832fed9990bb5dab">Nodes::iterator</a> dependency_graph::Nodes::begin </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -395,7 +426,7 @@ template&lt;typename T &gt; </div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classdependency__graph_1_1Nodes.html#ad39c76cfcd4edff2e8aebb6e1473e6ce">Nodes::const_iterator</a> dependency_graph::Nodes::end </td>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1Nodes.html#a28b0b3c341f9543fcec9addbf987f30d">Nodes::const_iterator</a> dependency_graph::Nodes::end </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -410,7 +441,7 @@ template&lt;typename T &gt; </div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classdependency__graph_1_1Nodes.html#a95479e9a495592746148d3e3a3f6cdaf">Nodes::iterator</a> dependency_graph::Nodes::end </td>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1Nodes.html#ad8689f5b3983de0c832fed9990bb5dab">Nodes::iterator</a> dependency_graph::Nodes::end </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -425,9 +456,9 @@ template&lt;typename T &gt; </div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classdependency__graph_1_1Nodes.html#a95479e9a495592746148d3e3a3f6cdaf">Nodes::iterator</a> dependency_graph::Nodes::erase </td>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1Nodes.html#ad8689f5b3983de0c832fed9990bb5dab">Nodes::iterator</a> dependency_graph::Nodes::erase </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="classdependency__graph_1_1Nodes.html#a95479e9a495592746148d3e3a3f6cdaf">iterator</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="classdependency__graph_1_1Nodes.html#ad8689f5b3983de0c832fed9990bb5dab">iterator</a>&#160;</td>
           <td class="paramname"><em>i</em></td><td>)</td>
           <td></td>
         </tr>
@@ -436,38 +467,46 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
-<a class="anchor" id="a2eea41987aa42db9b4b14506f00c1264"></a>
+<a class="anchor" id="a6692ac1b64931d320091e45365953027"></a>
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">size_t dependency_graph::Nodes::findNodeIndex </td>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1Nodes.html#a28b0b3c341f9543fcec9addbf987f30d">Nodes::const_iterator</a> dependency_graph::Nodes::find </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &amp;&#160;</td>
-          <td class="paramname"><em>n</em></td><td>)</td>
+          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a> &amp;&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a class="anchor" id="ab69ae023dc3d05573788b2b4ce330cae"></a>
+<a class="anchor" id="a183e0600fb2e814abf5db6be5502eb1a"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1Nodes.html#ad8689f5b3983de0c832fed9990bb5dab">Nodes::iterator</a> dependency_graph::Nodes::find </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a> &amp;&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a7c66f82bedfe6d7da3f85cfe08a63478"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
           <td class="memname"><a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &amp; dependency_graph::Nodes::operator[] </td>
           <td>(</td>
-          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a> &amp;&#160;</td>
           <td class="paramname"><em>index</em></td><td>)</td>
           <td></td>
         </tr>
@@ -476,14 +515,14 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
-<a class="anchor" id="aefdad53f9b8d4df652b7bab631d34336"></a>
+<a class="anchor" id="a0fa8691b226b3696023bf1aba1f4a490"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
           <td class="memname">const <a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &amp; dependency_graph::Nodes::operator[] </td>
           <td>(</td>
-          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a> &amp;&#160;</td>
           <td class="paramname"><em>index</em></td><td>)</td>
           <td> const</td>
         </tr>
@@ -589,7 +628,7 @@ template&lt;typename T &gt; </div>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a class="anchor" id="a5ecd165fa56793b7cdbc9102893b510f"></a>
+<a class="anchor" id="a7f5182cf1557cd5855518d4cbb88f74d"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -597,7 +636,7 @@ template&lt;typename T &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;std::unique_ptr&lt;<a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a>&gt; &gt; dependency_graph::Nodes::m_nodes</td>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1Nodes.html#adcf58b1c7ee07b395a236f022b06620e">NodeSet</a> dependency_graph::Nodes::m_nodes</td>
         </tr>
       </table>
   </td>
@@ -640,7 +679,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Nodes.html">Nodes</a></li>
-    <li class="footer">Generated on Sun Mar 18 2018 19:11:48 for possumwood by
+    <li class="footer">Generated on Tue Mar 20 2018 23:23:17 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

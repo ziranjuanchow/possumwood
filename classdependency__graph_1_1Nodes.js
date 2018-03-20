@@ -1,7 +1,9 @@
 var classdependency__graph_1_1Nodes =
 [
-    [ "const_iterator", "classdependency__graph_1_1Nodes.html#ad39c76cfcd4edff2e8aebb6e1473e6ce", null ],
-    [ "iterator", "classdependency__graph_1_1Nodes.html#a95479e9a495592746148d3e3a3f6cdaf", null ],
+    [ "Compare", "structdependency__graph_1_1Nodes_1_1Compare.html", "structdependency__graph_1_1Nodes_1_1Compare" ],
+    [ "const_iterator", "classdependency__graph_1_1Nodes.html#a28b0b3c341f9543fcec9addbf987f30d", null ],
+    [ "iterator", "classdependency__graph_1_1Nodes.html#ad8689f5b3983de0c832fed9990bb5dab", null ],
+    [ "NodeSet", "classdependency__graph_1_1Nodes.html#adcf58b1c7ee07b395a236f022b06620e", null ],
     [ "Nodes", "classdependency__graph_1_1Nodes.html#a13061c25c02593625e4ce60bdf6e6068", null ],
     [ "add", "classdependency__graph_1_1Nodes.html#ab552ed8c0c2ad26c8b9bcbbdfb1ba5b4", null ],
     [ "add", "classdependency__graph_1_1Nodes.html#a2a2aed233e72d08f4775749fb1ef182e", null ],
@@ -12,14 +14,15 @@ var classdependency__graph_1_1Nodes =
     [ "end", "classdependency__graph_1_1Nodes.html#a899bbb007eb112857c17b70ea375c1ea", null ],
     [ "end", "classdependency__graph_1_1Nodes.html#a62c9f997a688a497bac5debc323bc2e2", null ],
     [ "erase", "classdependency__graph_1_1Nodes.html#aeeea61a418e09c456952bdd800f6583a", null ],
-    [ "findNodeIndex", "classdependency__graph_1_1Nodes.html#a2eea41987aa42db9b4b14506f00c1264", null ],
-    [ "operator[]", "classdependency__graph_1_1Nodes.html#ab69ae023dc3d05573788b2b4ce330cae", null ],
-    [ "operator[]", "classdependency__graph_1_1Nodes.html#aefdad53f9b8d4df652b7bab631d34336", null ],
+    [ "find", "classdependency__graph_1_1Nodes.html#a6692ac1b64931d320091e45365953027", null ],
+    [ "find", "classdependency__graph_1_1Nodes.html#a183e0600fb2e814abf5db6be5502eb1a", null ],
+    [ "operator[]", "classdependency__graph_1_1Nodes.html#a7c66f82bedfe6d7da3f85cfe08a63478", null ],
+    [ "operator[]", "classdependency__graph_1_1Nodes.html#a0fa8691b226b3696023bf1aba1f4a490", null ],
     [ "size", "classdependency__graph_1_1Nodes.html#a591e2ded42ae0eff9da52262b2b0fd7a", null ],
     [ "Graph", "classdependency__graph_1_1Nodes.html#afab89afd724f1b07b1aaad6bdc61c47a", null ],
     [ "Network", "classdependency__graph_1_1Nodes.html#a88b59289ffd793fecd040d32e397b1e9", null ],
     [ "Node", "classdependency__graph_1_1Nodes.html#a6db9d28bd448a131448276ee03de1e6d", null ],
     [ "NodeBase", "classdependency__graph_1_1Nodes.html#a332a286fe15131e3b7d4be88690867a3", null ],
-    [ "m_nodes", "classdependency__graph_1_1Nodes.html#a5ecd165fa56793b7cdbc9102893b510f", null ],
+    [ "m_nodes", "classdependency__graph_1_1Nodes.html#a7f5182cf1557cd5855518d4cbb88f74d", null ],
     [ "m_parent", "classdependency__graph_1_1Nodes.html#ab90df215f22a1f824869f3ac457397c2", null ]
 ];
