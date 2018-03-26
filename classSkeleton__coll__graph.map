@@ -1,16 +1,17 @@
 <map id="Skeleton" name="Skeleton">
-<area shape="rect" id="node2" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; anim::Skeleton,\l Skeleton \&gt;" alt="" coords="963,64,1143,120"/>
-<area shape="rect" id="node3" href="$classpossumwood_1_1properties_1_1property__base.html" title="possumwood::properties\l::property_base" alt="" coords="629,6,793,47"/>
-<area shape="rect" id="node5" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; Skeleton \&gt;" alt="" coords="619,71,803,113"/>
-<area shape="rect" id="node6" href="$classpossumwood_1_1properties_1_1factory.html" title="possumwood::properties\l::factory" alt="" coords="317,119,481,161"/>
-<area shape="rect" id="node8" href="$classpossumwood_1_1Drawable.html" title="possumwood::Drawable" alt="" coords="972,203,1135,229"/>
-<area shape="rect" id="node10" href="$classdependency__graph_1_1Values.html" title="dependency_graph::Values" alt="" coords="621,304,800,331"/>
-<area shape="rect" id="node11" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="299,435,499,461"/>
-<area shape="rect" id="node14" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="965,525,1142,552"/>
-<area shape="rect" id="node15" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="947,389,1159,416"/>
-<area shape="rect" id="node9" href="$classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="625,253,796,280"/>
-<area shape="rect" id="node13" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="617,457,805,484"/>
-<area shape="rect" id="node12" href="$classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="6,604,197,631"/>
-<area shape="rect" id="node16" href="$structpossumwood_1_1Drawable_1_1ViewportState.html" title="possumwood::Drawable\l::ViewportState" alt="" coords="629,137,792,178"/>
-<area shape="rect" id="node17" href="$classanim_1_1Skeleton.html" title="anim::Skeleton" alt="" coords="999,253,1108,280"/>
+<area shape="rect" id="node2" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; anim::Skeleton,\l Skeleton \&gt;" alt="" coords="990,64,1170,120"/>
+<area shape="rect" id="node3" href="$classpossumwood_1_1properties_1_1property__base.html" title="possumwood::properties\l::property_base" alt="" coords="655,6,819,47"/>
+<area shape="rect" id="node5" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; Skeleton \&gt;" alt="" coords="645,71,829,113"/>
+<area shape="rect" id="node6" href="$classpossumwood_1_1properties_1_1factory.html" title="possumwood::properties\l::factory" alt="" coords="343,109,507,150"/>
+<area shape="rect" id="node8" href="$classpossumwood_1_1Drawable.html" title="possumwood::Drawable" alt="" coords="999,188,1161,215"/>
+<area shape="rect" id="node10" href="$classdependency__graph_1_1Values.html" title="dependency_graph::Values" alt="" coords="648,239,827,265"/>
+<area shape="rect" id="node11" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="325,471,525,497"/>
+<area shape="rect" id="node15" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="991,532,1169,559"/>
+<area shape="rect" id="node16" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="974,441,1186,468"/>
+<area shape="rect" id="node9" href="$classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="652,137,823,164"/>
+<area shape="rect" id="node14" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="643,495,831,521"/>
+<area shape="rect" id="node12" href="$classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="7,533,198,560"/>
+<area shape="rect" id="node13" href="$classdependency__graph_1_1MetadataHandle.html" title="dependency_graph::Metadata\lHandle" alt="" coords="6,467,199,509"/>
+<area shape="rect" id="node17" href="$structpossumwood_1_1Drawable_1_1ViewportState.html" title="possumwood::Drawable\l::ViewportState" alt="" coords="656,290,819,331"/>
+<area shape="rect" id="node18" href="$classanim_1_1Skeleton.html" title="anim::Skeleton" alt="" coords="1025,239,1135,265"/>
 </map>

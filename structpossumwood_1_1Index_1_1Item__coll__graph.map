@@ -1,8 +1,9 @@
 <map id="possumwood::Index::Item" name="possumwood::Index::Item">
-<area shape="rect" id="node3" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="343,96,541,123"/>
-<area shape="rect" id="node6" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="169,277,345,304"/>
-<area shape="rect" id="node7" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="418,277,629,304"/>
-<area shape="rect" id="node5" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="411,187,599,213"/>
-<area shape="rect" id="node4" href="$classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="586,5,776,32"/>
-<area shape="rect" id="node8" href="$classnode__editor_1_1Node.html" title="node_editor::Node" alt="" coords="11,96,139,123"/>
+<area shape="rect" id="node3" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="325,68,525,95"/>
+<area shape="rect" id="node7" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="991,191,1169,217"/>
+<area shape="rect" id="node8" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="974,67,1186,93"/>
+<area shape="rect" id="node6" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="643,67,831,93"/>
+<area shape="rect" id="node4" href="$classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="7,71,198,97"/>
+<area shape="rect" id="node5" href="$classdependency__graph_1_1MetadataHandle.html" title="dependency_graph::Metadata\lHandle" alt="" coords="6,5,199,46"/>
+<area shape="rect" id="node9" href="$classnode__editor_1_1Node.html" title="node_editor::Node" alt="" coords="361,336,489,363"/>
 </map>

@@ -11,7 +11,6 @@ var classdependency__graph_1_1Network =
     [ "datablock", "classdependency__graph_1_1Network.html#a4a757f179632d110ef285ac5378d0ae5", null ],
     [ "empty", "classdependency__graph_1_1Network.html#a4d56ade47b27b1a56dc35b8e96fd0f9f", null ],
     [ "makeNode", "classdependency__graph_1_1Network.html#a09649a63e577ef4f7e05cfaa6911e996", null ],
-    [ "metadata", "classdependency__graph_1_1Network.html#a5122468e8eecd10ab5e82b10c3d4932a", null ],
     [ "nodes", "classdependency__graph_1_1Network.html#a5f95121d52d35ddffa6cbeafee1a6beb", null ],
     [ "nodes", "classdependency__graph_1_1Network.html#a1b19db8b3f5e1ba8a9c162ed7687eabe", null ],
     [ "port", "classdependency__graph_1_1Network.html#a2c5c880bfc2d252476ccc698c2166805", null ],

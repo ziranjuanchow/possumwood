@@ -1,7 +1,7 @@
 var classdependency__graph_1_1NodeBase =
 [
     [ "~NodeBase", "classdependency__graph_1_1NodeBase.html#a5b70be574730e9465df6db9b96da7bf8", null ],
-    [ "NodeBase", "classdependency__graph_1_1NodeBase.html#a5c6b3a18baa037f788b614d460e7729a", null ],
+    [ "NodeBase", "classdependency__graph_1_1NodeBase.html#ad41ef7f7b091c518a7bfbf815b8da8f1", null ],
     [ "blindData", "classdependency__graph_1_1NodeBase.html#ac1fa58b3e5e28f1c1ba7d9cad074fd2e", null ],
     [ "computeInput", "classdependency__graph_1_1NodeBase.html#a627697d106719b1d21fecf3cf91c106c", null ],
     [ "computeOutput", "classdependency__graph_1_1NodeBase.html#a1ee59fc4001fbf943a761c9e8cc06467", null ],
@@ -13,7 +13,7 @@ var classdependency__graph_1_1NodeBase =
     [ "hasParentNetwork", "classdependency__graph_1_1NodeBase.html#a8c07c80037da7dfc526d1302b6d1bf6f", null ],
     [ "index", "classdependency__graph_1_1NodeBase.html#ad6e45918eaa8825d2bd294a3ef94bce7", null ],
     [ "markAsDirty", "classdependency__graph_1_1NodeBase.html#abcf506d4c52ef20b65f13126d09082bb", null ],
-    [ "metadata", "classdependency__graph_1_1NodeBase.html#a8cf3e11de2d7eb306c1fbcbfa42420f3", null ],
+    [ "metadata", "classdependency__graph_1_1NodeBase.html#a085e965a2c2c4577b5b9086cb09c8f60", null ],
     [ "name", "classdependency__graph_1_1NodeBase.html#a66e471f0aba593e1d82dbaab70545667", null ],
     [ "network", "classdependency__graph_1_1NodeBase.html#a18fd1bda1bc793c7a3eac4bbcfae48ea", null ],
     [ "network", "classdependency__graph_1_1NodeBase.html#a408c0ddcbfca20502133cfdf630caf0e", null ],
@@ -31,6 +31,7 @@ var classdependency__graph_1_1NodeBase =
     [ "Port", "classdependency__graph_1_1NodeBase.html#aa502b594a737a49ef3dfcd93538c9a49", null ],
     [ "m_blindData", "classdependency__graph_1_1NodeBase.html#a8098f34b04301a727af61201ee74a0d8", null ],
     [ "m_index", "classdependency__graph_1_1NodeBase.html#a5902d184f3902fb5f9c9e7513112d5c3", null ],
+    [ "m_metadata", "classdependency__graph_1_1NodeBase.html#accdf3f91f2693f04a09a54400bfe4272", null ],
     [ "m_name", "classdependency__graph_1_1NodeBase.html#a01972785a38d0ac62d8d08a2b8d8d28c", null ],
     [ "m_network", "classdependency__graph_1_1NodeBase.html#a2914a971eea83fe3f8cdbc1d3c1a79fe", null ]
 ];
