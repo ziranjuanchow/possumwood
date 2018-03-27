@@ -1,12 +1,13 @@
 <map id="possumwood::App" name="possumwood::App">
-<area shape="rect" id="node6" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="325,84,525,111"/>
-<area shape="rect" id="node9" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="1149,120,1326,147"/>
-<area shape="rect" id="node10" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="1131,196,1343,223"/>
-<area shape="rect" id="node11" href="$classpossumwood_1_1UndoStack.html" title="possumwood::UndoStack" alt="" coords="550,387,722,413"/>
-<area shape="rect" id="node12" href="$classpossumwood_1_1Config.html" title="possumwood::Config" alt="" coords="961,281,1106,308"/>
-<area shape="rect" id="node3" href="$classpossumwood_1_1Index.html" title="possumwood::Index" alt="" coords="1168,69,1307,96"/>
-<area shape="rect" id="node4" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="1150,5,1325,32"/>
-<area shape="rect" id="node5" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="747,72,935,99"/>
-<area shape="rect" id="node7" href="$classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="7,25,198,52"/>
-<area shape="rect" id="node8" href="$classdependency__graph_1_1MetadataHandle.html" title="dependency_graph::Metadata\lHandle" alt="" coords="6,77,199,118"/>
+<area shape="rect" id="node6" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="603,73,803,100"/>
+<area shape="rect" id="node10" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="1426,128,1603,155"/>
+<area shape="rect" id="node11" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="1409,204,1621,231"/>
+<area shape="rect" id="node12" href="$classpossumwood_1_1UndoStack.html" title="possumwood::UndoStack" alt="" coords="827,399,999,425"/>
+<area shape="rect" id="node13" href="$classpossumwood_1_1Config.html" title="possumwood::Config" alt="" coords="1238,340,1383,367"/>
+<area shape="rect" id="node3" href="$classpossumwood_1_1Index.html" title="possumwood::Index" alt="" coords="1445,77,1584,104"/>
+<area shape="rect" id="node4" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="1427,13,1602,40"/>
+<area shape="rect" id="node5" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="1025,80,1213,107"/>
+<area shape="rect" id="node7" href="$classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="306,5,497,32"/>
+<area shape="rect" id="node8" href="$classdependency__graph_1_1MetadataHandle.html" title="dependency_graph::Metadata\lHandle" alt="" coords="6,74,199,115"/>
+<area shape="rect" id="node9" href="$classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="302,119,501,145"/>
 </map>

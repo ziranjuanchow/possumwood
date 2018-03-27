@@ -41,7 +41,7 @@ var searchData=
   ['_7eoutput_5fadapter',['~output_adapter',['../classdependency__graph_1_1io_1_1basic__json_1_1output__adapter.html#a82af932559adc1e9f190ab94fb4ade7b',1,'dependency_graph::io::basic_json::output_adapter']]],
   ['_7epixmap',['~Pixmap',['../classPixmap.html#a63dead41297b5530e2eef3f064fc6a75',1,'Pixmap']]],
   ['_7eprogram',['~Program',['../classpossumwood_1_1Program.html#ae59a2b98ddd5c80e6636f477d249de9c',1,'possumwood::Program']]],
-  ['_7eproperty',['~Property',['../structProperties_1_1Property.html#a34248564da28a0b868457f89e97f7bdb',1,'Properties::Property::~Property()'],['../classpossumwood_1_1properties_1_1property.html#a33e78604fe6d2d4aa7bc9c8c620703ae',1,'possumwood::properties::property::~property()']]],
+  ['_7eproperty',['~property',['../classpossumwood_1_1properties_1_1property.html#a33e78604fe6d2d4aa7bc9c8c620703ae',1,'possumwood::properties::property::~property()'],['../structProperties_1_1Property.html#a34248564da28a0b868457f89e97f7bdb',1,'Properties::Property::~Property()']]],
   ['_7eproperty_5fbase',['~property_base',['../classpossumwood_1_1properties_1_1property__base.html#af026c9c1c221e29fb7bd634b145737c6',1,'possumwood::properties::property_base']]],
   ['_7epropertybase',['~PropertyBase',['../classpossumwood_1_1PropertyBase.html#a261acb192a37247835fbd8f5c5b4ffad',1,'possumwood::PropertyBase']]],
   ['_7escopedstate',['~ScopedState',['../classpossumwood_1_1GLParameters_1_1ScopedState.html#a8167c8fdbe2e7a33bbb513d36a40243d',1,'possumwood::GLParameters::ScopedState']]],

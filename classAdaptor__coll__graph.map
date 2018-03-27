@@ -1,12 +1,13 @@
 <map id="Adaptor" name="Adaptor">
-<area shape="rect" id="node3" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="787,56,962,83"/>
-<area shape="rect" id="node4" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="435,167,623,193"/>
-<area shape="rect" id="node5" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="775,401,975,428"/>
-<area shape="rect" id="node9" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="786,121,963,148"/>
-<area shape="rect" id="node10" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="769,212,981,239"/>
-<area shape="rect" id="node7" href="$classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="434,429,625,456"/>
-<area shape="rect" id="node8" href="$classdependency__graph_1_1MetadataHandle.html" title="dependency_graph::Metadata\lHandle" alt="" coords="433,481,626,522"/>
-<area shape="rect" id="node11" href="$classnode__editor_1_1GraphWidget.html" title="a simple graph widget " alt="" coords="788,547,961,573"/>
-<area shape="rect" id="node13" href="$classnode__editor_1_1GraphScene.html" title="node_editor::GraphScene" alt="" coords="445,597,614,624"/>
-<area shape="rect" id="node15" href="$classnode__editor_1_1Edge.html" title="node_editor::Edge" alt="" coords="169,627,295,653"/>
+<area shape="rect" id="node3" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="859,56,1034,83"/>
+<area shape="rect" id="node4" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="505,167,693,193"/>
+<area shape="rect" id="node5" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="847,419,1047,445"/>
+<area shape="rect" id="node10" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="858,121,1035,148"/>
+<area shape="rect" id="node11" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="841,245,1053,272"/>
+<area shape="rect" id="node7" href="$classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="503,428,694,455"/>
+<area shape="rect" id="node8" href="$classdependency__graph_1_1MetadataHandle.html" title="dependency_graph::Metadata\lHandle" alt="" coords="169,490,362,531"/>
+<area shape="rect" id="node9" href="$classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="499,541,698,568"/>
+<area shape="rect" id="node12" href="$classnode__editor_1_1GraphWidget.html" title="a simple graph widget " alt="" coords="860,592,1033,619"/>
+<area shape="rect" id="node14" href="$classnode__editor_1_1GraphScene.html" title="node_editor::GraphScene" alt="" coords="514,592,683,619"/>
+<area shape="rect" id="node16" href="$classnode__editor_1_1Edge.html" title="node_editor::Edge" alt="" coords="202,633,329,660"/>
 </map>
