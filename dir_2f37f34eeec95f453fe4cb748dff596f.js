@@ -13,7 +13,8 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
     [ "data.h", "data_8h.html", [
       [ "BaseData", "classdependency__graph_1_1BaseData.html", "classdependency__graph_1_1BaseData" ],
       [ "Factory", "structdependency__graph_1_1BaseData_1_1Factory.html", "structdependency__graph_1_1BaseData_1_1Factory" ],
-      [ "Data", "structdependency__graph_1_1Data.html", "structdependency__graph_1_1Data" ]
+      [ "Data", "structdependency__graph_1_1Data.html", "structdependency__graph_1_1Data" ],
+      [ "Data< void >", "structdependency__graph_1_1Data_3_01void_01_4.html", null ]
     ] ],
     [ "data.inl", "data_8inl.html", null ],
     [ "data_traits.h", "data__traits_8h.html", [

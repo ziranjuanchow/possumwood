@@ -147,9 +147,13 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a3f3f10ec088575f5c36073511db379b9"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:a3f3f10ec088575f5c36073511db379b9"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a3f3f10ec088575f5c36073511db379b9">addAttribute</a> (<a class="el" href="classdependency__graph_1_1InAttr.html">InAttr</a>&lt; T &gt; &amp;in, const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, const T &amp;defaultValue=T())</td></tr>
 <tr class="separator:a3f3f10ec088575f5c36073511db379b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae5ac5c90f02b439ac43ae63d7b510a19"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#ae5ac5c90f02b439ac43ae63d7b510a19">addAttribute</a> (<a class="el" href="classdependency__graph_1_1InAttr.html">InAttr</a>&lt; void &gt; &amp;in, const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>)</td></tr>
+<tr class="separator:ae5ac5c90f02b439ac43ae63d7b510a19"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad86fe8e49a345099ecc824c8d36fd4a5"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:ad86fe8e49a345099ecc824c8d36fd4a5"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#ad86fe8e49a345099ecc824c8d36fd4a5">addAttribute</a> (<a class="el" href="classdependency__graph_1_1OutAttr.html">OutAttr</a>&lt; T &gt; &amp;out, const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, const T &amp;defaultValue=T())</td></tr>
 <tr class="separator:ad86fe8e49a345099ecc824c8d36fd4a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aad0052bff6b142d736b46707f861ef1f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#aad0052bff6b142d736b46707f861ef1f">addAttribute</a> (<a class="el" href="classdependency__graph_1_1OutAttr.html">OutAttr</a>&lt; void &gt; &amp;in, const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>)</td></tr>
+<tr class="separator:aad0052bff6b142d736b46707f861ef1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5af3adc9489b67593c00a611219699d7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Metadata.html#a5af3adc9489b67593c00a611219699d7">setCompute</a> (std::function&lt; <a class="el" href="classdependency__graph_1_1State.html">State</a>(<a class="el" href="classdependency__graph_1_1Values.html">Values</a> &amp;)&gt; <a class="el" href="asf_8cpp.html#a98cb3325e194483fd6a7e5f35df6767a">compute</a>)</td></tr>
 <tr class="memdesc:a5af3adc9489b67593c00a611219699d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">compute method of this node  <a href="#a5af3adc9489b67593c00a611219699d7">More...</a><br/></td></tr>
 <tr class="separator:a5af3adc9489b67593c00a611219699d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -291,6 +295,32 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
+<a class="anchor" id="ae5ac5c90f02b439ac43ae63d7b510a19"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void dependency_graph::Metadata::addAttribute </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classdependency__graph_1_1InAttr.html">InAttr</a>&lt; void &gt; &amp;&#160;</td>
+          <td class="paramname"><em>in</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>name</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="ad86fe8e49a345099ecc824c8d36fd4a5"></a>
 <div class="memitem">
 <div class="memproto">
@@ -323,6 +353,32 @@ template&lt;typename T &gt; </div>
       </table>
 </div><div class="memdoc">
 <p>registers an output attribute. Each attribute instance should be held statically in the implementation of the "node" concept of the target application. This call does <em>not</em> take ownership of the attribute, and assumes that it will be available throughout the application run. </p>
+
+</div>
+</div>
+<a class="anchor" id="aad0052bff6b142d736b46707f861ef1f"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void dependency_graph::Metadata::addAttribute </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classdependency__graph_1_1OutAttr.html">OutAttr</a>&lt; void &gt; &amp;&#160;</td>
+          <td class="paramname"><em>in</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>name</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -732,7 +788,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Metadata.html">Metadata</a></li>
-    <li class="footer">Generated on Tue Mar 27 2018 23:06:23 for possumwood by
+    <li class="footer">Generated on Sat Mar 31 2018 14:49:02 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

@@ -1,9 +1,9 @@
 <map id="src/plugins/render/datatypes/gl_parameters.h" name="src/plugins/render/datatypes/gl_parameters.h">
-<area shape="rect" id="node2" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="659,96,829,123"/>
-<area shape="rect" id="node4" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="689,320,849,347"/>
-<area shape="rect" id="node7" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="984,171,1027,197"/>
-<area shape="rect" id="node10" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1013,245,1189,272"/>
-<area shape="rect" id="node11" href="$data_8h.html" title="data.h" alt="" coords="1463,320,1520,347"/>
-<area shape="rect" id="node36" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1054,320,1148,347"/>
-<area shape="rect" id="node13" href="$json_8h.html" title="io/json.h" alt="" coords="1202,395,1272,421"/>
+<area shape="rect" id="node2" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="384,96,555,123"/>
+<area shape="rect" id="node4" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="801,320,961,347"/>
+<area shape="rect" id="node7" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="448,171,491,197"/>
+<area shape="rect" id="node10" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="203,245,380,272"/>
+<area shape="rect" id="node11" href="$data_8h.html" title="data.h" alt="" coords="183,320,240,347"/>
+<area shape="rect" id="node36" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="266,320,360,347"/>
+<area shape="rect" id="node13" href="$json_8h.html" title="io/json.h" alt="" coords="1106,395,1176,421"/>
 </map>

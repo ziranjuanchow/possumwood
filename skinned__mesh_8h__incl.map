@@ -1,12 +1,12 @@
 <map id="src/plugins/anim/datatypes/skinned_mesh.h" name="src/plugins/anim/datatypes/skinned_mesh.h">
-<area shape="rect" id="node4" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1496,96,1667,123"/>
-<area shape="rect" id="node38" href="$skinned__vertices_8h.html" title="skinned_vertices.h" alt="" coords="2211,320,2340,347"/>
-<area shape="rect" id="node41" href="$polygons_8h.html" title="polygons.h" alt="" coords="2039,395,2124,421"/>
-<area shape="rect" id="node6" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="486,320,647,347"/>
-<area shape="rect" id="node9" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="924,171,967,197"/>
-<area shape="rect" id="node12" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1042,245,1219,272"/>
-<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="1100,320,1157,347"/>
-<area shape="rect" id="node36" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1183,320,1277,347"/>
-<area shape="rect" id="node14" href="$json_8h.html" title="io/json.h" alt="" coords="1094,395,1164,421"/>
-<area shape="rect" id="node40" href="$skinning_8h.html" title="skinning.h" alt="" coords="2314,395,2395,421"/>
+<area shape="rect" id="node4" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1681,96,1852,123"/>
+<area shape="rect" id="node38" href="$skinned__vertices_8h.html" title="skinned_vertices.h" alt="" coords="2239,320,2368,347"/>
+<area shape="rect" id="node41" href="$polygons_8h.html" title="polygons.h" alt="" coords="2149,395,2235,421"/>
+<area shape="rect" id="node6" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="855,320,1016,347"/>
+<area shape="rect" id="node9" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="1028,171,1071,197"/>
+<area shape="rect" id="node12" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1146,245,1323,272"/>
+<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="1256,320,1313,347"/>
+<area shape="rect" id="node36" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1137,320,1231,347"/>
+<area shape="rect" id="node14" href="$json_8h.html" title="io/json.h" alt="" coords="1138,395,1208,421"/>
+<area shape="rect" id="node40" href="$skinning_8h.html" title="skinning.h" alt="" coords="2373,395,2453,421"/>
 </map>

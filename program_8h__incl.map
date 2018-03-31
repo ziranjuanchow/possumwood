@@ -1,11 +1,11 @@
 <map id="src/plugins/render/datatypes/program.h" name="src/plugins/render/datatypes/program.h">
-<area shape="rect" id="node3" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1364,171,1535,197"/>
-<area shape="rect" id="node38" href="$state_8h.html" title="dependency_graph/state.h" alt="" coords="2035,469,2209,496"/>
-<area shape="rect" id="node41" href="$shader_8h.html" title="shader.h" alt="" coords="1375,96,1447,123"/>
-<area shape="rect" id="node5" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1321,395,1481,421"/>
-<area shape="rect" id="node8" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="1173,245,1216,272"/>
-<area shape="rect" id="node11" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="826,320,1003,347"/>
-<area shape="rect" id="node12" href="$data_8h.html" title="data.h" alt="" coords="860,395,917,421"/>
-<area shape="rect" id="node36" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="943,395,1037,421"/>
-<area shape="rect" id="node13" href="$json_8h.html" title="io/json.h" alt="" coords="1133,469,1203,496"/>
+<area shape="rect" id="node3" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="884,171,1055,197"/>
+<area shape="rect" id="node38" href="$state_8h.html" title="dependency_graph/state.h" alt="" coords="363,469,537,496"/>
+<area shape="rect" id="node41" href="$shader_8h.html" title="shader.h" alt="" coords="1211,96,1283,123"/>
+<area shape="rect" id="node5" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="126,395,287,421"/>
+<area shape="rect" id="node8" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="509,245,552,272"/>
+<area shape="rect" id="node11" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="723,320,900,347"/>
+<area shape="rect" id="node12" href="$data_8h.html" title="data.h" alt="" coords="1180,395,1237,421"/>
+<area shape="rect" id="node36" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="765,395,859,421"/>
+<area shape="rect" id="node13" href="$json_8h.html" title="io/json.h" alt="" coords="1117,469,1187,496"/>
 </map>

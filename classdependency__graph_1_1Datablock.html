@@ -136,12 +136,16 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a523e640865f32b47d0638c136052581c"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:a523e640865f32b47d0638c136052581c"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Datablock.html#a523e640865f32b47d0638c136052581c">set</a> (size_t index, const T &amp;value)</td></tr>
 <tr class="separator:a523e640865f32b47d0638c136052581c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26546ca656d70e7a71aac19fd7d77252"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Datablock.html#a26546ca656d70e7a71aac19fd7d77252">set</a> (size_t index, const <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;port)</td></tr>
+<tr class="separator:a26546ca656d70e7a71aac19fd7d77252"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afdc762ca3a8bf992a42f370504306d4e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Datablock.html#afdc762ca3a8bf992a42f370504306d4e">reset</a> (size_t index)</td></tr>
 <tr class="separator:afdc762ca3a8bf992a42f370504306d4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4da0c4cb4e22eebc8cbf40bbf4ea99c2"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Datablock.html#a4da0c4cb4e22eebc8cbf40bbf4ea99c2">data</a> (size_t index) const </td></tr>
 <tr class="separator:a4da0c4cb4e22eebc8cbf40bbf4ea99c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a30258af1c796f8b9258b682a40bbcc68"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Datablock.html#a30258af1c796f8b9258b682a40bbcc68">data</a> (size_t index)</td></tr>
 <tr class="separator:a30258af1c796f8b9258b682a40bbcc68"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ec8637e23dcd7bda1fc70f318e1282b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Datablock.html#a9ec8637e23dcd7bda1fc70f318e1282b">isNull</a> (std::size_t index) const </td></tr>
+<tr class="separator:a9ec8637e23dcd7bda1fc70f318e1282b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a317dc1006542a9e8c978e830d950ad95"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="classdependency__graph_1_1MetadataHandle.html">MetadataHandle</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Datablock.html#a317dc1006542a9e8c978e830d950ad95">meta</a> () const </td></tr>
 <tr class="separator:a317dc1006542a9e8c978e830d950ad95"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -239,6 +243,22 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
+<a class="anchor" id="a9ec8637e23dcd7bda1fc70f318e1282b"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool dependency_graph::Datablock::isNull </td>
+          <td>(</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a317dc1006542a9e8c978e830d950ad95"></a>
 <div class="memitem">
 <div class="memproto">
@@ -314,6 +334,32 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
+<a class="anchor" id="a26546ca656d70e7a71aac19fd7d77252"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void dependency_graph::Datablock::set </td>
+          <td>(</td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;&#160;</td>
+          <td class="paramname"><em>port</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Member Data Documentation</h2>
 <a class="anchor" id="a4025ef4a94fea3b48092ecf7c35026c9"></a>
 <div class="memitem">
@@ -366,7 +412,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Datablock.html">Datablock</a></li>
-    <li class="footer">Generated on Tue Mar 27 2018 23:06:23 for possumwood by
+    <li class="footer">Generated on Sat Mar 31 2018 14:49:02 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

@@ -1,17 +1,17 @@
 <map id="src/plugins/anim/ui/motion_map.h" name="src/plugins/anim/ui/motion_map.h">
-<area shape="rect" id="node4" href="$animation_8h.html" title="datatypes/animation.h" alt="" coords="2130,96,2280,123"/>
-<area shape="rect" id="node6" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1699,245,1869,272"/>
-<area shape="rect" id="node41" href="$datatypes_2skeleton_8h.html" title="skeleton.h" alt="" coords="2164,171,2245,197"/>
-<area shape="rect" id="node8" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1585,544,1745,571"/>
-<area shape="rect" id="node11" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="1604,320,1647,347"/>
-<area shape="rect" id="node14" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1287,395,1464,421"/>
-<area shape="rect" id="node15" href="$data_8h.html" title="data.h" alt="" coords="1243,469,1300,496"/>
-<area shape="rect" id="node39" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1329,469,1423,496"/>
-<area shape="rect" id="node17" href="$json_8h.html" title="io/json.h" alt="" coords="1191,544,1261,571"/>
-<area shape="rect" id="node42" href="$hierarchy_8h.html" title="hierarchy.h" alt="" coords="2047,320,2133,347"/>
-<area shape="rect" id="node48" href="$transform_8h.html" title="transform.h" alt="" coords="2320,245,2408,272"/>
-<area shape="rect" id="node43" href="$children_8h.html" title="children.h" alt="" coords="1550,469,1628,496"/>
-<area shape="rect" id="node44" href="$attributes_8h.html" title="attributes.h" alt="" coords="2025,395,2111,421"/>
-<area shape="rect" id="node45" href="$attribute_8h.html" title="attribute.h" alt="" coords="2020,469,2099,496"/>
-<area shape="rect" id="node46" href="$lexical__cast_8h.html" title="../lexical_cast.h" alt="" coords="2003,544,2117,571"/>
+<area shape="rect" id="node4" href="$animation_8h.html" title="datatypes/animation.h" alt="" coords="2370,96,2520,123"/>
+<area shape="rect" id="node6" href="$traits_8h.html" title="possumwood_sdk/traits.h" alt="" coords="1900,245,2071,272"/>
+<area shape="rect" id="node41" href="$datatypes_2skeleton_8h.html" title="skeleton.h" alt="" coords="2404,171,2485,197"/>
+<area shape="rect" id="node8" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1909,544,2069,571"/>
+<area shape="rect" id="node11" href="$libs_2possumwood__sdk_2io_8h.html" title="io.h" alt="" coords="1725,320,1768,347"/>
+<area shape="rect" id="node14" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1623,395,1800,421"/>
+<area shape="rect" id="node15" href="$data_8h.html" title="data.h" alt="" coords="1571,469,1628,496"/>
+<area shape="rect" id="node39" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1654,469,1748,496"/>
+<area shape="rect" id="node17" href="$json_8h.html" title="io/json.h" alt="" coords="1194,544,1264,571"/>
+<area shape="rect" id="node42" href="$hierarchy_8h.html" title="hierarchy.h" alt="" coords="2402,320,2488,347"/>
+<area shape="rect" id="node48" href="$transform_8h.html" title="transform.h" alt="" coords="2225,245,2313,272"/>
+<area shape="rect" id="node43" href="$children_8h.html" title="children.h" alt="" coords="1467,469,1545,496"/>
+<area shape="rect" id="node44" href="$attributes_8h.html" title="attributes.h" alt="" coords="2170,395,2256,421"/>
+<area shape="rect" id="node45" href="$attribute_8h.html" title="attribute.h" alt="" coords="2196,469,2275,496"/>
+<area shape="rect" id="node46" href="$lexical__cast_8h.html" title="../lexical_cast.h" alt="" coords="2247,544,2361,571"/>
 </map>
