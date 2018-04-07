@@ -4,6 +4,8 @@ var classdependency__graph_1_1Values =
     [ "Values", "classdependency__graph_1_1Values.html#a99776d08b8fcca7edb9c4640e2a3c8fd", null ],
     [ "get", "classdependency__graph_1_1Values.html#a19981b1611b9cc479bfc7aadabb53be8", null ],
     [ "get", "classdependency__graph_1_1Values.html#af6ede53e744d51e17c3ee01d1d3d3325", null ],
+    [ "get", "classdependency__graph_1_1Values.html#a48fdb0451ecc190278d492f721487e98", null ],
+    [ "is", "classdependency__graph_1_1Values.html#aab5038a2974264fbe11b60da678a8442", null ],
     [ "isDirty", "classdependency__graph_1_1Values.html#a4221c8033654f158137bf73be8a1c193", null ],
     [ "operator=", "classdependency__graph_1_1Values.html#a1ca1a5c59f6374179c4dbdaa73da0a7c", null ],
     [ "set", "classdependency__graph_1_1Values.html#a352ff2c4bee7a8fe88ae28c0d5c08963", null ],

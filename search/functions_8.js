@@ -20,7 +20,7 @@ var searchData=
   ['invert',['invert',['../structanim_1_1Transform.html#ae0639233aa640e75c952486bee1d5886',1,'anim::Transform']]],
   ['io',['IO',['../classpossumwood_1_1IO.html#a169ac395f3e60ed11cf9042e7d2b2016',1,'possumwood::IO']]],
   ['iobase',['IOBase',['../classpossumwood_1_1IOBase.html#a05a3fdfb0215c8f4e2ceb9af3fdcd2c9',1,'possumwood::IOBase']]],
-  ['is',['is',['../classpossumwood_1_1Config_1_1Item.html#ac7f43ecdbe5f6d61bdee90cca40f10b8',1,'possumwood::Config::Item::is()'],['../classanim_1_1Attribute.html#ad382d3f4326f365764239e9a145aab20',1,'anim::Attribute::is()']]],
+  ['is',['is',['../classdependency__graph_1_1Values.html#aab5038a2974264fbe11b60da678a8442',1,'dependency_graph::Values::is()'],['../classpossumwood_1_1Config_1_1Item.html#ac7f43ecdbe5f6d61bdee90cca40f10b8',1,'possumwood::Config::Item::is()'],['../classanim_1_1Attribute.html#ad382d3f4326f365764239e9a145aab20',1,'anim::Attribute::is()']]],
   ['is_5farray',['is_array',['../classdependency__graph_1_1io_1_1basic__json.html#a85f029526024d9215b2af7da3ddfeed0',1,'dependency_graph::io::basic_json']]],
   ['is_5fbegin',['is_begin',['../classdependency__graph_1_1io_1_1basic__json_1_1primitive__iterator__t.html#a28db5b8743a67304e469c380c6bc246e',1,'dependency_graph::io::basic_json::primitive_iterator_t']]],
   ['is_5fboolean',['is_boolean',['../classdependency__graph_1_1io_1_1basic__json.html#a1cb30d45225946827794aed650226258',1,'dependency_graph::io::basic_json']]],
