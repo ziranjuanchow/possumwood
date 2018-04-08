@@ -1,7 +1,7 @@
 var searchData=
 [
   ['weaktest',['weakTest',['../tests_2anim_2skeleton_8cpp.html#ab7469b5a17bdcb43d7e7e285d17eef64',1,'skeleton.cpp']]],
-  ['weight',['weight',['../structanim_1_1Skinning_1_1Weight.html#af3a7b13ef6c3c9a5ad1ca37cfe1a6810',1,'anim::Skinning::Weight::weight()'],['../structanim_1_1Skinning_1_1Weight.html#a0465c68520e625ebc06262dfffa764c5',1,'anim::Skinning::Weight::Weight(std::size_t b, float w)']]],
+  ['weight',['Weight',['../structanim_1_1Skinning_1_1Weight.html#a0465c68520e625ebc06262dfffa764c5',1,'anim::Skinning::Weight::Weight(std::size_t b, float w)'],['../structanim_1_1Skinning_1_1Weight.html#af3a7b13ef6c3c9a5ad1ca37cfe1a6810',1,'anim::Skinning::Weight::weight()']]],
   ['weight',['Weight',['../structanim_1_1Skinning_1_1Weight.html',1,'anim::Skinning']]],
   ['what',['what',['../classdependency__graph_1_1io_1_1detail_1_1exception.html#ad39eb2e6f091b0fe132f9005b98dd72b',1,'dependency_graph::io::detail::exception']]],
   ['wheelevent',['wheelEvent',['../classnode__editor_1_1GraphWidget.html#a3933a3a2610141a157a876833cdf7b25',1,'node_editor::GraphWidget::wheelEvent()'],['../classanim_1_1MotionMap.html#acdd89c8f7827162ccb0f580bed30952f',1,'anim::MotionMap::wheelEvent()']]],
