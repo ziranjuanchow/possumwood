@@ -1,7 +1,5 @@
 var NAVTREEINDEX12 =
 {
-"structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Program_01_4_01_4.html":[2,0,4,62],
-"structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Program_01_4_01_4.html#ac6e04e5a548f579f73248fd621c13811":[2,0,4,62,0],
 "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4.html":[2,0,4,60],
 "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4.html#ab57cb05a069b7fc048c3c44510fa136d":[2,0,4,60,0],
 "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Uniforms_01_4_01_4.html":[2,0,4,70],
