@@ -177,8 +177,8 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:ad41ef7f7b091c518a7bfbf815b8da8f1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1NodeBase.html#ad41ef7f7b091c518a7bfbf815b8da8f1">NodeBase</a> (const std::string &amp;<a class="el" href="classdependency__graph_1_1NodeBase.html#a66e471f0aba593e1d82dbaab70545667">name</a>, const <a class="el" href="classdependency__graph_1_1MetadataHandle.html">MetadataHandle</a> &amp;<a class="el" href="classdependency__graph_1_1NodeBase.html#a085e965a2c2c4577b5b9086cb09c8f60">metadata</a>, <a class="el" href="classdependency__graph_1_1Network.html">Network</a> *parent)</td></tr>
-<tr class="separator:ad41ef7f7b091c518a7bfbf815b8da8f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a87533330f013a15e604011559f04dad1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1NodeBase.html#a87533330f013a15e604011559f04dad1">NodeBase</a> (const std::string &amp;<a class="el" href="classdependency__graph_1_1NodeBase.html#a66e471f0aba593e1d82dbaab70545667">name</a>, const <a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a> &amp;id, const <a class="el" href="classdependency__graph_1_1MetadataHandle.html">MetadataHandle</a> &amp;<a class="el" href="classdependency__graph_1_1NodeBase.html#a085e965a2c2c4577b5b9086cb09c8f60">metadata</a>, <a class="el" href="classdependency__graph_1_1Network.html">Network</a> *parent)</td></tr>
+<tr class="separator:a87533330f013a15e604011559f04dad1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aea7b759c8ab6874323a834d605bdb04f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Datablock.html">Datablock</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1NodeBase.html#aea7b759c8ab6874323a834d605bdb04f">datablock</a> ()</td></tr>
 <tr class="separator:aea7b759c8ab6874323a834d605bdb04f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac1f0bfbd08963b2c556a2cd25f5e3892"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1NodeBase.html#ac1f0bfbd08963b2c556a2cd25f5e3892">setDatablock</a> (const <a class="el" href="classdependency__graph_1_1Datablock.html">Datablock</a> &amp;data)</td></tr>
@@ -245,7 +245,7 @@ Friends</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="ad41ef7f7b091c518a7bfbf815b8da8f1"></a>
+<a class="anchor" id="a87533330f013a15e604011559f04dad1"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -257,6 +257,12 @@ Friends</h2></td></tr>
           <td>(</td>
           <td class="paramtype">const std::string &amp;&#160;</td>
           <td class="paramname"><em>name</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a> &amp;&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -477,7 +483,7 @@ template&lt;typename T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>returns the unique numeric ID of this node, used for saving connections. This ID can be used in Graph::operator[] to get this node from the graph. </p>
+<p>returns the unique numeric ID of this node, used for saving connections. This ID can be used in <a class="el" href="classdependency__graph_1_1Graph.html#a44d38296e69eebe96dced10db757f3d4" title="finds a node in this graph (TODO: also includes nodes from sub-networks) ">Graph::operator[]</a> to get this node from the graph. </p>
 
 </div>
 </div>
@@ -945,7 +951,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a></li>
-    <li class="footer">Generated on Sun Apr 15 2018 22:16:10 for possumwood by
+    <li class="footer">Generated on Mon Apr 16 2018 23:37:02 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

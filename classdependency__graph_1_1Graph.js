@@ -18,6 +18,8 @@ var classdependency__graph_1_1Graph =
     [ "onNameChanged", "classdependency__graph_1_1Graph.html#a82618f3ef7885882da61856070042c37", null ],
     [ "onRemoveNode", "classdependency__graph_1_1Graph.html#a1c838105f14cd78c32fb639c9ed2c860", null ],
     [ "onStateChanged", "classdependency__graph_1_1Graph.html#a8c3df12df2382c6a9c896fa95bcbe293", null ],
+    [ "operator[]", "classdependency__graph_1_1Graph.html#a44d38296e69eebe96dced10db757f3d4", null ],
+    [ "operator[]", "classdependency__graph_1_1Graph.html#a5c978db274c93b3b73e4235c23b15146", null ],
     [ "stateChanged", "classdependency__graph_1_1Graph.html#ab91984be797b216a3fb44fe1cea916c3", null ],
     [ "Connections", "classdependency__graph_1_1Graph.html#ab78fddf1055a04a15bc5e84f87e664bc", null ],
     [ "Node", "classdependency__graph_1_1Graph.html#a6db9d28bd448a131448276ee03de1e6d", null ],

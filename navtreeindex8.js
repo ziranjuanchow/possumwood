@@ -1,5 +1,6 @@
 var NAVTREEINDEX8 =
 {
+"classpossumwood_1_1Uniforms.html#a3d792bb443f685a8de9348e480ff756b":[2,0,4,69,13],
 "classpossumwood_1_1Uniforms.html#a52fe626a3fcc65f73f5f0668936ac2e3":[2,0,4,69,5],
 "classpossumwood_1_1Uniforms.html#a83bcef8c4e43d8c98498809b5065cb6d":[2,0,4,69,9],
 "classpossumwood_1_1Uniforms.html#aa32f7b8ada2a228b69d060c20bab0a68":[2,0,4,69,8],
@@ -61,6 +62,7 @@ var NAVTREEINDEX8 =
 "classpossumwood_1_1properties_1_1factory__typed.html#a6c90c9b815a979fa11b99314be6f0c20":[2,0,4,0,3,2],
 "classpossumwood_1_1properties_1_1factory__typed.html#a9e4b0aa276e14da91abb0ccd78c2e660":[2,0,4,0,3,4],
 "classpossumwood_1_1properties_1_1factory__typed.html#abf6e9c8adb7d9d96de63545ebc286cd1":[2,0,4,0,3,0],
+"classpossumwood_1_1properties_1_1factory__typed.html#acc2ca81da72d6d1b79b1d339f5a18626":[2,0,4,0,3,5],
 "classpossumwood_1_1properties_1_1factory__typed.html#ad4448528a1461876f075941549f577cb":[2,0,4,0,3,3],
 "classpossumwood_1_1properties_1_1property.html":[2,0,4,0,0],
 "classpossumwood_1_1properties_1_1property.html#a122cd0c4f65c0b89b06725b98982fd08":[2,0,4,0,0,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX8 =
 "dir_f87b3e47b914d2d36342688a5494dad5.html":[3,0,0,2,2,0],
 "draw_8cpp.html":[3,0,0,2,3,1,3],
 "drawable_8cpp.html":[3,0,0,1,1,9],
-"drawable_8h.html":[3,0,0,1,1,10],
-"drawable_8h_source.html":[3,0,0,1,1,10],
-"edge_8cpp.html":[3,0,0,1,2,2]
+"drawable_8h.html":[3,0,0,1,1,10]
 };
