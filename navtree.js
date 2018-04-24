@@ -46,15 +46,16 @@ var NAVTREEINDEX =
 "classVBO.html#aa25931b4b6c1bbd53abae21658dd742a",
 "classanim_1_1SkinnedVertices.html#ab296e8ce14b9e4c816801542e3611d5f",
 "classdependency__graph_1_1MetadataRegister.html#ac510449dfb4ce8bd2fbaae5b2adfcf54",
-"classdependency__graph_1_1io_1_1basic__json.html#a5fecfe7bae75b7c7b091355d58b9ea03",
-"classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html#af6fe841a1dbf48533448b2ee4c539186",
-"classnode__editor_1_1GraphScene.html#a773d9fd6ea1d64be154f9d828ae8ace0",
-"classpossumwood_1_1Font.html#aa2b8068f66259ca02c4c0629112e3def",
-"classpossumwood_1_1Uniforms.html#a3d792bb443f685a8de9348e480ff756b",
-"drawable_8h_source.html",
-"libs_2possumwood__sdk_2io_8cpp.html#a9fdc8adee6223e548fc67bff8cb70834",
-"structdependency__graph_1_1BaseData_1_1Factory.html",
-"structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Program_01_4_01_4.html"
+"classdependency__graph_1_1io_1_1basic__json.html#a55dbfbb5900c4777efdbd30c42b97526",
+"classdependency__graph_1_1io_1_1basic__json_1_1json__pointer.html#a265fd7ebaa82a3e93123c4393a59e74d",
+"classnode__editor_1_1GraphScene.html#a1a50efc701731469c825cd320649c00b",
+"classpossumwood_1_1Filename.html#a1d2278322c46e2a323fe5bc7fdbc97a7",
+"classpossumwood_1_1UndoStack.html#a2fa500bf81926888f106d0211b924fde",
+"dir_a0f6c774d6711128b7ff03c159efe57e.html",
+"json_8h.html#ae85eab948c8b31f7ea6955800243223c",
+"structanim_1_1Transform.html#a2e3defd6fef32c794f647e53caa37391",
+"structpossumwood_1_1Traits_3_01GLParameters_01_4.html",
+"void__ports_8cpp.html#ad54aba406dfd2b5ebe63ee4670e67bd9"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

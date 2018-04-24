@@ -8,6 +8,7 @@
 <area shape="rect" id="node8" href="$graph__instantiation_8cpp.html" title="src/tests/dependency\l_graph/graph_instantiation.cpp" alt="" coords="1109,97,1307,138"/>
 <area shape="rect" id="node9" href="$influences_8cpp.html" title="src/tests/dependency\l_graph/influences.cpp" alt="" coords="1331,97,1479,138"/>
 <area shape="rect" id="node10" href="$json_8cpp.html" title="src/tests/dependency\l_graph/json.cpp" alt="" coords="1504,97,1651,138"/>
-<area shape="rect" id="node11" href="$void__evaluation_8cpp.html" title="src/tests/dependency\l_graph/void_evaluation.cpp" alt="" coords="1675,97,1855,138"/>
-<area shape="rect" id="node12" href="$void__ports_8cpp.html" title="src/tests/dependency\l_graph/void_ports.cpp" alt="" coords="1879,97,2029,138"/>
+<area shape="rect" id="node11" href="$network__nodes_8cpp.html" title="src/tests/dependency\l_graph/network_nodes.cpp" alt="" coords="1675,97,1853,138"/>
+<area shape="rect" id="node12" href="$void__evaluation_8cpp.html" title="src/tests/dependency\l_graph/void_evaluation.cpp" alt="" coords="1878,97,2057,138"/>
+<area shape="rect" id="node13" href="$void__ports_8cpp.html" title="src/tests/dependency\l_graph/void_ports.cpp" alt="" coords="2082,97,2232,138"/>
 </map>

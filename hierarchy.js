@@ -115,6 +115,7 @@ var hierarchy =
     [ "dependency_graph::io::detail::is_compatible_object_type_impl< true, RealType, CompatibleObjectType >", "structdependency__graph_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01Real0baf3277237e5138eaf03391588ae6a5.html", null ],
     [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
     [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
+    [ "dependency_graph::NodesIterator< ITERATOR >::Item", "structdependency__graph_1_1NodesIterator_1_1Item.html", null ],
     [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >", "classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy.html", null ],
     [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >::iteration_proxy_internal", "classdependency__graph_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html", null ],
@@ -122,7 +123,8 @@ var hierarchy =
       [ "dependency_graph::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iter_impl< U >", "classdependency__graph_1_1io_1_1basic__json_1_1iter__impl.html", null ]
     ] ],
     [ "iterator_facade", null, [
-      [ "anim::SubsetSelection::const_iterator", "classanim_1_1SubsetSelection_1_1const__iterator.html", null ]
+      [ "anim::SubsetSelection::const_iterator", "classanim_1_1SubsetSelection_1_1const__iterator.html", null ],
+      [ "dependency_graph::NodesIterator< ITERATOR >", "classdependency__graph_1_1NodesIterator.html", null ]
     ] ],
     [ "anim::Skeleton::Joint", "classanim_1_1Skeleton_1_1Joint.html", null ],
     [ "anim::JointMappingEditorData", "classanim_1_1JointMappingEditorData.html", null ],

@@ -2,6 +2,8 @@ var classdependency__graph_1_1NodeBase =
 [
     [ "~NodeBase", "classdependency__graph_1_1NodeBase.html#a5b70be574730e9465df6db9b96da7bf8", null ],
     [ "NodeBase", "classdependency__graph_1_1NodeBase.html#a87533330f013a15e604011559f04dad1", null ],
+    [ "as", "classdependency__graph_1_1NodeBase.html#a5e521ef2e22dccf5b7b24fd456eb9f5a", null ],
+    [ "as", "classdependency__graph_1_1NodeBase.html#ada4efcee28dc0cd787eb85c0d8c49c54", null ],
     [ "blindData", "classdependency__graph_1_1NodeBase.html#ac1fa58b3e5e28f1c1ba7d9cad074fd2e", null ],
     [ "computeInput", "classdependency__graph_1_1NodeBase.html#a627697d106719b1d21fecf3cf91c106c", null ],
     [ "computeOutput", "classdependency__graph_1_1NodeBase.html#a1ee59fc4001fbf943a761c9e8cc06467", null ],
@@ -12,6 +14,7 @@ var classdependency__graph_1_1NodeBase =
     [ "graph", "classdependency__graph_1_1NodeBase.html#a8d000a810c35806069f67f9825e43c3e", null ],
     [ "hasParentNetwork", "classdependency__graph_1_1NodeBase.html#a8c07c80037da7dfc526d1302b6d1bf6f", null ],
     [ "index", "classdependency__graph_1_1NodeBase.html#ad6e45918eaa8825d2bd294a3ef94bce7", null ],
+    [ "is", "classdependency__graph_1_1NodeBase.html#a392edf13a308e014683d387a9f6507b3", null ],
     [ "markAsDirty", "classdependency__graph_1_1NodeBase.html#abcf506d4c52ef20b65f13126d09082bb", null ],
     [ "metadata", "classdependency__graph_1_1NodeBase.html#a085e965a2c2c4577b5b9086cb09c8f60", null ],
     [ "name", "classdependency__graph_1_1NodeBase.html#a66e471f0aba593e1d82dbaab70545667", null ],

@@ -33,7 +33,7 @@ var searchData=
   ['dependency_5fgraph',['dependency_graph',['../namespacedependency__graph.html',1,'']]],
   ['deprecated_20list',['Deprecated List',['../deprecated.html',1,'']]],
   ['depth',['depth',['../classdependency__graph_1_1io_1_1basic__json_1_1parser.html#ac475da4ad6a5e19274993b4ed3d82462',1,'dependency_graph::io::basic_json::parser']]],
-  ['dereference',['dereference',['../classanim_1_1SubsetSelection_1_1const__iterator.html#a763ce37baee48dd5e3092c4b9c855833',1,'anim::SubsetSelection::const_iterator']]],
+  ['dereference',['dereference',['../classdependency__graph_1_1NodesIterator.html#ae1d48f1433740883f306ba6f91c3cc6f',1,'dependency_graph::NodesIterator::dereference()'],['../classanim_1_1SubsetSelection_1_1const__iterator.html#a763ce37baee48dd5e3092c4b9c855833',1,'anim::SubsetSelection::const_iterator::dereference()']]],
   ['derived_5ftype',['derived_type',['../classpossumwood_1_1properties_1_1property.html#a24cb47bd65da2e5e5219a862437b261b',1,'possumwood::properties::property']]],
   ['description',['description',['../classpossumwood_1_1Config_1_1Item.html#abe9d2f9224a5f29b2b0aa67ae949d575',1,'possumwood::Config::Item']]],
   ['deselect',['deselect',['../classanim_1_1SubsetSelection.html#aa0a8616f9a40b5d8bdd04551ceb9014f',1,'anim::SubsetSelection']]],

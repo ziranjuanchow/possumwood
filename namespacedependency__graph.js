@@ -22,6 +22,7 @@ var namespacedependency__graph =
     [ "Node", "classdependency__graph_1_1Node.html", "classdependency__graph_1_1Node" ],
     [ "NodeBase", "classdependency__graph_1_1NodeBase.html", "classdependency__graph_1_1NodeBase" ],
     [ "Nodes", "classdependency__graph_1_1Nodes.html", "classdependency__graph_1_1Nodes" ],
+    [ "NodesIterator", "classdependency__graph_1_1NodesIterator.html", "classdependency__graph_1_1NodesIterator" ],
     [ "Port", "classdependency__graph_1_1Port.html", "classdependency__graph_1_1Port" ],
     [ "Selection", "classdependency__graph_1_1Selection.html", "classdependency__graph_1_1Selection" ],
     [ "State", "classdependency__graph_1_1State.html", "classdependency__graph_1_1State" ],
